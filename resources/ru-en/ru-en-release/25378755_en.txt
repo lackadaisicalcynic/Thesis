@@ -1,0 +1,12 @@
+Adverse childhood experiences and associations with health-harming behaviours in young adults: surveys in eight eastern European countries.
+OBJECTIVE
+To evaluate the association between adverse childhood experiences - e.g. abuse, neglect, domestic violence and parental separation, substance use, mental illness or incarceration - and the health of young adults in eight eastern European countries.  METHODS
+Between 2010 and 2013, adverse childhood experience surveys were undertaken in Albania, Latvia, Lithuania, Montenegro, Romania, the Russian Federation, The former Yugoslav Republic of Macedonia and Turkey.
+There were 10,696 respondents - 59.7% female - aged 18-25 years.  Multivariate modelling was used to investigate the relationships between adverse childhood experiences and health-harming behaviours in early adulthood including substance use, physical inactivity and attempted suicide.
+FINDINGS
+Over half of the respondents reported at least one adverse childhood experience.
+Having one adverse childhood experience increased the probability of having other adverse childhood experiences.
+The number of adverse childhood experiences was positively correlated with subsequent reports of health-harming behaviours.
+Compared with those who reported no adverse experiences, respondents who reported at least four adverse childhood experiences were at significantly increased risk of many health-harming behaviours, with odds ratios varying from 1.68 (95% confidence interval, CI: 1.32-2.15) - for physical inactivity - to 48.53 (95% CI: 31.98-76.65) - for attempted suicide.
+Modelling indicated that prevention of adverse childhood experiences would substantially reduce the occurrence of many health-harming behaviours within the study population.  CONCLUSION
+Our results indicate that individuals who do not develop health-harming behaviours are more likely to have experienced safe, nurturing childhoods.  Evidence-based programmes to improve parenting and support child development need large-scale deployment in eastern European.

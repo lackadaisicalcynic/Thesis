@@ -1,0 +1,10 @@
+[Study of common cytotoxicity of aminoglycoside and fluoroquinolone antibiotics in cell cultures].
+UNLABELLED
+The aim of the study was to identify the overall cytotoxicity of aminoglycosides netilmicin and tobramycin, and fluoroquinolone ciprofloxacin.  MATERIAL AND METHODS
+We used three types of the cells: constantly transformed cell line CHO-K1, normal human skin fibroblasts and cells of normal human conjunctiva Clone 1-5C-4.  Antibiotics activity was detected by their influence on cell viability.
+Quantitative and qualitative methods of evaluation have used to determine viability of the cells (quantitative assessment: a method of cloning cells and colorimetric method for assessing cell proliferation; qualitative assessment: lifetime visual observation under an inverted microscope for morphological status of cells in culture with photofixing).
+RESULTS
+The most toxic effect for all types of the cells was shown in tobramycin.
+The least degree of toxicity for all types of the cells was determined in netilmicin.
+CONCLUSION
+Studied antibiotics exert a cytotoxic effect in vitro and differ in their cytotoxic potential.

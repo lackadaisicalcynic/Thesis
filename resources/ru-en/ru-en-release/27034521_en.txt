@@ -1,0 +1,13 @@
+Assessment of universal health coverage for adults aged 50 years or older with chronic illness in six middle-income countries.
+OBJECTIVE
+To assess universal health coverage for adults aged 50 years or older with chronic illness in China, Ghana, India, Mexico, the Russian Federation and South Africa.
+METHODS
+We obtained data on 16,631 participants aged 50 years or older who had at least one diagnosed chronic condition from the World Health Organization Study on Global Ageing and Adult Health.
+Access to basic chronic care and financial hardship were assessed and the influence of health insurance and rural or urban residence was determined by logistic regression analysis.  FINDINGS
+The weighted proportion of participants with access to basic chronic care ranged from 20.6% in Mexico to 47.6% in South Africa.
+Access rates were unequally distributed and disadvantaged poor people, except in South Africa where primary health care is free to all.
+Rural residence did not affect access.  The proportion with catastrophic out-of-pocket expenditure for the last outpatient visit ranged from 14.5% in China to 54.8% in Ghana.
+Financial hardship was more common among the poor in most countries but affected all income groups.  Health insurance generally increased access to care but gave insufficient protection against financial hardship.
+CONCLUSION
+No country provided access to basic chronic care for more than half of the participants with chronic illness.  The poor were less likely to receive care and more likely to face financial hardship in most countries.
+However, inequity of access was not fully determined by the level of economic development or insurance coverage.  Future health reforms should aim to improve service quality and increase democratic oversight of health care.

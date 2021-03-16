@@ -1,0 +1,8 @@
+[Corticosterone-induced changes in the inhibitory neurotransmission in hippocampal CA1 synapses depending on the activity of inhibitory synapses that express cannabinoid receptors].
+AIM
+To study an effect of corticosterone (100 nM) on spontaneous inhibitory postsynaptic currents (sIPSC) in pyramidal neurons of CA1 area and a role of inhibitory CB1-expressing synapses in the development of corticosterone-induced effects.
+MATERIAL AND METHODS
+The experiments were performed on acute slices of the rat ventral hippocampus using whole-cell configuration of the patch-clamp technique.  RESULTS AND CONCLUSION
+The addition of corticosterone resulted in a small, but significant, increase in the frequency of sIPSCs during the first 10 minutes and then this parameter returned to the basal level.
+Corticosterone treatment resulted in a considerable decrease in the sIPSC amplitude 40 minutes after the beginning of treatment.  The activation of CB1 receptors weakly affected sIPSC characteristics, however, the addition of corticosterone did not induce the rapid elevation in the sIPSC frequency, which occurred on the 10th minute in the control, as well as a decrease in the sIPSC amplitude, which was observed in the control on the 40th min after the beginning of corticosterone treatment.
+The data obtained suggest that both rapid and slow effects of corticosterone are associated with the activity of CB1-expressing inhibitory synapses of the hippocampus.

@@ -1,0 +1,13 @@
+[Uromodulin gene polymorphisms in patients with cast nephropathy in multiple myeloma].
+AIM  To investigate the nature of mutations in exons 4 and 5 of the uromodulin (UM) gene, including in the area encoding the domain of 8 cysteines (D8C), in patients with multiple myeloma (MM) with the secretion of monoclonal light chains (LC) in cast nephropathy (CN) and without kidney injury.
+SUBJECTS AND METHODS
+The investigation enrolled 24 patients in MM remission, who were observed to have monoclonal LC secretion at onset.
+Group 1 included 14 patients with CN; Group 2 consisted of 10 patients with normal renal function (a comparison group).
+The compared groups did not differ in the number of serum and urinary monoclonal LCs.
+Genomic DNA was extracted from the peripheral blood samples of patients.
+The nucleotide sequence of exons 4 and 5 of the UM gene was determined by the Sanger method.
+RESULTS
+No differences were found in the frequency of polymorphisms depending on the severity of kidney injury.
+The missense mutation p.142R>R/Q in the UM gene, which had not been previously described, was discovered.
+CONCLUSION
+The patients with MM were not found to have statistically significant differences in the frequency and nature of polymorphisms of exons 4 and 5 in the UM gene, including in the area encoding D8C, in CN without kidney injury.

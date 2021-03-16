@@ -1,0 +1,5 @@
+[Epigenetic modifications of chromatin in epilepsy: a potential mechanism of pharmacoresistance?]  Pharmacoresistance in epilepsy is an important problem from both clinical and fundamental perspectives.
+The existent hypotheses of pharmacoresistance are based on long term plastic rebuilding of the epileptic brain.
+One of potential mechanisms mediating such protracted changes are alterations of gene expression induced by epigenetic modifications of chromatin in brain cells of epileptic patients.
+Recently, changes in DNA methylation and histone post-translational modifications were reported in brain tissues of patients with pharmacoresistant epilepsy.  Unfortunately, these data remain fragmentary and contradictory, therefore the results of animal models can partially fill this gap.
+The authors present a short review of the data concerning a potential role of epigenetic modifications in epilepsy.

@@ -1,0 +1,10 @@
+[A rank-order method for the integrated assessment of trends in all-cause and cardiovascular mortality rates in the subjects of the Russian Federation in 2006-2012].  AIM
+To rank the subjects of the Russian Federation by the trend direction in all-cause and cardiovascular mortality (including mortality from coronary heart disease and cerebrovascular diseases) as a whole and at able-bodied age.  SUBJECTS AND METHODS
+The investigation used mortality rates from to the 2006 and 2012 data available in the Federal State Statistics Service on 81 subjects of the Russian Federation.
+According to mortality rates, each region was assigned a rank in 2006 and 2012.
+Trends in rank changes in the Russian Federation's regions were analyzed.  A cluster analysis was used to group the subjects of the Russian Federation by trends in rank changes.
+RESULTS
+The cluster analysis of rank changes from 2006 to 2012 could combine the Russian Federation's regions into 10 groups showing the similar trends in all-cause and circulatory disease mortality rates.
+Overall, the results of the ranking and further clusterization of the regions of the Russian Federation correspond to the trends in all-cause and cardiovascular mortality rates according to the data of other Russian investigations, by qualitatively complementing them.
+CONCLUSION
+The trend rank-order method permits a comprehensive comparative analysis of changes in all-cause and cardiovascular mortality in the subjects of the Russian Federation both as a whole and at able-bodied age, which provides qualitatively new information complementing the universally accepted approaches to studying the population's mortality.

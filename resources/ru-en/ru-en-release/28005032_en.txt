@@ -1,0 +1,13 @@
+[Tick-borne neuroinfections: Clinical characteristics, immunopathogenesis, and new pharmacotherapeutic strategies].
+AIM  To study the semiotics of neurological lesions in patients with tick-borne encephalitis, Ixodes tick-borne borreliosis (ITBB) and mixed infection (MI), their immunopathogenesis, and the possibilities of current pathogenetic pharmacological correction.
+SUBJECTS AND METHODS
+A total of 220 patients with tick-borne encephalitis, ITBB, and MI concurrent with the syndromes of central nervous system lesions were examined.
+The immunological studies encompassed the examination of mononuclear cells in the cerebrospinal fluid (CSF), the population and subpopulation composition of lymphocytes, and nitroxidergic processes in the serum and CSF from the total level of final stable nitric oxide metabolites.
+For pharmacotherapeutic correction, the metabolic drug cytoflavin was used as newly indicated.
+RESULTS
+Cytofluorometric analysis of the CSF cellular composition showed the mononuclear cell predominance of CD3+ (58.6%), CD4+ (57.2%), CD8+ (16.8%) lymphocytes and monocytes (34.4%), which expressed the phenotypic marker CD14+.
+This reflects the nature of a local immune response: an increase in the immunoregulatory index CD4+/CD8+ from 3.4 to 5.6, respectively, while the normal proportion of these cells in the blood ranges from 1.5 to 2.2. CSF lymphocytes were found to be ready for Fas-mediated apoptosis dependent on the receptor (CD95+ was 64.3%).There was a correlation using the pair correlation coefficient between the total concentration of the metabolites of the nitroxide molecule and the percentage of CD14+ (r=0.5; p<0.05).
+The paired Wilcoxon test was used to analyze serum NO2, NO3, and NOx, which revealed significant differences in nitrites [2.70 (1.90, 2.95; p=0.001)] and total NO metabolites [18.00 (18.00, 22.60; p=0.006)] and statistically significant changes in nitrates [13.29 (15.70. 20.30; p=0.075)] in patients receiving cytoflavin infusions.
+CONCLUSION
+The immune response of Th-1 forms between the CSF phagocytic, antigen-presenting, and immunocompetent lymphocytes in patients with tick-borne neuroinfections.
+The use of cytoflavin as an agent for neurotransmitter support to correct nitroxidergic processes is pathogenetically justified.

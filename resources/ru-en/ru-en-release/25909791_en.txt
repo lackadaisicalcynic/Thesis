@@ -1,0 +1,3 @@
+[Contrast agents in MRI-diagnosis of multiple sclerosis].  Magnetic resonance imaging using contrast agents plays an important role in diagnosis and assessment of treatment efficacy in multiple sclerosis.
+The development of contrast agents on the basis of gadolinium or iron oxide nanoparticles has potential for diagnosis of pathological foci (tumors, amyloid plaques, inflammation and foci of demyelination or necrosis) in nervous system diseases.
+Newly developing types of diagnostic substances for visualization of pathological foci in multiple sclerosis are presented in this review.

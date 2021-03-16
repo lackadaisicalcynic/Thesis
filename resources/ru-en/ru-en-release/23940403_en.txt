@@ -1,0 +1,15 @@
+The epidemiology of child homicides in South Africa.
+OBJECTIVE  To describe age- and sex-specific rates of child homicide in South Africa.
+METHODS
+A cross-sectional mortuary-based study was conducted in a national sample of 38 medicolegal laboratories operating in 2009.
+These were sampled in inverse proportion to the number that were operational in each of three strata defined by autopsy volume: < 500, 500-1499 or > 1499 annual autopsies.
+Child homicide data were collected from mortuary files, autopsy reports and police interviews.
+Cause of death, evidence of abuse and neglect or of sexual assault, perpetrator characteristics and circumstances surrounding the death were investigated.
+FINDINGS
+An estimated 1018 (95% confidence interval, CI: 843-1187) child homicides occurred in 2009, for a rate of 5.5 (95% CI: 4.6-6.4) homicides per 100 000 children younger than 18 years.
+The homicide rate was much higher in boys (6.9 per 100 000; 95% CI: 5.6-8.3) than in girls (3.9 per 100 000; 95% CI: 3.2-4.7).
+Child abuse and neglect had preceded nearly half (44.5%) of all homicides, but three times more often among girls than among boys.
+In children aged 15 to 17 years, the homicide rate among boys (21.7 per 100 000; 95% CI: 14.2-29.2) was nearly five times higher than the homicide rate among girls (4.6 per 100 000; 95% CI: 2.4-6.8).
+CONCLUSION
+South Africa's child homicide rate is more than twice the global estimate.
+Since a background of child abuse and neglect is common, improvement of parenting skills should be part of primary prevention efforts.

@@ -1,0 +1,5 @@
+[Algorithm for the management of patients with stable coronary artery disease and high-grade ventricular arrhythmias].  The paper gives an original algorithm for the management of patients with stable coronary artery disease, preserved/moderately reduced left ventricular systolic function, and high-grade ventricular arrhythmias from the first registration of the latter to the choice of treatment policy.
+Great attention is paid to the assessment of a private clinical case, by determining the nature of arrhythmias, and to the involvement of autonomic regulation in the genesis of ventricular arrhythmias.
+The importance of topical diagnosis of ventricular arrhythmias and identification of psychological disorders is emphasized.
+Diagnostic problems are solved in a step-by-step fashion using up-to-date techniques.
+The key point of the algorithm proposed is to prevent sudden cardiac death.

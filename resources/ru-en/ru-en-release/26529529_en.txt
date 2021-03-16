@@ -1,0 +1,11 @@
+UNLABELLED  Despite the obvious progress in modern neurosurgery, surgery for glial tumors of the insular lobe is often associated with a high risk of postoperative neurological deficit, which is primarily caused by damage to perforating arteries of the M1 segment of the middle cerebral artery.
+OBJECTIVE
+The work is aimed at evaluating the effectiveness of high resolution time-of-flight (3D-TOF) MR angiography in imaging of medial and lateral lenticulostriate arteries and determining their relationship to tumor edge in patients with gliomas of the insula.  MATERIAL AND METHODS
+3D-TOF MR angiography data were analyzed in 20 patients with primarily diagnosed cerebral gliomas involving the insula.  All patients underwent non-contrast enhanced 3D-TOF MR angiography.
+In 6 cases, 3D-TOF MRA was performed before and after contrast enhancement.  RESULTS
+3D-TOF angiography before intravenous contrast injection was capable of visualizing the medial lenticulostriate arteries in 19 patients (95% of all cases) and lateral lenticulostriate arteries in 18 patients (90% of all cases).
+Contrast-enhanced 3D-TOF angiography allows for better visualization of both the proximal and distal segments of lenticulostriate arteries.  Three variants of relationship between the tumor and lenticulostriate arteries were identified.
+Variant I: the tumor grew over the arteries without their displacement in 2 cases (10% of the total number of observations); variant II: the tumor caused medial displacement of arteries without growing over them in 11 cases (55% of the total number of observations); variant III: the tumor partially grew over and displaced arteries in 2 cases (10%).
+In 25% of cases (5 patients), tumor was poorly visualized on 3D-TOF MR angiograms because their signal characteristics did not differ from those of the medulla (tumor tissue was T1 isointense).  As a result, it was impossible to determine the relationship between the tumor and lenticulostriate arteries.
+CONCLUSION
+High spatial resolution time-of-flight MR angiography can be recommended for preoperative imaging of lenticulostriate arteries to plan the extent of neurosurgical resection in patients with glial tumors of the insular lobe.

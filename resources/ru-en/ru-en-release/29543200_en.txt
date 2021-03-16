@@ -1,0 +1,12 @@
+[Evaluation of YAG-laser vitreolysis effectiveness based on quantitative characterization of vitreous floaters].  PURPOSE
+To develop methods for evaluating effectiveness of YAG-laser vitreolysis of vitreous floaters.  MATERIAL AND METHODS
+The study included 144 patients (173 eyes) who had underwent YAG-laser vitreolysis and were under observation from 01.09.16 to 31.01.18.
+The patients were 34 to 86 years old (mean age 62.7±10.2 years), 28 (19.4%) patients were male, 116 (80.6%) - female.
+All patients underwent standard and additional examination: ultrasonography (Accutome B-scan plus, U.S.A.), optic biometry (Lenstar 900, Haag-Streit, Switzerland), spectral optical coherence tomography using RTVue XR Avanti scanner (Optovue, U.S.A.) in modes Enhanced HD Line, 3D Retina, 3D Widefield MCT, Cross Line, Angio Retina, and scanning laser ophthalmoscopy (SLO) using Navilas 577s system.
+Laser vitreolysis was performed using the Ultra Q Reflex laser (Ellex, Australia).
+RESULTS
+This paper presents methods of objective quantitative and qualitative assessment of artifactual shadows of vitreous floaters with spectral optical coherence tomographic scanner RTVue xR Avanti employing an algorithm of automatic detection of non-perfusion zones in modes Angio Retina, HD Angio Retina, as well as foveal avascular zone (FAZ) measurement with Angio Analytics® software.
+SLO performed with Navilas 577s was used as method of visualizing floaters and artifactual shadows in retinal surface layers prior to surgical treatment and after YAG-laser vitreolysis.
+CONCLUSION
+Suggested methods of quantitative and qualitative assessment of artifactual shadows of the floaters in retinal layers are promising and may prove to be highly relevant for clinical monitoring of patients, optimization of treatment indications and evaluating effectiveness of YAG-laser vitreolysis.
+Further research of laser vitreolysis effectiveness in patients with vitreous floaters is necessary.

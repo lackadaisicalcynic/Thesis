@@ -1,0 +1,7 @@
+[Molecular-genetic and electroencephalographic markers of neurocognitive processes in depressive disorders].  Perspectives of molecular-genetic approaches to the establishment of mechanisms of development and causes of heterogeneity of neurocognitive impairment are discussed.
+The current results indicate that candidate genes for depression can contribute to the variance of memory and regulatory functions in patients.
+At the same time, these genes are closely related to affective information processing and .cortisol level.
+By that fact, it canot be excluded that affective processes moderate the association between cognition and genes.
+EEG parameters could be useful phenotypes in the search for and understanding of genetic mechanisms of cognitive deficit in depression.  Parameters of resting EEG and its reactive changes are known to reflect the certain cognitive processes.
+They are influenced by genetic factors and are sensitive indicators of mechanisms that might underlie cognitive impairment in depressive patients.
+Accumulating data on molecular-genetic correlates of normal electric brain activity may be a source of choosing new candidate genes for cognitive impairment in depression.

@@ -1,0 +1,8 @@
+[Peculiarities of secretion of cytokines and chemokines by human blood monocytes in atherosclerosis].  The study included apparently healthy people, conventionally healthy people predisposed to atherosclerosis, and as well as people with preclinical atherosclerosis (50 subjects in each group).
+Monocytes were isolated from whole blood and transferred to culture followed by studying pro- and anti-inflammatory activation of monocytes in response to stimulation by interferon-gamma and interleukin-4, respectively.
+As a marker of pro-inflammatory activation was the level of secretion of tumour necrosis factor-α (TNF-α) in the culture medium measured by means of immunoenzymatic assay.
+Chemokine CCL18 served as a marker of anti-inflammatory activation.
+We also examined secretion of a series of other chemokines and cytokines: MCO-1, IL-6, IL-1β, IL-8, GM-CFS, and others.
+Pronounced individual differences of cytokines and chemokines secretion were revealed in all groups.
+We carried out assessment the degree of altering secretion of cytokines and chemokines by stimulated monocytes compared with unstimulated culture.
+This approach may serve as an effective tool for assessment an individual reaction of congenital immunity.

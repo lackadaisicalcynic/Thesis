@@ -1,0 +1,15 @@
+[Effect of an angiotensin-converting-enzyme inhibitor on the plasma concentration of cytokines and vasoactive molecules in patients with coronary heart disease and hypertension].
+AIM  To investigate the plasma concentrations of cytokines and vasoactive molecules in patients with coronary heart disease (CHD) in the presence of hypertension in relation to the angiotensin-converting-enzyme (ACE) inhibitor level reflecting the degree of renin-angiotensin-aldosterone system (RAAS) inhibition.
+SUBJECTS AND METHODS
+72 patients with NYHA functional class (FC) II-III angina pectoris and 40 healthy persons at the age of 47-65 years were examined in a controlled cohort study.
+Enzyme immunoassay was employed to determine the serum concentrations of interleukins (IL) (IL-2, IL-12, IL-17A, and IL-24), the vasoactive molecules of bradykinin, serotonin, ACE, angiotensin-II (AT-II), NO, and endothelin-1 (ET-1), and plasma renin activity.
+In addition, the plasma level of the tetrapeptide N-acetyl-Ser-Asp-Lys-Pro was used as a marker for ACE inhibition.
+RESULTS
+The patients with CHD occurring in the presence of hypertension compared with the apparently healthy individuals displayed decreased ET-1 and NO production along with elevated levels of serotonin, AT-II, as well as IL-17A and IL-12.
+The found changes were accompanied by reduced renin activity.
+Thus, the individuals with low ACE inhibitor levels showed more pronounced production of the proinflammatory cytokine IL-17A, as well as high plasma concentrations of ACE and NO.
+The high ACE inhibitor level that reflects patient adherence to appropriate antihypertensive therapy is associated with the reduced production of IL-2 and with the minimum serum levels of ACE, AT-II, and NO, being characterized by the high production of IL-12 and serotonin at the same time.
+CONCLUSION
+In patients with CHD and hypertension, the high plasma enzyme inhibitor concentration that reflects the activity of appropriate antihypertensive therapy, by contributing to the strengthening of the mechanisms of relaxation of blood vessels, is associated with the risk for proinflammatory activation of whole blood cells and platelets.
+The mean ACE inhibitor levels that reflect moderate RAAS suppression and are characterized by a relatively low proinflammatory activation of mononuclear cells may be more preferable than the maximum ones, from the point of view of slowing the progression of the subclinical inflammatory process of the vascular wall and preventing possible CHD exacerbations.
+This determines the feasibility of estimating the plasma level of an ACE inhibitor to control the depth of inhibition of RAAS activity.

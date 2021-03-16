@@ -1,0 +1,10 @@
+Estimating the absolute wealth of households.
+OBJECTIVE  To estimate the absolute wealth of households using data from demographic and health surveys.
+METHODS
+We developed a new metric, the absolute wealth estimate, based on the rank of each surveyed household according to its material assets and the assumed shape of the distribution of wealth among surveyed households.  Using data from 156 demographic and health surveys in 66 countries, we calculated absolute wealth estimates for households.
+We validated the method by comparing the proportion of households defined as poor using our estimates with published World Bank poverty headcounts.  We also compared the accuracy of absolute versus relative wealth estimates for the prediction of anthropometric measures.
+FINDINGS
+The median absolute wealth estimates of 1,403,186 households were 2056 international dollars per capita (interquartile range: 723-6103).  The proportion of poor households based on absolute wealth estimates were strongly correlated with World Bank estimates of populations living on less than 2.00 United States dollars per capita per day (R(2)  = 0.84).
+Absolute wealth estimates were better predictors of anthropometric measures than relative wealth indexes.
+CONCLUSION
+Absolute wealth estimates provide new opportunities for comparative research to assess the effects of economic resources on health and human capital, as well as the long-term health consequences of economic change and inequality.

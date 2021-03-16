@@ -1,0 +1,14 @@
+Determining health-care facility catchment areas in Uganda using data on malaria-related visits.
+OBJECTIVE  To illustrate the use of a new method for defining the catchment areas of health-care facilities based on their utilization.
+METHODS
+The catchment areas of six health-care facilities in Uganda were determined using the cumulative case ratio: the ratio of the observed to expected utilization of a facility for a particular condition by patients from small administrative areas.
+The cumulative case ratio for malaria-related visits to these facilities was determined using data from the Uganda Malaria Surveillance Project.
+Catchment areas were also derived using various straight line and road network distances from the facility.
+Subsequently, the 1-year cumulative malaria case rate was calculated for each catchment area, as determined using the three methods.
+FINDINGS
+The 1-year cumulative malaria case rate varied considerably with the method used to define the catchment areas.  With the cumulative case ratio approach, the catchment area could include noncontiguous areas.
+With the distance approaches, the denominator increased substantially with distance, whereas the numerator increased only slightly.
+The largest cumulative case rate per 1000 population was for the Kamwezi facility: 234.9 (95% confidence interval, CI: 226.2-243.8) for a straight-line distance of 5 km, 193.1 (95% CI: 186.8-199.6) for the cumulative case ratio approach and 156.1 (95% CI: 150.9-161.4) for a road network distance of 5 km.
+CONCLUSION
+Use of the cumulative case ratio for malaria-related visits to determine health-care facility catchment areas was feasible.
+Moreover, this approach took into account patients' actual addresses, whereas using distance from the facility did not.

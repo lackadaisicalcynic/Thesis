@@ -1,0 +1,13 @@
+Association between antiretroviral therapy adherence and employment status: systematic review and meta-analysis.
+OBJECTIVE
+To assess the association between the employment status of human immunodeficiency virus (HIV)-infected individuals and adherence to antiretroviral therapy (ART).  METHODS
+We searched the Medline, Embase and Cochrane Central Register of Controlled Trials databases for studies reporting ART adherence and employment status published between January 1980 and September 2014.
+Information from a wide range of other sources, including the grey literature, was also analysed.  Two independent reviewers extracted data on treatment adherence and study characteristics.
+Study data on the association between being employed and adhering to ART were pooled using a random-effects model.  Between-study heterogeneity and sources of bias were evaluated.
+FINDINGS
+The meta-analysis included 28 studies published between 1996 and 2014 that together involved 8743 HIV-infected individuals from 14 countries.  The overall pooled odds ratio (OR) for the association between being employed and adhering to ART was 1.27 (95% confidence interval, CI: 1.04-1.55).
+The association was significant for studies from low-income countries (OR: 1.85, 95% CI: 1.58-2.18) and high-income countries (OR: 1.33, 95% CI: 1.02-1.74) but not middle-income countries (OR: 0.94, 95% CI: 0.62-1.42).
+In addition, studies published after 2011 and larger studies showed less association between employment and adherence than earlier and small studies, respectively.
+CONCLUSION
+Employed HIV-infected individuals, particularly those in low- and high-income countries, were more likely to adhere to ART than unemployed individuals.
+Further research is needed on the mechanisms by which employment and ART adherence affect each other and on whether employment-creation interventions can positively influence ART adherence, HIV disease progression and quality of life.

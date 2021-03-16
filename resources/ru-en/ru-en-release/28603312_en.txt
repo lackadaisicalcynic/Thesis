@@ -1,0 +1,11 @@
+Community-based approaches for neonatal survival: meta-analyses of randomized trial data.
+OBJECTIVE
+To analyse the impact of community approaches to improving newborn health and survival in low-resource countries.
+METHODS
+We updated previous meta-analyses of published cluster randomized trials of community-based interventions for neonatal survival.
+For each study we extracted baseline data on the context: geographical area; available facilities and staffing; immediate breastfeeding and facility births; and neonatal mortality.  We also extracted data on the primary outcome (neonatal survival) and intermediate outcomes of the interventions (changes in immediate breastfeeding and facility births).
+We used forest plots and pooled sub-group analysis to seek patterns in associations between the effect size and the context or type of intervention (home-based counselling or women's groups).  FINDINGS
+We included 17 trials, spanning years from 2001 to 2013.  A 25% reduction in neonatal mortality (relative risk, RR: 0.75; 95% confidence interval, CI: 0.69-0.80) was found when pooling six studies in settings with 44 or more deaths per 1000 live births.
+In lower-mortality settings (pooling six studies with 32 or fewer deaths per 1000 live births) there was no evidence of an effect.  We observed some evidence that community approaches had a stronger effect in south Asia than in sub-Saharan Africa.
+Community approaches had a lower impact on neonatal mortality in settings where at least 44% of women delivered in a facility.  CONCLUSION
+As neonatal mortality declined, the impact of community approaches on survival appeared to be lower, and the role of these approaches in supporting newborn care in weak health systems may need to be re-examined.

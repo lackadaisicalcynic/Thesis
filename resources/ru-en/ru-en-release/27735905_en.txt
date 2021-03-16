@@ -1,0 +1,3 @@
+[The issues of medical/social expertise in Parkinson's disease].  Parkinson's disease (PD) is a chronic progressive neurodegenerative disease that restricts activities of daily living.
+The prevalence of PD and inevitable disability show the importance of medical/social expertise (MSE) in the system of care for PD patients.  Currently, the MSE is based on the Hoehn and Yahr scale that indicates the prevalence of disease but does not evaluate the severity of symptoms.
+To assess restrictions of activities of daily living, one should consider non-motor symptoms of PD, movement fluctuations and dyskinesia, the efficacy and tolerability of pharmacological treatment, the use of invasive treatment methods (deep brain stimulation, intrajejunal introduction of duodopa).

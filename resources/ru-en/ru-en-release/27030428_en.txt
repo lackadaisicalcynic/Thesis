@@ -1,0 +1,11 @@
+[CFH gene polymorphism in primary open-angle glaucoma patients].
+AIM
+to study the CFH T402H polymorphism in glaucoma patients and controls.  MATERIAL AND METHODS
+Genetic analysis was performed in 68 patients with primary open-angle glaucoma (POAG) of various severity.
+The control group consisted of 30 participants.  Venous whole blood samples were obtained.
+From them, leukocytes were isolated and human genomic DNA extracted for further PCR.
+RESULTS
+None of the patients from either group was homozygous for the 402H allele.
+With ganglion cells death (i.e. at later stages of the disease), the percentage of homozygotes that carry no CFH polymorphism increases up to 65%, while that of heterozygotes decreases down to 35%.
+CONCLUSION  As shown, most of early and advanced POAG patients are heterozygotes.
+At these stages of the disease own ganglion cells are very likely to be damaged.  Further progression, however, is associated with a gradual decrease in heterozygotes (down to 35%) due to a substantial loss of neuroepithelial cells and suppression of the autoimmune response which has lost its target.

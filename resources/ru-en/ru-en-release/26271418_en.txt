@@ -1,0 +1,3 @@
+[Estimation of the role of octreotide in treatment of severe pancreatic necrosis].  It was analyzed the results of treatment of 204 patients with severe course of destructive pancreatitis (severity of organs' dysfunction was 9 and more scores according to APACHE-II scale upon admission to the hospital).
+Logistic regression and Cox regression were used along with univariant statistical analysis, what permitted to estimate overall effect of octreotide and other potential predictors including severity of condition and medical factors on the mortality rate and extension of necrosis in patients with pancreatic necrosis.
+It was established that the use of octreotide in case of severe pancreatic necrosis significantly decreases mortality and extension of necrosis.

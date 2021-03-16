@@ -1,0 +1,11 @@
+Access to maternal health services: geographical inequalities, United Republic of Tanzania.
+Objective
+To determine if improved geographical accessibility led to increased uptake of maternity care in the south of the United Republic of Tanzania.  Methods
+In a household census in 2007 and another large household survey in 2013, we investigated 22 243 and 13 820 women who had had a recent live birth, respectively.
+The proportions calculated from the 2013 data were weighted to account for the sampling strategy.  We examined the association between the straight-line distances to the nearest primary health facility or hospital and uptake of maternity care.
+Findings
+The percentages of live births occurring in primary facilities and hospitals rose from 12% (2571/22 243) and 29% (6477/22 243), respectively, in 2007 to weighted values of 39% and 40%, respectively, in 2013.
+Between the two surveys, women living far from hospitals showed a marked gain in their use of primary facilities, but the proportion giving birth in hospitals remained low (20%).
+Use of four or more antenatal visits appeared largely unaffected by survey year or the distance to the nearest antenatal clinic.  Although the overall percentage of live births delivered by caesarean section increased from 4.1% (913/22 145) in the first survey to a weighted value of 6.5% in the second, the corresponding percentages for women living far from hospital were very low in 2007 (2.8%; 35/1254) and 2013 (3.3%).
+Conclusion
+For women living in our study districts who sought maternity care, access to primary facilities appeared to improve between 2007 and 2013, however access to hospital care and caesarean sections remained low.

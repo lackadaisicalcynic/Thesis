@@ -1,0 +1,12 @@
+Establishing thresholds and parameters for pandemic influenza severity assessment, Australia.
+Objective
+To implement the World Health Organization's pandemic influenza severity assessment tool in Australia, using multiple sources of data to establish thresholds and measure influenza severity indicators.  Methods
+We used data from four reliable sources: sentinel general practitioner surveillance, hospital surveillance, a public health hotline and an influenza-like illness survey system.  We measured three influenza severity indicators (transmissibility, impact and disease seriousness) defined using pandemic influenza severity assessment guidelines.
+We used the moving epidemic method and a seriousness indicator-specific method to set thresholds for indicator parameters using 2012-2016 data.
+We then applied the thresholds to data from the 2017 influenza season.  Findings
+We were able to measure and produce thresholds for each severity indicator.  At least one laboratory-confirmed influenza parameter was used to measure each indicator.
+When thresholds were applied to the 2017 season, there was good agreement across all data sources in measuring activity for each indicator.  The season was characterized as having high transmissibility and extraordinary impact.
+Seriousness was characterized as moderate overall and in all age groups except those aged ≥ 65 years for whom it was high.
+This matched the description of the season produced by the Australian national influenza surveillance committee, based on expert opinion and historical ranges.
+Conclusion  The pandemic influenza severity assessment and moving epidemic method provide a robust and flexible method to enable an evidence-based assessment of seasonal influenza severity across diverse data sources.
+This is useful for national assessment and will contribute to global monitoring and response to circulating influenza with pandemic potential.

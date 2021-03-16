@@ -1,0 +1,27 @@
+[Long association tracts of the human white matter: an analysis of 18 hemisphere dissections and in vivo HARDI-CSD tractography].
+BACKGROUND  Anatomy of the conduction tracts of the cerebral cortex has been studied for a long time.
+Invention of diffusion tensor tractography renewed interest in this subject.  The objectives of this work were to develop and improve protocols for dissection of the long association tracts of the human brain with studying the features of their segmentation, topography, and variability, compare the obtained data with the MR tractography data, and prepare for further clinical and anatomical studies.
+MATERIAL AND METHODS
+We used 18 cerebral hemispheres (from 10 males and 8 females; 9 left and 9 right hemispheres).
+The mean age of cadavers was 68 years.
+Specimen were fixated in accordance with the Klingler technique.
+Immediately after collection, specimens were placed in a 10% formalin solution for at least 4 weeks.
+After that, the pia was removed; specimens were frozen at -20 °C for a week and then unfrozen in a 96% ethanol solution for a day.
+We performed 10 lateral dissections, 2 lateral dissections with isolation of the frontal aslant tract, 2 basal dissections, 1 combined basolateral dissection, 2 frontal dissections, and 1 medial dissection.
+At the time of dissection and after it, specimens were stored in a 96% ethanol solution.
+Modified, disposable, therapeutic wooden spatulas were used for manipulations.
+A microscope (magnification of 6-40x) was used in 2 lateral and 2 basal dissections.
+MR tractography (HARDI-CSD) was carried out in 5 healthy volunteers using a GE Signa HDxt MRI scanner a field strength of 3.0 T.
+RESULTS
+We clearly identified the following fascicles: the arcuate fascicle (AF) and superior longitudinal fascicle (SLF) in 6/6 hemispheres on the right and in 5/6 hemispheres on the left, the inferior longitudinal fascicle (ILF) in 3/6 hemispheres on the left and in 4/6 hemispheres on the right, the uncinate fascicle (UF) in 4/4 hemispheres on the left and in 4/4 hemispheres on the right, and the inferior fronto-occipital fascicle (IFOF) in 4/4 hemispheres on the left and in 3/4 hemispheres on the right.
+Identification was less successful in the case of the frontal aslant tract (FAT) in 1/2 hemispheres on the left and in 0/2 hemispheres on the right.
+The used technique failed to identify the vertical occipital fascicle (VOF) of Wernicke, a segment of the superior longitudinal fascicle SLF I, and the middle longitudinal fascicle (MdLF).
+The MR tractography HARDI-CSD data were compared with the dissection data.
+We described in detail segmentation of the superior longitudinal, arcuate, and inferior fronto-occipital fascicles.
+Contradictory data were obtained for the superior longitudinal fascicle: a two-segment structure (SLFh and SLFv) was found in most (10/12) specimens, while a three-segment structure was revealed in the other (2/12) specimens (identified SLF II and SLF III).
+In the arcuate fascicle, the ventral and dorsal segments were successfully identified in 2/12 cases (1 left and 1 right), whereas identification failed in the other cases.  During dissection of the inferior fronto-occipital fascicle, we could identify its surface layer in 1 of 8 cases (left) and its deep layer in one more case (left).
+CONCLUSION
+Examination of the long association tracts using the Klingler technique has significant limitations in the fiber intersection areas (sagittal striatum).
+The frontal aslant tract was least studied; we proposed a special anterior dissection technique for its isolation.
+The superior longitudinal fascicle can have both the two-segment (10/12) and three-segment (2/12) structure.
+Investigation of the segmental anatomy of the long association tracts will be continued in further dissections.  When planning neurosurgical interventions in the projection areas of the long association tracts, both preoperative HARDI-tractography and anatomical dissections ex vivo, based on the proposed protocols, can be recommended for the operating surgeon to master a three-dimensional picture of the tract topography.

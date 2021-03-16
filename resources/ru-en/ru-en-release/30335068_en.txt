@@ -1,0 +1,8 @@
+[Correlation of the genetic profile and features of the rehabilitation after ischemic stroke].
+AIM  To examine an effect of polymorphisms of lipid peroxidation system genes on the risk of ischemic stroke as well as the prognosis of disease outcome after rehabilitation measures.
+MATERIAL AND METHODS
+Seven hundred and forty-six patients with ischemic stroke and 500 patients of the control group were genotyped for 6 polymorphisms of lipid peroxidation system genes: HIF1a C1772T, ApoE Σ2/Σ3/Σ4, MnSOD C47T, GPX-1 C599T, BDNF G196T, p22phox C242T.
+RESULTS AND CONCLUSION
+The HIF1a C1772T polymorphism was a significant risk factor for the development of ischemic stroke with the odds ratio 1.702 (p<0.05).
+For GPX-1 C599T and BDNF G196T polymorphisms, a trend towards a higher frequency of heterozygous genotypes was shown in patients with the negative dynamics of neurological status.
+The results suggest the influence of genetic variants not only on the risk of stroke but also on treatment and rehabilitation outcomes.

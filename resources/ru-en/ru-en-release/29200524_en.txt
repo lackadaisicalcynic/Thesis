@@ -1,0 +1,11 @@
+Health-care workers' occupational exposures to body fluids in 21 countries in Africa: systematic review and meta-analysis.
+Objective
+To estimate the lifetime and 12-month prevalence of occupational exposure to body fluids among health-care workers in Africa.
+Methods  Embase®, PubMed® and CINAHL databases were systematically searched for studies published between January 2000 and August 2017 that reported the prevalence of occupational exposure to blood or other body fluids among health-care workers in Africa.
+The continent-wide prevalence of exposure was estimated using random-effects meta-analysis.  Findings
+Of the 904 articles identified, 65 studies from 21 African countries were included.  The estimated pooled lifetime and 12-month prevalence of occupational exposure to body fluids were 65.7% (95% confidence interval, CI: 59.7-71.6) and 48.0% (95% CI: 40.7-55.3), respectively.
+Exposure was largely due to percutaneous injury, which had an estimated 12-month prevalence of 36.0% (95% CI: 31.2-40.8).
+The pooled 12-month prevalence of occupational exposure among medical doctors (excluding surgeons), nurses (including midwives and nursing assistants) and laboratory staff (including laboratory technicians) was 46.6% (95% CI: 33.5-59.7), 44.6% (95% CI: 34.1-55.0) and 34.3% (95% CI: 21.8-46.7), respectively.
+The risk of exposure was higher among health-care workers with no training on infection prevention and those who worked more than 40 hours per week.  Conclusion
+The evidence available suggests that almost one half of health-care workers in Africa were occupationally exposed to body fluids annually.
+However, a lack of data from some countries was a major limitation.  National governments and health-care institutions across Africa should prioritize efforts to minimize occupational exposure among health-care workers.

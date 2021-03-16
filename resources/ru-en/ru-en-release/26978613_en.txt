@@ -1,0 +1,11 @@
+[The incidence of respiratory symptoms and their associations with serum cotinine levels as a marker of tobacco smoking in 25-45-year-old Novosibirsk dwellers].
+AIM  To study the incidence of respiratory symptoms and to reveal their associations with serum cotinine levels (SCL) in 25-45-year-old Novosibirsk dwellers.
+SUBJECTS AND METHODS
+The WHO respiratory symptom questionnaire and the ECRHS screening questionnaire were used for a population-based survey conducted in Novosibirsk to identify respiratory symptoms; 545 people replied to the questions available in the questionnaires.
+SCL was determined by enzyme immunoassay on a random subsample of 182 examinees.
+RESULTS
+The incidence of respiratory symptoms was determined among the 25-45-year-old Novosibirsk dwellers: cough (27.7%), more than 3-month cough per year (22%), sputum discharge (25%), forced respiration/wheezing in the past year (22.6%), suffocation fits in the past year (5.3%), and cough/forced respiration/stertor bouts by breathing cold air (14.9%) or contacting animals, plants, or chemical agents (16.5%).  There was a significant positive correlation between SCL and the presence of cough, more than 3-month cough per year, sputum discharge, forced respiration/wheezing in the past year (compared to the examinees who did not report these symptoms).
+The median SCL proved to be significantly higher in the people who complained of cough, more than 3-month cough per year, sputum discharge, and forced respiration/wheezing in the past year (compared to the examinees who did not report these symptoms).
+The people who had a SCL of more than 3 ng/ml were ascertained to be at higher risk of cough, more than 3-month cough per year, sputum discharge, and forced respiration/wheezing in the past year than those who had a SCL of less than 3 ng/ml.
+CONCLUSION
+The incidence of respiratory symptoms was determined among the 25-45-year-old Novosibirsk dwellers; SCL was found to be associated with the symptoms characteristic of bronchial obstructive diseases; the expediency of using the SCL threshold of 3 ng/ml as a marker of tobacco smoking was confirmed.

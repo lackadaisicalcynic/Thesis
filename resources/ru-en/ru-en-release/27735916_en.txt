@@ -1,0 +1,13 @@
+AIM  To define the role of circulating biomarkers for the metabolism of collagen and intercellular substance and vascular remodeling in the development of osteoporosis (OP) in idiopathic pulmonary arterial hypertension (IPAH).
+MATERIAL AND METHODS
+Functional hemodynamic parameters, bone mineral density (BMD) in the lumbar spine and femoral neck and the serum levels of matrix metalloproteinase-9 (MMP-9), tissue inhibitor of metalloproteinase-1 (TIMP-1), MMP-9/TIMP-1 complex, C-terminal telopeptide of collagen type 1 (CITP), and endothelin-1 (ET-1) were determined in 27 high-risk IPAH patients and 30 healthy volunteers.
+RESULTS
+OP in IPAH was detected in 50% of the examinees.
+The serum levels of CITP, MMP-9, TIMP-1, and ET-1 proved to be higher in the high-risk IPAH patients than in the healthy volunteers.
+There was a direct correlation between BMD and six-minute walk test and an inverse correlation with total pulmonary vascular resistance (TPVR).
+Serum TMIP-1 levels correlated with cardiac index and TPVR; ET-1 concentrations were directly related to pulmonary artery systolic pressure, cardiac index, and TPVR.
+Inverse relationships were found between BMD and circulating CITP, MMP-9, TMIP-1, MMP-9/TMIP-1, and ET-1.
+At the same time, there was only a tendency towards a positive correlation between serum CITP and ET-1 concentrations.
+CONCLUSION
+The results of the investigation confirm that endothelin system dysregulation plays a leading role in the development of persistent hemodynamic disorders in high-risk IPAH and suggest that it is involved in the development of osteopenic syndrome.
+Enhanced ET-1 secretion initiates bone loss possibly via activation of connective tissue matrix destruction.

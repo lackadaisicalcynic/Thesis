@@ -1,0 +1,11 @@
+[Relationship between platelet aggregation and interleukins IL-1β and IL-4 in the acute stage of ischemic stroke].  AIM
+To reveal relationships between the level of interleukins IL-1β and IL-4 and platelet aggregation (PA) in patients with ischemic stroke (IS).  MATERIAL AND METHODS
+A prospective clinical cohort study includes 108 IS patients.  The level of IL-1β and IL-4 in blood serum was determined by enzyme immunoassay.
+The study of PA was performed using nephelometric method in the very early (first 24 hours of hospitalization) and early (7th day of hospitalization) stages.
+RESULTS AND CONCLUSION
+In the very early stage of IS, significant PA disorders are accompanied by the increased IL-1β synthesis.
+In the early stage, decreased PA is accompanied by the decreased IL-1β synthesis and increased IL-4 synthesis.
+The decrease in the pro-inflammatory interleukin IL-1β level is accompanied by the increase in the anti-inflammatory interleukin IL-4.
+CONCLUSION
+There is a mutual relationship between platelet activation, aggregation, degranulation, and interleukin synthesis, namely the lysis of aggregated platelets is accompanied by the expression of pro-inflammatory interleukin IL-1β.
+The positive correlation between PA and IL-1β allows us to conclude that interleukin IL-1β plays a neurodestructive role in the lesion-protection process while the negative correlation between PA and IL-4 indicates a neuroprotective role of the latter.

@@ -1,0 +1,10 @@
+[Consecutive formation of the functions of high-, low-density and very-low-density lipoproteins during phylogenesis.  Unique algorithm of the effects of lipid-lowering drugs].
+During phylogenesis, all fatty acids (FA) were initially transported to cells by apoA-I high-density lipoproteins (HDL) in polar lipids.
+Later, active cellular uptake of saturated, monoenoic and unsaturated FA occurred via triglycerides (TG) in low-density lipoproteins (LDL).  Active uptake of polyenoic FA (PUFA) required the following: a) PUFA re-esterified from polar phospholipids into nonpolar cholesteryl polyesters (poly-CLE), b) a novel protein, cholesteryl ester transfer protein (CETP), initiated poly-CLE transformation from HDL to LDL.
+CETP formed blood HDL-CETP-LDL complexes in which poly-CLE spontaneously came from polar lipids of TG in HDL to nonpolar TG in LDL.  Then ligand LDLs formed and the cells actively absorbed PUFA via apoB-100 endocytosis.
+Some animal species (rats, mice, dogs) developed a spontaneous CETP-minus mutation followed by population death from atherosclerosis.
+However, there was another active CETP-independent uptake formed during phylogenesis; the cells internalized poly-CLE in HDL.
+Since apoA-I had no domain-ligand, another apoE/A-I ligand formed; the cells began synthesizing apoE/A-1 receptors.
+In cells of rabbits and primates absorbed cells PUFA consecutively: HDL-->LDL-->apoB-100 endocytosis; those of rats and dogs did HDL directly: HDL-->anoE/A-I endocytosis.
+In the rabbits, CETP was high, apoE in HDL was low, and the animals were sensitive to exogenous hypercholesterolemia.
+In the rats, CETP was low and ApoE in HDL-was high, and the animals were resistant to hypercholesterolemia.  Reduced bioavailability of PUFA during their consecutive cellular uptake and develdpment of intercellular PUFA deficiency are fundamental to the pathogenesis of atherosclerosis.

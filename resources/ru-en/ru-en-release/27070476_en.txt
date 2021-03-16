@@ -1,0 +1,5 @@
+[Benign paroxysmal positional vertigo].
+Benign paroxysmal positional vertigo (BPPV) is the most common cause of vestibular vertigo.
+It is caused by dislodged otoconia that enters the semicircular canals.  Its main symptom is relapsing positional vertigo.
+The provocative tests, in particular the Dix-Hallpike maneuver, are used to confirm the diagnosis.
+In case of positive result of the test, one of the maneuvers is peformed depending on the affected semicircular canal, for instance the Epley maneuver.  It is important to differentiate BPPV from the vertigo of central origin.

@@ -1,0 +1,12 @@
+[Clinical value of TNF, IL-6, and IL-10 gene polymorphic markers in chronic glomerulonephritis].
+AIM  To study the association of the polymorphic markers (PMs) G(-238)A of the TNF gene, G(-174)C of the IL-6 gene, and G(-1082)A of the IL-10 gene with the clinical characteristics of chronic glomerulonephritis (CGN) and a response to immunosuppressive therapy (IST).
+SUBJECTS AND METHODS
+Clinical syndromes at the time of diagnosis, the morphological types of nephritis, and a response to IST were analyzed in relation to the carriage of the examined PMs of the TNF, IL-6, and IL-10 genes in 102 patients with CGN.
+RESULTS
+No association was found between the PM G(-238)A of the TNF gene and the clinical features of CGN.
+The carriers of the C allele of the PM G(-174) C of the IL-6 gene versus the homozygous individuals were observed to have more frequently kidney dysfunction at the time of diagnosis (р=0.014).
+Hypertension was more common in the carriers of the AA genotype of the PM G(-1082)A of the IL-10 gene (p=0.023); moreover, they tended to have a more frequent concurrence of nephrotic syndrome and hypertension (p=0.082).
+Analysis of the distribution of the morphological types of CGN disclosed that the proliferative variants were more common in the patients with the GG genotype (the TNF gene) as compared to the A allele carriers (p=0.067); and the nonproliferative forms were in the individuals homozygous for GG (the IL-6 gene) as compared to the C allele carriers (p=0.067).
+Examination of an IST response showed that a complete response at 12 months of treatment occurred more frequently in the carriers of the C allele of the IL-6 gene (p=0.045) and in those of the GG genotypes of the IL-10 gene (p=0.030).
+CONCLUSION
+There was an association of the PMs G(-174)C of the IL-6 gene and G(-1082)A of the IL-10 gene with the clinical features of CGN and a response to IST.

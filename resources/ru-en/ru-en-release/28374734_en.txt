@@ -1,0 +1,20 @@
+[The isolation of organic compounds from hydrosulfuric mineral waters with the use of the extractive freezing-out technique with centrifugation].
+The mineral waters, enriched with organic substances find extensive application in balneotherapy.  The fast and efficient methods for the identification and quantitative measurement of organic compounds (in the first place, organic acids) in such waters need to be developed for the estimation of their quality and biological activity.
+The objective of the present study was to elaborate a gas chromatographic method for the determination of monobasic carbonic acids in sulfide-containing mineral waters by means of extractive freezing-out in combination with the application of the centrifugal forces for the elucidation of the metrological characteristics of the compounds of interest.  The secondary objective was to estimate the prospects for the application of the method of interest for determining the dissolved organic compounds in mineral waters.
+MATERIAL AND METHODS
+The following carbonic acids were used for the purposes of the study: acetic acid (analytical grade), Russia; propionic grade (extra pure), Ferak, Germany; butyric acid (pure), Russia; valeric acid (pure), Russia; caproic acid (pure), Russia; oenanthic acid (pure), Russia; and caprylic acid (pure), Russia).
+Acetonitrile («O» grade), Russia, was used as the extracting agent.
+The LV-210 analytical balance (Russia) was used to prepare the model and standard solutions of the organic compounds and to determine their mass.
+The extracts and standard mixture were investigated by the gas chromatographic technique with the use of the Kristallyuks apparatus («Meta-Khrom», Russia) equipped with the flame ionization detector and the capillary column.
+Extractive freezing-out in the combination with centrifugation was performed with the laboratory installation for this purpose.
+RESULTS
+Under the model conditions, a single extractive freezing-out procedure with the centrifugation of the sample made it possible to reach the 22-37-fold concentration of C2-C8 monobasic carbonic acids during their transfer from water into acetonitrile.
+The metrological parameters of the proposed procedure for gas-chromatographic determination of the aforementioned acids in hydrosulfuric mineral waters were estimated.
+The limit of detection of acetic and propionic acids has been 0,2 mg/l, that for butyric acid 0,1 mg/l, for valeric, caproic, oenanthic and caprylic acids 0,05 mg/l.
+We failed to identify C2-C8 carbonic acids in hydrosulfuric water from the 6T well of the field Matsesta fields.
+The investigation of the extracts obtained by the proposed extraction procedure with the use of the newly developed variant of high performance liquid chromatography (HPLC) with diode-matrix detection revealed the presence of various amounts of unknown organic substances.
+The UV-spectrum of one of those components was obtained which made it possible to conjecture its molecular structure.
+The procedure for the sample preparation and the following determination of organic acids in water is simple, carried out in a single stage, and does not impose special requirements to the qualification of the researcher.
+It allows to describe the newly developed technique as a rapid test method.
+Along with it, realization of extraction in the negative temperature mode reduces the risk of decomposition of the thermally unstable chemical compounds being extracted and reduces volatility of the organic solvents being used.
+The technology of the method does not demand a special laboratory glassware and expendables.

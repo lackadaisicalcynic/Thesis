@@ -1,0 +1,9 @@
+[Characteristics of the expression of the transcription factor pSTAT3 in asthma].
+AIM  To investigate the transcription factor pSTAT3 in overweight asthmatics on a model of peripheral blood mononuclear cells at baseline and during recombinant leptin modulation.
+MATERIAL AND METHODS
+A flow fluorometric assay was used according to the standard Bio-Plex protocol on a Bio-Plex immunoanalyzer (a flow fluorimeter) (Bio-Rad, USA) using xMAP technology at baseline and during modulation with recombinant leptin (Leptin, human, recombinant, expressed in a E. coli, Sigma, USA).
+RESULTS  There was an obvious reduction in the level of the transcription factor pSTAT3 in patients with non-allergic asthma and an increase in that in patients with allergic asthma (AA).
+Recombinant leptin modulation of pSTAT3 levels caused their paradoxical decrease in both overweight women younger than 45 years of age with AA and in those with non-allergic asthma.
+CONCLUSION
+The elevated level of the transcription factor pSTAT3 in AA is probably due to the overexpression of pSTAT3 in this group of patients.
+The paradoxical decrease in pSTAT3 levels in overweight women under 45 years of age with AA, which is similar in the non-allergic asthma group, can be explained by the enhanced expression of negative SOCS3 regulators and by leptin resistance.

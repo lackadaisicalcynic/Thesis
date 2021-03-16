@@ -1,0 +1,13 @@
+[Effect of corneal refractive surgery on optical coherence tomography measurements].  The effect of significant changes in corneal power after refractive surgery on the parameters of optical coherence tomography (OCT) has not been sufficiently studied.
+PURPOSE  To study effects of corneal refractive surgery on optical coherence tomography (OCT) measurements in patients with moderate and high myopia.
+MATERIAL AND METHODS
+OCT was performed in 62 patients (62 eyes) with myopia over 4 D before and one month after LASIK.
+The changes in 14 parameters of the thickness of the retina, ganglion cell-inner plexiform layer (GCIPL) and peripapillary retinal nerve fiber layer (pRNFL) were analyzed.
+RESULTS
+The mean refractive effect was 7.07±2.02 D (4.0 to 11.75 D).
+Postoperative changes in the parameters analyzed were insignificant, averaging not more than 1.3% of the baseline value with the exception of pRNFL thickness in the temporal quadrant (2.2%).
+Only six of the 14 parameters were statistically significant - retinal thickness in the central subfield and the inner nasal quadrant, average and minimum thickness of GCIPL, and pRNFL thickness (mean and in the temporal quadrant).
+Individual changes of the parameters in most patients did not exceed the error of method.
+CONCLUSION
+In patients with moderate to high myopia, LASIK operation has only a slight effect on the OCT parameters of the retina and pRNFL.
+Only in patients with very high myopia, the decrease over 10 D in corneal refractive power creates an optical effect of increasing the average thickness of pRNFL and GCIPL by 2-3 μm.  This should be taken into account when examining such patients for glaucoma.

@@ -1,0 +1,15 @@
+[Combined treatment of colorectal cancer followed by metastatic liver injury].  AIM
+To increase the effectiveness of treatment of colorectal cancer followed by metastatic liver lesion.  MATERIAL AND METHODS
+This study included 319 patients with colorectal cancer and metastatic liver lesion Gennari grade I, II, and III for the period from 2002 to 2017.
+All patients received combined treatment. 107 patients underwent liver resections: right-sided hemihepatectomy - 10, advanced right-sided hemihepatectomy - 7, left-sided hemihepatectomy - 9, triple segmentectomy - 33, bisegmentectomy - 29, segmentectomy - 19 cases.
+Radiofrequency ablation of liver metastases was performed in 105 patients.
+Cool tip device with a power of 200 W was used for destruction.
+Fifty-seven patients underwent microwave destruction of liver tumor (AveCure MWG 881, 34 W).
+Transarterial chemoembolization by doxorubicin and HepaSpheres 150-250 ng was applied in 34 patients.
+RESULTS
+Annual, 2-, 3- and 5-year survival was 83.1%, 73.5%, 60.2% and 24.6%, respectively after liver resection.
+RFA of liver metastases was followed by annual, 2- and 3-year survival near 73.5%, 53.3% and 32.1%, respectively.
+In case of MWA of liver metastases annual survival was 78.5%, 2-year - 63.3%, 3-year - 58.3%.
+CONCLUSION
+Chemotherapy combined with targeted therapy, radiofrequency and microwave ablation is able to increase resectability up to 35-40% in patients with colorectal cancer followed by liver metastases.
+Minimally invasive procedures (RFA, MWA) reduce surgical risk in critically ill patients.

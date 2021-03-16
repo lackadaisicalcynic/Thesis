@@ -1,0 +1,14 @@
+[Postmortem diagnosis of influenza during its epidemic and interepidemic periods].
+OBJECTIVE
+to assess the potential role of influenza virus in fatal pneumonia during the epidemic and interepidemic periods.  MATERIAL AND METHODS An immunohistochemical method was used to clinically and morphologically analyze 40 fatal outcomes of acute pneumonias in 2009-2013.
+Laboratory tests could not establish the diagnosis of influenza in 20 cases of the study group with clinical and/or morphological pattern of this illness.
+Seventeen cases occurred during the epidemic period (autopsies from November 2009 to January 2010) and the seasonal rise of morbidity; 3 cases were observed during the interepidemic period.
+A control group was additionally formed from 20 cases with neither clinical nor further morphological evidence of suspected influenza in the presence of pneumonia in both the epidemic and interepidemic periods.
+RESULTS
+In the study group, influenza virus nucleoprotein was detected by immunohistochemistry (IHC) in the bronchial epithelial cells with the signs of cytopathic changes in half of the cases and that in the alveolocytes in 30%.
+Sporadic cases displayed a positive IHC response of blood vessel endothelial cells, which was attended by staining of the epithelium and macrophages.
+The maximum disease periods with the virus nucleoprotein being detected by IHC in the macrophages doubled those in the epithelial cells (40 versus 22 days).
+The control group showed a large number of cases with a positive macrophage response that was approximately similar to that in the study group.
+Despite the frequent detection and intensive staining of macrophages, they demonstrated no cytopathic changes, which can be explained by the low virulence persistence of influenza virus in the macrophages.
+CONCLUSION
+These investigations showed the role of influenza virus in the occurrence of additional deaths in the epidemic period and a possible fatal outcome in the interepidemic period.

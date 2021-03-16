@@ -1,0 +1,17 @@
+[The state of the great arteries in type 2 diabetes mellitus patients with obstructive sleep apnea syndrome].
+AIM  To evaluate the impact of hyperglycemia concurrent with obstructive sleep apnea syndrome (OSAS) on endothelial function (EF) and vessel remodeling in patients with Grade 1-2 hypertension.
+MATERIAL AND METHODS
+A total of 101 patients with Grade 1-2 hypertension were examined.
+A study group (SG) consisted of 74 hypertensive patients with type 2 diabetes mellitus (T2DM).
+A control group (CG) comprised 27 persons with isolated blood pressure (BP) elevation.
+The patients with T2DM underwent cardiorespiratory sleep monitoring, the readings of which were used to divide SG into 2 subgroups: 1) patients with an apnea-hypopnea index of <30 episodes/h (SG-1); 2) those with an index of >30 episodes/h (SG-2).
+24-hour BP and vascular stiffness monitoring was made; EF was evaluated; common carotid artery diameter (CCAD) and intima-media thickness (IMT) were determined.
+RESULTS
+The diabetic patients showed lower central diastolic BP and higher aortic pulse BP.
+Unlike the comparison group, the diabetic patients with severe OSAS were found to have the highest central pulse wave propagation velocity at night.
+There was a preponderance of an average nocturnal arterial rigidity index, average daily and average nocturnal BP rising rates, and shorter reflected wave propagation time in the diabetic patients.
+The mean level of flow-mediated vasodilation was significantly reduced in SG-2.
+The diabetic patients, unlike the controls, were ascertained to have decreased absolute responsiveness index values.
+There were increases in IMT and CCAD in SG-2.
+CONCLUSION
+OSAS worsens EF and vessel rigidity in patients with T2DM concurrent with hypertension.

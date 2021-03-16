@@ -1,0 +1,17 @@
+[Treatment in adult patients with acute myeloid leukemias and hyperleukocytosis at disease onset].
+AIM  To evaluate the efficiency of the treatment policy for patients with acute myeloid leukemia (AML) and hyperleukocytosis (HL), which is aimed at preventing rapid hypercytolysis and massive tumor lysis (cytolysis) syndrome and/or at reducing the degree of the latter at the start of induction polychemotherapy.
+SUBJECTS AND METHODS
+In 2010 to 2014, the Hematology Research Center, Ministry of Health of Russia, treated 92 patients with AML, out of them 18 patients were found to have white blood cell counts of 100 to 408-10(9)/1 (median, 130-10(9)/l) at the onset of the disease.
+All the examinees received cytoreductive therapy with hydroxyurea and, in presence of leukostasis and/or leukocytosis (≥150-10(9)/1), with leukocytapheresis.
+In case of reduced leukocytosis, plasmapheresis was carried out to prevent (treat) cytolysis.
+Daunorubicin was injected on days 3-5 of the 7+3 induction cycle.
+RESULTS
+The signs of leukostases were detected in more than half of the 18 patients with higher white blood cell counts: 13 (72%) with lung injury, including 5 of them with signs of respiratory distress syndrome, 6 (27.8%) with neurological symptomatology, 7 (38.9%) with disseminated intravascular coagulation syndrome, including 1 with intracranial hemorrhage.
+Cytoreduction therapy with hydroxyurea (10 mg/kg/day) was performed 1-5 (median 2) days before initiating induction chemotherapy in 17 patients; 9 patients underwent 1-2 (median 2) leukocytapheresis sessions.
+Sixteen patients received 1-4 (median 2) plasmapheresis sessions prior to and within the first days of the 7+3 treatment regimen.
+Daunorubicin (60 mg/m2) was administered to 16 patients on days 5-7 of the 7+3 cycle and to 2 patients on days 3-5 of the cycle.
+There were no signs of severe cytolysis with the development of multiple organ dysfunction in any patient.
+50% (9/18) achieved remission after the first 7+3 cycle and 7 more examinees did after the second cycle.
+Thus, the remission rate was 89%; early mortality was 5.5% (1/18), three-year overall and relapse-free survival rates were 50%.
+CONCLUSION
+Adequate cytoreductive and accompanying therapies for AML with HL can virtually completely prevent massive tumor cytolysis syndrome and early mortality during the first days of induction chemotherapy.

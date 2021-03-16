@@ -1,0 +1,5 @@
+[Creutzfeldt-Jakob disease: clinical and diagnostic aspects].  In this article, authors analyzed a modern approach to the diagnosis of Creutzfeldt-Jakob disease (CJD) based on the clinical signs, cerebrospinal fluid markers, electroencephalography and magnetic resonance imaging.
+It was demonstrated for the first time that patients with late-onset CJD differed from younger CJD patients with respect to MRI profiles and initial clinical presentation.
+To date, cerebrospinal fluid (CSF) analysis, particularly protein 14-3-3 testing, presents an important approach to the identification of disease cases.
+A spectrum of differential diagnosis of rapid progressive dementia varied from neurodegenerative dementias to dementia due to acute neurological conditions.
+Real-time quaking-induced conversion (RT-QuIC) allows the amplification of miniscule amounts of scrapie prion protein.  Recent studies applied the RT-QuIC methodology to CSF for the diagnosis of human prion diseases.

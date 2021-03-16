@@ -1,0 +1,14 @@
+[Celiac disease detection rate in gastroenterological patients].
+AIM  To determine celiac disease detection rate in patients with digestive disease.
+SUBJECTS AND METHODS
+A total of 318 gastroenterological patients admitted to be treated at the Central Research Institute of Gastroenterology in September to October 2012 were examined.
+The patients' age was 18 to 74 years (mean 51.5±16.4 years).
+Immunoglobulin A (IgA) and immunoglobulin G (IgG) anti-gliadin antibodies (AGA), IgA anti-tissue transglutaminase (anti-tTG) antibodies and IgG anti-tTG antibodies were determined.
+When the antibodies were elevated, esophagogastroduodenoscopy with duodenal biopsy was performed.
+RESULTS
+Forty-one of the 318 patients were found to have higher AGA (12.9%); out of them IgA AGA were in 17 (5.35%) patients and IgG AGA were also in 17 (5.35%).
+Elevated levels of both antibodies (IgA AGA and IgG AGA) were seen in 7 (2.2%) patients.
+Overall, the detection rate of increased AGA levels was 12.9%.  The antibodies were more commonly higher in patients with liver diseases (21.8%) and in those with inflammatory bowel diseases (21.6%).
+Both IgA anti-tTG, IgG anti-tTG and IgA AGA, IgG AGA were detected in 6 (1.9%) of the 318 patients.  The diagnosis of celiac disease was verified by duodenal histological examination in 3 (0.94%) of the 318 patients.
+CONCLUSION
+The celiac disease detection rate in gastroenterological patients was 0.94%.

@@ -1,0 +1,13 @@
+The environmental profile of a community's health: a cross-sectional study on tobacco marketing in 16 countries.
+OBJECTIVE  To examine and compare tobacco marketing in 16 countries while the Framework Convention on Tobacco Control requires parties to implement a comprehensive ban on such marketing.
+METHODS
+Between 2009 and 2012, a kilometre-long walk was completed by trained investigators in 462 communities across 16 countries to collect data on tobacco marketing.
+We interviewed community members about their exposure to traditional and non-traditional marketing in the previous six months.  To examine differences in marketing between urban and rural communities and between high-, middle- and low-income countries, we used multilevel regression models controlling for potential confounders.
+FINDINGS
+Compared with high-income countries, the number of tobacco advertisements observed was 81 times higher in low-income countries (incidence rate ratio, IRR: 80.98; 95% confidence interval, CI: 4.15-1578.42) and the number of tobacco outlets was 2.5 times higher in both low- and lower-middle-income countries (IRR: 2.58; 95% CI: 1.17-5.67 and IRR: 2.52; CI: 1.23-5.17, respectively).
+Of the 11,842 interviewees, 1184 (10%) reported seeing at least five types of tobacco marketing.
+Self-reported exposure to at least one type of traditional marketing was 10 times higher in low-income countries than in high-income countries (odds ratio, OR: 9.77; 95% CI: 1.24-76.77).
+For almost all measures, marketing exposure was significantly lower in the rural communities than in the urban communities.
+CONCLUSION
+Despite global legislation to limit tobacco marketing, it appears ubiquitous.
+The frequency and type of tobacco marketing varies on the national level by income group and by community type, appearing to be greatest in low-income countries and urban communities.

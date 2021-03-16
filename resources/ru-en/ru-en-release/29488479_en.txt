@@ -1,0 +1,14 @@
+[Biomarkers of bone remodeling in ankylosing spondylitis patients using nonsteroidal anti-inflammatory drugs: results of an ETHICS research program].
+AIM  To evaluate changes in the concentration of biomarkers for osteoproliferation and bone resorption in ankylosing spondylitis (AS) patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs) in different regimens.
+SUBJECTS AND METHODS
+Forty patients with AS (according to the modified New York criteria), who had BASDAI ≥ 4.0 at baseline and at 52 weeks of on-demand NSAID treatment were examined and randomized into 2 groups: 1) 30 patients who used continuously oral tenoxicam 20 mg daily (a study group); 2) 10 patients who continued previous therapy (a comparison group).
+BASDAI and ASDAS were calculated; the serum levels of C-reactive protein, C-terminal type I procollagen propeptide (PICP), and C-terminal telopeptide of type I collagen (CTX-I) were measured at baseline and at 52 and 56 weeks of treatment.
+A control group consisted of 19 healthy volunteers.
+RESULTS
+The continuous use of NSAIDs (tenoxicam) decreased higher baseline BASDAI and ASDAS scores.
+There were no changes in the indicators of AS activity in the patients who took on-demand NSAIDs.
+Baseline CTX-I levels did not differ between the patients with AS and the healthy individuals; those declined during continuous intake of tenoxicam and remained unchanged during on-demand administration.
+In the patients with AS, baseline PICP levels exceeded those in the healthy individuals.
+In the tenoxicam-treated patients, the concentrations of PICP at baseline and at 52 and 56 weeks were 17.1±9.0, 16.8±9.9, and 13.29±6.7 ng/ml, respectively (p=0.0001 for differences between the baseline and week 56 levels); in the comparison group, PICP levels did not change statistically significantly (p≥0.05 for all intergroup comparisons).
+CONCLUSION
+Changing the inefficient long-term on-demand use of NSAIDs to their continuous intake is associated with a rapid decrease in clinical AS activity (within 4 weeks) with a reduction in the higher baseline concentration of the marker for osteoproliferation and in the normal level of the marker for bone resorption.

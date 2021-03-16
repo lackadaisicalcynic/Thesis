@@ -1,0 +1,18 @@
+[The structure of activation of the language zone in patients with intracerebral tumors according to fMRI with respect to tumor location and the functional asymmetry profile].
+MATERIAL AND METHODS
+A total of 50 patients were examined prior to surgical resection of intracranial tumors of the temporal and frontal lobes.
+Left-sided tumors were observed in 33 patients and right-sided tumors were observed in 17 patients.
+The functional asymmetry profile was determined using self-assessment, the Annet questionnaire, and the dichotic listening task.  Twelve patients were left-handers or retrained left-handers and the remaining 38 patients were right-handers.
+FMRI examination was carried out on a 3.0 T SignaHDxt magnetic resonance tomograph (GE).
+The standard language block design paradigm was used in the study.
+We used the following tests: 1) recitation of months in reverse order; 2) generation of nouns according to the initial letters shown on the screen (K, M, L, N, P, C); 3) generation of verbs according to simple actions shown on the screen; 4) producing sentences using nouns shown on the screen; 5) listening to text through headphones.
+Data were processed using the standard BrainWave PA software (General Electric).
+Z-test was used in the range from 6 to 9.
+In all the studies, p<0.001. Statistical data processing included the nonparametric Spearman's test to determine the correlation between lateralization of the detected activation zone under speech load and tumor location (tumor is adjacent to the language zone, invades the language zone, or is located far from the language zone), as well as left- or right-handedness.
+RESULTS
+Among 16 patients (right-handers and 2 left-handers) the activation of language zones was observed only on the left side; in one left-handed patient, Broca's area was detected only on the right side.
+In other patients (including right-handers with right-sided tumors), lateralization of language zones was different, including bilateral.
+Statistical processing revealed that bilateral activation of both Broca's and Wernicke's areas was more frequently observed in left-handers.
+Broca's area was more frequently detected on the left side in the presence of a distant tumor, while this trend did not apply for Wernicke's area.
+CONCLUSION
+Localization of activation of Broca's area is more dependent on tumor location, while it depends on personal characteristics of an individual in the case of Wernicke's area.

@@ -1,0 +1,16 @@
+Implementation research: towards universal health coverage with more doctors in Brazil.
+OBJECTIVE  To evaluate the implementation of a programme to provide primary care physicians for remote and deprived populations in Brazil.
+METHODS
+The Mais Médicos (More Doctors) programme was launched in July 2013 with public calls to recruit physicians for priority areas.
+Other strategies were to increase primary care infrastructure investments and to provide more places at medical schools.
+We conducted a quasi-experimental, before-and-after evaluation of the implementation of the programme in 1708 municipalities with populations living in extreme poverty and in remote border areas.
+We compared physician density, primary care coverage and avoidable hospitalizations in municipalities enrolled (n = 1450) and not enrolled (n = 258) in the programme.
+Data extracted from health information systems and Ministry of Health publications were analysed.
+FINDINGS
+By September 2015, 4917 physicians had been added to the 16 524 physicians already in place in municipalities with remote and deprived populations.
+The number of municipalities with ≥ 1.0 physician per 1000 inhabitants doubled from 163 in 2013 to 348 in 2015.
+Primary care coverage in enrolled municipalities (based on 3000 inhabitants per primary care team) increased from 77.9% in 2012 to 86.3% in 2015.
+Avoidable hospitalizations in enrolled municipalities decreased from 44.9% in 2012 to 41.2% in 2015, but remained unchanged in control municipalities.
+We also documented higher infrastructure investments in enrolled municipalities and an increase in the number of medical school places over the study period.
+CONCLUSION
+Other countries having shortages of physicians could benefit from the lessons of Brazil's programme towards achieving universal right to health.

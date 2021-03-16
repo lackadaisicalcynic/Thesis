@@ -1,0 +1,9 @@
+[Retinal vein occlusion management algorithm.  Part 3.
+Neovascular complications].  Neovascular complications severity in central/branch retinal vein occlusion (RVO) correlates with the level of occlusion and the degree of retinal perfusion disturbance.
+Large areas of retinal non-perfusion (more than half of the total retinal area) are associated with the risk for posterior segment neovascularization as high as 33% and for neovascular glaucoma - 45%.
+Over the past 30 years there has been an evident declining tendency of neovascular complications rates in the natural course of RVO.  In ischemic RVO, anterior segment neovascularization is more aggressive than posterior.
+Neovascular glaucoma usually develops within the first 6 months of disease and correlates with uncontrolled arterial hypertension.  Panretinal photocoagulation (PRP) is a standard treatment for anterior and posterior segment neovascularization in RVO patients.
+Anti-VEGF agents, if used as monotherapy, lead to rapid, however, short-term remission.  Combination therapy, that is anti-VEGF injections and PRP, is the most effective.
+Intravitreal steroids have demonstrated no effect on ocular neovascularization.
+If PRP cannot be performed and intraocular pressure levels remain high, one should consider glaucoma drainage implant surgery.
+Preventive measures for neovascular complications that have proved effective so far include regular follow-ups, individually scheduled intravitreal injections, and PRP for large zones of ischemia.

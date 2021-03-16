@@ -1,0 +1,14 @@
+AIM  The study objective was to estimate the efficacy of chronic epidural spinal cord stimulation in the treatment of patients with neuropathic pain syndrome.
+MATERIAL AND METHODS
+A system for chronic spinal cord stimulation (St. Jude) was implanted to 75 patients with neuropathic pain syndrome.
+Fifty three (70.7%) patients were diagnosed with failed back surgery syndrome (FBSS); 9 (12.0%) patients had complex regional pain syndrome type II; 4 (5.3%) patients had diabetic polyneuropathy of the lower limbs; 3 (4.0%) patients had idiopathic pelvic-perineal pain; 2 (2.7%) patients had spinal stroke pain; 2 (2.7%) patients had postherpetic intercostal neuralgia; 1 (1.3%) patient had stump pain; 1 (1.3%) patient had spinal cord injury pain.
+The treatment efficacy was evaluated using the visual analog scale (VAS) and DN4 questionnaire.
+The follow-up period ranged from 6 to 18 months.
+RESULTS
+136 patients underwent test stimulation at the Center in 2014.  A significant reduction in pain was observed in 75 (55.1%) patients.
+These patients underwent the second stage of surgery that included implantation of permanent electrodes and a generator.
+The mean VAS score was 6.5 (maximum: 10; minimum: 5) before surgery, 3.2 at discharge, and 3.1 after 3 and 6 months.
+The VAS score amounted to 3.6 after 12 months.
+Complications in the form of pain at the generator implantation site and the need for removal of the system occurred in 2 patients (2.6%), electrode migration was observed in 4 (5.3%) cases.
+CONCLUSION
+Chronic epidural spinal cord stimulation is an effective and safe technique for the treatment of drug-resistant chronic neurogenic pain syndromes.

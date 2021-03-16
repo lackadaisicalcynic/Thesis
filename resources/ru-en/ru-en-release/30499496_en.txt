@@ -1,0 +1,9 @@
+[Modification of glutamatergic mechanisms in the model of posttraumatic stress disorder].
+AIM  To study the involvement of NMDA-dependent mechanisms in the development of posttraumatic stress disorder (PTSD) by investigation of the effects induced by NMDA application in olfactory cortex slices of active and passive rats exposed to inescapable water-immersion stress.
+MATERIAL AND METHODS
+Wistar rats were selected in behavioral experiments according to their active or passive behavior.
+Rats were subjected to unavoidable water-immersion stress, and then after 10 days the surviving brain slices (olfactory cortex) were prepared.  NMDA-dependent responses were recorded and analyzed after 50 μM NMDA applications on the slices.
+RESULTS AND CONCLUSION
+Different changes in NMDA-stimulated amplitudes were detected in brain slices of rats depending on their passive or active behavior during the formation of PTSD.
+NMDA responses in the brains of rats with active behavioral strategy were more resistant to stress.
+Their activity was inhibited, but not blocked.  In rats with passive behavior strategies, NMDA-dependent mechanisms were more vulnerable that was manifested as prominent depression of their activity.

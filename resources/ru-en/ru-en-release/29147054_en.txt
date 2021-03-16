@@ -1,0 +1,11 @@
+Service readiness of health facilities in Bangladesh, Haiti, Kenya, Malawi, Namibia, Nepal, Rwanda, Senegal, Uganda and the United Republic of Tanzania.
+Objective
+To evaluate the service readiness of health facilities in Bangladesh, Haiti, Kenya, Malawi, Namibia, Nepal, Rwanda, Senegal, Uganda and the United Republic of Tanzania.  Methods
+Using existing data from service provision assessments of the health systems of the 10 study countries, we calculated a service readiness index for each of 8443 health facilities.  This index represents the percentage availability of 50 items that the World Health Organization considers essential for providing health care.
+For our analysis we used 37-49 of the items on the list.  We used linear regression to assess the independent explanatory power of four national and four facility-level characteristics on reported service readiness.
+Findings  The mean values for the service readiness index were 77% for the 636 hospitals and 52% for the 7807 health centres/clinics.
+Deficiencies in medications and diagnostic capacity were particularly common.  The readiness index varied more between hospitals and health centres/clinics in the same country than between them.
+There was weak correlation between national factors related to health financing and the readiness index.
+Conclusion
+Most health facilities in our study countries were insufficiently equipped to provide basic clinical care.
+If countries are to bolster health-system capacity towards achieving universal coverage, more attention needs to be given to within-country inequities.

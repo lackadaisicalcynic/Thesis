@@ -1,0 +1,11 @@
+Use of antibiotics in children younger than two years in eight countries: a prospective cohort study.
+OBJECTIVE  To describe the frequency and factors associated with antibiotic use in early childhood, and estimate the proportion of diarrhoea and respiratory illnesses episodes treated with antibiotics.
+METHODS
+Between 2009 and 2014, we followed 2134 children from eight sites in Bangladesh, Brazil, India, Nepal, Pakistan, Peru, South Africa and the United Republic of Tanzania, enrolled in the MAL-ED birth cohort study.  We documented all antibiotic use from mothers' reports at twice-weekly visits over the children's first two years of life.
+We estimated the incidence of antibiotic use and the associations of antibiotic use with child and household characteristics.  We described treatment patterns for diarrhoea and respiratory illnesses, and identified factors associated with treatment and antibiotic class.
+FINDINGS  Over 1 346 388 total days of observation, 16 913 courses of antibiotics were recorded (an incidence of 4.9 courses per child per year), with the highest use in South Asia.
+Antibiotic treatment was given for 375/499 (75.2%) episodes of bloody diarrhoea and for 4274/9661 (44.2%) episodes of diarrhoea without bloody stools.
+Antibiotics were used in 2384/3943 (60.5%) episodes of fieldworker-confirmed acute lower respiratory tract illness as well as in 6608/16742 (39.5%) episodes of upper respiratory illness.  Penicillins were used most frequently for respiratory illness, while antibiotic classes for diarrhoea treatment varied within and between sites.
+CONCLUSION
+Repeated antibiotic exposure was common early in life, and treatment of non-bloody diarrhoea and non-specific respiratory illnesses was not consistent with international recommendations.
+Rational antibiotic use programmes may have the most impact in South Asia, where antibiotic use was highest.

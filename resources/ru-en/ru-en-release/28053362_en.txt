@@ -1,0 +1,11 @@
+Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium.
+OBJECTIVE  To assess the cost-effectiveness of the tuberculosis screening activities currently funded by the Flemish government in Flanders, Belgium.
+METHODS
+After estimating the expenses for 2013-2014 of each of nine screening components - which include high-risk groups, contacts and people who are seeking tuberculosis consultation at a centre for respiratory health care - and the associated costs per active case of tuberculosis identified between 2007 and 2014, we compared the cost-effectiveness of each component.
+The applied perspective was that of the Flemish government.
+FINDINGS
+The three most cost-effective activities appeared to be the follow-up of asylum seekers who were found to have abnormal X-rays in initial screening at the Immigration Office, systematic screening in prisons and contact investigation.  The mean costs of these activities were 5564 (95% uncertainty interval, UI: 3791-8160), 11 603 (95% UI: 9010-14 909) and 13 941 (95% UI: 10 723-18 201) euros (€) per detected active case, respectively.
+The periodic or supplementary initial screening of asylum seekers and the screening of new immigrants from high-incidence countries - which had corresponding costs of €51 813 (95% UI: 34 855-76 847), €126 236 (95% UI: 41 984-347 822) and €418 359 (95% UI: 74 975-1 686 588) - appeared much less cost-effective.
+Between 2007 and 2014, no active tuberculosis cases were detected during screening in the juvenile detention centres.
+CONCLUSION
+In Flanders, tuberculosis screening in juvenile detention centres and among new immigrants and the periodic or supplementary initial screening of asylum seekers appear to be relatively expensive ways of detecting people with active tuberculosis.

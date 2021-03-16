@@ -1,0 +1,14 @@
+[Impact of current approaches to laboratory screening of donated blood and its components on hepatitis B virus infection in patients with blood system diseases].  AIM
+To evaluate the detection rate of markers for hepatitis B virus (HBV) in the blood samples taken from patients with blood system diseases, by applying the current approaches to examining donated blood and its components for markers of viral infections.
+MATERIAL AND METHODS
+The investigation included blood samples from patients with blood system diseases (n=364) and donors (n=5,011).
+The results of laboratory screening of donated blood samples (n=13,081) were retrospectively analyzed.
+Commercial kits of reagents were used for immunochemical assay and polymerase chain reaction.
+RESULTS
+Patients with blood system diseases were recorded to have markers of active HBV infection in 12.6% of cases, anti-HBc in 31.3%, and anti-HBs in 37.6%.
+A retrospective analysis of the results of screening donated blood samples showed the presence of markers for active HBV infection in 0.28% of cases.
+A prospective examination of blood donors revealed markers of HBV infection in 4.83% of cases, including those of active forms in 0.54% and anti-HBc in 4.79%.
+The markers of active HBV infection in donors were only anti-HBc IgM in 0.42% of cases.  The blood samples from donors with an anti-HBs titer of >200 mIU/ml contained anti-HBc IgM in 10.5%.
+CONCLUSION  In the last 5-7 years, the detection rate of markers of HBV infection in the blood samples of patients with blood system diseases have remained at a high level.
+Screening for decreed markers fails to identify people with inapparent infections among the donors.
+Even high anti-HBs concentrations in the donated blood may be a risk for HBV transmission by transfusion to a recipient.

@@ -1,0 +1,14 @@
+[Studying the association between genetic polymorphism of growth factors and the development of primary open-angle glaucoma].  Primary open-angle glaucoma (POAG) is a multifactorial disease, etiopathogenesis of which largely depends on growth factors.
+Possessing a variety of medical and biological effects, these cytokines may influence the development and progression of POAG.
+AIM  to reveal the role of genetic polymorphisms of growth factors in predisposition to developing POAG that is refractory to local hypotensive therapy.
+MATERIAL AND METHODS
+The object of the study were 162 patients with stage II-III POAG, in whom local hypotensive therapy was inefficient, 90 patients with stage II-III POAG well controlled on local hypotensive therapy, and 191 controls.
+The material for the study was venous blood taken from the cubital vein of a proband.
+Isolation of genomic DNA was performed by phenol-chloroform extraction.
+Analysis of genetic polymorphisms of growth factors was performed through allelic discrimination.  For that, synthesis of DNA was carried out via polymerase chain reaction (PCR).
+RESULTS
+It is found that the T IGFR-1 genetic variant (OR=1.34) and a combination of the C VEGF-A and T IGFR-1 genetic variants (OR=1.90) are risk factors of developing POAG that is refractory to local hypotensive therapy.
+A statistical model for predicting such a risk has been proposed that includes: VEGF-A с.-958C>T genetic marker (rs 833,061), age, concomitant non-inflammatory ocular diseases, microvascular changes in the conjunctiva, the degree of pigmentation of the angle of the anterior chamber, and pseudoexfoliative syndrome.
+Recognition accuracy of the model is 90.42%.
+CONCLUSION
+The T IGFR-1 genetic variant and a combination of the C VEGF-A and T IGFR-1 genetic variants increase the risk of developing POAG that is refractory to local hypotensive therapy.

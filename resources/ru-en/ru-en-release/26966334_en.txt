@@ -1,0 +1,12 @@
+Providing HIV-related services in China for men who have sex with men.
+PROBLEM
+In China, human immunodeficiency virus (HIV) care provided by community-based organizations and the public sector are not well integrated.
+APPROACH
+A community-based organization and experts from the Guangzhou Center for Disease Control and Prevention developed internet-based services for men who have sex with men, in Guangzhou, China.  The internet services were linked to clinical services offering HIV testing and care.
+LOCAL SETTING
+The expanding HIV epidemic among men who have sex with men is a public health problem in China.  HIV control and prevention measures are implemented primarily through the public system.
+Only a limited number of community organizations are involved in providing HIV services.  RELEVANT CHANGES
+The programme integrated community and public sector HIV services including health education, online HIV risk assessment, on-site HIV counselling and testing, partner notification, psychosocial care and support, counting of CD4+ T-lymphocytes and treatment guidance.
+LESSONS LEARNT
+The internet can facilitate HIV prevention among a subset of men who have sex with men by enhancing awareness, service uptake, retention in care and adherence to treatment.
+Collaboration between the public sector and the community group promoted acceptance by the target population.  Task sharing by community groups can increase access of this high-risk group to available HIV-related services.

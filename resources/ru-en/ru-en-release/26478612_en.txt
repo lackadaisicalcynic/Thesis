@@ -1,0 +1,14 @@
+Effectiveness of emergency water treatment practices in refugee camps in South Sudan.
+OBJECTIVE
+To investigate the concentration of residual chlorine in drinking water supplies in refugee camps, South Sudan, March-April 2013.
+METHODS
+For each of three refugee camps, we measured physical and chemical characteristics of water supplies at four points after distribution: (i) directly from tapstands; (ii) after collection; (iii) after transport to households; and (iv) after several hours of household storage.
+The following parameters were measured: free and total residual chlorine, temperature, turbidity, pH, electrical conductivity and oxidation reduction potential.
+We documented water handling practices with spot checks and respondent self-reports.  We analysed factors affecting residual chlorine concentrations using mathematical and linear regression models.
+FINDINGS
+For initial free residual chlorine concentrations in the 0.5-1.5 mg/L range, a decay rate of ~5x10(-3) L/mg/min was found across all camps.
+Regression models showed that the decay of residual chlorine was related to initial chlorine levels, electrical conductivity and air temperature.  Covering water storage containers, but not other water handling practices, improved the residual chlorine levels.
+CONCLUSION  The concentrations of residual chlorine that we measured in water supplies in refugee camps in South Sudan were too low.
+We tentatively recommend that the free residual chlorine guideline be increased to 1.0 mg/L in all situations, irrespective of diarrhoeal disease outbreaks and the pH or turbidity of water supplies.
+According to our findings, this would ensure a free residual chlorine level of 0.2 mg/L for at least 10 hours after distribution.
+However, it is unknown whether our findings are generalizable to other camps and further studies are therefore required.

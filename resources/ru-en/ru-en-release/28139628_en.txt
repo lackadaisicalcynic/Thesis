@@ -1,0 +1,9 @@
+[Parameters of prosaccades and antisaccades as potential markers of anxiety disorders].
+AIM
+To evaluate the parameters of visually-induced saccades and antisaccades in drug-naïve patients with anxiety disorders.
+MATERIAL AND METHODS  A sample consisted of 18 subjects, including 10 healthy people and 8 patients with the diagnosis of anxiety disorder (ICD-10 items F43.0, F41.0, F41.1, F42).
+The authors' method of video-oculography was used to assess eye-movement reactions.
+RESULTS AND CONCLUSION
+An increase in latency of correct antisaccades (AS) and visually-induced saccades (VIS) in patients with anxiety disorders was found.  The effectiveness of task performance did not differ compared to healthy controls.
+A decreased generation of predictive saccades was identified in the experimental group.
+Possible neurophysiological foundations of the saccadic dysfunctions are discussed.

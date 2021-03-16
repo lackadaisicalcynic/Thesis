@@ -1,0 +1,13 @@
+Participants' understanding of informed consent in clinical trials over three decades: systematic review and meta-analysis.
+OBJECTIVE  To estimate the proportion of participants in clinical trials who understand different components of informed consent.
+METHODS
+Relevant studies were identified by a systematic review of PubMed, Scopus and Google Scholar and by manually reviewing reference lists for publications up to October 2013.
+A meta-analysis of study results was performed using a random-effects model to take account of heterogeneity.
+FINDINGS
+The analysis included 103 studies evaluating 135 cohorts of participants.
+The pooled proportion of participants who understood components of informed consent was 75.8% for freedom to withdraw at any time, 74.7% for the nature of study, 74.7% for the voluntary nature of participation, 74.0% for potential benefits, 69.6% for the study's purpose, 67.0% for potential risks and side-effects, 66.2% for confidentiality, 64.1% for the availability of alternative treatment if withdrawn, 62.9% for knowing that treatments were being compared, 53.3% for placebo and 52.1% for randomization.
+Most participants, 62.4%, had no therapeutic misconceptions and 54.9% could name at least one risk.
+Subgroup and meta-regression analyses identified covariates, such as age, educational level, critical illness, the study phase and location, that significantly affected understanding and indicated that the proportion of participants who understood informed consent had not increased over 30 years.
+CONCLUSION
+The proportion of participants in clinical trials who understood different components of informed consent varied from 52.1% to 75.8%.
+Investigators could do more to help participants achieve a complete understanding.

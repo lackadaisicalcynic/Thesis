@@ -1,0 +1,3 @@
+[Possibilities of automated image analysis in pathology].
+Pathology is one of the most dynamically developed medical specialties.  The wide spread of whole-slide imaging systems has leaded to the development of microscopic image analysis software.
+This review shows the possibilities of these programs and their role in the routine work of a pathologist.

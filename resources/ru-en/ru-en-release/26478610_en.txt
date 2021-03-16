@@ -1,0 +1,12 @@
+Monitoring of HIV treatment in seven countries in the WHO Region of the Americas.
+OBJECTIVE
+To determine the prevalence of adequate monitoring and the costs of measuring CD4+ T-lymphocytes (CD4+ cell) and human immunodeficiency virus (HIV) viral load in people receiving antiretroviral therapy (ART) in seven countries in the WHO Region of the Americas.
+METHODS
+We obtained retrospective, longitudinal data for 14 476 adults who started a first ART regimen at seven HIV clinics in Argentina, Brazil, Chile, Haiti, Honduras, Mexico and Peru between 2000 and 2011.  We estimated the proportion of 180-day periods with adequate monitoring, which we defined as at least one CD4+ cell count and one viral load measurement.
+Factors associated with adequate monitoring were analysed using regression methods.  The costs of the tests were estimated.
+FINDINGS  The median follow-up time was 50.4 months; the proportion of 180-day periods with adequate CD4+ cell counts was 69% while the proportion with adequate monitoring was 62%.
+Adequate monitoring was more likely in participants who were older, who started ART more recently, whose first regimen included a non-nucleoside reverse transcriptase inhibitor or who had a CD4+ cell count less than 200 cells/µl at ART initiation.
+The cost of one CD4+ cell count ranged from 7.37 United States dollars (US$) in Argentina to US$ 64.09 in Chile; the cost of one viral load measurement ranged from US$ 20.34 in Brazil to US$ 186.28 in Haiti.
+CONCLUSION
+In HIV-infected participants receiving ART in the WHO Region of the Americas, CD4+ cell count and viral load monitoring was often carried out less frequently than regional guidelines recommend.
+The laboratory costs of monitoring varied greatly.

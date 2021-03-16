@@ -1,0 +1,13 @@
+[SEM visualization of corneal epithelium through lanthanoid staining based on Ca/Nd isomorphous substitution in Ca-dependent molecular systems].  Cumulative biomicroscopic evidence is usually sufficient for the diagnosis of recurrent corneal erosion or bullous keratopathy, however, exploration of the disease pathogenesis requires subcellular-level visualization of corneal structure.
+In the current study, lanthanoid staining and scanning electron microscopy were employed to visualize quite a number of structures responsible for epithelium organization.
+In particular, the study proves possible the use of Ca/Nd isomorphous substitution at Ca2+ sites of cytoadherence proteins for visualization of corresponding cellular structures.
+AIM  To assess the value of information provided by scanning electron microscopy of corneal epithelium that involves lanthanoid staining based on the Ca/Nd isomorphous substitution in Ca-dependent molecular systems.
+MATERIAL AND METHODS
+Anterior corneal epithelial scrapes were obtained from patients with recurrent corneal erosion or bullous keratopathy and cadaver eyes with no signs of any ophthalmic disease.  Samples were then studied under a scanning electron microscope (Zeiss EVO LS10, BSE, EP - 79 Pa, 20-28 kV, Ln-staining with the BioREE assay kit).
+RESULTS
+In all cases, lanthanoid staining of biopsy material provided high-contrast SEM images with well-recognizable structural and ultrastructural elements associated with Ca2+ sites of cytoadherence proteins.
+CONCLUSION
+Lanthanoid staining of biopsy material and subsequent SEM enabled detailed visualization of structural features of the corneal epithelium in various pathologies.
+Due to the Ca/Nd isomorphism we were able to evaluate structural position of the majority of protein molecules engaged in Ca-dependant processes and, consequently, in cytoadherence.
+Basing on the neodymium distribution within the basal membrane, we have described local effects of different substances on the lamina densa in the projection of basal layer cell borders that occur after unidirectional ultrafiltration.
+The results confirm the failure of the junctional adhesion complex in recurrent corneal erosion.

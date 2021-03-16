@@ -1,0 +1,9 @@
+AIM  To compare an effectiveness of thoracic epidural anesthesia/analgesia, paravertebral and intercostal blockades in prevention of chronic post-thoracotomy pain syndrome (CPTPS) in oncosurgery.
+MATERIAL AND METHODS
+There were 300 patients who underwent open surgery including lobectomy or pneumonectomy.
+Patients were randomized into 3 groups depending on type of anesthesia: TEA (n=100) - combined general and epidural anesthesia; PVB (n=50) - combined general and paravertebral anesthesia; ICB (n=50) - general anesthesia was supplemented by intercostal blockade after removal of the drug.
+RESULTS
+CPTPS incidence was 34 and 40% in 6 months postoperatively after PVB and ICB, respectively (p>0.05).
+In TEA group this value was significantly lower compared with ICB group (23%, p<0.05).
+CONCLUSION
+TEA contributes to significant reduction of CPTPS incidence, while paravertebral blockade does not affect the frequency of this complication.

@@ -1,0 +1,14 @@
+[Evaluation of markers for renal graft dysfunction in patients with type 1 diabetes mellitus after kidney transplantation and simultaneous pancreas-kidney transplantation].
+AIM
+To study the markers of renal graft dysfunction in patients with type 1 diabetes mellitus (T1DM) after kidney transplantation (KT) and simultaneous pancreas-kidney transplantation (SPKT).  SUBJECTS AND METHODS
+The investigation enrolled 20 patients after successful SPKT and 41 patients after KT (of them 21 received continuous subcutaneous insulin infusion with an insulin doser; 20 had multiple insulin injections).
+The periods after KT and SPKT at patient inclusion were 8 (7; 8) and 11 (8; 18) months, respectively.  A control group comprised 15 patients with T1DM without diabetic nephropathy.
+The patients were matched for gender, age, and T1DM duration.
+At a 9-month follow-up, the main biomarkers of kidney graft dysfunction were identified using the standard kits: Cystatin C (Cys C; serum; urine), NGAL, KIM-1, Podocin, Nephrin, IL-18, MMP-9 (urine), TGF-β1, VEGF-A, and Osteopontin (OPN; serum).
+Fasting blood was taken; a morning urinary portion was examined.
+RESULTS
+The posttransplantation glomerular filtration rate (GFR) in the patients corresponded to Stage C2; albuminuria did to Category A1 chronic kidney disease.
+Despite successful SPKT in the group of patients with T1DM, as in that of patients after isolated KT, there was a statistically significant increase in the level of kidney dysfunction markers (Cys C, NGAL, Podocin, and OPN) versus the control group regardless of the compensation for glucose metabolism. compensation.
+It was found that the level of Cys C was high and correlated negatively with GFR (r=-0.36; p<0.05) and positively with the level of albuminuria (r=0.40; p<0.05).  There was also a direct correlation of urinary podocin concentrations with blood creatinine levels (r=0.35; p<0.05) and that of NGAL with albuminuria (r=0.35; p<0.05) in recipients after transplantation.
+CONCLUSION
+The high levels of biomarkers for kidney graft dysfunction in the examinees (including subjects after SPKT) reflect the persistence of graft microstructural injuries in clinically stable function.

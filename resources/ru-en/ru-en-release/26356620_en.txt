@@ -1,0 +1,4 @@
+[Incidence of alcoholic psychoses, mortality from alcoholic poisonings and diseases of the liver and in Russia].
+Authors studied the influence of availability of beer on mortality from alcoholic poisonings, diseases of a liver and incidence of alcoholic psychoses in Russia during 1995-2011.
+Time series analysis was performed using the method of ARIMA.
+There were no significant associations between the availability of beer and levels of mortality and morbidity.

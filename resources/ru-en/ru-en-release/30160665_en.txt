@@ -1,0 +1,16 @@
+[Cognitive dysfunction and the progression of neurodegenerative process in patients with multiple sclerosis].  INTRODUCTION
+Neurodegeneration (ND) is the basis of the gradual increase in neurological deficit and cognitive impairment in patients with multiple sclerosis (MS).
+Morphometry of the brain is the method for monitoring of ND.  The possibility of using neuropsychological tests for this purpose is being actively discussed.
+AIM
+To examine the effect of treatment with interferon beta-1b (IFNb-1b) on the development of the neurodegenerative process according to morphometry and cognitive testing.
+MATERIAL AND METHODS
+Twenty-three patients with relapsing-remitting MS were examined.
+The control group included 10 healthy people.
+All patients received IFNb-1b in a dose of 9.6 million IU.
+EDSS, MSFC, depression and anxiety Beck test, Wechsler test, magnetic resonance imaging (MRI) of the brain, voxel morphometry with FreeSurfer 5.3 were used.  The EDSS score was 4.0 before treatment.
+RESULTS  In MS patients, MSFC and Wechsler scores were worse in comparison with similar indicators of the control group.
+Deterioration of neurological status, motor function test and PASAT during exacerbation was identified in 7 patients.  Morphometry revealed the increase in hypointense white matter lesions (HWML) (p<0.05) in patients with MS.
+There was a downward trend in the cortical and subcortical gray matter volume and the increase in ventricular volume.  A direct correlation between the amount of HWML and the degree of disability on EDSS scale (p=0.018), the inverse correlation between HWML and Wechsler test, PASAT (p<0.05) were identified.
+After a year of therapy, there were no statistically significant changes in motor and cognitive functions and no signs of 'pseudoatrophy'.  CONCLUSION
+Morphometric data in MS were changed compared to healthy controls.  There were correlations between morphometry results, disability and cognitive dysfunction.
+After a year of IFNb-1b therapy, there were no significant changes in cognitive function and EDSS.

@@ -1,0 +1,19 @@
+AIM  To analyze complications of intrathecal baclofen therapy and identify high-risk groups.
+MATERIAL AND METHODS
+We implanted 52 pumps to spastic patients for chronic intrathecal baclofen infusion.
+Two groups of patients were distinguished: 23 patients with spinal spasticity (group 1) and 29 patients with cerebral spasticity (group 2).  The mean patient age was 37.2±14.6 years in group 1 and 17.3±10.3 years in group 2.
+Surgery was performed according to a standard procedure.
+A Medstream (Codman) pump was implanted in 10 cases, and a Synchromed II (Medtronic) pump was implanted in the remaining 42 cases.
+RESULTS AND DISCUSSION
+Complications developed in 12 (23%) patients.
+We divided complications into 3 groups: baclofen underdose, baclofen overdose, and others.
+Insufficiency of intrathecal therapy was observed in 7 cases, which was caused by catheter migration (5 cases) and pump dysfunction (2 cases).
+In one case, baclofen overdose was observed after air travel.
+Other complications included 4 cases of persistent peri-implant seroma and infectious complications.
+Groups with a high risk of complications were identified based on an analysis of the results.
+Patients with severe dystonia of the trunk muscles have an increased risk of spinal catheter migration.
+Pronounced communicating hydrocephalus is associated with the risk of cerebrospinal fluid leak through a catheter shaft channel.
+Weakness of the axial musculature can lead to progression of scoliotic deformity.
+CONCLUSION
+In some cases, chronic intrathecal baclofen therapy can be accompanied by various complications.
+This technique should be carefully used in patients from high-risk groups.

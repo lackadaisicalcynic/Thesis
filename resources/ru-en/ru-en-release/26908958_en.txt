@@ -1,0 +1,14 @@
+Community-based surveillance of maternal deaths in rural Ghana.
+OBJECTIVE  To examine the feasibility and effectiveness of community-based maternal mortality surveillance in rural Ghana, where most information on maternal deaths usually comes from retrospective surveys and hospital records.
+METHODS
+In 2013, community-based surveillance volunteers used a modified reproductive age mortality survey (RAMOS 4+2) to interview family members of women of reproductive age (13-49 years) who died in Bosomtwe district in the previous five years.
+The survey comprised four yes-no questions and two supplementary questions.
+Verbal autopsies were done if there was a positive answer to at least one yes-no question.  A mortality review committee established the cause of death.
+FINDINGS
+Survey results were available for 357 women of reproductive age who died in the district.  A positive response to at least one yes-no question was recorded for respondents reporting on the deaths of 132 women.
+These women had either a maternal death or died within one year of termination of pregnancy.
+Review of 108 available verbal autopsies found that 64 women had a maternal or late maternal death and 36 died of causes unrelated to childbearing.
+The most common causes of death were haemorrhage (15) and abortion (14).  The resulting maternal mortality ratio was 357 per 100 000 live births, compared with 128 per 100 000 live births derived from hospital records.
+CONCLUSION
+The community-based mortality survey was effective for ascertaining maternal deaths and identified many deaths not included in hospital records.
+National surveys could provide the information needed to end preventable maternal mortality by 2030.

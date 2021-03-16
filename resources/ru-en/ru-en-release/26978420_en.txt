@@ -1,0 +1,14 @@
+[Specific features of the enteric microbiota composition in patients with alcoholic liver cirrhosis].
+AIM  To establish the specific features of the taxonomic and functional composition of the enteric microbiota in patients with alcoholic liver cirrhosis (LC).
+SUBJECTS AND METHODS
+Metagenomic analysis was used to study the taxonomic composition and functional potential of the enteric microbiota in 20 patients with alcoholic LC.  Total DNA was isolated from the patients' fecal samples; thereafter full genome sequencing was carried out.
+The metagenomic analysis yielded the results of the relative taxonomic and functional abundance of microbial species in the test samples.
+These were comparatively analyzed with the previously published metagenomic datasets of healthy population cohorts in the Russian Federation, as well as in Denmark, China, and the USA.  RESULTS
+In the majority of patients, the dominant part of the intestinal community represented bacterial species constituting the normal human intestinal flora.  At the same time, abnormal gut microbiota composition, which was suggestive of marked dysbacteriosis, was identified in a number of patients.
+In addition, pooled analysis of the data could identify a number of species with a statistically significantly increase and decrease in the relative abundance as compared to the control groups.  Thus, the enteric microbiota of the patients with alcoholic LC showed a high proportion of bacteria characteristic of the oral cavity.
+Analysis of the pooled metabolic potential of the microbiota in these patients demonstrated the higher abundance of enzyme genes involved in alcohol metabolism.
+CONCLUSION
+In the patients with alcoholic LC, the microbiota composition changes identified in individual bacterial species may be associated with gastrointestinal comorbidities, such as chronic erosive gastritis, chronic pancreatitis, and gastric ulcer.
+The alterations occurring in alcoholic cirrhosis promote the penetration and generation of oral cavity-specific microorganisms in the human intestine.
+This may a potential biomarker for the diagnosis of liver diseases.
+The bacterial enzyme genes involved in alcohol metabolism have an increased abundance in patients with alcoholic LC and healthy volunteers from the Russian Federation.

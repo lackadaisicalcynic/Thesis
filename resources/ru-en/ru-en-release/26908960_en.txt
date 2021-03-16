@@ -1,0 +1,11 @@
+Mortality from neglected tropical diseases in Brazil, 2000-2011.
+OBJECTIVE  To describe mortality from neglected tropical diseases (NTDs) in Brazil, 2000-2011.
+METHODS
+We extracted information on cause of death, age, sex, ethnicity and place of residence from the nationwide mortality information system at the Brazilian Ministry of Health.
+We selected deaths in which the underlying cause of death was a neglected tropical disease (NTD), as defined by the World Health Organization (WHO) and based on its International statistical classification of diseases and related health problems, 10th revision (ICD-10) codes.
+For specific NTDs, we estimated crude and age-adjusted mortality rates and 95% confidence intervals (CI).  We calculated crude and age-adjusted mortality rates and mortality rate ratios by age, sex, ethnicity and geographic area.
+FINDINGS
+Over the 12-year study period, 12 491 280 deaths were recorded; 76 847 deaths (0.62%) were caused by NTDs.
+Chagas disease was the most common cause of death (58 928 deaths; 76.7%), followed by schistosomiasis (6319 deaths; 8.2%) and leishmaniasis (3466 deaths; 4.5%).  The average annual age-adjusted mortality from all NTDs combined was 4.30 deaths per 100 000 population (95% CI: 4.21-4.40).
+Rates were higher in males: 4.98 deaths per 100 000; people older than 69 years: 33.12 deaths per 100 000; Afro-Brazilians: 5.25 deaths per 100 000; and residents in the central-west region: 14.71 deaths per 100 000.  CONCLUSION
+NTDs are important causes of death and are a significant public health problem in Brazil.  There is a need for intensive integrated control measures in areas of high morbidity and mortality.

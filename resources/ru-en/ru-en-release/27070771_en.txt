@@ -1,0 +1,14 @@
+[Immunohistochemical study of the role of mast cells and macrophages in the process of angiogenesis in the atherosclerotic plaques in patients with metabolic syndrome].  OBJECTIVE
+to analyze the histotopographic distribution of neogenic vessels, the degree of mast cell degranulation, the expression of markers of macrophages in different types of plaques in different stages and in different arterial vessels in patients with atherosclerosis and in those with metabolic syndrome associated with atherosclerosis and to establish the role of mast cells and macrophages in the development of stages of atherosclerosis along with their diagnostic and prognostic value.
+MATERIAL AND METHODS
+Fragments of the thoracic and abdominal aorta, middle cerebral, carotid, renal, and iliac, and vertebral arteries from 34 persons who had died from atherosclerosis (n=17) and atherosclerotic complications due to metabolic syndrome (n=17) were examined.
+The investigators employed standard techniques, such as hematoxylin-eosin or orcein staining; silver impregnation.
+They used immunohistochemical staining with anti-mast cell tryptase (anti-MCT) for the determination of mast cells, the specific markers CD68 for macrophages, and CD105 (endoglin) for neogenic vessels.
+RESULTS
+The immunohistochemical technique is effective in identifying mast cells, macrophages, and neogenic vessels in atherosclerotic plaques.
+They were found in many types of atherosclerotic plaques, advantium, and subendothelial layers in the immediate vicinity of the plaques.
+There was a statistical correlation between the types of plaques and clinical data, which is of importance in elucidating the specific features of the pathogenesis of atherosclerosis in patients with metabolic syndrome.
+CONCLUSION
+CD105 is a sensitive marker for neogenic endothelial cells, an effective indicator of microvascular activation and proliferation in the atherosclerotic plaques.
+Neovascularization in the plaques frequently begins in the intima, progresses, and gives rise to their further destabilization.
+Anti-MCT staining used to reveal mast cells and CD68 for macrophages can elucidate the important patterns of development of atherosclerosis and its complications in patients with metabolic disturbances.

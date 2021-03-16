@@ -1,0 +1,2 @@
+[Application of whole exome sequencing in the diagnosis of hereditary neurological diseases].  Whole Exome Sequencing (WES) is a promising method in human genetics.
+Because the majority of pathogenic mutations that lead to the development of diseases are localized in exons and splice sites, WES could become a major tool for the diagnosis of diseases with a complex hereditary nature.  This tool appears to be particularly useful for hereditary neurological diseases, such as autism spectrum disorders, Charcot-Marie-Tooth disease and others.

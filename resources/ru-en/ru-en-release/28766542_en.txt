@@ -1,0 +1,17 @@
+[Efficacy of a bendamustine and rituximab combination in first-line therapy for chronic lymphocytic leukemia: Results of the BEN-001 study].
+AIM
+To evaluate the efficacy and safety of the BR regimen containing bendamustine in patients with chronic lymphocytic leukemia (CLL) who have not previously received specific therapy.  SUBJECTS AND METHODS
+The results of the Russian prospective observational multicenter study BEN-001 (2012-2015) covering 196 CLL patients from 34 centers of the Russian Federation were analyzed.
+The diagnosis was confirmed by the results of peripheral blood lymphocyte immunophenotyping.  A centralized approach was employed to make IGHV gene mutational status analysis, FISH examination, and minimal residual disease according to standardized methods.
+Quality-of-life (QOL) indicators were estimated using the EQ-5D and FACT-Leu questionnaires.
+Survival rates were calculated applying by the Kaplan-Meier method.
+RESULTS
+The patients' median age was 61 years.
+41% of patients had a decline in estimated creatinine clearance less than 70 ml/min/1.73 m2.
+The combination of bendamustine and rituximab could achieve a common response in 83.2% of the patients, including complete remission in 59.7%.
+Eradication of minimal residual disease was achieved in 23 (27.4%) of 84 patients.
+Two-year progression-free survival rates were 85.9%.
+The QOL indicators were noted to be improved during the treatment.
+CONCLUSION
+The investigation shows the good tolerability of bendamustine when it is used in clinical practice.
+Due to the high cost of new drugs (ibrutinib, obinutuzumab, ofatumumab, etc.) and toxicity of the FCR regimen, the combination including bendamustine can be the best first-line therapy option for all CLL patients, regardless of their age and comorbidity.

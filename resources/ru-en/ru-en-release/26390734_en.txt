@@ -1,0 +1,5 @@
+[SOCSJ gene mutations in patients with diffuse large B-cell lymphoma].
+Diffuse large B-cell lymphoma (DLBCL) is a heterogeneous group of diseases, which accounts for 30% of all non-Hodgkin lymphomas.
+Current molecular studies have confirmed that there are several DLBCL subtypes characterized by different cellular origin, cytogenetic profile, molecular genetic disorders, and different pathogenesis.  Impaired JAK-STAT signaling is a part of the pathogenesis of various cancers, including DLBCL.
+The review deals with the molecular genetic aspects of the occurrence of DLBCL and the function of the SOCSI gene that has been proven to be responsible for the development of several cancers.
+Mutations of this gene result from spontaneously impaired B-cell somatic hypermutation and they are frequently inactivating.  The presence of point mutations in the functionally significant region of this gene in DLBCL could identify a group of patients with poor prognosis during standard chemotherapy.

@@ -1,0 +1,12 @@
+Estimated economic impact of vaccinations in 73 low- and middle-income countries, 2001-2020.  OBJECTIVE
+To estimate the economic impact likely to be achieved by efforts to vaccinate against 10 vaccine-preventable diseases between 2001 and 2020 in 73 low- and middle-income countries largely supported by Gavi, the Vaccine Alliance.
+METHODS
+We used health impact models to estimate the economic impact of achieving forecasted coverages for vaccination against Haemophilus influenzae type b, hepatitis B, human papillomavirus, Japanese encephalitis, measles, Neisseria meningitidis serogroup A, rotavirus, rubella, Streptococcus pneumoniae and yellow fever.
+In comparison with no vaccination, we modelled the costs - expressed in 2010 United States dollars (US$) - of averted treatment, transportation costs, productivity losses of caregivers and productivity losses due to disability and death.
+We used the value-of-a-life-year method to estimate the broader economic and social value of living longer, in better health, as a result of immunization.
+FINDINGS
+We estimated that, in the 73 countries, vaccinations given between 2001 and 2020 will avert over 20 million deaths and save US$ 350 billion in cost of illness.
+The deaths and disability prevented by vaccinations given during the two decades will result in estimated lifelong productivity gains totalling US$ 330 billion and US$ 9 billion, respectively.
+Over the lifetimes of the vaccinated cohorts, the same vaccinations will save an estimated US$ 5 billion in treatment costs.  The broader economic and social value of these vaccinations is estimated at US$ 820 billion.
+CONCLUSION
+By preventing significant costs and potentially increasing economic productivity among some of the world's poorest countries, the impact of immunization goes well beyond health.

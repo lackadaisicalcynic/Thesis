@@ -1,0 +1,13 @@
+[Clinical presentation of Ixodes tick-borne borreliosis caused by Borrelia miyamotoi in the context of an immune response to the pathogen].  Ixodes tick-borne borreliosis caused by Borrelia miyamotoi (ITBB-BM) is a previously unknown infectious disease discovered in Russia.
+AIM  The present study continues the investigation of the clinical features of ITBB-BM in the context of an immune system-pathogen interaction.
+SUBJECTS AND METHODS  The study enrolled 117 patients with ITBB-BM and a comparison group of 71 patients with Lyme disease (LD) that is ITBB with erythema migrans.
+All the patients were treated at the New Hospital, Yekateringburg.
+More than 100 clinical, epidemiological and laboratory parameters were obtained from each patient's medical history and included in the general database.  A subset of patients hospitalized in 2015 and 2016 underwent additional laboratory examinations.
+Namely, the levels of B. miyamotoi-specific IgM and IgG antibodies were measured by the protein microarray containing GlpQ protein and four variable major proteins (VMPs): Vlp15/16, Vlp18, Vsp1, and Vlp5.  The blood concentration of Borrelia was estimated by quantitative real-time PCR.
+RESULTS
+In contrast to LD, first of all (p<0.001) the following clinical features were typical for ITBB-BM: the absence of erythema migrans (in 95% of patients), fever (93%), fatigue (96%), headache (82%), chill (41%), nausea (28%), lymphopenia (56%), thrombocytopenia (46%), the abnormal levels of alanine aminotransferase (54%) and C-reactive protein (98%), proteinuria (61%).
+Given the set of these indicators, the course of ITBB-BM was more severe in approximately 70% of patients.
+At admission, only 13% and 38% of patients had antibodies to GlpQ and VMPs, respectively; at discharge, antibodies to GlpQ and VMPs were detected in 88% of patients.
+There was no statistically significant association of the antibody response with individual clinical manifestations and laboratory parameters of the disease.  However, patients with more severe ITBB-BM produced less IgM antibodies to VMPs and GlpQ at the time of discharge.
+CONCLUSION
+ITBB-BM is a moderate systemic disease accompanied by the production of specific antibodies in virtually all patients.

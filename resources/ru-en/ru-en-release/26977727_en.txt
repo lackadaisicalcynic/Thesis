@@ -1,0 +1,6 @@
+[Retinal vein occlusion management algorithm.  Part 1.
+Classification, diagnosis, and acute-stage treatment].
+Considering an upward global trend in cardiovascular disease rates, retinal vein occlusion (RVO) in particular, development of therapeutic guidelines is a pressing issue in ophthalmology.  Risk factors for RVO include hypertension, atherosclerosis, diabetes mellitus, blood disorders, inflammatory disorders, and prescription drug use.
+Three stages of RVO have been identified.
+By location, the entity can be divided into three big groups: central retinal vein occlusion (CRVO), branch retinal vein occlusion (BRVO), and hemicentral retinal vein occlusion (HCRVO), each being either ischemic or nonischemic.  Functional prognosis is better in nonischemic occlusions.
+Patient management comprises acute-stage treatment (anticoagulants, fibrinolytic agents, and hemodilution) and struggling with ocular complications (intravitreal injections and laser coagulation).  It is essential that primary assessment and follow-up of patients at any stage of RVO include optical coherence tomography and fluorescent angiography.

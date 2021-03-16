@@ -1,0 +1,12 @@
+[Possibilities of using cepeginterferon alpha-2b in double (cepeginterferon alfa-2b and ribavirin) and triple (simeprevir, cepeginterferon alpha-2b, and ribavirin) antiviral therapy regimens for chronic hepatitis C.  A review of clinical trials and experience of everyday clinical practice].  Since the incidence of chronic hepatitis C (CHC) increases steadily, the priority of national health care is to provide antiviral therapy (AVT) for the maximum number of patients infected with hepatitis C virus (HCV).
+The regimens including pegylated interferons (PEG-IFN) are still in demand in the Russian Federation.
+A number of clinical trials have been conducted to evaluate the efficacy and safety of cepeginterferon alpha-2b (cePEG-IFN alpha-2b), an original PEG-IFN-α developed in the Russian Federation.
+Their results have shown that cePEG-IFN alpha-2b in the two-component AVT regimen has at least no less clinical efficacy than PEG-IFN alpha-2b and PEG-INF alpha-2a in HCV monoinfected and HCV/HIV co-infected patients.
+The pooled analysis of data has indicated that the use of cePEG-IFN alpha-b in combination with ribavirin allows an average of 80% of the patients with HCV genotypes 2 and 3 and 62% of those with HCV genotype 1 to achieve a sustained virological response (SVR).
+In clinical practice when the two-component AVT regimen (cePEG-IFN alpha-b and ribavirin) was used in patients with early-stage CHC and mild fibrosis, SVR was recorded in 90.7% of the patients with HCV genotype 2/3 and in 75% of those with HCV genotype 1.
+The experience in using cePEG-IFN alpha-2b as a component of the three-component AVT regimen (simeprevir, cePEG IFN alfa-2b, and ribavirin) has been published.
+The observational program manly covered young patients with mild or moderate fibrosis.
+SVR was observed in 94% of the patients.
+Another paper describes the experience with the triple AVT therapy (simeprevir, cePEG-IFN alfa-2b, and ribavirin) in 22 patients, the majority of whom had advanced fibrosis.
+SVR was recorded in 71.4% of those who had completed treatment.
+Thus, an individual approach and assessment of predictive response factors to two- or three-component AVT regimens including cePEG-IFN alpha 2b can achieve successful treatment outcomes in most patients with CHC, which is, in some cases, more economically sound than interferon-free regimens used as first-line therapy.

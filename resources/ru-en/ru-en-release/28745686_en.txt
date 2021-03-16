@@ -1,0 +1,16 @@
+[Effects of keto/amino acids and a low-protein diet on the nutritional status of patients with Stages 3B-4 chronic kidney disease].
+AIM  To evaluate the efficacy of keto/amino acids in maintaining protein balance and preventing mineral metabolic disturbances and the development of uremic hyperparathyroidism in the long-term use of a low-protein diet (LPD) in patients with Stages 3B-4 chronic kidney disease (CKD).
+SUBJECTS AND METHODS
+Ninety patients with CKD caused by chronic latent glomerulonephritis in 65 patients and chronic tubulointerstitial nephritis of various etiologies (gout, drug-induced, and infection) in 25 were examined.
+The investigators conducted clinical, laboratory, and instrumental examinations, including bioelectrical impedance analysis (body mass index (BMI), the percentages of lean and fat mass), echocardiography and radiography of the abdominal aorta in the lateral projection (the presence of cardiac valvular and aortic calcification), and pulse wave velocity measurements using a Sphygmocor apparatus (vessel stiffness estimation).
+The stages of CKD were defined according to the 2012 Kidney Disease: Improving Global Outcomes (KDIGO) criteria; glomerular filtration rate was calculated using the CKD EPI equation.
+According to the diet used, all the patients were divided into 3 groups: 1) 30 patients who took LPD (0.6 g of protein per kg of body weight/day) in combination with the keto/amino acid ketosteril (1 tablet per 5 kg of body weight/day; Diet One); 2) 30 patients who used LPD in combination with the other keto/amino acid ketoaminol at the same dose (Diet Two); 3) 30 patients had LPD without using the keto/amino acids (Diet Three) (a control group).
+RESULTS
+During a follow-up, there were no signs of malnutrition in Groups 1 and 2 patients receiving LPD (0.6 g protein per kg/day) in combination with the keto/amino acids ketosteril and ketaminol, respectively.
+At the same time, 11 (36.6%) patients in Group 3 (a control group) who did not take the keto/amino acids showed a BMI decrease from 24 (23; 26) kg/m2 to 18.5 (17; 19.2) kg/m2 (p < 0.05), including that of lean body mass from 37.4 (36; 38.8) to 30 (29.1; 34.7)% in the men (p<0.05) and from 29.8 (26.8; 31) to 23.9 (22; 25.7)% in the women (p<0.01).
+In addition, at the end of the study, there were elevated serum phosphorus levels (p<0.05) and mainly higher parathyroid hormone concentrations in Group 3 patients who received LPD without using the amino/keto acids than in Groups 1 and 2.
+As compared to Group 3, Groups 1 and 2 displayed no differences in the quantity of cardiac and aortic calcification and in the augmentation index (arterial stiffness).
+The ketosteril and ketaminol groups versus the control group had also higher s-Klotho levels (p<0.01) that were inversely correlated with glomerular filtration rate (r =-0.467; p<0.01).
+CONCLUSION
+The keto/amino acids ketosteril or ketoaminol are an important component of LPD, which prevents malnutrition and an additional source of calcium that inhibits hyperphosphatemia and slows the development of uremic hyperparathyroidism.
+Incorporation of keto/amino acids into LPD leads to a less pronounced reduction in s-Klotho protein in relation to the degree of renal failure than does LPD without keto/amino acids.

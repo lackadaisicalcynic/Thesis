@@ -1,0 +1,8 @@
+[Carbonization in endovasal laser obliteration by radial light guide with wavelength of 1470 and 970 nm].  The authors assessed the effect of carbonization and its influence on the parameters of endovasal laser obliteration (EVLO) depending on wavelength of laser radiation (970 and 1470 nm) using a light guide with radial emission.
+They also analysed the value of drop of radiation power of the light guide after performing EVLO and visually assessed the degree of damage of the glass tip of the radial fibre by means of ultra-close-up photography.
+The study comprised a total of 20 patients with varicose disease.
+A total of ten procedures of EVLO were performed in two modes: mode one - W-laser 1470 nm, mode two - H-laser 970 nm, using fibre with radial emission, an automatic retractor of the light guide.
+It was determined that the median of power loss after EVLO with W-laser amounted to 0.6 W, and that for H-laser - 3.15 W (p=0.002).
+Ultra-close-up photography showed pronounced damage of the glass tip of the radial light guide while using H-laser and no damages while using the W-laser.
+It was proved that using laser radiation with wavelength of 970 nm using the light guide with radial emission leads to pronounced carbonization on the surface of the glass tip of the light guide, its damage, a decrease in radiation power and risk of mechanical destruction of the flask.
+Using the laser with wavelength of 1470 nm with the use of radial light guide did not result in the development of such negative effects, which increases the service life of laser fibre and makes it possible to use it for obliteration of several segments in one patient.

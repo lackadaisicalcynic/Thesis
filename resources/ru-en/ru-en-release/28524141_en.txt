@@ -1,0 +1,14 @@
+AIM  to assess the relative risk (RR) of senile cataract in a cohort of workers occupationally exposed to external gamma-rays over a long time period.
+MATERIAL AND METHODS
+The RR of cataract development was studied in a cohort of nuclear workers that were first employed in 1948-1982 and followed up till the end of 2008 (n=22,377; females, 25.4%).
+The mean age at initial employment was 24.9 years.
+The mean cumulative gamma-ray dose was 0.54 Sv in males and 0.44 Sv in females.
+The analysis performed with EPICURE software provided RR estimates for cataract incidence in relation to a number of non-radiation and radiation factors.
+RESULTS
+The RR of senile cataract increased with the attained age of the workers.
+The RR was significantly higher in males during the 2006-2008 period as compared to the 1996-2005 period.
+The RR was significantly higher in workers that were diagnosed with glaucoma and high myopia as compared to those that were not.
+The risk of senile cataract increased with the external gamma-ray dose and was the highest in workers who had formerly been exposed to doses above 2.00 Sv.
+The RR of senile cataract showed no dependency on sex, age at initial employment, smoking status, alcohol consumption, or diabetes mellitus.
+CONCLUSION
+The incidence of senile cataract in the cohort under study was found to depend on both non-radiation and radiation factors.

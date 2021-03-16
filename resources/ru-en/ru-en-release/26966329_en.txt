@@ -1,0 +1,14 @@
+Nutritional quality of diet and academic performance in Chilean students.
+OBJECTIVE  To explore associations between the nutritional quality of diet at age 16 years and academic performance in students from Santiago, Chile.
+METHODS
+We assessed the nutritional quality of diet, using a validated food frequency questionnaire, in 395 students aged 16.8 ± 0.5 years.
+Depending on the amount of saturated fat, fibre, sugar and salt in the foods, diet was categorized as unhealthy, fair or healthy.
+Academic performance was assessed using high school grade-point average (GPA) and tests for college admission in language and mathematics.
+Academic results on or above the 75th percentile in our sample were considered good academic performance.
+We tested associations between nutritional quality of diet and good academic performance using logistic regression models.
+We considered sociodemographic, educational and body-mass index (BMI) factors as potential confounders.
+FINDINGS
+After controlling for potential confounding factors, an unhealthy diet at age 16 years was associated with reduced academic performance.
+Compared to participants with healthy diets, those with unhealthy diets were significantly less likely to perform well based on language tests (odds ratio, OR: 0.42; 95% confidence interval, CI: 0.18-0.98) mathematics tests (OR: 0.35; 95% CI: 0.15-0.82) or GPA (OR: 0.22; 95% CI: 0.09-0.56).
+CONCLUSION
+In our sample, excessive consumption of energy-dense, low-fibre, high-fat foods at age 16 years was associated with reduced academic performance.

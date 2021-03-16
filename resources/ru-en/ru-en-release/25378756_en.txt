@@ -1,0 +1,13 @@
+Hand, foot and mouth disease in China: evaluating an automated system for the detection of outbreaks.  OBJECTIVE
+To evaluate the performance of China's infectious disease automated alert and response system in the detection of outbreaks of hand, foot and mouth (HFM) disease.
+METHODS
+We estimated size, duration and delay in reporting HFM disease outbreaks from cases notified between 1 May 2008 and 30 April 2010 and between 1 May 2010 and 30 April 2012, before and after automatic alert and response included HFM disease.
+Sensitivity, specificity and timeliness of detection of aberrations in the incidence of HFM disease outbreaks were estimated by comparing automated detections to observations of public health staff.
+FINDINGS
+The alert and response system recorded 106,005 aberrations in the incidence of HFM disease between 1 May 2010 and 30 April 2012 - a mean of 5.6 aberrations per 100 days in each county that reported HFM disease.
+The response system had a sensitivity of 92.7% and a specificity of 95.0%.
+The mean delay between the reporting of the first case of an outbreak and detection of that outbreak by the response system was 2.1 days.
+Between the first and second study periods, the mean size of an HFM disease outbreak decreased from 19.4 to 15.8 cases and the mean interval between the onset and initial reporting of such an outbreak to the public health emergency reporting system decreased from 10.0 to 9.1 days.
+CONCLUSION
+The automated alert and response system shows good sensitivity in the detection of HFM disease outbreaks and appears to be relatively rapid.
+Continued use of this system should allow more effective prevention and limitation of such outbreaks in China.

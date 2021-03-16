@@ -1,0 +1,19 @@
+[Diagnosis and treatment in patients with B-cell lymphoma unclassified that is intermediate between diffuse large B-cell lymphoma and Burkitt's lymphoma].
+AIM  To characterize a group of patients with B-cell lymphoma (BCLU) unclassified that is intermediate between diffuse large B-cell lymphoma and Burkitt's lymphoma, to identify poor prognostic factors, and to evaluate therapeutic efficiency in patients with BCLU.
+SUBJECTS AND METHODS
+Twenty-five patients with BCLU were examined.
+Double-hit lymphoma (DHL) was diagnosed in 8 (32%) patients.
+According to the Ann-Arbor classification of lymphoma, its stages II, III, and IV were diagnosed in 3 (12%), 2 (8%), and 20 (80%) patients, respectively.
+MYC rearrangement was observed in 11 (48%) out of 23 patients: single-hit lymphoma in 3 patients and DHL in 8 (BCL2+/MYC+ in 6 cases and BCL6+/MYC+ in 2).
+The expression of с-MYC (cut off ≥40%) was revealed in 17 (74%) out of 23 patients; that of BCL2 (cut off ≥50%) was detected in 14 (58%) out of 24 patients; coexpression of both proteins was seen in 12 (52%) out of 23 patients.
+The DHL group showed a correlation between the rearrangement of the BCL2+/MYC+ genes and the expression of MYC and BCL2 proteins in 5 out of 6 patients.
+Taking into account the heterogeneity of the entire patient group, DHL and non-DHL subgroups were considered separately.
+Both subgroups were comparable by clinical characteristics.
+BCLU patients younger than 60 years of age received treatment according to the LB-M-04 ± rituximab; those aged 60 or older had CHOP-like regimens ± rituximab.
+Autologous stem cell transplantation (auto-SCT) was performed in 5 patients belonging to a high-risk group.
+RESULTS
+The 3-year overall survival (OS) was 62% and the 3-year event-free survival (EFS) was 51%.
+The 3-year OS was lower for the DHL group than that for the non-DHL group (43 and 75%, respectively).
+CONCLUSION
+In the DHL group, both OS and EFS are significantly lower (the risk of poor outcome, including death, is higher) than those in the non-DHL group.
+It is conceivable that intensified chemotherapy with auto-SCT increases treatment results in patients with BCLU; however, a larger number of observations are needed to obtain valid data.

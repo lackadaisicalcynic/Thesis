@@ -1,0 +1,21 @@
+[Long-term outcomes of SDR in various groups of cerebral palsy (CP) patients].  AIM
+Long-term outcomes of selective dorsal rhizotomy (SDR) are not sufficiently summarized in the literature.  The aim of this study was to systematize and evaluate long-term outcomes of SDR in various groups of cerebral palsy (CP) patients.
+MATERIAL AND METHODS
+47 patients with spastic CP were operated.
+In all cases, SDR of the L1-S1 roots was performed under EMG control.
+In all cases, laminoplasty was used as an approach.
+Outcomes of surgical treatment were estimated by the Ashworth scale and the GMFM 88 scale.
+The data were subjected to statistical analysis.
+The follow-up duration ranged from 12 months to 7 years.
+RESULTS
+A significant reduction in spasticity from 4.34±0.53 points before surgery to 1.61±0.45 points after surgery (p<0.001) was observed in most cases.
+The dynamics of locomotor functions was maximal in the 3rd GMFM class: changing from 48±4% points before operation to 52±6% points 12 months after operation (p<0.042).
+The dynamics of locomotor functions amounted to 2% in the 4th GMFM class and 1% in the 5th GMFM class.
+The best functional outcomes were obtained in children under 10 years of age.
+A positive correlation only between the percentage of cut roots and a decrease in spasticity (r= 0.85) was found.
+No correlation between the amount of cut roots and the dynamics of locomotor functions was observed.
+No spinal cord deformities were observed during the follow-up period.
+CONCLUSION
+A reduction in spasticity due to SDR depends on the amount of cut roots.
+The functional result of SDR is affected not only by a decrease in spasticity but also by the functional status and age of the patient at the time of surgery.
+In all cases, laminoplasty should be performed to prevent spinal cord deformities.

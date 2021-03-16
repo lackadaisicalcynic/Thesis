@@ -1,0 +1,13 @@
+[The influence of non-invasive electrical stimulation of the spinal cord on the locomotor function of patients presenting with movement disorders of central genesis].
+AIM
+The objective of the present study was to evaluate the influence of non-invasive (transcutaneous) electrical spinal cord stimulation on the locomotor function of the patients suffering from movement disorders.  PATIENTS AND METHODS
+The study involved 10 patients of both sexes at the age from 32 to 70 years (including 40% of men and 60% of women) presenting with the compromised locomotor function of varying severity associated with the disturbances of cerebral blood circulation caused either by an injury to the brain and spinal cord or by stroke.
+The transcutaneous electrical spinal cord stimulation was applied using different frequency regimes with the placement of the electrodes in the projection onto the region of TXI-TXII vertebrae.
+The active factors were bipolar electrical stimuli 0.5 ms in duration; the current strength was chosen for each patient on an individual basis taking into consideration its threshold level.
+Electromyograms and evoked motor responses of selected muscles, viz. m. rectus femoris, m.biceps femoris, m. tibialis anterior, and m.gastrocnemius were recorded with the use of the 'Neuro-MVP-8 eight-channel electromyography' ('Neurosoft', Russia).
+RESULTS
+The data obtained give evidence that the stimulation of the spinal cord with a frequency of 1 Hz induces reflectory responses with monosynaptic and polysynaptic components in the muscles of the lower extremities, with the thresholds of these responses being significantly higher in the patients presenting with serious neurological problems.
+Stimulation with the frequencies of 5 and 30 Hz caused in the patients with paresis the involuntary movement of the legs the characteristics of which were similar to those of the locomotor movements.
+CONCLUSION
+It has been demonstrated that the application of transcutaneous electrical spinal cord stimulation leads to increased excitability of the lumbar spinal neural structures of the patients.
+The study has shown the possibility of regulation of the locomotor functions in the patients presenting with movement disorders of central genesis by means of non-invasive electrical stimulation of the spinal cord.

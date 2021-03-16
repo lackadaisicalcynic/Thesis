@@ -1,0 +1,11 @@
+Development assistance for health in Africa: are we telling the right story?
+OBJECTIVE
+To describe the different types of data sets on aid flows, what they capture and the types of questions they answer, and to explore the extent of variation in levels and trends between these data sets at the regional and country levels.  METHODS
+Data included in the database of the World Health Organization are derived from official country documents and are published annually after review by each country.
+In addition to such data, the authors extracted data from publicly available web sites.  The data extracted covered all aid flows from all donors specified for sub-Saharan African countries (including aid for the African region as a whole or for groups of countries in the region) as being for health.
+FINDINGS
+The variation in levels and trends in development assistance for health across the six data sets compared in this paper was substantial.
+Variation was greater at the country than at the regional level, partly because the different aggregates of development assistance for health have different meanings and partly because of incomplete reporting.
+CONCLUSION
+It is important to know what the different aggregates of development assistance for health reported in the different databases mean before deciding which ones to use to answer a particular policy question.
+Using the wrong source can lead to erroneous conclusions.

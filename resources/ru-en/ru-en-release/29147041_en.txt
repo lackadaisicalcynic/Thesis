@@ -1,0 +1,9 @@
+Using health-facility data to assess subnational coverage of maternal and child health indicators, Kenya.
+Objective
+To develop a systematic approach to obtain the best possible national and subnational statistics for maternal and child health coverage indicators from routine health-facility data.  Methods
+Our approach aimed to obtain improved numerators and denominators for calculating coverage at the subnational level from health-facility data.  This involved assessing data quality and determining adjustment factors for incomplete reporting by facilities, then estimating local target populations based on interventions with near-universal coverage (first antenatal visit and first dose of pentavalent vaccine).
+We applied the method to Kenya at the county level, where routine electronic reporting by facilities is in place via the district health information software system.  Findings
+Reporting completeness for facility data were well above 80% in all 47 counties and the consistency of data over time was good.
+Coverage of the first dose of pentavalent vaccine, adjusted for facility reporting completeness, was used to obtain estimates of the county target populations for maternal and child health indicators.  The country and national statistics for the four-year period 2012/13 to 2015/16 showed good consistency with results of the 2014 Kenya demographic and health survey.
+Our results indicated a stagnation of immunization coverage in almost all counties, a rapid increase of facility-based deliveries and caesarean sections and limited progress in antenatal care coverage.  Conclusion
+While surveys will continue to be necessary to provide population-based data, web-based information systems for health facility reporting provide an opportunity for more frequent, local monitoring of progress, in maternal and child health.

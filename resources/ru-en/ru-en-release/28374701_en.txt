@@ -1,0 +1,7 @@
+[A comparative analysis of the informative value of anti-AChR-antibody radioimmunoassay and laser correlation spectroscopy in myasthenia gravis].
+AIM  An aim of the study was to compare informative value of traditional approach (anti-AChR antibody radioimmunoassay) and evaluation of metabolic shifts by laser correlation spectroscopy in myasthenia gravis.
+MATERIAL AND METHODS  The search for the relationship between the disease severity in 77 patients, 12-80 years and the distribution pattern of subfraction serum components revealed three informative zones: 6-15, 27-67, and 127-223 nm.
+RESULTS AND CONCLUSION
+In patients without disturbances of vital functions, the contribution of the first zone particles into light scatter increases and that of the third zone particles decreases.
+Considerable differences attaining the level of statistical significance in zones 6 and 20 nm were revealed in the spectra of serum from patients with myasthenia gravis of the same severity with and without thymoma.
+This opens prospects for dynamic monitoring of the efficiency of therapy.

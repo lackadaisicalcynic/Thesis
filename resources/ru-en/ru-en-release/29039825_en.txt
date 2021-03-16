@@ -1,0 +1,12 @@
+[Time course of changes in left ventricular twist in the presence of idiopathic left bundle branch block during exercise testing].
+AIM  To investigate left ventricular (LV) deformation properties, rotation, and twist during a bicycle ergometer exercise test among patients with idiopathic left bundle branch block (LBBB).
+SUBJECTS AND METHODS
+Thirty-four patients with idiopathic LBBB having a mean QRS duration of 153±24 msec were examined.
+A control group included 18 apparently healthy volunteers.
+All the patients and apparently healthy individuals underwent echocardiography to determine LV hemodynamic parameters, deformity, rotation and twist at rest and after exercise test.
+RESULTS
+As compared with the control, the idiopathic LBBB group at rest showed decreases in LV global longitudinal deformity (-15.6±4.7 and -18.4±3.1%, respectively; p=0.037), apical rotation (4.59±4.2° and 8.99±3.68°; p=0.0067) and twist (9.08±4.59° and 13.96±4.61°; p=0.0156), whereas there were no differences in LV ejection fraction and end-systolic and end-diastolic volumes.
+After exercise testing there were no augmentations in basal and apical rotation and resulting ΔTwist in the idiopathic LBBB group compared with the control (-2.05±8.35 and 4.66±8.49%; p=0.0463).
+The described changes in LV rotation and twist during exercise testing occurred in the presence of elevated pulmonary artery systolic pressure (PASP) in the LBBB group compared with the control (41.6±3.81 and 32.4±3.81 mm Hg, respectively; p=0.0201).
+CONCLUSION
+Decreases in LV basal, apical and resulting twist may lead to elevated PASP in patients with idiopathic LBBB during exercise.

@@ -1,0 +1,4 @@
+[The modeling of the ricochet shot fired from a light weapon].  The objective of the present study was to choose the optimal method for the modeling of the glance of a bullet after hitting a target under conditions of the laboratory experiment.
+The study required the designing and construction of an original device for the modeling of the rebound effect of a light-firearm shot under experimental conditions.
+The device was tested under conditions of the laboratory experiment.
+The trials have demonstrated the possibility of using barriers of different weight and dimensions in the above device, their positioning and fixation depending on the purpose of the experiment, dynamic alteration of its conditions with due regard for the safety and security arrangements to protect the health and life of the experimenters without compromising the statistical significance and scientific validity of the results of the experiments.

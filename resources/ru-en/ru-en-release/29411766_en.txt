@@ -1,0 +1,17 @@
+[Results of following up patients with chronic myeloid leukemia and a deep molecular response without tyrosine kinase inhibitor therapy].
+AIM  To assess the results of following up patients with chronic myeloid leukemia (CML) and a deep molecular response (MR) without tyrosine kinase inhibitor (TKI) therapy.
+SUBJECTS AND METHODS
+The reasons for TKI discontinuation in 70 patients with CML and a deep MR of more than 1 year's duration were adverse events, pregnancy, and patients' decision.
+Information was collected retrospectively and prospectively in 2008-2016.
+RESULTS
+The median follow-up after TKI therapy discontinuation was 23 months (2 to 100 months).
+At 6, 12 and 24 months after TKI therapy discontinuation, the cumulative incidence of major MR (MMR) loss was 28, 41 and 48%, respectively; the survival rates without TKI therapy were 69, 50, and 39%, respectively.
+MMR loss was noted in 28 (88%) patients at 12 months; it was not seen without TKI therapy at 2-year follow-up.
+Deaths due to CML progression were absent.
+The Sokal risk group was a reliable factor influencing MMR loss (p ≤ 0.05).
+The cumulative recovery rate for deep MR after resumption of TKI use was 73 and 100% at 12 and 24 months, respectively, with a median follow-up of 24 months (1 to 116 months).
+Deep MR recovered at a later time when the therapy was resumed more than 30 days after MMR loss.
+CONCLUSION
+Safe follow-up is possible in about 50% of the patients with CML and stable deep MRs without TKI therapy.
+The introduction of this approach into clinical practice requires regular molecular genetic monitoring and organizational activities.
+Biological factors in maintaining remission after TKI discontinuation need to be separately studied.

@@ -1,0 +1,15 @@
+[Factors affecting the outcome of surgical management for extramedullary spinal cord tumors: a multicenter study].  UNLABELLED
+Extramedullary spinal cord tumors (ESCTs) are relatively rare neoplasms requiring surgical treatment.  This paper presents a study of outcomes in patients with ESCTs treated at Irkutsk region hospitals with different facilities.
+AIM  To identify factors affecting the outcome of surgical treatment of ESCTs.
+MATERIAL AND METHODS
+The disease stage before surgery was evaluated according to the I.Ya. Razdol'skiy and McCormick classifications.
+Features and extension of the approach, the extent of blood loss, surgery duration, and the equipment used were analyzed.
+Treatment outcomes were assessed according to the MacNub and McCormick neurological outcome scales.
+RESULTS
+ESCTs were removed totally in 84 (95%) patients and subtotally in 4 (5%).
+Tumor recurrence was detected in 8 patients.  No deaths were observed.
+No correlation was found between the treatment outcome, according to the McCormick scale, and factors such as gender, tumor location, histological type, tumor grade, disease duration, and type of a surgical approach and the equipment used.
+Factors having medium and high correlations with the disease outcome are a neurological disease phase and an initial neurological deficit: sensory deficit, r=0.32; motor deficit, r=0.33; pelvic disturbances, r=0.35; McCormick grade before surgery, r=0.74; disease phase r=0.41 (p<0.05).
+CONCLUSION
+The disease phase is the most significant factor affecting the outcome of surgical treatment in patients with ESCTs.
+Despite this, important aspects of surgical treatment of ESCT include the approach that is adequate to the tumor size and localization, as well as combination of different surgical techniques.

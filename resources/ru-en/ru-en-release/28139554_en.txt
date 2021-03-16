@@ -1,0 +1,14 @@
+[The values of cardio-ankle vascular and ankle-brachial indices in patients with carbohydrate metabolic disorders: The ESSE-RF study in the Kemerovo Region].
+AIM  To investigate factors associated with pathological cardio-ankle vascular and ankle-brachial indices (CAVI and ABI) in patients with carbohydrate metabolic disorders (CMD).
+SUBJECTS AND METHODS
+A cross-sectional study was conducted in the framework of the multicenter epidemiological study "Epidemiology of Cardiovascular Diseases and Their Risk Factors in the Russian Federation" (ESSE-RF) in March to October 2013.
+The standard ESSE-RF protocol was extended by an additional study of peripheral arterial stiffness, by estimating CAVI and ABI automatically.
+A sample of 1619 people was formed in several stages, in which 311 patients with type 2 diabetes mellitus and prediabetes were identified and divided into 3 groups: 1) 41 patients with pathological CAVI values (≥9.0); 2) 241 with normal CAVI (<9.0); 3) 29 with pathological ABI (<0.9).
+RESULTS
+In the population-based sample of patients with CMD, the pathological CAVI values (≥9.0) were detected in 14.5%, and the pathological ABI was in 9.3% of the examinees.
+Regression analysis showed that the pathological vascular indices (both CAVI and ABI) were significantly associated with increases in blood pressure (BP) and heart rate (HR), and a decrease in glomerular filtration rate.
+At the same time, only the pathological CAVI was associated with advancing age (odds ratio (OR), 1.111; 95% confidence interval (CI), 1.050-1.176; p < 0.001), visceral obesity (OR, 3.088; 95% CI, 1.001-10.495; p=0.038), smoking duration (OR, 1.093; 95% CI, 1.008-1.185; p=0.009), prior stroke (OR, 4.695; 95% CI, 1.408-15.658; p=0.018), and a need for insulin therapy (OR, 18.947; 95% CI, 1.902- 87.783; p=0.006).
+The pathological ABI was associated with male sex (OR, 2.227; 95% CI, 1.040-4.765; p=0.039), prior myocardial infarction (OR, 8.646; 95% CI, 2.174-34.378; p=0.005), obesity (OR, 2.439; 95% CI, 1.010-5.889; p=0.034); hyperglycemia (OR, 2.439; 95% CI, 1.010-5.889; p=0.034), hyperuricemia (OR, 4.009; 95% CI, 1.850-8.684; p=0.033), and increases in triglyceride levels (OR, 2.984; 95% CI, 1.376-6.470; p=0.004) and CAVI (OR, 1.193; 95% CI, 1.034-1.377; p=0.005).
+CONCLUSION
+The pathological vascular indices CAVI and ABI are associated with different risk factors for cardiovascular events in a cohort of patients with CMD.  The common factors associated with both CAVI and ABI are increases in blood pressure and HR and a reduction in glomerular filtration rate.
+The common factors associated with both CAVI and ABI are increases in blood pressure and HR and a reduction in glomerular filtration rate.

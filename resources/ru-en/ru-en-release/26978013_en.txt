@@ -1,0 +1,9 @@
+[The structure of the internal carotid artery wall in pathological tortuosity].  OBJECTIVE
+to study a change in the content of main components of the internal carotid artery (ICA) wall in pathological tortuosity (PT) resulting from fibromuscular dysplasia, using immunohistochemistry and confocal laser scanning microscopy.
+MATERIAL AND METHODS
+Immunohistochemical (IHC) analysis using antibodies to elastin, collagen types I and III, and smooth muscle actin was made.  The levels of elastin and matrix metalloproteinase 9 (MMP-9) were determined by confocal laser scanning microscopy.
+The relative area of expression and the area of co-location of these markers were measured.  RESULTS
+IHC examination of the expression of elastin revealed that the patients with PT of ICA had its higher content than the controls, but they were observed to have fiber fragmentation.  Comparison of collagen types I and III expressions showed no significant differences between the groups.
+The found significantly lower smooth muscle actin expression in the patients with PT of ICA than in the controls was suggestive of the decreased levels of smooth muscle cells.  Confocal microscopy analysis showed high elastin and low MMP-9 expressions in the control group and, on the contrary, low elastin and high proteinase levels in the PT group (р<0.05).
+CONCLUSION
+One of the causes of PT is impairment in vascular elastic properties due to the destruction of elastic fibers and to their fragmentation, as well as to the decreased count of smooth muscle cells, which in turn causes enhanced MMP-9 activity and tissue matrix degradation.

@@ -1,0 +1,4 @@
+[Standartization of MRI studies in multiple sclerosis].  The use of magnetic resonance imaging (MRI) in patients with multiple sclerosis has markedly increased in recent years.
+The main task of the MRI studies after the diagnosis of multiple sclerosis is to assess the dynamics of MRI for determining disease progression and monitoring the efficacy of therapy.
+In this regard, it is very important to obtain the most identical baseline and follow-up MRI that is possible when a single standard protocol is used.
+This article presents the protocol of brain MRI and spinal cord MRI and interpretation of MRI studies in patients with multiple sclerosis.

@@ -1,0 +1,6 @@
+[BRAF-positive paucicellular variant of anaplastic carcinoma in the presence of tall cell variant papillary thyroid cancer].
+To paper describes a case of paucicellular anaplastic cancer in the presence of tall cell variant papillary thyroid carcinoma.  Microscopic examination showed that the differentiated component of the tumor was composed of papillary structures with tall cells, the height of which exceeded 3-4 times the width.
+Its anaplastic component consisted of fibrous tissue with occasional spindle-shaped cells and focal lymphocytic infiltration to the extent of 70%.
+The spindle-shaped cells expressed cytokeratins, β-catenin, p53, and vimentin.
+The tumor cells and lymphocytes showed an association with Epstein-Barr virus.
+Molecular genetic study of the tumor revealed the following mutations: BRAF p.Val600Glu (p.V600e was), HRAS p.His27His (p.H27H), PIK3CA p.Glu545Lys (p.E545K), TP53 p.Arg248Gln (p.R248Q).

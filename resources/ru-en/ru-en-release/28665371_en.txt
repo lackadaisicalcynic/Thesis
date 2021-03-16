@@ -1,0 +1,14 @@
+[Results of a randomized double blind multicenter placebo-controlled, in parallel groups trial of the efficacy and safety of prolonged sequential therapy with mexidol in the acute and early recovery stages of hemispheric ischemic stroke (EPICA)].  AIM
+To evaluate the efficacy and safety of prolonged sequential therapy with mexidol in the acute and early recovery stages of hemispheric ischemic stroke (IS).
+MATERIAL AND METHODS  A randomized double blind multicenter placebo-controlled, in parallel groups trial included 151 patients (62 men and 89 women) with hemispheric IS.
+Using a method of simple randomization, 150 patients (62 men and 88 women), aged 40-79 years, were randomized into two groups.  Patients of Group I were treated with mexidol: 500 mg/day IV infusion for 10 days, followed by 125 mg tid (375 mg/day) PO for 8 weeks.
+Patients of Group II received the placebo according to the same scheme.
+The total duration of patients' participation in trial ranged from 67 to 71 days.
+RESULTS
+By the end of treatment, the mean score on the modified Rankin scale (mRS) was lower in Group I compared to Group II (p=0.04).
+In Group I, the decrease in mRS mean score (Visit 1-5) was more prominent (p=0.023), percentage of patients with 0-2 scores by mRS scale (Visit 5) was higher (p=0.039), mean NIHSS score lower (p=0.035) in Visit 5 compared to group II. By the end of treatment, the decrease in mean NIHSS score in patients with diabetes mellitus was more prominent in Group I in comparison with Group II (p=0.038).
+In Group I, the dynamic of improvement of quality of life was more prominent and started from Visit 2 in general population and subpopulation of patients with diabetes mellitus.
+The share of patients with no problems with movement in space was higher in Group I (p=0.022).
+There were no statistically significant differences in frequency of side effects in patients of both groups.
+CONCLUSION
+It is recommended to include mexidol in therapy of patients with IS in the acute and early rehabilitation stages.

@@ -1,0 +1,10 @@
+Providing oxygen to children in hospitals: a realist review.
+OBJECTIVE  To identify and describe interventions to improve oxygen therapy in hospitals in low-resource settings, and to determine the factors that contribute to success and failure in different contexts.
+METHODS
+Using realist review methods, we scanned the literature and contacted experts in the field to identify possible mechanistic theories of how interventions to improve oxygen therapy systems might work.  Then we systematically searched online databases for evaluations of improved oxygen systems in hospitals in low- or middle-income countries.
+We extracted data on the effectiveness, processes and underlying theory of selected projects, and used these data to test the candidate theories and identify the features of successful projects.  FINDINGS
+We included 20 improved oxygen therapy projects (45 papers) from 15 countries.  These used various approaches to improving oxygen therapy, and reported clinical, quality of care and technical outcomes.
+Four effectiveness studies demonstrated positive clinical outcomes for childhood pneumonia, with large variation between programmes and hospitals.
+We identified factors that help or hinder success, and proposed a practical framework depicting the key requirements for hospitals to effectively provide oxygen therapy to children.
+To improve clinical outcomes, oxygen improvement programmes must achieve good access to oxygen and good use of oxygen, which should be facilitated by a broad quality improvement capacity, by a strong managerial and policy support and multidisciplinary teamwork.  CONCLUSION
+Our findings can inform practitioners and policy-makers about how to improve oxygen therapy in low-resource settings, and may be relevant for other interventions involving the introduction of health technologies.

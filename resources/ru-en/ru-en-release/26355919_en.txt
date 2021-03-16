@@ -1,0 +1,3 @@
+Carotid artery disease in patients with type 2 diabetes.  The aim of this study is to determine the risk factors for carotid artery disease (CARD) in patients with type 2 diabetes. 340 pts with T2DM and coronary artery disease were enrolled in cross sectional study.
+Evaluation for CARD was done by ultrasound.  Multivariant logistic regresion analysis defined as independent predictors for CARD: age of occurrence of bilateral plaques, PAD about the presence of bilateral plaques and carotid stenosis, non HDL cholesterol about the presence of carotid stenosis and stenosis of the internal carotid artery.
+These results can contribute in the refresment of the criteria for screening programes for CARD in the population with T2DM.

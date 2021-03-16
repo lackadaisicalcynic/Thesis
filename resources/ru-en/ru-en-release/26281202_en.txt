@@ -1,0 +1,10 @@
+[Meta-analysis of clinical trials of cardiovascular effects of magnesium orotate].
+AIM  To make a meta-analysis of clinical trials of magnerot (magnesium orotate) used in cardiac patients.
+SUBJECTS AND METHODS
+The meta-analysis covered the data of 19 randomized trials including a total of 603 patients treated with magnerot (a case group) and 587 receiving placebo (a control group).
+The patients' mean age was 36 ± 19 years.
+On the average, the patients took magnerot 1878 ± 823 mg/day for 4.2 ± 29 months.
+RESULTS
+Associations between the intake of magnerot and the risk of 50 pathological conditions were analyzed.  Significant associations were established between the drug's administration and the reduced risk of conditions, such as hypomagnesemia (relative risk (RR) = 0.06; 95% confidence intervals (C): 0.04 to 0.09; p = 2 · 10(-46)), exercise intolerance (RR = 0.41; 95% CI: 0.27 to 0.62; p = 0.0004), dysautonomia (RR = 0.08; 95% CI: 0.04 to 0.14; p = 2 · 10(-21)), morning headache (RR = 0.16; 95% CI: 0.09 to 0.29; p = 1.5-10(-6)), tension headache (RR = 0.16; 95% Cl: 0.09 to 0.27; p = 5 · 10(-10)), dizziness (RR = 0.28; 95% CI: 0.15 to 0.50; p = 0.0004), first-degree mitral valve prolapse (MVP) (RR = 0.05; 95% CI: 0.03 to 0.09; p = 1.2 · 10(-25)), grade 1 regurgitation (RR = 0.29; 95 CI: 0.14 to 0.60; p = 0.0075), supraventricular (RR = 0.30; 95% CI: 0.21 to 0.44; p = 1 · 10(-8)) and ventricular (RR = 0.48; 95% CI: 0.30 to 0.76; p = 0.019) premature contraction, paroxysmal supraventricular tachycardia (RR = 0.28; 95% CI: 0.15 to 0.50; p = 0.0002), and hypertension (RR = 0.32; 95% CI: 0.17 to 0.58; p = 0.0027).
+CONCLUSION
+The use of magnesium orotate is promising not only in treating MVP and compensating for hypomagnesemia, but also in preventing and treating cardiac arrhythmias, regulating blood pressure, and improving the function of the autonomic nervous system.

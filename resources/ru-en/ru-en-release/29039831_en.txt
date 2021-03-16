@@ -1,0 +1,8 @@
+[Comparative analysis of mortality from acute forms of ischemic heart disease during a 15-year period in the Russian Federation and the United States and the factors influencing its formation].
+AIM
+To comparatively analyze the registered mortality rates from coronary heart disease (CHD) as a whole, as well as myocardial infarction (MI) and other acute forms of CHD during a 15-year period in the Russian Federation (RF, 2000-2014) and the United States of America (USA, 1999-2013).
+MATERIAL AND METHODS
+Primary data were obtained from the database of the RF State Statistics Service, the World Health Organization Mortality Database, Human Mortality Database, then converted into standardized mortality rates and are presented in three age groups (30+, 30-49, and 50+ years old) in men and women separately.  RESULTS
+The analysis revealed a substantial excess of the registered mortality rates from CHD in the RF versus in the USA, as well as a lower incidence of MI and a higher incidence of other acute CHD forms registered as the cause of death.  It also showed considerable differences in the structure of registered types of MI as the cause of mortality.
+CONCLUSION
+The differences found in the mortality rates from CHD, MI, and other acute forms of CHD in the RF and the USA can be explained by objective (the higher prevalence of cardiovascular risk factors, the higher and earlier incidence of CHD in the RF, as well as differences in the organization of medical care and, as a result, actually higher mortality rates from CHD in Russia) and subjective (differences in approaches to statistically developing a population-based mortality rate, as well as defects in filling out the medical documents and coding the causes of death) factors.

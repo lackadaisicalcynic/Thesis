@@ -1,0 +1,25 @@
+[Follicular lymphoma.  High-dose immunochemotherapy with autologous blood stem cell transplantation: Results of the first prospective study in Russia].
+AIM  to evaluate the efficiency of high-dose chemotherapy (HDCT) with further autologous blood stem cell transplantation (auto-BSCT) in the first-line therapy of patients with follicular lymphoma (FL) and poor prognostic factors.
+SUBJECTS AND METHODS
+In 2000 to 2015, the National Research Center for Hematology, Ministry of Health of the Russian Federation, performed therapy in 39 patients with FL and poor prognostic factors (a total of 215 patients with FL).
+The R-CHOP treatment was done as induction therapy.
+Sequential HCT and further auto-BSCT were performed in 29 (74%) of the 39 patients, who had shown a partial tumor response to the induction therapy or achieved partial remission after 4-6 cycles of CT, but had poor prognostic factors.
+22 of the 29 patients underwent auto-BSCT in first-line therapy after induction R-CHOP regimens.
+Among them, there were 17 men with a median age of 46 years (31-68 years).
+21 of the 22 patients were recorded to have Stage IV by the Ann Arbor staging classification.
+Bulky peritoneal and retroperitoneal tumors larger than 7 cm were detectable at disease onset in 14 of the 22 cases.
+Two patients were noted to have phenomena of leukemization.
+16 patients had bone marrow (BM) involvement.
+According to the Follicular Lymphoma International Prognostic Index-1 (FLIPI-1), the patients were divided into 3 groups: 1) a low risk (n=5); 2) an intermediate risk (n=3); a high risk (n=14).
+B-symptoms were observed in 16 cases.
+16 patients were diagnosed with cytological grade I-II FL and 6 had grade IIIA.
+According to the tumor proliferative pattern, the distribution turned out to be as follows: nodular (n=6), nodular-diffuse (n=13), and diffuse (n=3).
+The proliferative activity index averaged 30% (8-90%).
+Serum and urine proteins were immmunochemically assayed in 18 cases, out of them 8 patients were diagnosed as having serum β2-microglobulin concentrations above normal as a poor prognostic factor.
+In 14 of the 22 patients, the activity of lactate dehydrogenase was greater than normal (266-7806 U/l).
+RESULTS
+Out of the 22 patients, 20 who have undergone auto-BSCT in first-line therapy are survivors and have remission of the underlying disease: 18 and 2 patients achieved complete and partial remission, respectively.
+The follow-up period was 7 to 178 months (median, 32 months).
+After auto-BSCT in the first remission, 2 patients developed disease recurrences: an early recurrence after 9 months in one case and a late recurrence 6 years after completion of therapy in the other.
+CONCLUSION
+The first prospective study of intensive therapy for FL in Russia has demonstrated that HDCT with further auto-BSCT in first-line therapy allows complete remission in patients with poor prognostic factors and higher overall and progression-free survival rates.

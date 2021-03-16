@@ -1,0 +1,12 @@
+Health system strengthening and hypertension awareness, treatment and control: data from the China Health and Retirement Longitudinal Study.
+OBJECTIVE  To monitor hypertension prevalence, awareness, treatment and control in China two to three years after major reform of the health system.
+METHODS
+Data from a national survey conducted in 2011-2012 among Chinese people aged 45 years or older - which included detailed anthropometric measurements - were used to estimate the prevalence of hypertension and the percentages of hypertensive individuals who were unaware of, receiving no treatment for, and/or not controlling their hypertension well.
+Modified Poisson regressions were used to estimate relative risks (RRs).
+FINDINGS
+At the time of the survey, nearly 40% of Chinese people aged 45 years or older had a hypertensive disorder.
+Of the individuals with hypertension, more than 40% were unaware of their condition, about 50% were receiving no medication for it and about 80% were not controlling it well.
+Compared with the other hypertensive individuals, those who were members of insurance schemes that covered the costs of outpatient care were more likely to be aware of their hypertension (adjusted RR, aRR: 0.737; 95% confidence interval, CI: 0.619-0.878) to be receiving treatment for it (aRR: 0.795; 95% CI: 0.680-0.929) and to be controlling it effectively (aRR: 0.903; 95% CI: 0.817-0.996).
+CONCLUSION
+In China many cases of hypertension are going undetected and untreated, even though the health system appears to deliver effective care to individuals who are aware of their hypertension.
+A reduction in the costs of outpatient care to patients would probably improve the management of hypertension in China.

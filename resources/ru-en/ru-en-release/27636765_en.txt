@@ -1,0 +1,6 @@
+Implant-supported fixed cantilever prosthesis: the impact on bone stress deformity.
+Jaw fragment with complete absence of 3 teeth in the chewing area was simulated with masticatory loads corresponding to different types of antagonists: full dentures, partial dentures, intact teeth, implant-refained restavations.
+Simulated consoled elements of different lengths and sizes of dental implants.
+The analysis of the stress-deformation state of the teeth construction in the ANSYS program.
+As a result, it was found that with increasing length of the cantilever element 2 times - stress in the bone grows almost linearly.
+By reducing the diameter of the implant - is quadratic.

@@ -1,0 +1,6 @@
+[Photoacoustic monitoring of chorioretinal complex during laser coagulation of ocular fundus].
+The effect of laser treatment on ocular fundus tissues depends on quite a number of factors, mostly uncontrollable, hence, laser output parameters may vary dramatically even within the same fundus.  In classical procedure ('threshold' laser coagulation), these parameters are adjusted to ophthalmoscopically visible tissue color changes at the site of coagulation.
+However, this method does not work with modern subthreshold techniques, that are more tissue-saving and thus, produce no immediate and visible changes in the retina.
+Calculation methods that are used instead are much less accurate.  Photoacoustic monitoring may become a real breakthrough in this field.
+The method involves acoustic analysis of the response to soft and short laser pulses ('test' pulses).  Heating of the target by the main therapeutic laser causes alterations in its physical properties and, consequently, the laser-induced acoustic signal.
+This gives us an ability to monitor the temperature and thus, to evaluate the clinical effect of coagulation despite the absence of visible changes at the site.  The most promising techniques of photoacoustic monitoring that are being developed are discussed here.

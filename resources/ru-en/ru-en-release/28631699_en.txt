@@ -1,0 +1,13 @@
+[Lower extremity venous diseases in primary knee osteoarthritis].  AIM
+To establish a possible association between knee osteoarthritis (OA) and lower extremity venous diseases  ((LEVDs) on the basis of thorough clinical and instrumental studies.
+SUBJECTS AND METHODS
+A case-control study recruiting 40-60-year-old women was conducted.
+A study group included 85 women with knee OA; a control group consisted of 50 women without this condition.
+The patients of both groups underwent assessment of complaints and goal-directed objective examination to identify joint diseases and chronic LEVDs, knee X-ray study, and duplex scanning of the lower extremity veins.
+RESULTS
+The patients with knee OA were more frequently diagnosed with lower extremity varicose vein disease (VVD) (43% vs 22%; p=0.015) and had signs of chronic venous insufficiency (28% vs 12%; p=0.03).
+Duplex scanning of the lower extremities showed that knee OA was characterized by generalized LEVD (bilateral valve lesions of the great and small saphenous veins and severe valvular incompetence in the veins) that was detected in 53% of the patients in this group versus 20% of the women in the control group (p = 0.0004).
+After adjustment for body mass index, the differences in the incidence of VVD between the groups remained clinically and statistically significant (odds ratio (OR), 2.7; 95% confidence interval, 1.1-6.7; p=0.036).
+CONCLUSION
+The 40-60-year-old patients with knee OA more commonly develop symptoms of chronic venous insufficiency than their healthy peers.
+Although obesity is a risk factor for both diseases, there is an independent association between knee OA and lower extremity VVD.

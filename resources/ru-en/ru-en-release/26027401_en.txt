@@ -1,0 +1,4 @@
+[Vascularization of hepatoceliular carcinoma].  The paper gives the data available in the literature on vascularization of hepatocellular carcinoma (HCC).
+Sinusoidal capillarization and unpaired arteries are shown to play an important role in the development and progression of HCC.  The density of microvessels detected by immunohistochemical techniques is a morphological indicator of the degree of angiogenic processes.
+Higher-grade HCC is followed by changes in its vascularization and concurrent with a progressive increase in the proportion of blood entering along the hepatic artery.
+The morphological indicators of microvessel density are recommended to use as addi- tional criteria for determining the prognosis of the disease, designing targeted anti-angiogenic drugs, and evaluating the efficiency of performed therapy.

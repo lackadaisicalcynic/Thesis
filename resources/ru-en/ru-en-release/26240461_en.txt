@@ -1,0 +1,12 @@
+Long-term mortality among older adults with burn injury: a population-based study in Australia.
+OBJECTIVE  To assess if burn injury in older adults is associated with changes in long-term all-cause mortality and to estimate the increased risk of death attributable to burn injury.
+METHODS
+We conducted a population-based matched longitudinal study - based on administrative data from Western Australia's hospital morbidity data system and death register.
+A cohort of 6014 individuals who were aged at least 45 years when hospitalized for a first burn injury in 1980-2012 was identified.  A non-injury comparison cohort, randomly selected from Western Australia's electoral roll (n = 25 759), was matched to the patients.
+We used Kaplan-Meier plots and Cox proportional hazards regression to analyse the data and generated mortality rate ratios and attributable risk percentages.  FINDINGS
+For those hospitalized with burns, 180 (3%) died in hospital and 2498 (42%) died after discharge.  Individuals with burn injury had a 1.4-fold greater mortality rate than those with no injury (95% confidence interval, CI: 1.3-1.5).
+In this cohort, the long-term mortality attributable to burn injury was 29%.
+Mortality risk was increased by both severe and minor burns, with adjusted mortality rate ratios of 1.3 (95% CI: 1.1-1.9) and 2.1 (95% CI: 1.9-2.3), respectively.
+CONCLUSION
+Burn injury is associated with increased long-term mortality.
+In our study population, sole reliance on data on in-hospital deaths would lead to an underestimate of the true mortality burden associated with burn injury.

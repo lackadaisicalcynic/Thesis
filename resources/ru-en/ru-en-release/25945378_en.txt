@@ -1,0 +1,5 @@
+[Role of astrocytes in alterations of glutamatergic neurotransmission in schizophrenia].
+The glutamatergic hypothesis of schizophrenia based on the hypofunction of the N-methyl-D-aspartate-type glutamate receptors (NMDA-R) is one of the most widely implicated hypothesis that explains the origin of positive and negative symptoms of illness as well as cognitive deficits.
+The author considered a neuromorphological aspect of this hypothesis related to the glial astrocytes function.  The literature on the astrocyte ability to regulate glutamate neurotransmission is reviewed.
+Astrocyte abnormalities in schizophrenia include the disturbances of glutamate reuptake, recycling and turnover of endogenous NMDA-R ligands.  The results of the experimental and clinical studies that target levels of endogenous NMDA-R ligands, their enzymes and transporters for treatment of schizophrenia symptoms are discussed.
+Further studies studies are needed to develop this strategy.

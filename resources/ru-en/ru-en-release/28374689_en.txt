@@ -1,0 +1,15 @@
+[Levodopa-carbidopa intestinal gel in the treatment of patients with Parkinson disease: results of a 12-month open study].
+AIM  To evaluate the long-term safety and efficacy of intrajejunal levodopa-carbidopa intestinal gel (LCIG) infusion in the treatment of patients with severe stages of Parkinson disease (PD) who did not respond adequately to treatment with oral drugs.
+MATERIAL AND METHODS
+A large-scale international prospective open-label 54-week study of LCIG in patients with PD with severe motor fluctuations was carried out.  A total of 48 patients were enrolled in Russia, 46 patients (95.8%) had PEG-J inserted, and 43 of them completed the study.
+The safety, including adverse events (AEs), infusion system and pump failures analysis, number of patients completely terminated the study, and efficacy (duration of "off" periods, "on" periods with or without troublesome dyskinesias, UPDRS scores, Clinical Global Impression, Quality of Life (PDQ-39, EQ-5D и EQ-VAS) dynamics, an analysis of patient's diaries) were assessed throughout the whole study.
+RESULTS
+The majority of AEs were mild or moderate with most AEs connected with infusion system application (28.3% patients) including procedure pain.
+Serious AEs were registered in 8 patients (16.7%).
+3 patients (6.3%) discontinued their participation in the study due to AEs.
+Mean duration of "off" periods by the end of the study decreased by 5.35±2.59 hours (p<0.001), duration of "on" periods without troublesome dyskinesia increased by 5.74±3.91 hours (p<0.001), reduction of "on" periods duration with troublesome dyskinesia became statistically significant by week 36 (p=0.020).
+The statistically significant improvement of UPDRS (generally and in respect to sub-scales), Clinical Global Impression, and Quality of Life scores was observed throughout the study.
+Levodopa dose remained stable throughout the 54 treatment weeks.
+Forty-three patients (93.5%) received LCIG monotherapy throughout the whole study.
+CONCLUSION
+LCIG intrajejunal infusion during 54 weeks showed the favorable safety profile, high tolerability, and efficacy in PD motor symptoms correction.

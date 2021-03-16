@@ -1,0 +1,5 @@
+[The role of a lysine residue in the antioxidant and dna-protective activity of oligopeptides].
+Oligopeptides present in the living cell were found to have antioxidative activity and to be involved in the regulation of antioxidant balance by interaction with the redox-dependent cellular signaling cascades.  Experiments on animal models have shown that the introduction of oligopeptides causes geroprotective and adaptogenic effects.
+In the present work, we investigate the biological action of a number of synthetic oligopeptides using bacterial biosensors.  This approach allows us to precisely estimate the antioxidant properties of the compounds without affecting their participation in regulatory cascades typical to eukaryotic cells.
+It has been shown that the ability of oligopeptides to protect cells from action of physical prooxidant factors (UV irradiation) is related to the presence of a lysine residue in the molecule.
+For chemical pro-oxidants (dioxidine), we have observed a similar, though less strict pattern.  This effect also correlates with DNA-protective activity of the investigated oligopeptides.

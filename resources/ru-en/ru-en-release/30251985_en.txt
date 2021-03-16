@@ -1,0 +1,10 @@
+[Dimebon correction of changes in phospholipid composition induced by tumor necrosis factor-alpha in experement].
+AIM
+To investigate the ability of the neuroprotector dimebon to prevent alterations in brain lipid metabolism caused byTNF-α.  MATERIAL AND METHODS
+The ability of dimebon (2,8-Dimethyl-5-[2-(6-methyl-3-pyridinyl)ethyl]-2,3,4,5-tetrahydro-1H-pyrido[4,3-b]indole hydrochloride) to prevent alterations in brain lipid metabolism caused byTNF-α was studied in 65 male mice (20+2g weight).
+TNF-α (10 mkg/mouse), dimebon (0.2 mg/kg) and their combination were injected intraperitoneally.  Thirty min, 2, 4 and 24 h after injection, lipid level alterations in total fractions and molecular species of phospholipids (phosphatidylcholine, lysophosphatidylcholine, sphingomyelin and phosphatidylethanolamine) were measured with mass-spectrometry in the hippocampus, cortex and cerebellum.
+RESULTS AND CONCLUSION
+After injection of TNF-α into mice, there are significant changes in the level of all tested phospholipids.
+Dimebon at a dose of 0.2 mg/kg alone does not cause any changes in the content of all tested phospholipids, but injected together with TNF-α prevents cytokine induced alterations in the lipid content.
+The selectivity of TNF-α and dimebon influence on certain molecular species of various phospholipids in different parts of mouse brain is found.
+The presented data suggest protective properties of dimebon preventing the development of proinflammatory syndrome induced by TNF-α in the animal brain.

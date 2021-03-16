@@ -1,0 +1,10 @@
+Cost-effectiveness of results-based financing, Zambia: a cluster randomized trial.
+Objective  To evaluate the cost-effectiveness of results-based financing and input-based financing to increase use and quality of maternal and child health services in rural areas of Zambia.
+Methods
+In a cluster-randomized trial from April 2012 to June 2014, 30 districts were allocated to three groups: results-based financing (increased funding tied to performance on pre-agreed indicators), input-based financing (increased funding not tied to performance) or control (no additional funding), serving populations of 1.33, 1.26 and 1.40 million people, respectively.
+We assessed incremental financial costs for programme implementation and verification, consumables and supervision.  We evaluated coverage and quality effectiveness of maternal and child health services before and after the trial, using data from household and facility surveys, and converted these to quality-adjusted life years (QALYs) gained.
+Findings
+Coverage and quality of care increased significantly more in results-based financing than control districts: difference in differences for coverage were 12.8% for institutional deliveries, 8.2% postnatal care, 19.5% injectable contraceptives, 3.0% intermittent preventive treatment in pregnancy and 6.1% to 29.4% vaccinations.  In input-based financing districts, coverage increased significantly more versus the control for institutional deliveries (17.5%) and postnatal care (13.2%).
+Compared with control districts, 641 more lives were saved (lower-upper bounds: 580-700) in results-based financing districts and 362 lives (lower-upper bounds: 293-430) in input-based financing districts.  The corresponding incremental cost-effectiveness ratios were 809 United States dollars (US$) and US$ 413 per QALY gained, respectively.
+Conclusion
+Compared with the control, both results-based financing and input-based financing were cost-effective in Zambia.

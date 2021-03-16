@@ -1,0 +1,10 @@
+[Modeling of an influence of indicators of social stress on demographic processes in regions of the Russian Federation].  AIM
+To assess an impact of indicators of social stress on demographic processes in regions of the Russian Federation using statistical methods.  MATERIAL AND METHODS
+The data of Rosstat «Regions of Russia» and «Health care in Russia» were used as information base.  Indicators of about 80 subjects of the Russian Federation (without autonomous areas) for the ten-year period (2005-2014) have been created in the form of the database consisting of the following blocks: medico-demographic situation, level of economic development of the territory and wellbeing of the population, development of social infrastructure, ecological and climatic conditions, scientific researches and innovations.
+In total, there were about 70 indicators.  Panel data for 80 regions of Russia in 10 years, which combine both indicators of spatial type (cross-section data), and information on temporary ranks (time-series data), were used.
+Various models of regression according to the panel data have been realized: the integrated model of regression (pooled model), regression model with the fixed effects (fixed effect model), regression model with random effects (random effect model).
+RESULTS AND CONCLUSION
+Main demographic indicators (life expectancy, birth rate, mortality from the external reasons) are to a great extent connected with socio-economic factors.
+Social tension (social stress) caused by transition to market economy plays an important role.
+The integral assessment of the impact of the average per capita monetary income, incidence of alcoholism and alcoholic psychoses, criminality, sales volume of alcoholic beverages per capita and marriage relations on demographic indicators is presented.
+Results of modeling allow to define the priority directions in the field of development of mental health and psychotherapeutic services in the regions of the Russian Federation.

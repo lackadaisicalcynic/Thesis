@@ -1,0 +1,5 @@
+[Assessment of arterial wall stiffness by 24-hour blood pressure monitoring].
+Arterial wall stiffness is an early marker of cardiovascular diseases.  The gold standard for assessment of the stiffness of large vessels is presently pulse wave velocity (PWV).
+Work is in progress on the study of the reference values of PWV in people of different genders and ages.
+24-hour blood pressure (BP) monitoring is not only a procedure that can estimate diurnal BP variability, but also monitor the indicators of vascular wall stiffness in a number of cases over a 24-hour period.
+The given review highlights the pathophysiology of arterial stiffness, methods for its assessment, and the aspects of use in therapeutic practice.

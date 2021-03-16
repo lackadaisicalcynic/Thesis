@@ -1,0 +1,13 @@
+Cotrimoxazole prophylaxis and antiretroviral therapy: an observational cohort study in China.
+OBJECTIVE
+To assess if cotrimoxazole prophylaxis administered early during antiretroviral therapy (ART) reduces mortality in Chinese adults who are infected with human immunodeficiency virus (HIV).  METHODS
+We did a retrospective observational cohort study using data from the Chinese national free antiretroviral database.  Patients older than 14 years who started ART between 1 January 2010 and 31 December 2012 and had baseline CD4+ T-lymphocyte (CD4+ cell) count less than 200 cells/µL were followed until death, loss to follow-up or 31 December 2013.
+Hazard ratios (HRs) for several variables were calculated using multivariate analyses.
+FINDINGS
+The analysis involved 23 816 HIV-infected patients, 2706 of whom died during the follow-up.
+Mortality in patients who did and did not start cotrimoxazole during the first 6 months of ART was 5.3 and 7.0 per 100 person-years, respectively.
+Cotrimoxazole was associated with a 37% reduction in mortality (hazard ratio, HR: 0.63; 95% confidence interval, CI: 0.56-0.70).
+Cotrimoxazole in addition to ART reduced mortality significantly over follow-up lasting 6 months (HR: 0.65; 95% CI: 0.59-0.73), 12 months (HR: 0.58; 95% CI: 0.49-0.70), 18 months (HR: 0.49; 95% CI: 0.38-0.63) and 24 months (HR: 0.66; 95% CI: 0.48-0.90).
+The mortality reduction was evident in patients with baseline CD4+ cell counts less than 50 cells/µL (HR: 0.60; 95% CI: 0.54-0.67), 50-99 cells/µL (HR: 0.66; 95% CI: 0.56-0.78) and 100-199 cells/µL (HR: 0.78; 95% CI: 0.62-0.98).
+CONCLUSION
+Cotrimoxazole prophylaxis started early during ART reduced mortality and should be offered to HIV-infected patients in low- and middle-income countries.

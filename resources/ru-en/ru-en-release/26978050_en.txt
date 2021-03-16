@@ -1,0 +1,11 @@
+[Plasma levels of antipsychotics and the severity of side-effects in the treatment of schizophrenia exacerbation].
+OBJECTIVE
+To study a relationship between plasma levels of antipsychotics (AP) and severity of side-effects (SE) during the treatment of inpatients with exacerbation of schizophrenia.
+MATERIAL AND METHODS
+The study included 39 patients treated with risperidone, haloperidol, zuclopenthixol, clozapine, aripiprazole or olanzapine as monotherapy or in combination of two AP.
+Blood sampling to measure the AP plasma level was performed twice (at 7-10 and 26-30 day from start of treatment), the levels of prolactin and glucose were determined once (at 26-30 day from start of treatment).  Patients were assessed by psychometric scales PANSS and NSA and the side-effects scale UKU.
+RESULTS
+The increased concentration of AP was noted in 33% of the patients.  The high concentration of AP was significantly associated with akathisia and hyperkinesia (by UKU scale), NSA retardation factor and hyperprolactinemia.
+Patients with severe hyperprolactinemia were twice as likely to have a clinically significant depression.  Increased blood glucose levels were observed in 18% of the patients, there was no significant association with AP plasma levels.
+Mental SE were most prominent, with a drift towards the neurological SE in the group with higher AP plasma levels.  Chlorpromazine equivalent didnot significantly differ in the groups with normal, high and low AP concentrations.
+Elevated AP plasma levels, which were associated with some clinically significant SE and some negative symptoms, were found in most patients.  In this regard, therapeutic drug monitoring is a promising method for the individualization of schizophrenia exacerbation treatment in routine clinical practice.

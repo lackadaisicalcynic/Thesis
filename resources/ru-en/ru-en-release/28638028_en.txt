@@ -1,0 +1,10 @@
+[Main directions of differential diagnosis optimization and rational treatment of an acute vertigo attack].
+AIM  To develop and assess the validity of the clinical algorithm VERTIGO for the differential diagnosis of central and peripheral vertigo and optimization of treatment of patients with vertigo.
+MATERIAL AND METHODS
+Sixty-five patients with an acute attack of vertigo, aged from 18 to 75 years (53±6.7 years), were studied.
+All patients underwent standard neurological examination.
+In case of signs of central vertigo, patients underwent neuroimaging.  Diagnostic accuracy, sensitivity and specificity of the VERTIGO algorithm as well as its positive and negative prognostic values were calculated.
+RESULTS
+The sensitivity of VERTIGO for the diagnosis of central vertigo was 100% (95% CI: 78.2-100%), specificity 94.0% (95% CI: 83.5-98.8%), positive prognostic value 83.3% (95% CI: 58.6-96.4%); negative prognostic value 100% (95% CI: 92.5-100%).  Cohen's kappa estimated by the results of final diagnosis was 0.88.
+CONCLUSION  Differential treatment of patients with acute vertigo should be performed according to the current recommendations and include multimodal pharmacological medications, e.g. cavinton forte, to restore the vestibular control by the stimulation of neuroplasticity.
+The VERTIGO algorithm allows the increase of the efficacy of clinical differential diagnosis of central and peripheral vertigo.

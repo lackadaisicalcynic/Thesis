@@ -1,0 +1,13 @@
+AIM  to compare the dynamics of epithelial wound healing under two different post-op treatments in patients after uncomplicated phacoemulsification.
+MATERIAL AND METHODS
+This prospective randomized clinical trial included 40 eyes of 40 patients aged 66.4±8.2 years who underwent uncomplicated phacoemulsification with flexible intraocular lens implantation through a 2.2-mm corneal incision.
+Patients were randomized to receive either dexamethasone 0.1% and diclofenac 0.1% (n=20 eyes, Group I), or bromfenac 0.09% (n=20 eyes, Group II).
+Also, all patients instilled levofloxacin 0.5%.
+The dynamics of epithelial wound healing was assessed with the RTVue-100 spectral domain optical coherence tomograph with CAM-L corneal module in the 3D CORNEA mode 2 hours after surgery and on days 1, 3, 5, and 10.
+RESULTS
+The postoperative period was uneventful in all cases.
+Two hours after surgery, epithelial defects were found in all eyes and their length did not differ statistically p=0.47.
+On the first day after surgery, complete epithelization was observed in 30% of cases from Group I and 60% of cases from Group II.  The average length of epithelial defects was reliably smaller in Group II than in Group I (p=0.04 respectively).
+On postoperative day 3, 20% eyes from Group I still had epithelial defects with the average length of 0.45±0.13 mm, while there was only one eye with a 0.2-mm epithelial defect in Group II. Finally, on postoperative day 5, there was a single 0.3-mm epithelial defect in one eye from Group I.
+On day 10, none of the patients had epithelial defects in either group.  CONCLUSION
+Epithelial wound healing at the site of corneal incision after non-complicated phacoemulsification was found to be faster in patients instilled with bromfenac twice daily than in patients receiving dexamethasone and diclofenac four times daily as anti-inflammatory therapy and given topical fluoroquinolones for antibacterial purpose.

@@ -1,0 +1,6 @@
+[Direct oral anticoagulants in atrial fibrillation patients aged 75 years or older: Efficacy and safety balance].
+Atrial fibrillation (AF) is one of the most common heart rhythm disorders in the population.
+Researchers revealed a direct relationship between their incidence and a patient's age long ago. One of the most challenging issues of clinical practice in patients with AF is anticoagulant therapy used in the so-called very elderly patients aged 75 years and older when age itself is a risk factor for developing both thromboembolic and hemorrhagic events due to anticoagulants, regardless of the mechanism of action of the latter.
+However, scientific data regarding the treatment and prevention of thromboembolic events in elderly and senile patients with AF are very scarce and often uninformative.
+The data from the EURObservational Research Programme-Atrial Fibrillation Registry Pilot Phase (EORP-AF Pilot) and the randomized clinical studies RELY, ROCKET AF, ARISTOTLE, and AVERROES were analyzed to identify the most safe and most effective anticoagulant for elderly patients (over 75 years).
+Relying on the analyses of literature data, the authors propose an algorithm based on clinical characteristics for choosing the anticoagulant for patients older than 75 years.

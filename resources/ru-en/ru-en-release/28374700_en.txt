@@ -1,0 +1,8 @@
+[Decrement pattern of M-response amplitude in the low-frequency repetitive nerve stimulation in the muscles of patients with myasthenia gravis and Lambert-Eaton myasthenic syndrome].  AIM
+To investigate the pattern of decrement in the muscles of patients with myasthenia gravis (MG) and Lambert-Eaton myasthenic syndrome (LEMS).
+MATERIAL AND METHODS  Twenty-seven patients with MG and 39 patients with LEMS were studied using low frequency repetitive nerve stimulation (3/ sec).
+RESULTS AND CONCLUSION
+The decrease of safety factor of neuromuscular transmission was equal in both groups.  At the same time, a significant difference in the decrease of pattern of the amplitude compound of muscle action potential (CMAP) was found.
+In LEMS, by contrast with MG, another sequence of amplitude variability of CMAP from the second stimulus to the first and from the fifth stimulus to the fourth was noted.
+In LEMS patients, progressive decrement, manifesting by increasing ratios of late A9/A1 to early A4/A1 was found, whereas the MG patients showed retrogressive decrement expressed by the reduction in decrement ratio (from late to early).
+These differences reflect the mechanisms and status of acetylcholine mobilization and release from the axon terminal.

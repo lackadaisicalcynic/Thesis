@@ -1,0 +1,8 @@
+[The analysis of the association of the polymorphic variants of the TPMT, COMT, and ABCC3 genes with the development of hearing disorders induced by the cisplatin treatment].
+Cisplatin and its derivatives are widely used chemotherapeutic agents for the treatment of many cancers, including hepatoblastoma, brain tumors, and germ-cell tumors.  This therapy contributed to the dramatic increase in the survival rate.
+However, its use is restricted by the high incidence of irreversible ototoxicity associated with cisplatin application (in more than 60% of the children receiving it).
+Some studies have reported that genetic variants of TPMT (rs 12201199), COMT (rs4646316), and ABCC3 (rs 1051640) are conferring increased risk of developing cisplatin-induced hearing loss.
+However, in other studies the results were not replicated.
+In the present study, we replicated the previous studies based on an independent cohort of Russian patients.
+SNP genotypes for rs 12201199, rs4646316 and rs 1051640 were determined in DNA samples obtained from 16 patients who developed hearing loss and a group of 34 patients whose hearing was retained.
+The association between TPMT (rs 12201199), COMT (rs4646316), and ABCC3 (rs 1051640) variants and the hearing loss was not observed in our cohort.

@@ -1,0 +1,16 @@
+[Efficacy and safety of botulinum toxin type A (IncobotulinumtoxinA) in the treatment of patients with cerebral palsy].
+AIM  To assess the safety and clinical and neurophysiological efficacy of xeomin in children with spastic equinus and equinovarus foot deformity in cerebral palsy.
+MATERIAL AND METHODS
+Sixty-four patients with spastic forms of cerebral palsy (levels I-IV on the GMFCS) were enrolled into this multi-center open-label comparative randomized trial.  The patients were administered xeomin or botox once, each drug being administered to 32 patients.
+Efficacy was evaluated based on clinical characteristics (the modified Ashworth scale, goniometry) and electromyography data.
+The subjects were observed for 3 months (90±7 days) after injections.
+The incidence, severity and intensity of adverse events (AE) was also determined.
+RESULTS
+Treatment with xeomin according to the suggested protocol has proven its high clinical efficacy.  The efficacy was demonstrated by significant, stable and long-term decrease in the gastrocnemius muscle tone: in the xeomin group, the score on the modified Ashworth scale decreased from 2.6±0.49 points at baseline to 1.8±0.54 points (р<0.000001, paired t-test; р<0.000004, Wilcoxon test).
+In the botox group, this score decreased from 2.4±0.56 points to 1.6±0.45 points (р<0.000001, paired t-test; р<0.000002, Wilcoxon test).  The increased range of ankle joint movements at passive and voluntary feet extension.
+In the xeomin group, the significant proportion of patients (45.1%) moved to the group of lower spasticity defined as less than two score points on the modified Ashworth scale.  The clinical data fully matched the changes in electromyography parameters, which were characterized by the lower amplitude and area of the target muscle (lateral and medial gastrocnemius heads) M-responses.
+AE developed in three patients (9.4%) administered xeomin and in two patients (6.3%) administered botox.  The AE recorded in the study are described in the recommendations on the use of xeomin and botox.
+In three cases (50.0%), AE intensity was determined as mild, in the remaining three cases (50.0%) as moderate.
+CONCLUSION
+The results have shown the safety and efficacy of xeomin in the treatment of gastrocnemius spasticity in pediatric patients with cerebral palsy.
+These data are confirmed by the lack of significant differences in any clinical or electromyography parameters with the results in the reference group administered botox.

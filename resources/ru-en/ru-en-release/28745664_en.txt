@@ -1,0 +1,10 @@
+[Predictors of cerebral complications during carotid endarterectomy].
+AIM  To evaluate the prognostic value of parameters of cerebral oxygenation in estimation of the risk of ischemic stroke (IS) in perioperative and early postoperative phase of carotid endarterectomy (CEE).
+MATERIAL AND METHODS
+Four hundred and sixty-six patients with hemodynamically significant atherosclerotic lesion of arteries of the brachiocephalic system, who underwent CEE with bilateral monitoring of cerebral oxygenation (rSO2), were enrolled.
+The end-point of the study was cerebral complications in perioperative and early postoperative phase.
+RESULTS
+The perioperative level of rSO2 <50% (AUC 0.85 (0.73-0.96), p<0.05) and the reduction in rSO2 in the operated side during the temporary occlusion of the inner carotid artery (ICA) by ≥20% (AUC 0.74 (0.51-0.97) p<0.05) were the best predictors of the risk of IS.
+The risk group with the reduction in rSO2 by ≥20% at the main stage of CEE included patients with collateral stenosis and ICA occlusion, occlusion of the circle of Willis and the history of myocardial infarction.
+CONCLUSION
+The reduction in rSO2 in the stage of ICA occlusion by ≥20% increased the risk of IS by >10 times, the perioperative level of rSO2 <50% increased the risk of IS in perioperative and early postoperative phase of CEE by 6 times.

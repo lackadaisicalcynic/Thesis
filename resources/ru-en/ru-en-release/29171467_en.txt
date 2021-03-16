@@ -1,0 +1,19 @@
+[Microcirculatory parameters in compensated and decompensated type 2 diabetes mellitus].
+AIM  To reveal the features of microcirculatory parameters in compensated and decompensated type 2 diabetes mellitus (T2DM).
+SUBJECTS AND METHODS
+A total of 196 patients with T2DM were examined and divided into 2 groups: 1) 52 patients (40.4% of men) aged 52.8±8.7 years with compensated T2DM (glycated hemoglobin (HbA1с), 6.3±0.5%); 2) 68 patients (38.2% of men) aged 52.8±8.1 years with decompensated T2DM (HbA1с, 9.4±1.7%).
+Both patient groups had concomitant hypertension (its prevalence, degree, stage of hypertension were comparable).
+A control group consisted of 76 volunteers (40.8% of men) aged 52.2±8.7 years with normal carbohydrate metabolism and without signs of cardiovascular disease (HbA1с, 5.3±0.49%).
+Capillary blood flow in the finger nail-fold area was investigated in all the participants.
+A digital optical capillaroscope with image-processing software was used to obtain quantitative blood microcirculatory parameters.
+The diameters of arterial and venous capillary segments were measured, by calculating the remodeling rate.
+The degree of capillary tortuosity, network density, and polymorphism and the size of the perivascular zone (PZ) were estimated.
+Blood rheological properties and capillary blood flow velocity were also investigated.
+RESULTS
+The decompensated T2DM group compared to the compensated T2DM group was found to have a narrowing of the arterial capillary segment diameter (8.4±2.0 µm; p=0.009) and an increase in remodeling rates (1.47±0.22; p=0.000).
+The tendency of the PZ size to be larger in patients with decompensated T2DM compared to those with compensated T2DM (p=0.080) and the increase in this indicator compared to the control group (p=0.001) reflect the presence of edema syndrome in Group 2, as laboratory confirmed by a statistically significantly elevated sodium level (p=0.000; p=0.006).
+The enlarged venous capillary segment demonstrates involvement of the venous component in microcirculatory disorders in T2DM.
+The reduction in the density of the capillary network and the increase in capillary tortuosity and polymorphism, which were also observed in the patients of both groups versus the control group, are referred to as disorders that are characteristic of T2DM.
+CONCLUSION
+In decompensated T2DM, capillary bed structural and functional changes are found as a narrowing of the arterial capillary segment, an increase in the rate of remodeling, and enlargement of the PZ.
+Digital capillaroscopy opens up new possibilities for assessing the magnitude of changes in the microcirculatory system in DM and can simultaneously evaluate the efficiency of treatment, by monitoring the status of the microvasculature.

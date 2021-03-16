@@ -1,0 +1,10 @@
+[Auditory evoked potentials in children with auditory neuropathy spectrum disorder].  The objective of the present study was to estimate peculiarities of the auditory brainstem evoked potentials (ABR), auditory steady-state responses (ASSR) and cortical auditory evoked potentials (CAEP) in the children presenting with bilateral auditory neuropathy spectrum disorder (ANSD).
+The study included 100 patients with bilateral ANSD diagnosed based on the positive response of otoacoustic emissions (OAEs) and/or cochlear microphonic (CM) detection, while no synchronous neural activity was detected in the ABR test.  Cochlear microphonic was the main clue for the ANSD diagnosing, because OAE was absent in both ears of 49 children.
+ABR testing revealed no response bilaterally in 72 cases (out of 100).
+In contrast to ABR, the ASSR thresholds were detectable at all the four main frequencies in both ears in 73 % of the cases (47 out of the 64 tested ones).
+Both ABR and ASSR in most cases were incomparable with the behavioral audiometric thresholds.
+28 children underwent CAEP testing.
+In 7 cases out of 8 with mild hearing loss detectable CAEP were recorded.
+CAEP registration in l7 children making use of the hearing aids and in 3 children after cochlear implantation revealed, in the majority of the cases, the concordance between CAEP detectability with behavioral thresholds and rehabilitation outcomes with fairly good speech intelligibility.
+It is concluded that the ABR registration with CM evaluation is the most informative test for ANSD diagnosis.  However, ABR as well as ASSR is useless for the estimation of the behavioral thresholds.
+The results of this study suggest that the presence or absence of CAEPs can provide some indication of the audibility of a speech sound in the children with ANSD; however this method requires further investigation.

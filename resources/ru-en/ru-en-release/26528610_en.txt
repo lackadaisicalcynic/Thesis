@@ -1,0 +1,18 @@
+The main objective of cerebrovascular resistance is to maintain the constancy of cerebral blood flow and protect downstream vessels when changing perfusion pressure.  The purpose of the study was to assess cerebrovascular resistance (CVR) in patients with severe combined traumatic brain injury (CTBI) with and without intracranial hematomas (IHs).
+MATERIAL AND METHODS
+We analyzed treatment outcomes in 70 patients with severe CTBI (42 males and 28 females).  The mean age was 35.5 ± 14.8 years (min 15 years; max 73 years).
+All patients were divided into 2 groups, depending on the presence of intracranial hemorrhage.
+The first group included 34 patients without IH, and the second group included 36 patients with epidural (6), subdural (26), and multiple (4) hematomas.
+The GCS score was 10.4 ± 2.6 in the first group and 10.6 ± 2.8 in the second group.
+The ISS severity injury score was 32 ± 8 in the first group and 31 ± 11 in the second group.
+All patients were operated on within the first 3 days, with 30 (83.3%) patients being operated on during the first day.
+Perfusion computed tomography (PCT) of the brain was performed within 1-14 days after TBI in the first group and within 2-8 days after surgical evacuation of hematoma in the second group.  After PCT, the mean arterial pressure was measured, and the blood flow rate in the middle cerebral artery was determined using transcranial dopplerography.
+Cerebrovascular resistance was calculated using the formula modificated by P. Scheinberg.
+Comparisons between the groups were performed using the Student t-test and χ² criterion.
+RESULTS
+The mean CVR values in each group (both with and without hematomas) were statistically significantly higher than the mean normal value of this parameter.
+Intergroup comparison of CVR values demonstrated a statistically significant increase in the CVR level in group 2 on the side of removed hematoma compared to group 1 (p=0.037).
+CVR in the perifocal zone of removed hematoma remained significantly higher compared to the symmetrical zone of the contralateral hemisphere (p=0.0009).
+CONCLUSION
+Cerebrovascular resistance in patients with combined traumatic brain injury is significantly increased compared to the normal value.
+Cerebrovascular resistance in the perifocal zone after evacuation of hematoma in patients with multiple injury remains significantly increased compared to the symmetrical zone in the contralateral hemisphere.

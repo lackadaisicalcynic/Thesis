@@ -1,0 +1,14 @@
+Episiotomy rate in Vietnamese-born women in Australia: support for a change in obstetric practice in Viet Nam.
+OBJECTIVE  To describe the use of episiotomy among Vietnamese-born women in Australia, including risk factors for, and pregnancy outcomes associated with, episiotomy.
+METHODS
+This population-based, retrospective cohort study included data on 598 305 singleton, term (i.e. ≥ 37 weeks' gestation) and vertex-presenting vaginal births between 2001 and 2010.
+Data were obtained from linked, validated, population-level birth and hospitalization data sets.
+Contingency tables and multivariate analysis were used to compare risk factors and pregnancy outcomes in women who did or did not have an episiotomy.
+FINDINGS
+The episiotomy rate in 12 208 Vietnamese-born women was 29.9%, compared with 15.1% in Australian-born women.
+Among Vietnamese-born women, those who had an episiotomy were significantly more likely than those who did not to be primiparous, give birth in a private hospital, have induced labour or undergo instrumental delivery.
+In these women, having an episiotomy was associated with postpartum haemorrhage (adjusted odds ratio, aOR: 1.26; 95% confidence interval, CI: 1.08-1.46) and postnatal hospitalization for more than 4 days (aOR: 1.14; 95% CI: 1.00-1.29).
+Among multiparous women only, episiotomy was positively associated with a third- or fourth-degree perineal tear (aOR: 2.00; 95% CI: 1.31-3.06); in contrast, among primiparous women the association was negative (aOR: 0.47; 95% CI: 0.37-0.60).
+CONCLUSION
+Episiotomy was performed in far fewer Vietnamese-born women giving birth in Australia than in Viet Nam, where more than 85% undergo the procedure, and was not associated with adverse outcomes.
+A lower episiotomy rate should be achievable in Viet Nam.

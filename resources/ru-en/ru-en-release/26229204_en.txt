@@ -1,0 +1,11 @@
+Estimates of alcohol-related oesophageal cancer burden in Japan: systematic review and meta-analyses.  OBJECTIVE
+To refine estimates of the burden of alcohol-related oesophageal cancer in Japan.
+METHODS  We searched PubMed for published reviews and original studies on alcohol intake, aldehyde dehydrogenase polymorphisms, and risk for oesophageal cancer in Japan, published before 2014.
+We conducted random-effects meta-analyses, including subgroup analyses by aldehyde dehydrogenase variants.  We estimated deaths and loss of disability-adjusted life years (DALYs) from oesophageal cancer using exposure distributions for alcohol based on age, sex and relative risks per unit of exposure.
+FINDINGS
+We identified 14 relevant studies.  Three cohort studies and four case-control studies had dose-response data.
+Evidence from cohort studies showed that people who consumed the equivalent of 100 g/day of pure alcohol had an 11.71 fold, (95% confidence interval, CI: 2.67-51.32) risk of oesophageal cancer compared to those who never consumed alcohol.
+Evidence from case-control studies showed that the increase in risk was 33.11 fold (95% CI: 8.15-134.43) in the population at large.
+The difference by study design is explained by the 159 fold (95% CI: 27.2-938.2) risk among those with an inactive aldehyde dehydrogenase enzyme variant.
+Applying these dose-response estimates to the national profile of alcohol intake yielded 5279 oesophageal cancer deaths and 102,988 DALYs lost - almost double the estimates produced by the most recent global burden of disease exercise.  CONCLUSION
+Use of global dose-response data results in an underestimate of the burden of disease from oesophageal cancer in Japan.  Where possible, national burden of disease studies should use results from the population concerned.

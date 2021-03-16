@@ -1,0 +1,10 @@
+AIM  A quantitative assessment of the impact of genetic factors (density of family history of alcohol dependence and dopamine system genes polymorphisms) on the average time to relapse (ATR) after alcohol dependence treatment (duration of therapeutic remission from alcohol dependence).
+MATERIAL AND METHODS
+Authors studied 247 male Russian inpatients diagnosed with ICD-10 F10.2 who had at least two therapeutic remissions before the current hospitalization and 259 healthy controls.
+ATR and the density of family history of alcohol dependence were evaluated retrospectively according to the clinical interview.
+RESULTS AND CONCLUSION
+The high density of family history (at least 2 people with alcohol problems among the blood relatives) and some dopamine system genes polymorphisms significantly affect the average time to relapse.
+An allele A9 of the dopamine transporter gene (DAT VNTR 40 bp) was associated (p=0.003; OR=1.73) with short (up to 12 months) average time to relapse.  A trend toward association (p=0.052) was noted for dopamine receptor type 2 gene polymorphisms (rs1800497, rs6275).
+Patients with long-term ATR are genetically different from patients with short ATR by the set of variants of tyrosine hydroxylase gene (HUMTH01, p=0.002; OR=3.08) and from the control group by the genotype LH of the catechol-O-methyltransferase gene (rs4680, p=0.02; OR=2.33).
+Some other sets of HUMTH01 variants (p=0.0001; OR=2.38) and the dopamine receptor type 4 (DRD4 VNTR 48 bp, p=0.055) may have protective properties with regard to short ATR.
+Polymorphisms (rs1108580, rs1611115) of the dopamine-beta-hydroxylase gene were not related to the ATR.

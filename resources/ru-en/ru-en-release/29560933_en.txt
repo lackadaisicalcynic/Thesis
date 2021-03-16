@@ -1,0 +1,8 @@
+[Prognostic significance of clinical-anthropometric, biochemical, metabolic, vascular-inflammatory and molecular-genetic markers in the development of the first ischemic stroke].
+AIM  To study the relationship between clinical-anthropometric, biochemical, metabolic, vascular-inflammatory, molecular-genetic parameters and the development of the first ischemic stroke, and to develop a prognostic model for determining the probability of its occurrence.
+MATERIAL AND METHODS
+The study included 196 first ischemic stroke patients and 119 healthy people matched for age, place of residence and nationality to the group of patients.  The main anthropometric, clinical, biochemical, metabolic parameters and markers of vascular inflammation and endothelial dysfunction were assessed.
+Single nucleotide polymorphisms of IL8, ADIPOQ, ADIROR, APOB, APOC-IV, BDNF, GRM3 genes were genotyped.
+RESULTS
+Weight, BMI, waist circumference, homocysteine, insulin, adiponectin, cystatin C, ApoA1, Apo B, CHOL, HDL, LDL, TG, CRB-sh, glucose, uric acid, IL-1b, IL-4, IL-6, IL-8, TNF-a, VEGF-A were significantly associated with the first ischemic stroke.  CONCLUSION
+Based on the data obtained in this study, a probability model for the development of the first ischemic stroke was obtained.  Of all the parameters studied, diabetes mellitus, adiponectin, Apo A1, IL-4 made the largest contribution to the probability of the first ischemic stroke.

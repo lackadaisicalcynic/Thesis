@@ -1,0 +1,10 @@
+[Dynamics of clinical and biological indices of the asthenic symptom-complex during immunotropic therapy of patients with schizophrenia].
+AIM  To identify clinical, psychopathological, and immunological features of the asthenic symptom-complex in patients with schizophrenia and to analyze the possibility of optimizing complex therapy of these conditions using the immunotropic drug bestim.
+MATERIAL AND METHODS
+Forty-three male patients, aged 20-55 years, were examined.
+Clinical examination of patients (PANSS, MFI-20) was performed before, and 5, 30 days after the end of treatment.
+The activity of inflammatory markers (leukocyte elastase (LE) and a1-proteinase inhibitor (a1-PI)) was determined in blood serum.
+RESULTS
+The affective-asthenic (32.5%) and asthenic-negative (67.5%) variants of the asthenic symptom-complex in schizophrenia characterized by different immune reactions (depending on LE activity) were revealed.
+Complex therapy with bestim contributed to a statistically significant reduction in the main clinical manifestations of endogenous asthenia in the majority of patients.  More significant regression at a remote stage of the study was observed in the astheno-negative group of patients (p<0.001).
+LE and a1-PI reflect the clinical and biological features of the asthenic symptom-complex which develops within the endogenous process.  Normal/reduced activity of LE accompanied by the increased activity of a1-PI is the best predictor of bestim efficacy in terms of reduction of asthenic symptoms.

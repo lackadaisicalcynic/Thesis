@@ -1,0 +1,18 @@
+[Dialysis-dependent renal failure in patients with multiple myeloma: Reversibility factors].
+AIM  To establish the reversibility factors of dialysis-dependent renal failure (RF) in patients with multiple myeloma (MM) treated according to bortezomib-containing programs.
+SUBJECTS AND METHODS
+The efficiency of treatment according to bortezomib-containing programs was evaluated in 40 patients with first diagnosed MM and dialysis-dependent RF.
+Prior to treatment, 34 patients underwent needle renal biopsy.
+The early mortality rate was 5%.
+RESULTS
+After treatment according to bortezomib-containing programs, 83% of the patients could achieve a hematologic response, including 66% who had complete and very good partial remission (CR and vgPR).
+A renal response (RenR) was observed in only 26% of the patients.
+RenR to antitumor therapy was found to be determined by the morphological variant of nephropathy.
+Improved kidney function was observed only in cast nephropathy (CN) and absent in other types of kidney injury.
+In CN, the rate of RenR depends on the degree of renal tubulointerstitial fibrosis at the initiation of treatment.
+Kidney function improved in 20% of the patients with disseminated tubulointerstitial fibrosis and in 57% of those with minimal fibrotic changes (p=0.04).
+To achieve RenR, it is important to have an early antitumor response in addition to baseline morphological changes in the nephrobiopsy specimen.
+When the number of monoclonal light chains (LC) in urine was reduced to 100 mg/day after 2 cycles of induction therapy, RenR was 55%; with a lower antitumor response it was as high as 28% (p=0.04).
+A LC decrease to the values of vgPR after 2 cycles of induction therapy was noted in only 32% of the patients; 44% of the patients achieved vgPR or CR after an average of 6 (3-13) therapy cycles.
+CONCLUSION
+In MM patients with dialysis-dependent RF, RenR was caused by the morphological variant of kidney injury and by the degree of tubulointerstitial fibrosis at the therapy initiation, as well as by the rate at which monoclonal LCs reduced.

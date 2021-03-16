@@ -1,0 +1,20 @@
+[Surgical treatment of eloquent brain area tumors using neurophysiological mapping of the speech and motor areas and conduction tracts].  AIM
+To evaluate the efficacy of intraoperative neurophysiological mapping in removing eloquent brain area tumors (EBATs).
+MATERIAL AND METHODS  Sixty five EBAT patients underwent surgical treatment using intraoperative neurophysiological mapping at the Pirogov National Medical and Surgical Center in the period from 2014 to 2015.
+On primary neurological examination, 46 (71%) patients were detected with motor deficits of varying severity.
+Speech disorders were diagnosed in 17 (26%) patients.
+Sixteen patients with concomitant or isolated lesions of the speech centers underwent awake surgery using the asleep-awake-asleep protocol.
+Standard neurophysiological monitoring included transcranial stimulation as well as motor and, if necessary, speech mapping.
+The motor and speech areas were mapped with allowance for the preoperative planning data (obtained with a navigation station) synchronized with functional MRI.
+In this case, a broader representation of the motor and speech centers was revealed in 12 (19%) patients.
+During speech mapping, no speech disorders were detected in 7 patients; in 9 patients, stimulation of the cerebral cortex in the intended surgical area induced motor (3 patients), sensory (4), and amnesic (2) aphasia.
+In the total group, we identified 11 patients in whom the tumor was located near the internal capsule.
+Upon mapping of the conduction tracts in the internal capsule area, the stimulus strength during tumor resection was gradually decreased from 10 mA to 5 mA. Tumor resection was stopped when responses retained at a stimulus strength of 5 mA, which, when compared to the navigation data, corresponded to a distance of about 5 mm to the internal capsule.
+Completeness of tumor resection was evaluated (contrast-enhanced MRI) in all patients on the first postoperative day.
+RESULTS
+According to the control MRI data, the tumor was resected totally in 60% of patients, subtotally in 24% of patients, and partially in 16% of patients.
+In the early postoperative period, the development or aggravation of a motor neurological deficit was detected in 18 patients: worsening of paresis was observed in 11 patients, and worsening of speech disorders occurred in 7 patients.
+After 4 months, motor and speech disorders regressed in 10 patients.
+Therefore, a persistent neurological deficit developed after surgery in 8 (12%) patients (motor deficit in 5 cases; speech deficit in 3 cases).
+CONCLUSION
+Resection of eloquent brain area tumors using intraoperative neurophysiological monitoring enables complete resection of the tumor at a low risk of persistent neurological deficits, which ultimately improves the patient's life prognosis.

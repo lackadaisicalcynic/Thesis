@@ -1,0 +1,5 @@
+[Anatomical parameters of emmetropic and varyingly myopic eyes].  This article summarizes the results of a study on ocular anatomy in emmetropia and different degrees of myopia conducted in the Smolensk State Medical Academy.
+Data of 233 patients (408 eyes) is presented.
+Five size parameters were measured in all cases.
+A mathematical model of an emmetropic eye has been developed.
+The results obtained allow to judge the dimensions of a normal eyeball and their changes in case of myopia progression.

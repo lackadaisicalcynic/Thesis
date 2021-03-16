@@ -1,0 +1,20 @@
+[Therapy for Burkitt's lymphoma according to the BL-M-04 protocol: 12-year experience].
+AIM
+To evaluate the efficiency and toxicity of the intensive Burkitt's lymphoma (BL) therapy protocol BL-M-04.
+SUBJECTS AND METHODS
+A total of 70 patients diagnosed with BL, including 45 men and 25 women whose age was 15 to 62 years (median age 31 years), were followed up in 2003 to 2014.
+Stage I (according to S. Murphy) was diagnosed in 4 (5.7%) patients; II in 9 (12.9%), III in 25 (35.7%), IV in 11 (15.7%), and Burkitt's leukemia in 21 (30%).
+There were tumor involvements of the bone marrow and central nervous system in 23 (32.9%) and 15 (21.4%) patients, respectively.
+B symptoms were detected in 56 (80%) patients; enhanced lactate dehydrogenase (LDH) activity was found in 50 (78.1%) out of 64 patients; moreover, in 34 (56.2%) out of 64 patients, LDH activity was more than twice as high as the reference values.
+The median LDH activity was 2398 (238-20,300) U/I.
+Acute renal failure at disease onset was identified in 17 (24.2%) patients; chemotherapy was initiated in 8 patients during renal replacement therapy.
+The treatment was performed using the BL-M-04±R protocol (4 successive blocks of A-C-A-C±R).
+Six blocks of A-C-A-C-A-C with rituximab has been carried out in patients with bone marrow involvement since 2011.
+RESULTS
+Sixty-two (89%) patients achieved complete remission.
+At this time, 6 patients died from therapy complications during remission induction; 2 patients were observed to have disease progression; 3 developed disease recurrence (2 patients had early recurrence; 1 patient developed recurrence 2 years after treatment).
+Five-year overall survival (OS) was 85%; 5-year relapse-free survival (RFS) was 95%.
+The Cox multivariate regression analysis revealed that Burkitt's leukemia and bone marrow involvement were independent factors that influenced OS and RFS.
+The poor somatic status (3-4 ECOC scores versus 0-2 scores) proved to be statistically significant for OS rather than RFS.
+CONCLUSION
+Despite the optimistic results obtained by our study group, there is a need to further improve BL treatment protocols and to elaborate novel approaches to therapy particularly for older patients and patients with Burkitt's leukemia.

@@ -1,0 +1,10 @@
+Nurse-led HIV services and quality of care at health facilities in Kenya, 2014-2016.
+OBJECTIVE  To develop a novel measure to characterize human immunodeficiency virus (HIV) programme quality at health facilities in Kenya and explore its associations with patient- and facility-level characteristics.
+METHODS
+We developed a composite indicator to measure quality of HIV care, comprising: assessment of eligibility for antiretroviral therapy (ART); initiation of ART; and retention on ART or in care, if ineligible for ART, for 12 months.
+We applied the comprehensive retention indicator to routinely collected clinical data from 13 331 patients enrolled in HIV care and treatment at 63 health facilities in the Eastern and Nyanza regions of Kenya from 1 January 2014 to 31 March 2016.  We explored the association between facility- and patient-level characteristics and the primary outcome: appropriate staging and management of HIV, and retention in care over 12 months.
+FINDINGS
+Of the enrolled patients, 8404 (63%) achieved comprehensive retention 12 months after enrolment in care.  In univariate analyses, patients at facilities where nurses delivered HIV treatment services (including eligibility assessment, initiation and follow up of ART) had significantly higher comprehensive retention rates at 12 months.
+In multivariate analyses, after adjusting for both facility- and patient-level characteristics, patients at facilities where nurses initiated ART had significantly higher comprehensive retention in care at 12 months (relative risk, RR: 1.22; 95% confidence interval, CI: 1.00-1.48).
+CONCLUSION
+Nurse-led HIV services were significantly associated with quality of care, confirming the central role of nurses in the achievement of global health goals, and the need for further investment in nursing education, training and mentoring.

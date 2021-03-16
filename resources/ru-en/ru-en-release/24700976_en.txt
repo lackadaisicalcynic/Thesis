@@ -1,0 +1,14 @@
+Estimating the measles effective reproduction number in Australia from routine notification data.  OBJECTIVE
+To estimate the measles effective reproduction number (R) in Australia by modelling routinely collected notification data.
+METHODS
+R was estimated for 2009-2011 by means of three methods, using data from Australia's National Notifiable Disease Surveillance System.
+Method 1 estimated R as 1 - P, where P equals the proportion of cases that were imported, as determined from data on place of acquisition.
+The other methods estimated R by fitting a subcritical branching process that modelled the spread of an infection with a given R to the observed distributions of outbreak sizes (method 2) and generations of spread (method 3).
+Stata version 12 was used for method 2 and Matlab version R2012 was used for method 3.
+For all methods, calculation of 95% confidence intervals (CIs) was performed using a normal approximation based on estimated standard errors.
+FINDINGS
+During 2009-2011, 367 notifiable measles cases occurred in Australia (mean annual rate: 5.5 cases per million population).
+Data were 100% complete for importation status but 77% complete for outbreak reference number.
+R was estimated as < 1 for all years and data types, with values of 0.65 (95% CI: 0.60-0.70) obtained by method 1, 0.64 (95% CI: 0.56-0.72) by method 2 and 0.47 (95% CI: 0.38-0.57) by method 3.
+CONCLUSION
+The fact that consistent estimates of R were obtained from all three methods enhances confidence in the validity of these methods for determining R.

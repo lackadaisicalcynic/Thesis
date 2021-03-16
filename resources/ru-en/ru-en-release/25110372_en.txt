@@ -1,0 +1,14 @@
+Use of text messages to communicate clinical recommendations to health workers in rural China: a cluster-randomized trial.
+OBJECTIVE  To compare the effectiveness of mobile phone text messaging and that of traditional health worker training in communicating clinical recommendations to health workers in China.
+METHODS
+A cluster-randomized controlled trial (Chinese Clinical Trial Register: ChiCTR-TRC-09000488) was conducted in 100 township health centres in north-western China between 17 October and 25 December 2011.
+Health workers were allocated either to receive 16 text messages with recommendations on the management of viral infections affecting the upper respiratory tract and otitis media (intervention group, n = 490) or to receive the same recommendations through the existing continuing medical education programme - a one-day training workshop (control group, n = 487).
+Health workers' knowledge of the recommendations was assessed before and after messaging and traditional training through a multiple choice questionnaire.
+The percentage change in score in the control group was compared with that in the intervention group.
+Changes in prescribing practices were also compared.
+FINDINGS
+Health workers' knowledge of the recommendations increased significantly in the intervention group, both individually (0.17 points; 95% confidence interval, CI: 0.168-0.172) and at the cluster level (0.16 points; 95% CI: 0.157-0.163), but not in the control group.
+In the intervention group steroid prescriptions decreased by 5 percentage points but antibiotic prescriptions remained unchanged.
+In the control group, however, antibiotic and steroid prescriptions increased by 17 and 11 percentage points, respectively.
+CONCLUSION
+Text messages can be effective for transmitting medical information and changing health workers' behaviour, particularly in resource-limited settings.

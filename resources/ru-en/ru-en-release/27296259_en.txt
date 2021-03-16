@@ -1,0 +1,21 @@
+[Risk factors for pulmonary hypertension at the predialysis stage of chronic kidney disease].
+AIM  To investigate the incidence and risk factors of pulmonary hypertension (PH) in patients with chronic kidney disease (CKD).
+SUBJECTS AND METHODS
+86 patients (53% men, 47% women; mean age, 45±13 years) with nondiabetic CKD were examined.
+According to the magnitude of glomerular filtration rate (GFR) decrease, all the patients were divided into 3 groups: 1) 33 patients with a GFR of 89--45 ml/min; 2) 33 with a GFR of 44--15 ml/min; 3) 20 with a GFR of <15 ml/min who were treated with hemodialysis.
+A control group consisted of 20 individuals with preserved kidney function (a GFR of >90 ml/min).
+Physical examination and transthoracic echocardiography were performed in all the patients.
+The serum concentrations of N-terminal pro-B-type natriuretic peptide (NT-proBNT) and cystatin C were determined.
+RESULTS
+PH was detected in 21 (24.4%) of the 86 patients with CKD.
+As CKD progressed, its prevalence in Groups 1, 2, and 3 increased, amounting to 18.2, 24.2, and 35%, respectively.
+The most predictably significant risk factors for PH were hypertension (ρ=0.35; р=0.001) and kidney dysfunction  (creatinine (ρ=0.23; р=0.02).
+Elevated pulmonary artery systolic pressure (PASP) correlated with right ventricular (RV) dimension index (ρ=0.45; р<0.0001), right atrial volume index (ρ=0.3; р=0.02), left atrial volume index (ρ=0.3; р=0.009), and left ventricular mass index (ρ=0.35; р=0.03).
+In all the patients with CKD in the presence of PH, the NT-proBNP level was significantly higher than in its absence: 37.43 (5.83; 59.84) and 8.54 (5.1; 20.43) fmol/ml, respectively (р=0.01).
+Positive correlations were found between the level of cystatin C and the presence of PH (ρ=0.32; р=0.003).
+Analysis of the ROC curve (AUC=0.718; р=0.03) in the predialysis-stage CKD groups (n=66) revealed that the cystatin C level of > 1045 ng/ml with a sensitivity of 71% and a specificity of 60% suggested that PH was present.
+Multivariate analysis showed that the factors correlating with the presence of PH were NT-proBNP (β=0.34; р=0.008) and RV dimension index (β=0.3; р=0.002).
+CONCLUSION
+EchoCG reveals PH in almost 25% of the patients with CKD, which occurs at its predialysis stage.
+Elevated PASP is associated with myocardial structural changes.
+Traditional risk factors (hypertension) and diminished kidney function affect the development of PH.

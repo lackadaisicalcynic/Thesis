@@ -1,0 +1,16 @@
+[X-ray, laboratory, and functional parallels in intrathoracic sarcoidosis].
+AIM  to compare respiratory function and laboratory data with the radiographic stages of intrathoracic sarcoidosis.
+SUBJECTS AND METHODS
+Three hundred and eleven patients (70.4% for women and 29.6% for men; mean age, 44.7±0.6 years) with histologically verified sarcoidosis underwent X-ray computed tomography, spirography, estimation of carbon monoxide diffusing capacity (DLCO), oxygen saturation, blood count and serum total calcium blood test.
+The patients were assigned according to sarcoidosis stages as follows: 3.9% with stage 0; 16.4% with stage I; 65.3% with stage II; 13.2% with stage III; 1.3% with stage IV, and 12.9% with Löfgren's syndrome.
+Results.
+DLCo decreased together with an increasing sarcoidosis stage (<80% of the due X2=8.69 for DLCO; p=0.057); the difference was significant between stages I (84.2±2.8%) and III (76.1±2.9%, p=0.05).
+According to the radiographic changes, there were decreases in forced vital capacity (FVC) from 99.0±2.5% in stage I to 76.1±3.5% in Stage IV and in forced instantaneous expiratory flow rate at 75% of lung volume (FEF75) from 64.4±3.1 to 44.0±5.9%, respectively.
+DLCO correlated with FVC, peak expiratory flow, and FEF, (p<0.01) and arterial oxygen saturation (SaO2) did only with FVC.
+There was a strong association between the decrease in DLCO and FVC below 80% of the due values (X2=28.23; d.f.=1; p<0.001).
+L6fgren's syndrome failed to affect functional data.
+In the patients with Löfgren's syndrome, the serum level of calcium was significantly lower  (2.09±0.10 versus 2.35±0.02 mmol/l(p=0.023); however, this indicator did not significantly differ between the radiological stages of intrathoracic sarcoidosis.
+CONCLUSION
+In sarcoidosis, the changes in DLCO and FVC vary with radiological stages.
+Decreased SaG2 was observed in Stage IV.
+The total level of total blood calcium is an indicator independent of the radiological stages of sarcoidosis.

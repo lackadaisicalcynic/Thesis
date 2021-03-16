@@ -1,0 +1,5 @@
+[Cone beam CT in diagnostics of facial trauma].  The article provides a review of domestic and international scientific literature to reveal the possibilities of cone-beam computed tomography in facial trauma diagnostics.
+The ratio of maxillofacial trauma continues to grow progressively.  The current situation increases the need for high-quality, fast and extremely informative radiology diagnosis for such conditions.
+At the moment the possibilities of multislice computed tomography are well examined in the facial trauma diagnosis.
+But the potential of cone-beam computed tomography arenot fully known yet by radiologists and maxillofacial surgeons.
+This review presents an analysis of the method's technical features, its advantages, disadvantages and special application aspects in facial trauma.

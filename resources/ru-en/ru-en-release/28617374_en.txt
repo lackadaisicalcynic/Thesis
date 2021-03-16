@@ -1,0 +1,12 @@
+[Positive changes in the severity of residual psychotic symptoms in schizophrenic patients switched to treatment with risperidone].
+AIM
+To evaluate the effect of changing therapy from typical antipsychotics to the atypical antipsychotic risperidone in the treatment of difficult-to-treat residual psychotic symptoms.  MATERIAL AND METHODS
+The study included 15 patients, 8 men and 7 women, mean age 49.1±10.25 years, diagnosed with paranoid schizophrenia, partial remission (ICD-10 F20.04).  At the beginning all participants received regular maintenance antipsychotic therapy with typical antipsychotics.
+The patient assessment with the PANSS, CGI scale and GAF scale was performed at the beginning (before the change of antipsychotics to risperidone) and in the end of the study.  The primary efficacy endpoint was a reduction in scores on the PANSS items P1 'delusions' and P3 'hallucinatory behavior' to 1 (no such symptom) or 2 (minimal residual symptom).
+Secondary criteria were positive changes in the severity of other psychopathological symptoms and an increase in the social functioning level.  The average dose of risperidone was 4.62±1.35 mg.
+The duration of treatment was 2 month.
+RESULTS
+After switching from typical antipsychotics to risperidone and two months monotherapy, there were significant positive changes in the total PANSS score as well as in positive subscale score and CGI-S score.  The small, but statistically significant, changes were detected in the overall functioning of the patients (the increase in the GAF score).
+The dynamics of residual psychotic symptoms was unequal: the severity of hallucinatory symptoms decreased significantly while the delusional symptoms remained unchanged.  CONCLUSION
+The authors suggest that excessive dopaminergic blockade might play a significant role in the pathogenesis of residual symptoms.  This fact may explain the positive effect of treatment in the cases with the less degree of dopaminergic blockade.
+If it is true, the treatment strategy in the maintenance phase should not be a direct continuation of acute phase therapy and switching to other drugs and changing of the dose are needed.

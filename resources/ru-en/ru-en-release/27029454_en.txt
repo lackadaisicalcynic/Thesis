@@ -1,0 +1,8 @@
+[The relationship between quantitative clinical and EEG parameters in the treatment of delusional conditions in patients with attack-like schizophrenia].
+OBJECTIVE
+To study neurophysiologic correlates of the severity of clinical conditions and to search for possible predictors of therapeutic response in attack-like schizophrenic patients with delusional disorders.  MATERIAL AND METHODS
+During the treatment of 40 attack-like schizophrenic patients (all females, right-handed, aged 20--50 years old) with delusional disorders, clinical symptoms were quantitatively assessed using PANSS.
+Resting EEG was recorded with the consequent spectral-coherent analysis.  Correlation analysis was performed at the beginning of treatment and at the stage of the development of remission.
+Significant (p<0.05) correlations between some initial (before treatment) resting EEG parameters and PANSS scores before treatment and at the stage of remission were revealed.  The reduction in psychopathologic symptoms after treatment course was associated with the decrease in alpha-3 spectral power in occipital zones and increase of theta-1 and theta-2 spectral power in frontal-central regions.
+Besides, the number of statistically significant intra-hemispheric and inter-hemispheric links was increased in theta-1 and theta-2 frequency bands in frontal and central regions compared to initial levels.  CONCLUSION
+These EEG changes reflected the facilitation of cortical inhibitory processes as well as recovery of impaired intra-cortical links i.e. the normalization of the brain integrative activity.

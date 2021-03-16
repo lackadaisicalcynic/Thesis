@@ -1,0 +1,13 @@
+Untreated depression and tuberculosis treatment outcomes, quality of life and disability, Ethiopia.
+Objective
+To investigate the association between comorbid depression and tuberculosis treatment outcomes, quality of life and disability in Ethiopia.  Methods
+The study involved 648 consecutive adults treated for tuberculosis at 14 primary health-care facilities.  All were assessed at treatment initiation (i.e. baseline) and after 2 and 6 months.
+We defined probable depression as a score of 10 or above on the nine-item Patient Health Questionnaire.  Data on treatment default, failure and success and on death were obtained from tuberculosis registers.
+Quality of life was assessed using a visual analogue scale and we calculated disability scores using the World Health Organization's Disability Assessment Scale.
+Using multivariate Poisson regression analysis, we estimated the association between probable depression at baseline and treatment outcomes and death.
+Results
+Untreated depression at baseline was independently associated with tuberculosis treatment default (adjusted risk ratio, aRR: 9.09; 95% confidence interval, CI: 6.72 to 12.30), death (aRR: 2.99; 95% CI: 1.54 to 5.78), greater disability (β: 0.83; 95% CI: 0.67 to 0.99) and poorer quality of life (β: -0.07; 95% CI: -0.07 to -0.06) at 6 months.
+Participants with probable depression had a lower mean quality-of-life score than those without (5.0 versus 6.0, respectively; P < 0.001) and a higher median disability score (22.0 versus 14.0, respectively; P < 0.001) at 6 months.
+Conclusion
+Untreated depression in people with tuberculosis was associated with worse treatment outcomes, poorer quality of life and greater disability.
+Health workers should be given the support needed to provide depression care for people with tuberculosis.

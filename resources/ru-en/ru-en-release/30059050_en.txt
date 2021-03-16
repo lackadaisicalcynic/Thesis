@@ -1,0 +1,10 @@
+[Stress levels and coping behavior in patients with chronic insomnia].
+AIM  To assess stress level and coping strategies in chronic insomnia as its potential psychological factors.
+MATERIAL AND METHODS
+The study group included 29 patients (19 women), aged 18-55 years old (mean age 33.1±2.1 years), with chronic insomnia diagnosed in accordance with the International Classification of Sleep Disorders III.
+The control group was formed by 32 subjects (11 men), aged 18-55 years old (mean age 31.5±2.0 years), without sleep disorders.  Insomnia Severity Index and polysomnography were used to evaluate sleep quality.
+Stress level and coping strategies were assessed via an interview (stressfull life events during last year, their duration, their controllability, unexpectedness, and outcome), and by 'Level of subjective control' and 'Ways of coping questionnaires'.  RESULTS
+Both groups were comparable by the mean number of significant events during last year (4.97±0.34 vs 4.72±0.23, p=0.54).  Patients with insomnia more often reported the loss of a relative (p=0.04), while controls more frequently reported positive events, such as pregnancy (p=0.007) or wedding (p=0.02) among close ones.
+Insomniacs more often described the stressful events as uncontrolled (p<0.001) and prolonged (p<0.001).
+They demonstrated lower indices of all the scales of the 'Level of subjective control', questionnaire except the scale of interpersonal attitudes.  They rarely implemented confrontive coping (p=0.001), seeking social support (p<0.001), accepting responsibility (p<0.001) and positive reappraisal (p<0.001).
+CONCLUSIONS  The interpretation of stressful events and personal response in insomnia patients might be considered as psychological risk factors for insomnia development.

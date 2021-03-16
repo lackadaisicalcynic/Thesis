@@ -1,0 +1,15 @@
+[Glycemic variability and oxidative stress in patients with type 2 diabetes mellitus during combined glucose-lowering therapy].  AIM
+To evaluate the impact of intensified glucose-lowering therapy on carbohydrate metabolic indicator, such as glycated hemoglobin, fasting blood glucose level (BGL) (FBGL), postprandial BGL (PBGL), and glycemic variability (GV) in patients with type 2 diabetes mellitus (T2DM) during metformin monotherapy before and 3 months after therapy intensification.
+SUBJECTS AND METHODS
+The investigation enrolled 51 patients with T2DM treated with metformin 1000 mg twice daily, who failed to achieve satisfactory glycemic control.
+During randomization, the treatment was intensified by addition of sitagliptin 100 mg/day in Group 1 (n=25) or gliclazide MB 60 mg/day in Group 2 (n=26).
+Before and 3 months after the treatment, carbohydrate metabolic indicators were investigated, 24-hour BGL monitoring (continuous glucose monitoring system (GMS)) was performed, and the body's antioxidant status was examined by determining the total antioxidant capacity of blood plasma (overall sound pressure levels (OASPL)).
+RESULTS
+During 3-month treatment, Group 1 had a significantly reduced FBGL compared to that before the therapy; in Group 2 this index did not change significantly.
+Both study groups showed a significant decrease in PBGL and glycated hemoglobin (HbA1c).
+The mean amplitude of glycemic excursion (MAGE) was significantly decreased in the sitagliptin intensification group.
+In both groups, the standard deviation (SD) reduced significantly by 26% in Group 1 and by 38% in Group 2.
+Both groups also displayed a significant increase in blood OASPL (p<0.05).
+CONCLUSION
+The addition of sitagliptin significantly affected the change in the indicators of both the standard carbohydrate metabolism (FBGL, PBGL, and HbA1c) and GV (MAGE, SD), whereas that of gliclazide MV altered some studied parameters.
+OASPL significantly increased in both groups.

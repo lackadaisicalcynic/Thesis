@@ -1,0 +1,23 @@
+[Clinical and morphological characteristics, diagnostic criteria, and outcomes of surgical treatment of TSH-secreting pituitary adenomas].
+Thyrotropinomas (TSH-secreting tumors) are a rare type of pituitary adenomas, which account for about 0.5-2.0% of all pituitary tumors.  The criterion of thyrotropinoma is visualization of the tumor in the presence of a normal or elevated level of the thyroid-stimulating hormone (TSH) in the blood and elevated concentrations of free T4 (fT4) and free T3 (fT3).
+OBJECTIVE  To study the clinical, diagnostic, and morphological characteristics and treatment outcomes of TSH-secreting pituitary tumors.
+MATERIAL AND METHODS
+The study included 21 patients aged from 15 to 67 years with pituitary adenoma and a normal or elevated blood TSH level combined with elevated fT4 and fT3 levels who were operated on at the Neurosurgical Institute in the period between 2002 and 2015.
+Before surgery, in the early postoperative period, and 6 months after surgery, the patients were tested for levels of TSH, fT4, fT3, prolactin, cortisol, the luteinizing hormone (LH), the follicle-stimulating hormone (FSH), estradiol/testosterone, and the insulin-like growth factor (IGF-1).
+The thyroid status was evaluated using the following reference values: TSH, 0.4-4.0 mIU/L; fT4, 11.5-22.7 pmol/L; fT3, 3.5-6.5 pmol/L.
+An immunohistochemical study of material was performed with antibodies to TSH, PRL, GH, ACTH, LH, FSH, and Ki-67 (MiB-1 clone); in 13 cases, we used tests with antibodies to somatostatin receptors type 2 and 5 and to D2 subtype dopamine receptors.
+RESULTS
+Thyrotropinomas were detected in patients aged from 15 to 67 years (median, 39 years), with an equal rate in males (48%) and females (52%).
+Before admission to the Neurosurgical Institute, 11 (52%) patients were erroneously diagnosed with primary hyperthyroidism; based on the diagnosis, 7 of these patients underwent surgery on the thyroid gland and/or received thyrostatics (4 cases).
+Hyperthyroidism symptoms were observed in 16 (76%) patients.
+The blood level of TSH was 2.47-38.4 mIU/L (median, 6.56); fT4, 22.8-54.8 nmol/L (median, 36); fT3, 4.24-12.9 pmol/L (median, 9.66).
+Tumors had the endosellar localization in 4 (19%) cases and the endo-extrasellar localization in 17 (91%) cases.
+Total tumor resection was performed in 7 (33%) patients.
+All these tumors had the endosellar and endo-suprasellar localization.
+No total resection was performed in patients with infiltrative growth of adenoma (invading the skull base structures).
+An immunohistochemical study of tumor resection specimens detected only TSH expression in 3 (14%) cases; 18 (86%) tumors were plurihormonal and secreted TSH and GH and/or PRL.
+Of 13 tumors, expression of the type 2 dopamine receptor was detected in 9 (69%) cases; expression of somatostatin receptors type 5 and type 2 was found in 6 (46%) and 2 (15%) cases, respectively.
+CONCLUSION
+The criterion for total tumor resection was a postoperative decrease in the TSH level to 0.1 mIU/L or less.
+Total resection was performed in 33% of patients with tumors of only the endosellar and endo-suprasellar localization.
+In most cases, tumors were plurihormonal and secreted TSH and GH and/or PRL.

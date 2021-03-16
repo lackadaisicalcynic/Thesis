@@ -1,0 +1,14 @@
+[Comparison of digital and visual methods for Ki-67 assessment in invasive breast carcinomas].  AIM  to compare two methods for quantitative assessment of the proliferative activity index (PAI): a visual estimation method by several investigators and digital image analysis (DIA).
+The use of the Ki-67 index in the daily clinical practice of a Morbid Anatomy Department is associated with the problem of reproducibility of quantitative assessment of the Ki-67 PAI.
+Due to the development of digital imaging techniques in morphology, new methods for PAI evaluation using the DIA are proposed.
+MATERIAL AND METHODS
+The Ki-67 PAI data obtained during visual assessment and digital image analysis were compared in 104 cases of grades 2-3 breast carcinoma.
+The histological sections were scanned using a Panoramic III scanner (3D Histech, Hungary) and digital images were obtained.
+DIA was carried out using the software 3D Histech QuantCenter (3D Histech, Hungary), by marking 3-10 zones.
+Evaluation of the obtained sections was done independently by two investigators engaged in cancer pathology.
+RESULTS
+The level of agreement between visual and digital methods did not differ significantly (p>0.001).
+The authors selected a gray area in the range of 10-35% IPA, where the Ki-67 index showed a weak relationship between the analyzed groups (ICC, 0.47).
+The Ki67 index below 10% and above 35% showed a sufficient reproducibility in the same laboratory.
+CONCLUSION
+The authors consider that the scanned digital form of a histological section, which can be evaluated using automated software analysis modules, is an independent and objective method to assess proliferative activity for Ki-67 index validation.

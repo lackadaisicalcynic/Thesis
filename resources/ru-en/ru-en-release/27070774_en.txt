@@ -1,0 +1,4 @@
+[Procedure for intraoperative material examination in breast cancer after neoadjuvant therapy to estimate residual cancer burden using the RCB system].
+Currently, neoadjuvant therapy has been shown to be effective in treating HER2-positive breast cancer; the development and assessment of novel medications and therapy regimens are being continued.  A tumor response to the treatment is the most important factor in planning adjuvant therapy.
+The use of different systems to evaluate a therapeutic effect gives rise to significant differences in estimating the rate of complete morphological regression according to the results of performed therapy.  The paper describes a procedure to estimate cancer burden using the RCB system.
+This procedure is highly reproducible and recommended by the 2015 European Society for Medical Oncology Clinical Practice Guidelines for the management of primary breast cancer.

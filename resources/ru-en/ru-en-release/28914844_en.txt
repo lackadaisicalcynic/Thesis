@@ -1,0 +1,6 @@
+[Molecular genetic predictors of resistance to anti-Helicobacter pylori therapy].  In current clinical practice, there is no optimal empirical therapy for Helicobacter pylori (H. pylori) infection and there is a progressive decrease in the efficiency of classical eradication therapy (ET) regimens.
+The variability in the efficiency of ET in a specific patient is largely due to the heterogeneous molecular genetic mechanisms underlying the resistance of the microorganism to the components of the treatment regimens.
+The basis of the mechanisms for antibiotic resistance in H. pylori is mainly the point mutations in some genes, which determine alterations in the mechanisms of action of drugs, such as clarithromycin (domain V of 23S rRNA), metronidazole (rdxA, frxA), amoxicillin (pbp1A), tetracycline (16S rRNA), and levofloxacin (gyrA).
+The predictors of resistance to ET are also the CagA-negative status of the microorganism and the presence of the vacA s2 allele.
+There are a number of host genetic determinants (the CYP2C19 genotype (*1/*1, *1/*17, *17/*17) and the MDR1 3435 T/T genotype (in an Asian population)) that reduce the efficiency of ET, by altering the pharmacokinetics of proton pump inhibitors.
+In addition, the IL-1β-511 C/C polymorphism that affects gastric acid secretion is a predictor of the inefficiency of ET.

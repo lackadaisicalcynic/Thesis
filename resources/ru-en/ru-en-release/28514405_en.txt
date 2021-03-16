@@ -1,0 +1,17 @@
+[Stable high interleukin-17A concentration in patients with ankylosing spondylitis treated with tumor necrosis factor-α inhibitors during a year].
+AIM  To assess changes in the concentration of interleukin-17A (IL-17A) in patients with ankylosing spondylitis (AS) treated with tumor necrosis factor-α (TNFα) inhibitors during a year.
+SUBJECTS AND METHODS
+Examinations were made in 30 patients (22 (73.3%) men) aged 38.35±9.19 years with AS (modified New-York criteria, BASDAI ≥4.0; AS duration, 11.4±9.6 years) and in 20 healthy individuals (12 (60%) men) aged 40.1±7.7 years) (a control group).
+All the patients were treated with infliximab (remicade, MSD) 5 mg/kg body weight during a year according to the recommended regimen.
+BASDAI and ASDAS were calculated; C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), and TNFα and IL-17A concentrations were measured before and 52±2 weeks after TNFα inhibitors treatment.
+BASDAI/ASDAS improvement, ESR and CRP decreases; ASAS20/40 responses, ASAS partial remission, and an ASDAS improvement were estimated.
+RESULTS
+In the patients with AS, the concentrations of TNFα and IL-17A were higher than those in the healthy individuals (p < 0.000).
+Twelve (40%)  AS patients treated with TNFα inhibitors achieved ASAS partial remission.
+The average estimated back pain, ASDAS and BASDAI scores, and CRP and ESR substantially reduced (p<0.000 for all).
+The concentration of TNFα decreased from 17.8±7.6 to 7.3±3.2 pg/ml (p<0.000).
+The IL-17A level was 28.4±14.4 and 32.1±12.2 pg/ml before and after the treatment, respectively.
+The baseline level of IL-17A was lower in the patients with AS who had achieved remission than that in those who had not (p=0.01).
+CONCLUSION
+The improvement due to one-year AS treatment with TNFα inhibitors is not associated with the reduction of IL-17A concentrations.
+In the patients who failed to achieve ASAS partial remission, the baseline and final serum concentrations of IL-17A were higher than in those who achieved the remission.

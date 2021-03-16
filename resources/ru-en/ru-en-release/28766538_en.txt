@@ -1,0 +1,16 @@
+[Prognostic value of 1q21 amplification in multiple myeloma].
+AIM  To determine the prevalence of amp1q21 and its relationship to the clinical manifestations of multiple myeloma (MM).
+SUBJECTS AND METHODS
+In December 2009 to March 2016, a total 134 patients aged 30 to 81 years (median 57 years) underwent a pretreatment FISH-study of bone marrow (BM) with centromeric and locus-specific DNA probes to identify amp1q21, t(11;14), t(4;14), t(14;16), t(14;20), t(6;14), trisomies of chromosomes 5, 9, 15, del13q14, del17p13/TP53, and t(8q24)/cMYC.
+Induction therapy with bortezomib-containing cycles was performed.
+Autologous stem cell transplantation was carried out in 48 patients.
+The median follow-up of patients was 19.3 months (3.2-77.4 months).
+Disease progression was diagnosed in 69 (51.5%) patients; 12 patients also underwent FISH study during disease progression.
+RESULTS
+At the onset of MM, amp1q21 was detected in 53 (39.6%) patients.
+The overall 5-year survival rate in patients with amp1q21 was almost 2 times lower than that in those without amp1q21 (43.5 and 79.4%, respectively; p=0.07).
+The overall 5-year survival rate in patients with one extra copy of 1q21 (only 3 copies) was 67.3%, that in those with 2 or more extra copies of 1q21 (only 4-7 copies) was 20.9% (p=0.0016).
+Nine (75%) of the 12 patients examined during disease progression were found to have amp1q21: 2 cases were detected in the period of progression to have amp1q21 in its absence at disease onset; 7 cases had amp1q21 both at MM onset and progression; however, the number of copies of 1q21 was unchanged.
+CONCLUSION
+Аmp1q21 is one of the most common chromosomal abnormalities in patients with new-onset MM and may appear in the course of disease progression.
+The presence of аmp1q21 is an important prognostic factor and must have to be included in the diagnostic study both at disease onset and progression.

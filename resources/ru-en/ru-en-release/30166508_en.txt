@@ -1,0 +1,14 @@
+[Pattern electroretinogram and macular perfusion in glaucoma].
+PURPOSE
+To study microcirculatory and functional changes in macula in patients with Primary Open-Angle Glaucoma (POAG).  MATERIAL AND METHODS
+The study included 95 POAG patients and 42 healthy control subjects.  Whole en face image vessel density (wiVDRetina) was measured both in fovea and in parafovea using OCT-angiography (OCT-A) by means of SD-OCT AngioVue on Avanti RtVue xR (Optovue Inc., U.S.A.).
+Macular thickness and parameters of macular ganglion cell complex (GCC) were measured on the same day.  Blood flow in the retrobulbar vessels was evaluated by means of Color Doppler Imaging (CDI).
+Pattern electroretinogram (PERG) was also taken from the study eyes.
+Correlations between PERG, SD-OCT GCC, macular thickness, and the parameters of OCT-A and CDI were studied.
+RESULTS
+The amplitude of t-PERG P50 decreased from 6.1±1.3 µV in normal eyes to 2.8±1.6 µV (p<0.0001) in early glaucoma and to 2.3±1.5 µV (p=0.93) in advanced stages.
+Relative vessel density of the capillary bed decreased from 51.3±3.0% in normal eyes to 45.9±5.0% (p<0.001) and to 41.8±5.0% (p=0.023) in early and advanced glaucoma respectively.
+The parameters of OCT-A and CDI correlated with morphological and functional parameters in normal and early glaucomatous eyes.
+CONCLUSION
+The study revealed reduction of macular microcirculation and decrease of PERG in early glaucoma.
+Correlations between the circulatory parameters and functional changes were found in early stages of the disease.

@@ -1,0 +1,4 @@
+[High life expectancy of Muscovites at old ages: reality or statistical artifact?]  Since the mid-2000s, after a few decades of negative trends and fluctuations, Russia has experienced the longest and most stable period of life expectancy increasing for the entire period of observation which was determined not only by a decrease in mortality at the middle ages, but also at the old ages.
+This period has been marked by a very fast increase in life expectancy of Muscovites.
+The paper shows that the mortality at old ages in Moscow systematically deviates from the patterns observed in economically developed countries with reliable mortality statistics.
+We assume that experience of these countries is applicable to regions of Russia.  Based on this assumption the adjusted estimates of life expectancy at old ages in Moscow and Russia were calculated, as well as effect of the underestimation of mortality over age 80 on life expectancy at birth and at the age of retirement.

@@ -1,0 +1,15 @@
+Estimating health expenditure shares from household surveys.
+OBJECTIVE  To quantify the effects of household expenditure survey characteristics on the estimated share of a household's expenditure devoted to health.
+METHODS
+A search was conducted for all country surveys reporting data on health expenditure and total household expenditure.
+Data on total expenditure and health expenditure were extracted from the surveys to generate the health expenditure share (i.e. fraction of the household expenditure devoted to health).
+To do this the authors relied on survey microdata or survey reports to calculate the health expenditure share for the particular instrument involved.
+Health expenditure share was modelled as a function of the survey's recall period, the number of health expenditure items, the number of total expenditure items, the data collection method and the placement of the health module within the survey.
+Data exists across space and time, so fixed effects for territory and year were included as well.  The model was estimated by means of ordinary least squares regression with clustered standard errors.
+FINDINGS
+A one-unit increase in the number of health expenditure questions was accompanied by a 1% increase in the estimated health expenditure share.
+A one-unit increase in the number of non-health expenditure questions resulted in a 0.2% decrease in the estimated share.
+Increasing the recall period by one month was accompanied by a 6% decrease in the health expenditure share.
+CONCLUSION
+The characteristics of a survey instrument examined in the study affect the estimate of the health expenditure share.
+Those characteristics need to be accounted for when comparing results across surveys within a territory and, ultimately, across territories.

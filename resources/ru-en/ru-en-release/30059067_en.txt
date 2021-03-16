@@ -1,0 +1,17 @@
+[Immunohistochemical predictors of recurrent ovarian endometriomas after laparoscopic surgery].  OBJECTIVE  To investigate the expression of proliferation and apoptotic factors (Ki-67, Bcl-2), inflammatory factors (NF-kβ p65, COX-2), adhesion factors (β-catenin), estrogen (ER-α) and progesterone receptors (PR-α) in ovarian endometrioma (OE) in patients with recurrent OE by an immunohistochemical assay.
+SUBJECT AND METHODS
+This investigation enrolled 48 reproductive-aged patients with OE.
+According to the course of the disease during a follow-up period of 1.5 years after surgical treatment, the biomaterial obtained from the examined patients was divided into two groups: 1) an OE capsule from 19 patients with recurrent OE (a study group); 2) an OE capsule from 28 patients without recurrent OE (a comparison group).
+This investigation used histological and immunohistochemical examinations.
+The histological analysis of the OE capsule was performed following a standard procedure.
+Their immunohistochemical analysis was carried out using the Tissue-Tek Quick-Ray kit that allows the preparation of paraffin blocks with a large number of tissue samples (tissue microarrays).
+Antibodies to Ki-67 (clone 30-9, VENTANA), Bcl-2 (clone 124, VENTANA), NF-kβ p65 (clone p65, 'Spring Bioscience Corp.'), COX-2 (clone CX-294, Agilent), β-catenin (clone 14, VENTANA), ER-α (clone SP1, VENTANA), and PR-α (clone 1E2, VENTANA) were also employed in the investigation.
+The specimens were prepared according to a standard protocol using a Ventana Ultra immunohistostainer.
+Positive and negative controls were used to correctly carry out immunohistochemical tests.
+Statistical analysis was performed using the applied statistical analysis programs Statistica 10.0 and Microsoft Excel.
+RESULTS
+The patients with recurrent OE had a significantly decreased expression of Ki-67 (2.86% vs. 9.69%; р=0.044) in the epithelial component of the OE capsule; a significantly lower expression of NF-kβ p65 (2.54 vs. 3.5; р=0.0082) and СОХ-2 (0.231 vs. 1.381; р=0.0025) in the stromal component of the OE capsule, a significantly increased expression of β-catenin (2.5 vs. 1.59; р=0.017) in the stromal component of the OE capsule; a significantly increased expression of PR-α (188.46 vs. 71.15; р=0.028) in the epithelial component of an OE capsule.
+The expression of ER-α (stromal component, 266 vs. 256.84; p=0.48; epithelial component, 251.54 vs. 233.85, p=0.82) and Bcl-2 (stromal component, 0.33 vs. 0.25; p=0.85; epithelial component, 0.944 vs. 0.625; p=0.31) in the OE capsule is not statistically significantly different between the study patient groups.
+CONCLUSION
+The immunohistochemical difference in the expression of a number of the markers under study can serve as the basis for a further investigation of these markers as predictors of recurrent OE after surgical treatment.
+Further investigations of these factors will also be able to examine the molecular mechanisms underlying the pathogenesis of recurrent OE, which will make it possible to affect these mechanisms in order to eliminate the fundamental causes of a recurrence of this disease.

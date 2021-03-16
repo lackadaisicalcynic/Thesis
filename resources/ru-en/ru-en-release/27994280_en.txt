@@ -1,0 +1,11 @@
+Quantifying cause-related mortality by weighting multiple causes of death.
+OBJECTIVE  To investigate a new approach to calculating cause-related standardized mortality rates that involves assigning weights to each cause of death reported on death certificates.
+METHODS
+We derived cause-related standardized mortality rates from death certificate data for France in 2010 using: (i) the classic method, which considered only the underlying cause of death; and (ii) three novel multiple-cause-of-death weighting methods, which assigned weights to multiple causes of death mentioned on death certificates: the first two multiple-cause-of-death methods assigned non-zero weights to all causes mentioned and the third assigned non-zero weights to only the underlying cause and other contributing causes that were not part of the main morbid process.
+As the sum of the weights for each death certificate was 1, each death had an equal influence on mortality estimates and the total number of deaths was unchanged.
+Mortality rates derived using the different methods were compared.  FINDINGS
+On average, 3.4 causes per death were listed on each certificate.  The standardized mortality rate calculated using the third multiple-cause-of-death weighting method was more than 20% higher than that calculated using the classic method for five disease categories: skin diseases, mental disorders, endocrine and nutritional diseases, blood diseases and genitourinary diseases.
+Moreover, this method highlighted the mortality burden associated with certain diseases in specific age groups.
+CONCLUSION
+A multiple-cause-of-death weighting approach to calculating cause-related standardized mortality rates from death certificate data identified conditions that contributed more to mortality than indicated by the classic method.
+This new approach holds promise for identifying underrecognized contributors to mortality.

@@ -1,0 +1,9 @@
+Can vouchers deliver?  An evaluation of subsidies for maternal health care in Cambodia.
+OBJECTIVE
+To evaluate the effect of vouchers for maternity care in public health-care facilities on the utilization of maternal health-care services in Cambodia.  METHODS
+The study involved data from the 2010 Cambodian Demographic and Health Survey, which covered births between 2005 and 2010.  The effect of voucher schemes, first implemented in 2007, on the utilization of maternal health-care services was quantified using a difference-in-differences method that compared changes in utilization in districts with voucher schemes with changes in districts without them.
+FINDINGS
+Overall, voucher schemes were associated with an increase of 10.1 percentage points (pp) in the probability of delivery in a public health-care facility; among women from the poorest 40% of households, the increase was 15.6 pp.
+Vouchers were responsible for about one fifth of the increase observed in institutional deliveries in districts with schemes.  Universal voucher schemes had a larger effect on the probability of delivery in a public facility than schemes targeting the poorest women.
+Both types of schemes increased the probability of receiving postnatal care, but the increase was significant only for non-poor women.  Universal, but not targeted, voucher schemes significantly increased the probability of receiving antenatal care.
+Voucher schemes increased deliveries in health centres and, to a lesser extent, improved antenatal and postnatal care.  However, schemes that targeted poorer women did not appear to be efficient since these women were more likely than less poor women to be encouraged to give birth in a public health-care facility, even with universal voucher schemes.

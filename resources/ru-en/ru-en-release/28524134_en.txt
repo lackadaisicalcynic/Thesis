@@ -1,0 +1,17 @@
+[OCT-morphometric and angiographic parallels between different variants of central serous chorioretinopathy].
+Central serous chorioretinopathy (CSCR) is a frequent cause of vision deterioration.
+Often it is associated with type 1 neovascularization under the pigment retinal epithelium (RPE).  Optical coherence tomography angiography (OCT-angiography) enables non-invasive and contrast-free detection of neovessels in any retinal layer, which makes the method appropriate for diagnostics in CSCR.
+AIM  to investigate OCT-morphometric and angiographic parallels between different CSCR courses.
+MATERIAL AND METHODS
+The study included 37 patients with CSCR.
+All the patients underwent standard ophthalmic examination, measurement of the axial eye length (AL) (Lenstar 900, 'Haag-Streit', Switzerland), spectral OCT and OCT-angiography with SSADA algorithm (RTVue xR Avanti, 'Optovue', USA) as well as fundus imaging and fluorescein angiography (FA) (VISUCAM 500, 'Zeiss', Germany). Judging from the results of spectral OCT and intravenous FA, the patients were divided into 2 groups: group 1 - 20 patients with pigment epithelium detachment (PED) and group 2 - 17 patients without PED.
+AL averaged 23.75±0.27 mm in group 1 and 23.55±0.40 mm in group 2.
+RESULTS
+Comparative analysis of morphometric parameters in the two groups showed that those patients, whose CSCR manifested with only neurosensory retinal detachment (group 2), demonstrated greater choroidal thickness in the projection of the fovea, central retinal thickness as well as the height and extent of neurosensory retinal detachment.
+Neovasculature was identified in 11 eyes from group 1 (with PED).
+Structurally, the neovascular network was either loop-like (7 eyes), or tree-like (4 eyes).
+In loop-like networks, the maximum neovessel diameter averaged 35.474±4.967 µm and the total area of the neovascular complex was 0.581±0.380 µm2.
+Tree-like complexes were notable for the generally greater maximum neovessel diameter (65.626±17.316 µm) and area (0.225±0.133 µm2).
+CONCLUSION
+Non-PED patients show pronounced transudative symptoms and significantly greater subfoveal retinal thicknesses.
+According to OCT-angiography findings, half of those CSCR patients, with PED, present neovascular networks of either loop-like, or tree-like structure.

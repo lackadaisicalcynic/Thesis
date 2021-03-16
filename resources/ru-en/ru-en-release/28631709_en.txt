@@ -1,0 +1,7 @@
+[Cancer-testis genes in colon cancer].  The expression of cancer-testis (CT) genes varies with tumor type.
+There are tumors with high, low, and intermediate gene expressions.
+Tumor cells of different origin are characterized by ST gene co-expression.
+The expression of ST genes increases in later stages of tumor development in the presence of metastases.
+In colon cancer, the tumor samples showed most frequently MAGE-A and SSX mRNA.
+The peripheral blood samples displayed most commonly XAGE, MAGE-C, and SSX mRNA.
+In patients with colon cancer, the expression of TSP50, MAGE-A(1-6), and SSX1,2,4 genes was associated with a poor prognosis, that of MAGE-C1 and XAGE1 was related to a favorable prognosis.

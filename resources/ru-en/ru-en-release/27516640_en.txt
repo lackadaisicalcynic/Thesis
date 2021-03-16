@@ -1,0 +1,14 @@
+A bedside test for methemoglobinemia, Sri Lanka.
+PROBLEM  Propanil is an aniline herbicide that is widely used for rice cultivation, but is also used for self-poisoning.
+Toxicity from propanil is largely due to methemoglobinemia.
+In resource-poor settings, the capacity to determine methemoglobin concentration is insufficient and prevents effective case management, which results in increased deaths from propanil poisoning.  APPROACH
+Blood with a methemoglobin concentration greater than 15% of total haemoglobin levels appears brownish in colour.
+We introduced a colour reference chart that can be used to semiquantitatively determine methemoglobinemia.  Each ward in three rural hospitals received a chart.
+Ward staff, medical officers and trainee doctors were given a presentation describing the test method and how it should be used with the relevant national treatment guidelines.
+LOCAL SETTING
+In three rural hospitals in Sri Lanka, 401 patients were admitted with a diagnosis of propanil poisoning before the introduction of this test (2003-2007) and 262 patients after it was introduced (2008-2014), 46 of 663 patients died.  RELEVANT CHANGES
+The chart can be freely produced with any good-quality colour printer.
+In three rural hospitals, deaths from propanil poisoning fell from 10% of those admitted with this diagnosis in 2003-2007 (38/401) to 3% (8/262) in 2008-2014 and the use of methylene blue increased from 10% (13/136) to 55% (59/107) over this period.
+LESSONS LEARNT
+This simple bedside test was associated with increased use of the first line treatment for propanil poisoning and improved survival.
+In 2011, the test was included in the national guidelines for the management of propanil poisoning.

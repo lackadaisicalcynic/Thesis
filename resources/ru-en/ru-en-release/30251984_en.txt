@@ -1,0 +1,13 @@
+[Circadian changes in the structure of cardiac rhythm during pre-symptomatic and symptomatic stages of Parkinson's disease].
+AIM  To study circadian regulation of heart rhythm during the pre-symptomatic (PS) and early symptomatic (ESS) stages of Parkinson's disease (PD) and determine the functionally most unfavorable periods during which there is a risk of life-threatening arrhythmias.
+MATERIAL AND METHODS
+The studies were performed on C57BL/6 mice.
+ECG monitoring was performed in online mode using a wireless telemetry system (ADInstruments Australia).
+RESULTS
+Characteristics of circadian changes heart rate during PS and ESS of PD were detected.  During PS changes in the autonomic regulation of the heart occur at night.
+The increase at this time of the parasympathetic tone indicates compensatory mechanisms that prevent changes in the total power spectrum.
+However, they canot prevent the high risk of life-threatening arrhythmias.  The early symptomatic stage leads to the changes in mechanisms of not only sympathetic, but also parasympathetic regulation of the heart, increase in sympathetic tone and disturbed structure of the heart rhythm over most of the day.
+The decrease in the total power of the spectrum indicates a decrease in the adaptive capacity of the cardiovascular system.
+The increase in the intervals of QT, QTc and Tpeak Tend, indicates a risk of life-threatening arrhythmias.
+CONCLUSION
+PD predetermines complications of circadian autonomic regulation of the heart during PS and ESS, which can become the pathogenetic basis for severe cerebrocardial disorders.

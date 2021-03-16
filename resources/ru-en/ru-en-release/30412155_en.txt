@@ -1,0 +1,25 @@
+[Liquorrhea after removal of fourth ventricle tumors in children.  Retrospective analysis of a series of 211 primary surgeries].
+Wound liquorrhea is a serious and dangerous complication developing after neurosurgical interventions.
+The highest risk group includes patients operated on using approaches to the skull base.  In pediatric neurosurgery, approaches to the posterior cranial fossa are some of the most common ones, with wound liquorrhea amounting to 33%.
+Studies devoted to the wound liquorrhea problem have been performed in heterogeneous patient groups, which complicates evaluation of the results and reduces their practical value.
+MATERIAL AND METHODS
+The analysis included pediatric patients operated on by a single surgeon for posterior cranial fossa (PCF) tumors in the period from 2009 to 2016.
+There were 472 patients.  Criteria for inclusion in the study were as follows: age under 18 years; predominant tumor location in the fourth ventricle; primary surgery.
+According to the inclusion criteria, the study involved 211 patients.
+A search for the key words 'liquorrhea', 'pooling', 'meningocele', 'pseudomeningocele', and 'meningitis' was performed through electronic medical records of the involved patients.  We analyzed the data on the total bed-day and the number of days spent in the critical care unit.
+Surgery protocols were the source of the following information: the presence of an external ventricular drain or ventriculoperitoneal shunt before tumor resection; information on DM closure; information on additional sealing of dura sutures.
+In addition, the patients were divided into two groups, the main difference between which was the use of additional sealing of dura sutures (Tachocomb, fibrin-thrombin glues, and their combination) to minimize the risk of wound liquorrhea.
+RESULTS
+A total of 211 patients were included in the study.
+Postoperative wound liquorrhea occurred in 6 (2.8%) patients; another 5 (2.4%) patients had significant pseudomeningocele.
+Most children spent no more than 1 day in the critical care unit - totally 176 (83.4%) patients; the other 35 (16.6%) children spent more than 1 day in the critical care unit.
+A group of patients without sealing of dura sutures consisted of 144 (68.2%) patients.
+Liquorrhea occurred in 4 (2.8%) cases; in 3 (2.1%) cases, there was symptomatic pseudomeningocele without liquorrhea.
+In a group of patients with the use of suture sealing (Tachocomb, fibrin-thrombin glue in various combinations - 67 (31.8%) patients), there was liquorrhea in 2 (3%) cases and pseudomeningocele without liquorrhea in 2 (3%) cases.
+On the basis of PSM algorithm application, 2 groups of 67 patients each were formed: the group with sealing (A) and the group without sealing (B) of the DM.
+Of the 67 cases of sealing, Tachocomb was used in 64 (95.5%) patients, and fibrin-thrombin glue was applied in 53 (59.1%) patients.
+Differences between the groups in the rate of liquorrhea (2 (3.0%) patients in group A and 4 (6.0%) patients in group B) and pseudomenigocele (3 (4.5%) patients in group A and 5 (7.5%) patients in group B) were statistically insignificant (p=0.68 and p=0.58, respectively).
+CONCLUSION
+Wound liquorrhea has remained a topical issue in surgery for posterior cranial fossa tumors and, if develops, doubles the postoperative bed-day.
+Our strategy of perioperative management of patients proved its efficacy in reducing the rate of postoperative liquorrhea up to 2.8%.
+A low percentage of liquorrhea did not allow unambiguous evaluation of the effect of additional sealing of dura sutures (Tachocomb and fibrin-thrombin glue).

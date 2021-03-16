@@ -1,0 +1,12 @@
+[The use of an opect optic system in neurosurgical practice].  INTRODUCTION
+Modern neurosurgical practice is impossible without access to various information sources.
+The use of MRI and MSCT data during surgery is an integral part of the neurosurgeon's daily practice.  Devices capable of managing an image viewer system without direct contact with equipment simplify working in the operating room.
+AIM AND OBJECTIVES
+To test operation of a non-contact MRI and MSCT image viewer system in the operating room and to evaluate the system effectiveness.  MATERIAL AND METHODS
+An Opect non-contact image management system developed at the Tokyo Women's Medical University was installed in one of the operating rooms of the Novosibirsk Federal Center of Neurosurgery in 2014.
+In 2015, the Opect system was used by operating surgeons in 73 surgeries performed in the same operating room.  The system effectiveness was analyzed based on a survey of surgeons.
+RESULTS
+The non-contact image viewer system occurred to be easy-to-learn for the personnel to operate this system, easy-to-manage it, and easy-to-present visual information during surgery.
+CONCLUSIONS
+Application of the Opect system simplifies work with neuroimaging data during surgery.
+The surgeon can independently view series of relevant MRI and MSCT scans without any assistance.

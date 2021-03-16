@@ -1,0 +1,10 @@
+[Retinal vein occlusion management algorithm.  Part 2.
+Macular edema].  Macular edema (ME) is the most common complication of both ischemic and nonischemic retinal vein occlusion (RVO).
+If the main trunk of the central retinal vein is involved, ME occurs in 100% of cases.
+According to the Central Vein Occlusion Study, in 65% of RVO and ME patients with baseline visual acuity (VA) of at least 0.5 (Golovin-Sivtsev chart) or higher, ME may resolve itself without treatment with subsequent VA improvement.
+Therefore, we recommend a 3-month treatment-free follow-up of nonischemic central RVO (CRVO) and ME patients with VA of 0.5 or higher.
+If no improvement is noted within this period, treatment is initiated.  Immediate treatment is required in patients with cystic ME revealed by optical coherence tomography (OCT) and VA below 0.5. Ischemic maculopathy is extremely unpromising.
+Modified grid laser photocoagulation should not be used as monotherapy for macular edema.
+Repeated corticosteroid (Ozurdex) and/or anti-VEGF (ranibizumab, aflibercept) intravitreal injections are considered the first choice treatment for ME in CRVO patients.  Efficiency assessments should include monthly OCT.
+For persistent ME, intravitreal therapy can be supplemented by laser retinal photocoagulation (panretinal or modified grid).  Anti-VEGF treatment schemes should be adjusted in BRVO patients as most of their edemas are self-limiting.
+Of laser photocoagulation techniques, only modified grid is used.

@@ -1,0 +1,16 @@
+[Workplace stress and its impact on the 16-year risk of myocardial infarction and stroke in an open female population aged 25-64 years in Russia/Siberia (WHO MONICA-psychosocial program)].  AIM
+To determine the impact of workplace stress on the hazard ratio (HR) of myocardial infarction (M) and stroke in an open female population aged 25-64 years in Russia/Siberia (Novosibirsk) for 16 years.
+SUBJECTS AND METHODS
+A random representative sample of 25-64-year-old women (n=870) residing in a Novosibirsk district was surveyed within the framework of the WHO <<MONICA-psychological>> program.
+Workplace stress was investigated using the Karasek scale; an attitude towards work and health prophylactic examinations was studied applying the Health Awareness and Attitude questionnaire of the WHO <<MONICA-psychological>> program.
+For 16 years (1994 to 2010), a cohort of all new cases of MI and stroke was examined employing the WHO <<Acute MI Registry>> program and all possible medical records.
+The Cox regression model was used to determine HR for MI and stroke in the open female population aged 25-64 years for 16 years.
+RESULTS
+The prevalence of high-level stress in the open female population aged 25-64 years was 31.6%.
+The high level of job stress was associated with a high responsibility, impossibility to have a rest at the end of a working day, frequent professional dissatisfaction, and a reduced work capacity.
+During 16 years, the women having high-level job stress showed a 3.22- and 1.96-fold increases in the HR of MI (p<0.05) and stroke (p<0.05), respectively.
+The incidence of MI and stroke was higher in married women expressing job stress as managers or manual laborers and having high and low educational attainment.
+CONCLUSION
+The prevalence of high-level workplace stress was substantial in the open population of 25-64-year-old women in Russia/Siberia (Novosibirsk).
+The stress-related HR of Ml and stroke was 3-2 times higher than in those without high-level stress.
+The HR of MI and stroke is affected by a social gradient.

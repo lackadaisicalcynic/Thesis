@@ -1,0 +1,15 @@
+Evaluation of the influenza sentinel surveillance system in Madagascar, 2009-2014.
+PROBLEM
+Evaluation of influenza surveillance systems is poor, especially in Africa.  APPROACH
+In 2007, the Institut Pasteur de Madagascar and the Malagasy Ministry of Public Health implemented a countrywide system for the prospective syndromic and virological surveillance of influenza-like illnesses.  In assessing this system's performance, we identified gaps and ways to promote the best use of resources.
+We investigated acceptability, data quality, flexibility, representativeness, simplicity, stability, timeliness and usefulness and developed qualitative and/or quantitative indicators for each of these attributes.
+LOCAL SETTING
+Until 2007, the influenza surveillance system in Madagascar was only operational in Antananarivo and the observations made could not be extrapolated to the entire country.  RELEVANT CHANGES
+By 2014, the system covered 34 sentinel sites across the country.  At 12 sites, nasopharyngeal and/or oropharyngeal samples were collected and tested for influenza virus.
+Between 2009 and 2014, 177 718 fever cases were detected, 25 809 (14.5%) of these fever cases were classified as cases of influenza-like illness.
+Of the 9192 samples from patients with influenza-like illness that were tested for influenza viruses, 3573 (38.9%) tested positive.
+Data quality for all evaluated indicators was categorized as above 90% and the system also appeared to be strong in terms of its acceptability, simplicity and stability.
+However, sample collection needed improvement.
+LESSONS LEARNT
+The influenza surveillance system in Madagascar performed well and provided reliable and timely data for public health interventions.
+Given its flexibility and overall moderate cost, this system may become a useful platform for syndromic and laboratory-based surveillance in other low-resource settings.

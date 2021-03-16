@@ -1,0 +1,8 @@
+[A comparative clinical study of the efficacy of computer cognitive training in patients with post-stroke cognitive impairments].
+AIM  To assess the effectiveness of neuropsychological computer programs in comparison with entertainment computer games.
+MATERIAL AND METHODS
+Patients (n=68), aged 40-65 years, were randomized into three groups: an intervention group (neuropsychological computer programs), an active control group (entertaining computer games), a passive control group (conventional treatment).
+RESULTS
+An analysis of the coefficient of effectiveness showed significant improvements in the intervention group comparing with the passive control group (MoCA, MMSE, Schulte test) and the active control group (MoCA).
+CONCLUSION
+Neuropsychological computer programs confirmed their effectiveness for recovery of post stroke cognitive impairments comparing with conventional treatment and entertainment computer games as well.

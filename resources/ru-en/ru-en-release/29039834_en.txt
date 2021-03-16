@@ -1,0 +1,16 @@
+[Renal function in patients receiving long-term warfarin therapy: A five-year prospective follow-up].
+AIM  To investigate the prognostic value of renal function and to estimate glomerular filtration rate (GFR) changes during a 5-year follow-up of patients receiving warfarin therapy.
+SUBJECTS AND METHODS
+200 patients (124 men, 76 women) mainly from a group at high risk for thromboembolic events (mean CHA2DS2-VASc scores, 3.25±1.89) were examined.
+The patients' mean age was 62.3±9.4 years; the follow-up period was 5 years.
+74% of the patients received warfarin monotherapy (international normalized ratio (INR) 2.0 to 3.0); 36% took vitamin K antagonists in combination with one or two antiplatelet agents.
+The CKD-EPI formula was used to estimate GFR in all the patients at baseline and throughout the investigation once a year.
+RESULTS
+GFR less than 70.9 ml/min/1.73 m2 was found to be a predictor of fatal and nonfatal thrombotic events.
+The decreased GFR was unassociated with the development of major and clinically relevant hemorrhagic complications within 5 years of warfarin therapy.
+The initial decline in renal function (GFR <70.9 ml/min/1.73 m2) was associated only with an increased rate of recurrent minor hemorrhagic complications.
+During 5-year warfarin therapy, there was a significant decrease in GFR from 97.1±24.85 to 91.9±28.9 ml/min/1.73 m2; at the same time, a rapidly progressive loss of renal function (GFR ≥3 ml/min/1.73 m2/year) was recorded in 25.9% of the patients.
+Discriminant analysis showed that a baseline left ventricular ejection fraction of <40% was a predictor for the rapidly progressive loss of kidney function.
+CONCLUSION
+Long-term warfarin therapy achieved the therapeutic range for INR is safe in the environment of the created patronage system.
+The initial decrease in GFR is a predictor of thrombotic events and is unassociated with an increased risk of bleeding.

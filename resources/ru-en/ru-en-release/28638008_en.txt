@@ -1,0 +1,10 @@
+[The results of pulmonary veins isolation to prevent postoperative atrial fibrillation].  AIM
+To compare an efficacy of primary surgical (epicardial bipolar pulmonary veins isolation) and pharmacological (amiodarone) prevention of postoperative atrial fibrillation.  MATERIAL AND METHODS
+The study included 117 patients with coronary artery disease without previous paroxysms of atrial fibrillation who were randomized into 3 groups.  The first (I) group (n=39) included patients who underwent coronary artery bypass grafting without radiofrequency ablation of pulmonary veins and prophylactic amiodarone administration.
+The second (II) group (n=38) consisted of patients who received amiodarone as a prevention of postoperative atrial fibrillation.  In the third (III) group (n=40) simultaneous CABG and pulmonary veins isolation were made.
+RESULTS
+The incidence of atrial fibrillation in early postoperative period was significantly lower in the 3rd group compared with control group (90% vs 69.2%, p=0.021).
+1-year freedom from atrial fibrillation was 97.5% in group III vs. 84.2% in group II (p=0.004).
+In group I the incidence of early postoperative atrial fibrillation was 30.8% with following decrease to 17.9% in 12 months.
+CONCLUSION
+Simultaneous preventive pulmonary veins isolation during CABG is safe and effective, significantly reduces duration of hospital-stay and incidence of postoperative atrial fibrillation.

@@ -1,0 +1,6 @@
+[Automatic morphometric analysis as a method for determining the level of extracellular matrix components and for quantifying nuclear antigens].
+Automated image analysis methods are highly important for biotechnology research.  The authors developed and tested a program for the morphometric analysis of photomicrographs of the sections processed using the standard immunohistochemical examination protocols.
+The color deconvolution method used in the algorithm was proven to be effective in mapping the distribution of DAB chromogen in the sample containing multiple dyes.
+The experiment demonstrated that the level of extracellular matrix proteins could be comparatively quantified in different groups of samples.
+The effective methods for the quantitative analysis of the Ki-67 labelling index were also tested using the same algorithms.
+The developed program was published under free GPL 3.0.

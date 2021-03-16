@@ -1,0 +1,11 @@
+Influenza seasonality and vaccination timing in tropical and subtropical areas of southern and south-eastern Asia.
+OBJECTIVE  To characterize influenza seasonality and identify the best time of the year for vaccination against influenza in tropical and subtropical countries of southern and south-eastern Asia that lie north of the equator.
+METHODS
+Weekly influenza surveillance data for 2006 to 2011 were obtained from Bangladesh, Cambodia, India, Indonesia, the Lao People's Democratic Republic, Malaysia, the Philippines, Singapore, Thailand and Viet Nam.
+Weekly rates of influenza activity were based on the percentage of all nasopharyngeal samples collected during the year that tested positive for influenza virus or viral nucleic acid on any given week.
+Monthly positivity rates were then calculated to define annual peaks of influenza activity in each country and across countries.  FINDINGS
+Influenza activity peaked between June/July and October in seven countries, three of which showed a second peak in December to February.
+Countries closer to the equator had year-round circulation without discrete peaks.  Viral types and subtypes varied from year to year but not across countries in a given year.
+The cumulative proportion of specimens that tested positive from June to November was > 60% in Bangladesh, Cambodia, India, the Lao People's Democratic Republic, the Philippines, Thailand and Viet Nam.  Thus, these tropical and subtropical countries exhibited earlier influenza activity peaks than temperate climate countries north of the equator.
+CONCLUSION
+Most southern and south-eastern Asian countries lying north of the equator should consider vaccinating against influenza from April to June; countries near the equator without a distinct peak in influenza activity can base vaccination timing on local factors.

@@ -1,0 +1,10 @@
+Measuring Haitian children's exposure to chikungunya, dengue and malaria.
+OBJECTIVE  To differentiate exposure to the newly introduced chikungunya virus from exposure to endemic dengue virus and other pathogens in Haiti.
+METHODS
+We used a multiplex bead assay to detect immunoglobulin G (IgG) responses to a recombinant chikungunya virus antigen, two dengue virus-like particles and three recombinant Plasmodium falciparum antigens.
+Most (217) of the blood samples investigated were collected longitudinally, from each of 61 children, between 2011 and 2014 but another 127 were collected from a cross-sectional sample of children in 2014.
+FINDINGS
+Of the samples from the longitudinal cohort, none of the 153 collected between 2011 and 2013 but 78.7% (48/61) of those collected in 2014 were positive for IgG responses to the chikungunya virus antigen.  In the cross-sectional sample, such responses were detected in 96 (75.6%) of the children and occurred at similar prevalence across all age groups.
+In the same sample, responses to malarial antigen were only detected in eight children (6.3%) but the prevalence of IgG responses to dengue virus antigens was 60.6% (77/127) overall and increased steadily with age.
+Spatial analysis indicated that the prevalence of IgG responses to the chikungunya virus and one of the dengue virus-like particles decreased as the sampling site moved away from the city of Léogâne and towards the ocean.  CONCLUSION
+Serological evidence indicates that there had been a rapid and intense dissemination of chikungunya virus in Haiti.  The multiplex bead assay appears to be an appropriate serological platform to monitor the seroprevalence of multiple pathogens simultaneously.

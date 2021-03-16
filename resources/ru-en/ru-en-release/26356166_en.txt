@@ -1,0 +1,9 @@
+[Gender and age dependent mortality from nervous diseases in Azerbaijan].
+AIM  To assess age- and sex-related changes in the mortality from nervous diseases at the population level.
+MATERIAL AND METHODS
+Methods of descriptive statistics and analysis of qualitative traits were applied.  We analyzed 13580 medical certificates of cause of death from nervous diseases (all classes of ICD-10).
+RESULTS  The mortality rate varied with age, the main trend of which was the dynamic growth.
+Age-specific mortality rates for men and women differed from each other: in most ages (20-24, 30-34, 45-49, 50-54, 55-59, 65-69), the likelihood of mortality was higher in men, and at the age of 5-9, 15-19, 60-64, 70 and more years in women.  After the standardization of gender differences by age, the mortality risk of nervous illnesses disappeared (146.74 and 144.16 per 100 thousand for men and women, respectively).
+There were significant differences in the proportion of nervous diseases of all-cause mortality among the population in the groups stratified by age and sex.  It is believed that situational factors is a cause of actual prevailing of gender age- and sex-related mortality risks.
+CONCLUSION  Gender features of age-related risk of mortality from nervous diseases are characterized by the multidirectional dynamics of likelihood of mortality and specific weight of nervous diseases among all causes of mortality.
+The actual gender features of age-related risk of mortality from nervous diseases are generally caused by situational factors (different age structure and unequal level of the general mortality among male and female population) which disappear after standardization.

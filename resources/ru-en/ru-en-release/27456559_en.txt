@@ -1,0 +1,16 @@
+[Treatment choice in dacryostenosis based on single-photon emission computed tomography and X-ray computed tomography findings].  AIM
+To develop surgical indications in dacryostenosis within the vertical portion of lacrimal pathways that would consider findings of single-photon emission computed tomography (SPECT) combined with X-ray computed tomography (CT).  MATERIAL AND METHODS
+A total of 96 patients with isolated vertical-portion dacryostenosis (127 cases) were enrolled.  The examination included collecting Munk's scores for epiphora, optical coherence tomography of the lower tear meniscus, lacrimal scintigraphy, and SPECT/CT.
+Group 1 (40 cases) was composed of patients with lacrimal obstruction on CT, group 2 (87 cases) - of those whose lacrimal pathways proved passable.
+There were also 3 patients (4 cases) from group 1, whose lacrimal pathways, despite being blocked on CT, were still passable on SPECT.
+Surgeries performed in group 1 were endoscopic endonasal dacryocystorhinostomy (DCR) (36 cases) and pathways recanalization with bicanalicular intubation and balloon dacryoplasty (DCP) (4 cases). In group 2, all patients (87 cases) underwent recanalization with bicanalicular intubation (supplemented with balloon DCP in 32 cases).
+Surgical results were evaluated 8-12 months after the treatment.
+In group 2, particular attention was paid to the concordance in locations of dacryostenosis provided by CT and SPECT scans.
+RESULTS
+Favorable outcomes of endoscopic endonasal DCR were obtained in as many as 32 cases from group 1 (88.9%), while in 4 cases (12.1%) the condition relapsed.
+Of those patients whose stenosis was not complete on SPECT, 3 cases (75.0%) improved, 1 (25.0%) - relapsed.
+In group 2, favorable outcomes were obtained in 65 cases (74.7%), relapses were 22 (25.3%).
+A high concordance in stenosis locations by CT and SPECT was noted in 60 cases of those who improved (92.3%) and 3 cases of those who relapsed (13.6%).
+CONCLUSION
+The value of information provided by SPECT/CT has proved high in patients with nasolacrimal duct stenosis or obstruction.
+A combined scan allows to establish causal relationships between anatomical changes and functional failure of lacrimal pathways and to make an optimal treatment choice.

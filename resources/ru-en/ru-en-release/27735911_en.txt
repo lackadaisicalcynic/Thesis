@@ -1,0 +1,13 @@
+[Lipoprotein(a), its autoantibodies, and circulating T lymphocyte subpopulations as independent risk factors for coronary artery atherosclerosis].  AIM
+To study the role of lipoprotein(a) [Lp(a)] as a potential autoantigen causing the activation of immunocompetent cells in atherosclerosis.  SUBJECTS AND METHODS
+A total of 104 men with stable coronary artery (CA) disease and different degrees of progressive coronary atherosclerosis were examined.
+Clinical blood analysis was carried out and lymphocyte subpopulations (CD4+, Th1, Th17, and Treg) were determined using immunofluorescence and flow cytometry.
+In addition, the indicators of blood lipid composition, Lp(a), autoantibody (autoAb) titer to Lp(a), and low-density lipoproteins (LDL), and the lymphocyte activation marker sCD25 were also measured.
+RESULTS
+The Lp(a) level was shown to predict the severity of CA lesions (β=0.28, p<0.05), regardless of age, the level of cholesterol, different T-lymphocyte subpopulations, sCD25, and autoAb.
+A combination of the concentration of Lp(a) above 11.8 mg/dl, that of Th17 over 11.4∙103 cells/ml and the reduced levels of regulatory T cells and IL-10-producing CD4+ T cells showed a manifold increase in the risk of severe and progressive CA atherosclerosis.
+There was a direct correlation of the blood level of Th1 with that of IgG autoAb specific to all atherogenic apoB-containing lipoproteins, including Lp(a).
+There was an inverse correlations of the lymphocyte activation marker sCD25 with IgM anti-Lp(a) autoAb titers (r=-0.36; p<0.005), but this was less significant with autoAbs to native and oxidized LDL (r=-0.21 and r=-0.24; p<0.05, respectively).
+CONCLUSION
+The slightly elevated Lp(a) concentration along with changes in the level of T lymphocyte subpopulations was first shown to significantly potentiate the risk of progressive and multiple CA lesion in the examinees.
+The correlation of IgM anti-Lp(a) autoAb with the lymphocyte activation marker sCD25 and that of IgG anti-Lp(a) autoAb with Th1 have demonstrated that Lp(a) is involved in the autoimmune inflammatory processes in atherosclerosis.

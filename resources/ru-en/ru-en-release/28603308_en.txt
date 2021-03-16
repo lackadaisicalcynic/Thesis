@@ -1,0 +1,10 @@
+Quality of routine essential care during childbirth: clinical observations of uncomplicated births in Uttar Pradesh, India.
+OBJECTIVE
+To evaluate the quality of essential care during normal labour and childbirth in maternity facilities in Uttar Pradesh, India.
+METHODS  Between 26 May and 8 July 2015, we used clinical observations to assess care provision for 275 mother-neonate pairs at 26 hospitals.
+Data on 42 items of care were collected, summarized into 17 clinical practices and three aggregate scores and then weighted to obtain population-based estimates.  We examined unadjusted differences in quality between the public and private facilities.
+Multilevel linear mixed-effects models were used to adjust for birth attendant, facility and maternal characteristics.
+FINDINGS  The quality of care we observed was generally poor in both private and public facilities; the mean percentage of essential clinical care practices completed for each woman was 35.7%.
+Weighted estimates indicate that unqualified personnel provided care for 73.0% and 27.0% of the mother-neonate pairs in public and private facilities, respectively.  Obstetric, neonatal and overall care at birth appeared better in the private facilities than in the public ones.
+In the adjusted analysis, the score for overall quality of care in private facilities was found to be six percentage points higher than the corresponding score for public facilities.  CONCLUSION
+In 2015, the personnel providing labour and childbirth care in maternity facilities were often unqualified and adherence to care protocols was generally poor.  Initiatives to measure and improve the quality of care during labour and childbirth need to be developed in the private and public facilities in Uttar Pradesh.

@@ -1,0 +1,6 @@
+[Peculiarities of detection of 4-nitro-3-(trifluoromethyl)-aniline in the biological material].
+The objective of the present work was to study peculiarities of detection of 4-nitro-3-(trifluoromethyl)-aniline in the biological material with the use of TLC, GC-MS, and electron spectrophotometry.
+We have proposed the rationale for the application of acetone as an insulating agent for the extraction of 4-nitro-3-(trifluoromethyl)-aniline from the cadaveric hepatic tissue and biological fluids.
+It was shown that this compound is possible to separate from endogenous biomaterials on the silicagel L column (40/100 mcm).
+The results of the quantitative evaluation of different amounts of 4-nitro-3-(trifluoromethyl)-aniline in the cadaveric hepatic tissue, blood, plasma, and urine are presented.
+The proposed method makes it possible to determine a minimum of 0.12 mg of 4-nitro-3-(trifluoromethyl)-aniline in 100 g of the biological material (cadaveric hepatic tissue), 0.09 mg in 100 g of blood, 0.06 mg and 0.05 mg in 100 u of plasma and urine respectively.

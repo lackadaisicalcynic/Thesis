@@ -1,0 +1,11 @@
+Is there scope for cost savings and efficiency gains in HIV services?  A systematic review of the evidence from low- and middle-income countries.
+OBJECTIVE
+To synthesize the data available--on costs, efficiency and economies of scale and scope--for the six basic programmes of the UNAIDS Strategic Investment Framework, to inform those planning the scale-up of human immunodeficiency virus (HIV) services in low- and middle-income countries.  METHODS
+The relevant peer-reviewed and "grey" literature from low- and middle-income countries was systematically reviewed.  Search and analysis followed Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines.
+FINDINGS
+Of the 82 empirical costing and efficiency studies identified, nine provided data on economies of scale.  Scale explained much of the variation in the costs of several HIV services, particularly those of targeted HIV prevention for key populations and HIV testing and treatment.
+There is some evidence of economies of scope from integrating HIV counselling and testing services with several other services.  Cost efficiency may also be improved by reducing input prices, task shifting and improving client adherence.
+CONCLUSION
+HIV programmes need to optimize the scale of service provision to achieve efficiency.
+Interventions that may enhance the potential for economies of scale include intensifying demand-creation activities, reducing the costs for service users, expanding existing programmes rather than creating new structures, and reducing attrition of existing service users.
+Models for integrated service delivery--which is, potentially, more efficient than the implementation of stand-alone services--should be investigated further.  Further experimental evidence is required to understand how to best achieve efficiency gains in HIV programmes and assess the cost-effectiveness of each service-delivery model.

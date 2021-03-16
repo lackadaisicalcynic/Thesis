@@ -1,0 +1,13 @@
+Viral suppression after 12 months of antiretroviral therapy in low- and middle-income countries: a systematic review.
+OBJECTIVE  To establish estimates of viral suppression in low- and middle-income countries (LMICs) in patients who received antiretroviral therapy (ART) for human immunodeficiency virus (HIV) infection.
+METHODS
+Data on viral suppression after 12 months of ART in LMICs were collected from articles published in 2003 to 2011 and from abstracts of conferences held between 2009 and 2011.
+Pooled proportions for on-treatment and intention-to-treat populations were used as summary estimates.
+Random-effects models were used for heterogeneous groups of studies (I (2) > 75%).
+FINDINGS
+Overall, 49 studies covering 48 cohorts and 30 016 individuals met the inclusion criteria.
+With thresholds for suppression between 300 and 500 copies of viral ribonucleic acid (RNA) per ml of plasma, 84.3% (95% confidence interval, CI: 80.4-87.9) of the pooled on-treatment population and 70.5% (95% CI: 65.2-75.6) of the intention-to-treat population showed suppression.
+Use of different viral RNA thresholds changed the proportions showing suppression: to 84% and 76% of the on-treatment population with thresholds set above 300 and at or below 200 RNA copies per ml, respectively, and to 78%, 71% and 63% of the intention-to-treat population at thresholds set at 1000, 300 to 500, and 200 or fewer copies per ml, respectively.
+CONCLUSION
+The pooled estimates of viral suppression recorded after 12 months of ART in LMICs provide benchmarks that other ART programmes can use to set realistic goals and perform predictive modelling.
+Evidence from this review suggests that the current international target - i.e. viral suppression in > 70% of the intention-to-treat population, with a threshold of 1000 copies per ml - should be revised upwards.

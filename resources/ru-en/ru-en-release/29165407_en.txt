@@ -1,0 +1,13 @@
+[Uveitis-associated HLA class 1 histocompatibility antigens].  AIM  to evaluate the diagnostic and prognostic significance of HLA class 1 histocompatibility antigens in the development of anterior uveitis.
+MATERIAL AND METHODS
+A total of 137 patients with anterior uveitis followed up at the Research Institute of Eye Diseases in 2009-2016 were tested for HLA antigens (A and B loci).
+The average patient's age was 29±12.4 years.
+All patients underwent a thorough medical interview with clinical and laboratory assessment.  In case of suspected association with systemic disease, the patients were referred for consultation at the V.A. Nasonova Research Institute of Rheumatology.
+HLA typing was performed using a standard microlymphocytotoxicity test with specific anti-HLA sera (production of Gisans CC, Saint Petersburg).
+Statistical processing was performed with Statistica 6.0 software by applying methods of descriptive and nonparametric statistics (Mann-Whitney test).
+RESULTS
+The results of HLA class 1 typing indicated a significant positive association between uveitis and the HLA-B27 antigen (p<0.00001).
+Moreover, there was a trend toward decreased frequencies of В7, B12, and B21 antigens (p=0.1), however, the changes were not statistically significant as compared to the control group.
+Other HLA class 1 antigens also did not differ significantly in frequency between uveitis patients and the controls.
+CONCLUSION
+The study has confirmed an association between certain histocompatibility antigens and systemic diseases.  However, a statistically reliable relationship has been established only for the HLA-B27 antigen.

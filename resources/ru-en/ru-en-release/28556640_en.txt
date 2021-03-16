@@ -1,0 +1,6 @@
+["Protein of senility" CCL11, "protein of juvenility" GDF11 and their role in age-related pathology].  The paper presents the latest literature data on the structure and functions of «protein of juvenility» - CCL11 and «protein of senility» - GDF11.
+Chemokine CCL11 injected to young animals has been shown to lead to degenerative changes in the central nervous system (CNS), disturb cognitive functions and impede tissue regeneration.
+CCL11 concentration increases dramatically in schizophrenia, Alzheimer's disease, neuro-inflammatory disorders, cerebral malaria, drug addiction, as well as in atherosclerosis, periodontal disease, macular degeneration, cancer and other pathologies.
+In contrast to CCL11, differentiation growth factor 11 (GDF11), being administered to old mice, eliminates age-associated hypertrophy of the heart, improves muscle tone and prevents degenerative changes in the CNS, improves cognitive functions and enhances tissue regeneration.
+Its concentration decreases in cardiovascular disease, osteoporosis, and other «diseases of old age».
+At the same time, the higher the GDF11 level in the blood, the milder myocardial infarction, stroke and other age-related diseases of the cardiovascular system.

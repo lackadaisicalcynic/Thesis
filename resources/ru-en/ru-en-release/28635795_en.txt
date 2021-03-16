@@ -1,0 +1,4 @@
+[Current approaches to optimize treatment of dementia and Alzheimer's disease].  Currently, substitution therapy is the main focus in the treatment of Alzheimer's disease (AD).
+It is aimed at overcoming neurotransmitter deficits in a variety of neuronal systems affected in AD.  To overcome the cholinergic insufficiency, acetylcholinesterase inhibitors (rivastigmine, donepezil and galantamine) are primarily used.
+The efficacy and safety of these drugs in AD have been convincingly shown in numerous clinical trials in different countries.
+Memantine is the main drug in glutamatergic strategies in the treatment of AD, which has a neuroprotective effect and relieves symptoms at the level of the remaining glutamatergic synapses.  Some other formulations (cerebrolysin, nicergoline etc) can be also applied as vasoactive and neuroprotective agents.

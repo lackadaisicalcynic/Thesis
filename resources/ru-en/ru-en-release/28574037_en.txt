@@ -1,0 +1,15 @@
+[Diagnostic significance of the color duplex scanning in estimation of the arteries state at different stages of infrainguinal reconstructions].
+AIM  The study was aimed at assessing diagnostic possibilities of duplex scanning (DS) of lower limb arteries, used as 'ultrasonographic angiography' in patients presenting with critical ischaemia for appropriately planning complicated infrainguinal reconstructions at stages of surgical management, including dynamic follow up in the postoperative period.
+PATIENTS AND METHODS
+We examined a total of 30 patients.  Of these, 14 patients composed the control group and 16 patients with critical ischaemia of lower limb arteries who underwent 8 external iliac-tibial and 8 femorotibial bypass graftings with a relieving arteriovenous fistula and application of a venous cuff according to the type of 'St. Mary's boot'.
+All the 16 patients preoperatively underwent DS of lower limb arteries and CT angiography, as well as postoperative DS of the vessels of the zone of the operative intervention.
+We compared the possibilities of DS and CT angiography in the assessment of the state of various segments of lower limb arteries.
+The obtained findings were compared with the data of the 'golden standard' - X-ray contrast enhanced angiography or intraoperative revision.
+RESULTS
+In assessing the state of the aortoiliac segment, sensitivity and specificity of the both methods amounted to 100%.
+In assessing patency of the femoropopliteal segment, sensitivity and specificity of DS amounted to 93.7 and 100%, with those for CT angiography equalling 87.5 and 100%.
+Assessing patency of arteries of the crus, sensitivity and specificity of the both methods amounted to 87.5 and 93.7%, respectively.
+In the postoperative period it was revealed that a prognostically favourable factor for shunt functioning is the value of the volumetric velocity of blood flow in the shunt at the level of the middle third of the femur, equalling the sum of volumetric velocities of blood flow in the donor artery distal to and in the relieving vein proximal to the anastomosis.
+Important prognostic parameters of shunt functioning were also the values of linear velocity of blood flow both in the shunt and donor artery.
+CONCLUSION
+Strict compliance with the methodology and protocol of DS makes it possible to evaluate the condition of outflow pathways while planning the intervention, to assess functioning of the shunt in the postoperative period and to work out criteria for favourable functioning of the infrainguinal shunt for regular dynamic control over the state of the revascularized limb.

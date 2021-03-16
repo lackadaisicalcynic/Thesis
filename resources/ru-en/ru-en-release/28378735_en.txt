@@ -1,0 +1,16 @@
+[Value of N-terminal pro brain natriuretic peptide in predicting acute kidney injury in patients with acute decompensated chronic heart failure].  AIM
+To investigate the prognostic value of serum N-terminal pro-brain natriuretic peptide (NT-proBNP) in the development of acute kidney injury (AKI) in patients with acute decompensated chronic heart failure (ADCHF).
+SUBJECTS AND METHODS
+Eighty-three patients (55 (66%) men and 28 (34%) women; mean age, 65±11 years) with ADCHF were examined.
+AKI was diagnosed and classified according to the 2012 Kidney Disease Improving Global Outcomes Clinical Practice guidelines.
+To rule out contrast-induced AKI, the investigation enrolled only patients in whom radiopague agents had not been injected 7 days before and during hospitalization.
+Enzyme immunoassay was used to determine serum NT-proBNP concentrations in all the patients upon hospital admission.
+RESULTS
+AKI was diagnosed in 18 (22%) patients, 13 (16%) had Stage I, 4 (5%) had Stage II, and 1 (1%) had Stage III.
+The serum concentration of NT-proBNP was significantly higher in patients with AKI than that in the other patients  [1512.1 (981.0; 2246.2) and 861.8 (499.0; 1383.6) pg/ml (p=0.008).
+The rise in NT-proBNP concentrations of more than 942 pg/ml was established to be associated with a considerable increase in the risk of AKI (relative risk (RR) was 4.3; 95% confidence interval (CI), 1.27-14.90; p=0.02).
+RОС analysis indicated that a NT-proBNP level of >942 pg/ml allows prediction of AKI with a sensitivity of 78% (52; 94) and a specificity of 55% (44; 69) (AUC=0.70; p=0.006). Four (5%) patients died in hospital.
+NT-proBNP levels in all the dead were greater than 942 pg/ml.
+Two of the 4 deceased patients had AKI.
+CONCLUSION
+A high level of NT-proBNP in a patient with ADCHF during hospitalization can serve as a biomarker for high risk of AKI and for high mortality rates.

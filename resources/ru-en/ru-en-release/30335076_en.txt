@@ -1,0 +1,14 @@
+[Relationships of rs7341475 polymorphism and DNA methylation in the reelin gene with schizophrenia symptoms].  AIM
+To study the role of polymorphism rs7341475 and methylation of the reelin gene in symptoms of schizophrenia and semantic verbal fluency.
+MATERIAL AND METHODS
+Genotypes at the locus rs7341475 were identified in 556 patients with schizophrenic disorders.
+PANSS scores were obtained for 549 patients and 221 patients performed a test for semantic verbal fluency.
+The association of the reelin promoter methylation with the PANSS and verbal fluency measures was evaluated in 35 patients.
+A five-factor model of the PANSS was used.
+RESULTS
+The interaction effect of sex with genotype on the PANSS scores was found (F=2.70, p=0.020).
+Schizophrenic men homozygous for a common allele G had the lowest scores of the positive syndrome.
+Verbal fluency was related to the reelin promoter methylation.
+CONCLUSION
+The results suggest that polymorphism rs7341475 may be associated with the variability of positive symptomatology in schizophrenic men.
+At the same time, the reelin gene methylation pattern, which consists of a higher methylation level in the region of the transcription start site and a lower one in the distal region of the promoter, may be beneficial for verbal fluency.

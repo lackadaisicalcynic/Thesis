@@ -1,0 +1,11 @@
+[Molecular biological markers for proliferation, apoptosis, and angiogenesis in diffuse toxic goiter].
+The pathogenesis of diffuse toxic goiter has not yet been fully understood.  The literature increasing commonly focusses on the issues related to the processes occurring in the thyroid gland itself: proliferation, apoptosis, and angiogenesis.
+to investigate clinical and laboratory parameters, as well as the expression of Ki-67, Bcl-2, Bax, Fas-L, CD34, VEGF, and FGF proteins in various postoperative outcomes of patients operated on for diffuse toxic goiter.
+SUBJECTS AND METHODS
+The investigation enrolled 24 women who had undergone surgery using the technique described by E.S. Drachinskaya.
+Immunohistochemical tests were carried out according to the standard protocol.
+The expression of Ki-67, Bcl-2, Bax, Fas-L, CD 34, VEGF, angiopoietin, and FGF proteins was determined.
+RESULTS
+The patients with postoperative thyrotoxicosis were ascertained to have a significantly greater expression of anti-apoptotic protein Bcl-2, proliferation marker Ki-67, vascular factors (FGF, VEGF), and CD 34.
+CONCLUSION
+The relative expression area of the anti-apoptotic protein Bcl-2 of more than 2.19 or the proliferation protein Ki-67 of more than 1.059 was found to predict the development of postoperative thyrotoxicosis with an accuracy of higher than 85%.

@@ -1,0 +1,5 @@
+to analyze the efficacy of early detection of patients with mild acute pancreatitis.  MATERIAL AND METHODS
+61 patients with acute pancreatitis who do not require intensive care were analyzed.  Severity of condition was assessed using integral scales, i.e. modified index of severe pancreatitis severity (MITOP), BISAP, HAPS, SOFA, SIRS, CTSI and Atlanta classification (2012).
+RESULTS  Verification of mild course of disease according to MITOP scores ≤0.23 and BISAP scores ≤1 for the first 24 hours after admission and CTSI scores ≤3 within first 72 hours had high accuracy [AUC (CI 95%) 0.79 (0.66-0.91); 0.76 (0.66-0.87) and 0.99 (0.97-1.00) respectively], sensitivity and specificity (88.8 and 43.7%; 71.1 and 75.0%; 100 and 83.3% respectively).
+CONCLUSION  MITOP and BISAP scales are reliable to diagnose early mild acute pancreatitis.
+Their high positive diagnostic value (81.6 and 88.8%) allows to detect patients who do not require intensive care.

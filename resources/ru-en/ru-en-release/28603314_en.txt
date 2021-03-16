@@ -1,0 +1,11 @@
+Maternal and neonatal services in Ethiopia: measuring and improving quality.
+PROBLEM  Maternal and neonatal mortality remains high in low- and middle-income countries, with poor quality of intrapartum care as a barrier to further progress.
+APPROACH
+We developed and tested a method of measuring the quality of maternal and neonatal care that could be embedded in a larger national performance management initiative.  The tool used direct observations and medical record reviews to score quality in nine domains of intrapartum care.
+We piloted and evaluated the tool in visits to the 18 lead hospitals that have responsibility to promote and coordinate quality improvement efforts within a hospital cluster in Ethiopia.  Between baseline and follow-up assessments, staff from a national quality collaborative alliance provided hospital-based training on labour and delivery services.
+LOCAL SETTING
+Ethiopia has invested in hospital quality improvement for more than a decade and this tool was integrated into existing quality improvement mechanisms within lead hospitals, with the potential for scale-up to all government hospitals.  RELEVANT CHANGES
+Significant improvements in quality of intrapartum care were detected from baseline (June-July 2015) to follow-up (February-March 2016) in targeted hospitals.  The overall mean quality score rose from 65.6 (standard deviation, SD: 10.5) to 91.2 (SD: 12.4) out of 110 items (P < 0.001).
+LESSONS LEARNT
+The method was feasible, requiring a total of 3 days and two to three trained data collectors per hospital visit.  It produced data that detected substantial changes made during 8 months of national hospital quality improvement efforts.
+With additional replication studies, this tool may be useful in other low- and middle-income countries.

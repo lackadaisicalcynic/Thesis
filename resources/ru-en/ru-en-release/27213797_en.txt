@@ -1,0 +1,12 @@
+UNLABELLED  Laser confocal tomography of the cornea enables studying ultrathin sections of corneal layers, which provides additional reliable information on tissue changes in keratoconjunctivitis sicca (KCS).
+AIM  To assess the significance of laser confocal tomography of the cornea in the diagnosis and monitoring of KCS.
+MATERIAL AND METHODS
+We investigated 38 eyes of 30 patients with severe KCS.  The patients were divided into two groups.
+Group 1 (15 patients, 19 eyes) was prescribed cyclosporine А 0.05% instillations 2 times daily, artificial tears, and soft contact lenses.  Group 2 (15 patients, 19 eyes) received only instillations of cyclosporine А 0.05% 2 times daily and artificial tears.
+Besides standard ophthalmic examination, additional tests were performed, namely Schirmer's test, tear break-up time test, fluorescein eye stain test, tear osmolarity test (TearLab System, USA), and Heidelberg retinal tomography of the cornea (HRT, Heidelberg Engineering GmbH, Germany).
+RESULTS
+HRT findings revealed a 3 times shorter epithelization period and faster recovery of corneal transparency in group 1 as compared to group 2 (1.5 and 4.5 months, respectively).
+There was also an evident reduction in the number of immune cells in the cornea, most pronounced in group 1 at 3 months, which is indicative of inflammation termination.
+CONCLUSION
+The use of HRT of the cornea in KCS patients allows real-time cellular level observation of corneal changes, which together with clinical findings and diagnostic tests not only confirms the diagnosis but also determines treatment effectiveness.  It has been also found that soft contact lenses accelerate epithelization of the cornea and relieve inflammation of the ocular surface in KCS patients under cyclosporine A 0.05% instillation therapy.
+Transparency of financial activity: the authors have no financial interest in the submitted materials and methods.

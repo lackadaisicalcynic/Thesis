@@ -1,0 +1,10 @@
+Asbestos: use, bans and disease burden in Europe.
+OBJECTIVE  To analyse national data on asbestos use and related diseases in the European Region of the World Health Organization (WHO).
+METHODS
+For each of the 53 countries, per capita asbestos use (kg/capita/year) and age-adjusted mortality rates (deaths/million persons/year) due to mesothelioma and asbestosis were calculated using the databases of the United States Geological Survey and WHO, respectively.
+Countries were further categorized by ban status: early-ban (ban adopted by 2000, n = 17), late-ban (ban adopted 2001-2013, n = 17), and no-ban (n = 19).  FINDINGS
+Between 1920-2012, the highest per capita asbestos use was found in the no-ban group.  After 2000, early-ban and late-ban groups reduced their asbestos use levels to less than or equal to 0.1 kg/capita/year, respectively, while the no-ban group maintained a very high use at 2.2 kg/capita/year.
+Between 1994 and 2010, the European Region registered 106,180 deaths from mesothelioma and asbestosis, accounting for 60% of such deaths worldwide.  In the early-ban and late-ban groups, 16/17 and 15/17 countries, respectively, reported mesothelioma data to WHO, while only 6/19 countries in the no-ban group reported such data.
+The age-adjusted mortality rates for mesothelioma for the early-ban, late-ban and no-ban groups were 9.4, 3.7 and 3.2 deaths/million persons/year, respectively.
+Asbestosis rates for the groups were 0.8, 0.9 and 1.5 deaths/million persons/year, respectively.  CONCLUSION
+Within the European Region, the early-ban countries reported most of the current asbestos-related deaths.  However, this might shift to the no-ban countries, since the disease burden will likely increase in these countries due the heavy use of asbestos.

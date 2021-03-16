@@ -1,0 +1,11 @@
+[Multivariate analysis of genealogical markers in adults with primary immunodeficiencies].
+AIM  To study the genealogy of adult patients with primary immunodeficiencies (PID) and to analyze its data in the relatives of these patients.
+MATERIALS AND METHODS
+A genealogical analysis was carried out in 74 adult patients with PID and 200 adults without this condition, by examining groups of signs in the relatives in at least 4 generations, the genealogical markers were an atypical infectious and inflammatory process; allergic diseases; autoimmune diseases; the presence of relatives with cancers; cases of reproductive dysfunction; deaths from infectious diseases and/or cancers in children; and congenital malformations.  The percentage of relatives with the above genealogical markers of the total number of the relatives in 4 generations was used as an indicator.
+The analysis applied nonparametric methods, such as quartile analysis, Spearman's correlation coefficient, and Mann-Whitney test to verify the statistical significance of differences between the independent groups.
+Multifactor prediction models were based on the decision theory (Wald-Bayesian analysis) and classification trees.  At Stage 1, the investigators made a univariate analysis, the data of which were used to perform a correlation analysis of the indicators.
+Multifactor prediction models were based on the decision theory (Wald-Bayesian analysis) and classification trees.
+RESULTS
+The genealogical markers were identified and analyzed using different statistical methods and  CONCLUSION
+were made on prognostically significant indicators.
+CONCLUSION  The findings may be recommended for practical use in order to enhance the efficiency of work with patients having various immunopathological syndromes.

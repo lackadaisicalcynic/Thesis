@@ -1,0 +1,15 @@
+[Diagnostic value of molecular biomarkers of infection in screening by Sepsis-3 criteria].  AIM
+To compare diagnostic value of molecular biomarkers of sepsis in patients with surgical infection in screening via Sepsis-2 (Surviving Sepsis Campaign 2012, SSC 2012) and Sepsis-3 (The Third International Consensus Definitions for Sepsis and Septic Shock) criteria.
+MATERIAL AND METHODS
+Septic patients according to Sepsis-2 and Sepsis-3 criteria were identified from general population with surgical infection.
+Logistic regression models quality was the criterion for assessment of diagnostic value of molecular biomarkers.
+Risk factors importance was estimated via odds ratios (OR) calculation.
+RESULTS
+Sepsis-3 ROC-AUC for procalcitonin increased up to 0.933, cut-off value 2.35 ng/ml (Sepsis-2 AUC 0.768 (p=0.004), cut-off 1.72 ng/ml).
+Sepsis-3 ROC-AUC for presepsin increased up to 0.932, cut-off value - 772 pg/ml (Sepsis-2 AUC 0.865, cut-off 567 pg/ml).
+The highest risk of sepsis was observed in systemic response to inflammation combined with organ dysfunction (OR 69.667, S 0.636; 95% CI 20.03-242.4) (Sepsis-2 - OR 9.25, S 0.548; 95% CI 3.2-27.1, p<0.001). Increased levels of both biomarkers significantly increased the risk of sepsis (OR 22.5, S 0.794; 95% CI 4.74-106.6 and OR 20.97, S 0.58; 95% CI 6.705-65.6, respectively).
+CONCLUSION
+Organ dysfunction assessment by Sepsis-3 criteria improves diagnostic possibilities in patients with suspected sepsis.
+Maximum predictive value is observed for systemic inflammation response combined with organ dysfunction.
+In these patients procalcitonin and presepsin are characterized by equivalent high diagnostic potential for evidence of infectious nature of the disease.
+Increased level of these markers can serve as a basis for antimicrobial therapy administration.

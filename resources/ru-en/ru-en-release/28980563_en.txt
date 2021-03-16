@@ -1,0 +1,16 @@
+[Changes in biomechanical properties of the ocular fibrous tunic in patients with primary open-angle glaucoma in response to drug-induced stress-relief tests].
+AIM
+To determine the effect of drug-induced stress-relief tests on biomechanical properties of the ocular fibrous tunic in eyes with early, moderate, or advanced primary open-angle glaucoma (POAG).  MATERIAL AND METHODS
+A total of 202 eyes of 150 patients with POAG of different severity (early, moderate, or advanced) and 36 eyes of 30 healthy controls were examined.  The mean patient age was 62±8.2 years.
+All groups were standardized by age, sex, and the range of corneal-compensated intraocular pressure (IOP) at baseline (21-30 mmHg).  All patients underwent a standard ophthalmic examination, including visometry, biomicroscopy, gonioscopy, ophthalmoscopy, and Humphrey visual field assessment.
+Corneal hysteresis (CH), corneal resistance factor (CRF), CH-CRF difference, corneal-compensated IOP (IOPcc), and Goldmann-related IOP (IOPg) were measured with Ocular Response Analyzer (ORA, Reichert, USA).
+The axial eye length was measured on an ultrasonic A-scan (Ocuscan RxP, Alcon, USA) in the 10 MHz mode.
+RESULTS
+CH and CRF variability analysis was conducted to assess changes in biomechanical properties of the fibrous tunic due to an IOP decrease and a tendency toward compensation.
+For the first time, the ratio between CH and CRF changes (ΔCH/ΔCRF) was used to evaluate biomechanical properties of the fibrous tunic.  This ratio provides understanding of the significance of CH and CRF changes after reduction of IOP.
+In early glaucoma patients, it differed inconsiderably from the control group (p>0.05) and averaged 1.62±0.9.
+In moderate glaucoma, CH changes were more pronounced than those of CRF: ΔCH/ΔCRF - 2.03±2.41 (under conservative treatment) and 2.12±1.07 (without treatment).
+In advanced glaucoma an opposite pattern was observed: the CH/CRF ratio got closer to 1.0 largely due to CRF changes, while CH changes became much less pronounced (or even negative, in some cases): ΔCH/ΔCRF - 0.27±0.32 (under conservative treatment), 0.16±1.29 (without treatment).
+CONCLUSION  While the IOP decreased as a result of drug-induced stress-relief tests, CH and CRF changes differed between the groups depending on the stage of POAG.
+In early and moderate glaucoma, CH undergoes greater changes than CRF.  In advanced glaucoma, CRF changes are more pronounced, and, hence, the ΔCH/ΔCRF ratio shifts reliably as glaucoma progresses.
+The ratio has also been shown to depend on the duration of the disease and on whether or not eye drops were prescribed.

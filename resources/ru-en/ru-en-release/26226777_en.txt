@@ -1,0 +1,10 @@
+[Clinical assessment of histological diagnostic systems for adrenocortical tumors].  UNLABELLED
+The Weiss scoring system encompassing 9 histological criteria for tumor grading the Weiss index (WI) and modified Weiss index (MWI), which evaluate the 5 most informative histological criteria with the exception of some inestimable signs has gained the widest acceptance for the morphological diagnosis of adrenocortical carcinoma (ACC).  OBJECTIVE
+To comparatively analyze the efficiency of WI and MWI in the diagnosis of ACC.  SUBJECTS AND METHODS
+Adrenal tumors (ACC and adenoma) from 104 patients were studied.  The accuracy of WI and MWI for the diagnosis of ACC and adrenocortical adenomas was comparatively analyzed.
+RESULTS
+The sensitivities of WI and MWI for the diagnosis of ACC were 96.8 and 91.5%, respectively.
+The difference was statistically insignificant (p = 0.2).
+CONCLUSION
+MWI is less subjective, easier-to-use, and more informative for the differential diagnosis of adenomas and ACC at borderline WI values.
+However, there is little point in using MWI to diagnose without considering WI as MWI unreached the threshold value (3 scores) more frequently than WI in malignant tumors.

@@ -1,0 +1,12 @@
+Implementation research: a mentoring programme to improve laboratory quality in Cambodia.
+OBJECTIVE  To implement a mentored laboratory quality stepwise implementation (LQSI) programme to strengthen the quality and capacity of Cambodian hospital laboratories.
+METHODS
+We recruited four laboratory technicians to be mentors and trained them in mentoring skills, laboratory quality management practices and international standard organization (ISO) 15189 requirements for medical laboratories.
+Separately, we trained staff from 12 referral hospital laboratories in laboratory quality management systems followed by tri-weekly in-person mentoring on quality management systems implementation using the LQSI tool, which is aligned with the ISO 15189 standard.
+The tool was adapted from a web-based resource into a software-based spreadsheet checklist, which includes a detailed action plan and can be used to qualitatively monitor each laboratory's progress.
+The tool - translated into Khmer - included a set of quality improvement activities grouped into four phases for implementation with increasing complexity.  Project staff reviewed the laboratories' progress and challenges in weekly conference calls and bi-monthly meetings with focal points of the health ministry, participating laboratories and local partners.
+We present the achievements in implementation from September 2014 to March 2016.
+FINDINGS
+As of March 2016, the 12 laboratories have completed 74-90% of the 104 activities in phase 1, 53-78% of the 178 activities in phase 2, and 18-26% of the 129 activities in phase 3.
+CONCLUSION
+Regular on-site mentoring of laboratories using a detailed action plan in the local language allows staff to learn concepts of quality management system and learn on the job without disruption to laboratory service provision.

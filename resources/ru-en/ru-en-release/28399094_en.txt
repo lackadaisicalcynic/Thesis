@@ -1,0 +1,9 @@
+[Meta-analytic assessment of parenteral cytoflavin effectiveness in different neurologic disorders].
+AIM
+To carry out an integral quantitative assessment of the clinical efficacy of parenteral use of cytoflavin in treatment of patients with CNS disorders based on the systemic selection of published controlled clinical trials and their meta-analysis.  MATERIAL AND METHODS
+Twenty-one high evidence-based studies on the efficacy of parenteral use of cytoflavin in different CNS disorders (4314 patients) have been analyzed.  Comparisons with basic treatment groups were undertaken to clarify the drug clinical effects adjusted for heterogeneity and variability of response parameters.
+RESULTS AND CONCLUSION
+An analysis of formalized efficacy indicators (increase in the absolute and relative value, odds ratio (OR) etc.) has demonstrated the advantages of cytoflavin.  Group combination has increased the statistical power of the meta-analysis.
+Two models with fixed (Mantel-Haenszel amendment) and random effects were used.
+All the estimation protocols in different clinical groups of patients with neurologic diseases provided similar results and confirmed the stability of calculated values irrespective of heterogeneity of data arrays.
+OR of positive outcomes in neuropathologies treated with cytoflavin was 3,02 with χ2 heterogeneity 427,3 and p = 0,000…, I2= 85,7% (82%; 88%).

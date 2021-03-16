@@ -1,0 +1,16 @@
+[Non-drug therapy of vertigo].
+AIM  To study the efficacy of various methods of non-drug therapy of diseases manifested by vertigo and dizziness in neurological practice.
+MATERIAL AND METHODS
+Referral and final diagnoses were compared after neurovestibular examination of 599 patients (177 men and 422 women), aged 25 to 79 years (mean age 55 years), with various causes of vertigo.
+Patients underwent vestibular rehabilitation, trainings on the stabiloplatform with biological feedback (biofeedback), repositioning maneuvers in patients with benign paroxysmal positional vertigo (BPPV).
+Severity of dizziness on a Visual analogue scale of dizziness (VAS-d) and balance on stabilography before and after a course of vestibular rehabilitation was analyzed.
+RESULTS
+Before neurovestibular examination, the diagnoses of vertebrobasilar insufficiency (44%), hypertensive or atherosclerotic encephalopathy (35%), cervical spondyloarthrosis (8%), autonomic dystonia (11%)) are often considered mistakenly as the causes of vertigo and dizziness.
+After neurovestibular examination, the diagnoses were as follows: BPPV (39%), phobic postural vertigo (29%), Ménière's disease (14%), vestibular neuritis (11%), multisensory dizziness in elderly (5%).
+The effectiveness of repositioning maneuvers in BPPV was 90,2% after the first session and 100% after the second session.
+After a course of vestibular exercises and trainings on the stabiloplatform with biofeedback, there was the marked improvement in indicators of stabilography and VAS-d in patients with vestibular neuritis, Meniere's disease, phobic postural vertigo (p<0.05).
+Vestibular rehabilitation was most effective if started within the first month after vestibular neuritis.
+There was the high efficacy of complex rehabilitation, including vestibular exercises and trainings on stabilographic platform with biofeedback, in patients with Meniere's disease.
+In the rehabilitation of patients with phobic postural vertigo, better results were achieved when vestibular exercises were combined with trainings on stabilographic platform with biofeedback and psychotherapy.
+CONCLUSION
+The results demonstrated the low accuracy of diagnosis of diseases manifested by vertigo and dizziness and high efficacy of non-drug therapy in most cases, especially BPPV, vestibular neuritis, Meniere's disease, postural phobic vertigo.

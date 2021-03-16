@@ -1,0 +1,11 @@
+[The dynamics of shoulder joint function in patients with hemiparesis in the acute period of carotid stroke].
+AIM  To evaluate the recovery of shoulder joint function in patients with hemiparesis in the acute period of hemispheric stroke on the basis of the analysis of electromyography (fEMG) of the muscles of this region before and after rehabilitation measures, including targeted training with biofeedback (BFB).
+MATERIAL AND METHODS
+Three groups of 25 people each were studied.
+Patients of the physical therapy (PT) group received standard treatment and physical therapy; patients of the PT+BFB group received BFB training in addition to PT; the control group consisted of people without neurological and orthopedic symptoms.  A clinical study and EMG of the muscles of the shoulder girdle during testing movements was performed.
+RESULTS  On the side of paresis, the function of muscles was characterized by a decrease in the bioelectric activity (movement amplitude was decreased as well) and later phase of the maximum EMG activity compared to the norm.
+The time of maximum EMG activity had a trend towards the shift to the normal values during the treatment process, but the difference reached a statistically significant level not for all muscles and all movements.  There were variants of the functions of the paretic muscles accompanied by the increased EMG activity.
+In the early stages (up to 21 days) of stroke, no significant changes in the EMG activity of shoulder girdle muscles were observed.  The PT+BFB group showed better results than the PT group not only in the onset of activity, but also in the reduction of the amplitude when performing the same movement that indirectly suggested the more optimal inclusion of muscles in the motor act.
+In the period of acute hemispheric stroke, there were changes not only in the EMG activity of muscles of the affected side, but also of the contralateral side.
+CONCLUSION
+A fEMG of the muscles is a more sensitive and informative method of the diagnosis of disorders of motor function and assessment of recovery process of the muscles of the shoulder joint in patients with hemiparesis.

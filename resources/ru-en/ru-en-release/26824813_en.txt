@@ -1,0 +1,14 @@
+[The use of cardiointervalography for diagnostic screening and evaluation of the efficiency of correction of magnesium deficiency and comorbid conditions].
+AIM  To detect chronic diseases comorbid to magnesium (Mg) deficiency (ICD-10 E61.2) by the data of heart rate variability (HRV).
+SUBJECTS AND METHODS
+The investigation enrolled 398 student patients from a university preventorium (52% youngsters; mean age, 18±9 years; height, 157±28 cm; weight, 54±20 kg).
+The database for each patient included anthropometric, dynamometric, electrooculometric, HRV and blood pressure monitoring data, plasma levels of vitamins, and collected scores of all stress items of the IDIX scale, MFI-20, asthenia rating scale, HAM test, a questionnaire for deficiency of Mg, vitamins, etc., i.e. a total of 521 parameters.
+A data sample for 398 patents was randomized into a learning subsample (n = 198) that was used to calculate the discussed sets of logical rules and an independent control sample (n = 200) that was employed to test the obtained sets of logical rules in order to determine their sensitivity and specificity.
+RESULTS
+Based on the analysis of the collected database, the investigators established the pattern of diseases comorbid to Mg deficiency in the examined sample, elaborated diagnostic rules for a number of abnormalities, and checked the obtained sets of rules on the control subsample.
+The presence of more than half the diagnoses given below may be recognized on the basis of HRV and dynamometric, clinical, and laboratory findings and history data with a sensitivity of 70-95% and a specificity of 75-95%.
+It is shown that HRV data allow detection of a number of chronic diseases comorbid to Mg deficiency (ICD-10 E61.2) with a high degree of accuracy (on average of 80%) and selectivity (about 80%).
+CONCLUSION
+The diagnostic method based on HRV measured by cardiointervalography has been developed, which, among other processes, permits the noninvasive evaluation of electrolyte balance and the identification of Mg, K, Na, and Ca deficiencies.
+The advantage of this method is that it can assess the body's overall functional possibilities in health, as well as early abnormalities that may gradually progress to serious diseases if no necessary preventive measures are implemented.
+The practical value of the developed method is demonstrated, by using Magnerot in vegetative dystonia concurrent with hypomagnesium.

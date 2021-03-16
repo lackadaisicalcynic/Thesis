@@ -1,0 +1,9 @@
+[Use of the new 2013 ASCO/CAP guidelines to study HERS status by fluorescence in situ hybridization in patients with breast cancer].  UNLABELLED  Despite the long-term history of HER2 testing in breast cancer (BC), the results of its study are frequently interpreted ambiguously.
+The introduction of the new 2013 ASCO/CAP guidelines is aimed to further optimize HERS testing in view of new scientific evidence for the biological characteristics of BC.
+OBJECTIVE  to study the results of assessing HERS2 status in patients with the questionable level of protein expression according to the 2007 versus 2013 ASCO/CAP criteria.
+SUBJECTS AND METHODS
+Biopsy specimens from 572 patients diagnosed with BC after immunohistochemical examination, including HER2 status assessment, were investigated by fluorescence in situ hybridization.
+RESULTS
+The use of the new 2013 ASCO/CAP criteria versus the previous criteria to determine intratumor heterogeneity, HER2 gene copy number, and the so-called chromosome 17 polysomy was ascertained to cause a statistically significant increase in HER2-positive cases from 25 to 42.5% (OR=2.2178; 95% CI, 1.8254-2.6950; р=0.0005).
+CONCLUSION
+The use of the new guidelines additionally permits effective therapy in patients with BC, which may be another step to improve survival in this large patient group.

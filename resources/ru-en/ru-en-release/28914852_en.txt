@@ -1,0 +1,23 @@
+[Efficiency of immunosuppressive therapy in virus-negative and virus-positive patients with morphologically verified lymphocytic myocarditis].  AIM
+To evaluate the efficiency of immunosuppressive therapy (IST) in virus-negative (V-) and virus-positive (V+) patients with lymphocytic myocarditis (LM).
+SUBJECTS AND METHODS
+60 patients (45 males) (mean age 46.7±11.8 years) with dilated cardiomyopathy (mean left ventricular (LV) end diastolic size (EDS) 6.7±0.7 cm; ejection fraction (EF) 26.2±9.1%) were examined.
+The diagnosis of active/borderline LM was verified by right ventricular endomyocardial biopsy in 38 patients, by intraoperative LV biopsy in 10, in the study of explanted hearts from 3 patients and at autopsy in 9.
+The investigators determined the genomes of parvovirus B19, herpes viruses types 1, 2 and 6, Epstein-Barr (EBV), zoster, and cytomegalovirus in the blood and myocardium and, if antibodies were present in the blood, hepatitis B and C viruses, as well as antibodies against antigens in the endothelium, cardiomyocytes and their nuclei, smooth muscles, fibers of the conducting system.
+IST was used in terms of histological, immune, and viral activities.
+IST was performed in 22 V+ patients (Group 1) and in 24 V- patients (Group 2); this was not done in 10 V+ patients (Group 3) and V- patients (Group 4).
+IST comprised methylprednisolone at a mean dose of 24 mg/day (n=40), hydroxychloroquine 200 mg/day (n=20), azathioprine at a mean dose of 150 mg/day (n=21); antiviral therapy included acyclovir, ganciclovir, intravenous immunoglobulin (n=24).
+The follow-up period was 19 (7.3-40.3) months.
+RESULTS
+The viral genome was detected in the myocardium of 32 patients who made up a V+ group.
+The degree of histological activity did not differ in relation to the presence of viral genome in the myocardium.
+The degree of immune activity (anticardiolipin antibody titers) in the V+ patients was as high as that in V- ones.
+At baseline, the V+ patients had a significantly higher LV EDS and a lower EF than the V- patients.
+Overall, IST only could lead to a significant increase in EF (from 26.5±0.9 to 36.0±10.8%; p<0.001) and reductions in NYHA functional class from III to II (p<0.001), LV EDS (from 6.7±0.7 to 6.4±0.8 cm; p<0.01), pulmonary artery systolic pressure  (from 48.9±15.5 to 39.4±11.5 mm Hg (p<0.01); the IST group had significantly lower mortality rates than the non-IST group (23.9 and 64.3%; p<0.01).
+At the same time, a significant trend was seen in both V- and V+ patients.
+The mortality rate in the V+ patients, as a whole, was higher (46.9 and 17.9%; p<0.05).
+CONCLUSION
+IST leads to a significant improvement of functional indices and it is associated with lower mortality rates in both myocardial V- and V+ patients with LM.
+A more than 10% EF increase in the first 2 months is associated with a good prognosis.
+The presence of viral genome in the myocardium (primarily herpesviruses rather than parvovirus-19) is accompanied by more severe initial dysfunction, a less pronounced effect of IST, and higher mortality rates.
+However, the positive effect of IST also persists in V+ patients.  No positive changes (a decrease in EF was observed) were absent only in IST-naïve V+ patients.

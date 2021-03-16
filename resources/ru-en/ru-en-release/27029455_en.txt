@@ -1,0 +1,10 @@
+[The possibility of using immunological parameters for the evaluation of the clinical state of patients with childhood-onset schizophrenia].  OBJECTIVE
+To compare clinical and immunological parameters in children with schizophrenia and to analyze the possibility of using them in the assessment of the pathological process activity.  MATERIAL AND METHODS
+We examined 62 patients, 39 boys and 23 girls, aged from 4 to 17 years, with childhood-onset schizophrenia.
+Mental state of the patients was assessed using a psychopathological method and with PANSS and CGI scales.
+The activity of leukocyte elastase (LE) and alpha(1)-proteinase inhibitor (α1-PI) was measured by spectrophotometric method.
+ELISA was used to determine the level of autoantibodies to neuroantigenes to S-100B and basic myelin protein.
+RESULTS AND CONCLUSION
+The activation of innate immunity assessed by the activity of LE and α1-PI and adaptive immunity (levels of autoantibodies to neuroantigenes to S-100B and basic myelin protein) was identified.
+Significant correlations of the level of immune system activation with the severity of patient's state on СGI-S (r=0.64, p=0.000001) as well as scores on the PANSS negative symptom subscale (r=0.34, p=0.0077) were found.
+The results suggest the possibility of using these immunological parameters for the objectification of clinical state of children with schizophrenia.

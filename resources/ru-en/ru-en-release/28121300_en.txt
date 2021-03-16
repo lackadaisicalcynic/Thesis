@@ -1,0 +1,12 @@
+AIM  To evaluate the effect of exogenous melatonin on the blood-retinal barrier and oxidative status of the vitreous in rats with oxygen-induced retinopathy (OIR) and analyze its prospects in the treatment and prevention of retinopathy of prematurity (ROP).
+MATERIAL AND METHODS
+The study was performed on 48 Wistar rat pups (96 eyes) divided into 4 groups 12 animals each: OIR group, melatonin group and two control groups.
+In order to induce retinopathy, rat pups and does were placed in an incubator for 14 days after birth.
+Oxygen concentration in the incubator changed from 60 to 15% every 12 hours.
+The controls for this experiment were rats that grew under normoxic conditions (21%).
+The two other groups of rats were injected with 30 ml intraperitoneal melatonin (Sigma-Aldrich) in sterile 0.05 M phosphate buffer (pH 7.4) at a dose of 10 mg/kg for 14 days starting on day 1.
+The pups were killed on days 7 (n=16), 14 (n=16), and 18 (n=16).  Binocular enucleation was performed in all cases.
+The total protein level and antioxidative activity (AOA) were then measured in vitreous samples.  RESULTS
+Oxygen-induced retinopathy had two phases and was accompanied by a sharp increase in the vitreal AOA and total protein.  After intraperitoneal melatonin injections made during the period of early OIR-associated vascular changes, the said parameters were decreased down to near-control values at any times during the follow-up period.
+CONCLUSION
+Exogenous melatonin, due to its strong antiangiogenic and antioxidant activity, helps stabilize the blood-retinal barrier in OIR.

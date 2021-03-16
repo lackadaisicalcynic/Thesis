@@ -1,0 +1,13 @@
+An ecological study of stillbirths in Mexico from 2000 to 2013.
+OBJECTIVE
+To examine trends in the rate of stillbirths at or after 21 weeks' gestation in Mexico from 2000 to 2013, identify factors associated with stillbirths and estimate subnational variability in stillbirth rates and the proportion of deaths occurring intrapartum.  METHODS
+This population-based, ecological study involved data from a national database on 263 475 stillbirths in 29 Mexican states and maternal sociodemographic factors.  Subnational variability in the stillbirth rate in 2012 was investigated and stillbirths in 2013 were categorized as intrapartum or antepartum according to the fetus' skin condition.
+FINDINGS
+The national stillbirth rate declined from 9.2 to 7.2 per 1000 births between 2000 and 2013 (i.e. -1.9% per year).
+The prevalence of stillbirths varied 3.9-fold between states.
+Stillbirths were associated, in particular, with: residence in Mexico City (odds ratio, OR: 1.71; 95% confidence interval, CI: 1.68-1.73) or central Mexico (OR: 1.36; 95% CI: 1.34-1.38); maternal education of 9 years or less (OR:1.10; 95% CI: 1.08-1.11) or 10 to 12 years (OR: 1.16; 95% CI: 1.14-1.18); mothers younger than 15 years (OR: 1.64; 95% CI: 1.55-1.72) or older than 34 years (OR: 1.68; 95% CI: 1.66-1.70); and male fetal sex (OR: 1.20; 95% CI: 1.19-1.21).
+Overall, 51% (7348/14 344) of fetal deaths occurred intrapartum.
+CONCLUSION
+In Mexico, the total stillbirth rate declined between 2000 and 2013, however geographical variations were observed.
+Stillbirths were associated with sociodemographic factors.
+The proportion of intrapartum stillbirths was relatively high, suggesting that health system performance could be improved, especially at places of delivery.

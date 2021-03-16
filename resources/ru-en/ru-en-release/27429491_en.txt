@@ -1,0 +1,13 @@
+Accuracy of point-of-care testing for circulatory cathodic antigen in the detection of schistosome infection: systematic review and meta-analysis.  OBJECTIVE
+To assess the accuracy of point-of-care testing for circulatory cathodic antigen in the diagnosis of schistosome infection.  METHODS
+We searched MEDLINE, EMBASE, LILACS and other bibliographic databases for studies published until 30 September 2015 that described circulatory cathodic antigen testing compared against one to three Kato-Katz tests per subject - for Schistosoma mansoni - or the filtration of one 10-ml urine sample per subject - for S. haematobium.
+We extracted the numbers of true positives, false positives, true negatives and false negatives for the antigen testing and performed meta-analyses using a bivariate hierarchical regression model.
+FINDINGS
+Twenty-six studies published between 1994 and 2014 met the inclusion criteria.
+In the detection of S. mansoni, a single antigen test gave a pooled sensitivity of 0.90 (95% confidence interval, CI: 0.84-0.94) and a pooled specificity of 0.56 (95% CI: 0.39-0.71; n = 7) when compared against a single Kato-Katz test.
+The corresponding values from comparisons with two to three Kato-Katz tests per subject were 0.85 (95% CI: 0.80-0.88) and 0.66 (95% CI: 0.53-0.76; n = 14), respectively.
+There appeared to be no advantage in using three antigen tests per subject instead of one.
+When compared against the results of urine filtration, antigen testing for S. haematobium showed poor sensitivity and poor specificity.
+The performance of antigen testing was better in areas of high endemicity than in settings with low endemicity.
+CONCLUSION
+Antigen testing may represent an effective tool for monitoring programmes for the control of S. mansoni.

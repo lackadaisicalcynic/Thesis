@@ -1,0 +1,3 @@
+[Three-dimensional scanning of the forensic medical objects: the instrumental support and peculiarities of the technology].
+The objective of the present study was to develop 3D-technologies for the investigations of objects for to purpose of their forensic medical expertise and to propose the rationale for their practical application.  The advantages and disadvantages of the commercial 3D-scanners are disused.
+The development of a new original 3D-scanner is described.  The data on the authors' technology for three-dimensional scanning of the forensic medical objects are presented.

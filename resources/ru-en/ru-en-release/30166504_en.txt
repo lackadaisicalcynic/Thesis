@@ -1,0 +1,12 @@
+[Impact of antiangiogenic therapy on ocular blood flow and microcirculation in diabetic macular edema].  Today, diabetic macular edema (DME) is still one of the main causes of vision loss in patients with diabetes.
+PURPOSE  To identify changes in the ocular blood flow and microvascular network of the macular zone in patients with DME after antiangiogenic therapy.
+MATERIAL AND METHODS
+In the course of the study, 25 patients (50 eyes) with monolateral clinically significant DME aged 67.5±3.85 years were examined.
+Control group consisted of 75 healthy subjects (150 eyes).
+All patients underwent ultrasound examination of the eyes and orbits (in Color Doppler Imaging (CDI) and Pulse-Doppler modes) and OCT-angiography (OCT-A) before the intravitreal injection of ranibizumab, as well as 3 days, 2 weeks, and 1 month after the treatment.
+RESULTS
+According to OCT-A, the initial values of microvascular network parameters were significantly below the norm (p<0.05).
+After intravitreal ranibizumab injection (IRI), no significant changes in the density of microcapillaries or in the parameters of foveal avascular zone (FAZ) were recorded.
+However, a transient increase of the FAZ area was revealed 2 weeks after the injection, as well as an increase of microcapillaries density in the central quadrant together with a decrease of density in the peripheral quadrants 1 month after IRI.  By the end of the follow-up period, a decrease in the initially raised maximum systolic velocity (Vsyst) and resistance index (RI) in the ophthalmic artery (OA) of the affected eye were documented.
+Additionally, an increase in Vsyst and 2-fold increase in end-diastolic velocity (Vdiast), as well as a decrease in RI in the central retinal artery (CRA) on the affected and paired eyes were detected.  CONCLUSION
+The study revealed no negative effects of the angiogenesis inhibitor ranibizumab on retinal microcirculation or ocular blood flow.  The registered changes in blood flow may indicate improvement of hemodynamic parameters after resorption of macular edema.

@@ -1,0 +1,12 @@
+[Analysis of VEGF-A/VEGFR1/VEGFR2 gene expression in patients with myelodysplastic syndrome].  AIM
+To assess the significance of gene expression of the vascular endothelial growth factor-A (VEGF-A) and its interacting receptors VEGFR1 and VEGFR2 as potential diagnostic and prognostic molecular markers in patients with myelodysplastic syndrome (MDS).
+MATERIAL AND METHODS
+A real time polymerase chain reaction (RT-PCR) assay was used to investigate the gene expression of VEGF-A, VEGFR1, and VEGFR2 in the mononuclear cell fractions obtained from 24 patients with MDS.
+RESULTS
+The expression of the 3 genes was identified in all the patients examined.
+There was the highest expression level of the VEGF-A gene (p<0.0001), whereas the expression of the VEGFR1 gene was higher than that of the VEGFR2 gene (p<0.001).
+The expression of the VEGF-A gene proved to be higher in patients at a higher risk of acute leukemia and positively correlated with the expression levels of the VEGFR1 gene (p<0.05) rather than that of the VEGFR2 gene.
+At the same time, patients with higher VEGFR1 gene expression had significantly lower overall survival rates (r=-0.5; p<0.05).
+Patients with intermediate-2 or high-risk acute leukemia showed an increase in the average expression levels of VEGF-A and VEGFR1 and a reduction in VEGFR2 expression.
+CONCLUSION
+This investigation revealed correlations between the number of blast cells in patients with MDS and the expression levels of the VEGF-A gene and between the overall survival of patients with MDS and the expression levels of the VEGFR1 gene rather than those of the VEGF-A and VEGFR2 genes.

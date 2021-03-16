@@ -1,0 +1,12 @@
+Prevention and control of neglected tropical diseases: overview of randomized trials, systematic reviews and meta-analyses.
+OBJECTIVE
+To analyse evidence from randomized controlled trials (RCTs) on the prevention and control of neglected tropical diseases (NTDs) and to identify areas where evidence is lacking.
+METHODS
+The Cochrane Central Register of Controlled Trials and PubMed were searched for RCTs and the Cochrane Database of Systematic Reviews and PubMed were searched for meta-analyses and systematic reviews, both from inception to 31 December 2012.  FINDINGS
+Overall, 258 RCTs were found on American trypanosomiasis, Buruli ulcer, dengue, geohelminth infection, leishmaniasis, leprosy, lymphatic filariasis, onchocerciasis, rabies, schistosomiasis or trachoma.
+No RCTs were found on cysticercosis, dracunculiasis, echinococcosis, foodborne trematodes, or human African trypanosomiasis.
+The most studied diseases were geohelminth infection (51 RCTs) and leishmaniasis (46 RCTs).  Vaccines, chemoprophylaxis and interventions targeting insect vectors were evaluated in 113, 99 and 39 RCTs, respectively.
+Few addressed how best to deliver preventive chemotherapy, such as the choice of dosing interval (10) or target population (4), the population coverage needed to reduce transmission (2) or the method of drug distribution (1).
+Thirty-one publications containing 32 systematic reviews (16 with and 16 without meta-analyses) were found on American trypanosomiasis, dengue, geohelminths, leishmaniasis, leprosy, lymphatic filariasis, onchocerciasis, schistosomiasis or trachoma.  Together, they included only 79 of the 258 published RCTs (30.6%).
+Of 36 interventions assessed, 8 were judged effective in more than one review.  CONCLUSION
+Few RCTs on the prevention or control of the principal NTDs were found.  Trials on how best to deliver preventive chemotherapy were particularly rare.

@@ -1,0 +1,6 @@
+[A search of target regions for association studies between DNA methylation and cognitive impairment in schizophrenia].
+AIM  To develop a strategy for the search for candidate genes and targets for epigenetic studies of cognitive impairments in patients with schizophrenia.
+MATERIAL AND METHODS
+A search for literature on epigenetics of schizophrenia and cognitive functions was performed.  Single nucleotide polymorphisms (SNPs) that can create or abolish a site for DNA methylation or transcription factor sites were determined using a custom script.
+RESULTS AND CONCLUSION
+Eight candidate genes, including BDNF, COMT, RELN, SNRPN, PSMA4, FAM63B, IL-1RAP, MAD1L1, as well as 750 targets in CpG islands in the linkage regions identified in GWAS of schizophrenia and 406 targets in SNV located within transcription factor binding sites were selected.

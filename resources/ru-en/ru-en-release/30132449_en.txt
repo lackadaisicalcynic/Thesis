@@ -1,0 +1,20 @@
+[Anamnestic headache in patients with cervical artery dissection: clinical characteristics and pathogenetic mechanisms].
+AIM  To study the frequency and characteristics of headache which is in the past history (HPH) of patients with cervical artery dissection (CeAD) and evaluate with the help of EEG and visual evoked potentials (VEP) the role of central mechanisms in its development.
+MATERIAL AND METHODS
+Two hundred and twenty-seven patients with CeAD verified by neuroimaging were studied.
+All patients were interviewed about the presence of a headache in the past history and its features.
+The comparison group comprised 35 patients (mean age - 32,3±8,9 years, 77% female) with migraine.
+Thirty-five patients with HPH and 35 patients of the comparison group underwent EEG and VEP.
+RESULTS
+HPH was found in 101 patients (average age of 38.5±8.5 years, 70% female) (44.5%) out of 227 patients.
+In 35 patients (15.4%), HPH met the International Criteria for migraine (with aura - 3.1%, without aura - 12.3%) and in 66 patients (29.1%) did not (non-migraine headache).
+The latter started at the age of 24.5±10.2 years, had mild/ moderate intensity (95%), diffuse localization (68%), dull/pressing/squeezing character (53%), never accompanied by vomiting and rarely by nausea (8%), photo- phonophobia (11%).
+HPH, which met the migraine criteria unlike migraine in the comparison group began at a later age (19.9±9.6 vs 16.2±4.4 years, p<0.03), more frequently did not have aura (80% vs 48%, p<0.003), less often was unilateral (31% vs 71%, p<0,004) and had less intensity.
+The visual EEG analysis less often found rhythmic disorganization in CeAD patients with HPH than in comparison group with migraine.
+The hyperventilation caused a slight increase in the spectral power of Teta, Delta waves in HPH patients and significant enhancement in comparison group with migraine (p<0.05).
+Pattern reversal VEP in patients with HPH had a greater latency and smaller amplitude of cortical responses than in comparison group with migraine (p=0.028 and =0.037, respectively).
+The flash VEP amplitude was lower in HPH patients than in migraine (p=0.01).
+CONCLUSION
+HPH in patients with CeAD meets criteria of migraine in 15.4% (with aura - 3.1%, without aura - 12.3%), 29.1% patients have nonmigraine HPH.
+Central mechanisms, namely, the hypersensitivity of the cerebral cortex playing the main role in migraine pathogenesis, are not significant in HPH genesis.
+The main role appears to have peripheral mechanisms - dysplastic changes in the wall of extra- and intracranial arteries that predispose both to headache and dissection.

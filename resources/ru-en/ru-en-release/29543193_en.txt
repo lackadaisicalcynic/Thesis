@@ -1,0 +1,17 @@
+[Electrophysiological characteristics of the retina in children with cicatrical retinopathy of prematurity].  Visual impairment in children with regressive retinopathy of prematurity (ROP) are diverse and widespread.
+PURPOSE  to describe the electrophysiological characteristics of the retina in children with I-V stages of regressive ROP.
+MATERIAL AND METHODS
+The study included children with stages I-V aged 5 to 17 (in the disease stages of IV and V - with reattachment of the retina after surgical treatment of its detachment).
+Patients with concomitant diseases of the eye were excluded from the study.
+The main group included 133 children (163 eyes) aged 5 to 17 (mean age 7.2±0.3).
+Gestation age was 30.0±0.2 weeks, birth weight - 1368.0±46.6g.
+The control group consisted of 55 age-matched children.
+Standard electroretinogram (ERG) was performed in all study subjects.
+The amplitude-time characteristics of maximum and photopic response a- and b-waves were evaluated, and the b/a-index was calculated.
+RESULTS
+Visual acuity of 0.6 or higher was observed in 18 eyes (54.5%) of children with stage I-II ROP and significantly less in the disease stages of III and IVa - 29.5% and 15.6% respectively (p<0.01: Φ=2,717-3,663).
+In patients with IVb-V stages in 94.1% of cases visual acuity was lower than 0.1. Anamnesis showed significant decrease in photopic ERG starting with active period of stage III ROP.
+The retinal function further progressively decreased with stages. b/a index of maximum ERG increased proportionally to the severity of ROP active period.
+Core b/a index was significantly reduced in all stages of ROP (p<0.05).
+CONCLUSION
+Even the early stages of ROP have consequences for the functional status of the retina in premature infants; it is accompanied by significant disturbance of its electrogenesis.

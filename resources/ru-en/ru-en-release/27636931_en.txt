@@ -1,0 +1,20 @@
+[Evaluation of the therapeutic efficacy and safety of the selective anxiolytic afobazole in generalized anxiety disorder and adjustment disorders: Results of a multicenter randomized comparative study of diazepam].
+AIM  to summarize the previously published results of a multicenter randomized clinical research phase III study trial of afobazole (INN: fabomotizole) versus diazepam in the treatment of patients with generalized anxiety disorder (GAD) and adjustment disorders (AD).
+SUBJECTS AND METHODS
+Five investigating centers included 150 patients aged 18 to 60 years (60 patients with GAD and 90 with AD) a simple structure of anxiety disorders without concurrent mental, neurological or somatic disorders.
+Patients were randomized to take afobazole (30 mg/day; n=100) or diazepam (30 mg/day; n=50) for 30 days.
+Prior to drug administration, patients susceptible to placebo were excluded according to the results of its 7-day use.
+Withdrawal syndrome was evaluated within 10 days after completion of active therapy.
+The primary efficacy endpoint was the change of Hamilton Anxiety Rating Scale (HAMA) total score.
+The scores of the Clinical Global Impression (CGI) Scale and the Sheehan Scale as secondary efficacy endpoints  were analyzed.
+Drug safety was evaluated by assessment of adverse events.
+RESULTS
+Afobazole and diazepam caused a significant reduction of HAMA total score.
+In the afobazole group, the reduction of anxiety  exceeded that in the diazepam group (the difference in the total score changes was 2.93 [0.67; 5.19]; p=0,01).The proportion of patients with reduction of disease severity was 72% in the afobazole group and 58% in the diazepam group.
+After therapy completion, the proportion of patients with no or mild disorder in the afobazole group was significantly higher than that in the diazepam group (69 and 44%, respectively; χ2=12.46; p=0,014).
+There was a trend toward a higher subjective patient-rated estimate of the afobazole effect using the Sheehan scale.
+There were a total of 15 and 199 adverse events in the afobazole and diazepam groups, respectively.
+No manifestations of afobazole withdrawal syndrome were found.
+Diazepam withdrawal syndrome was observed in 34 (68%) patients.
+CONCLUSION
+Afobazole is an effective and safe drug to treat patients with GAD and AD and non-inferior than diazepam in the treatment of these disorders, however it is superior in terms of several variables, including the safety profile.

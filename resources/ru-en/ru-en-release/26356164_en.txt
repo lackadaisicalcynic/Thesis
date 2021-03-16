@@ -1,0 +1,10 @@
+[The 444G/A and -1021 C/T polymorphisms of the dopamine-beta-hydroxylase gene modulate the trajectory of alcohol dependence development].  AIM  To study the influence of 444 G/A (rs 1108580) and -1021 C/T (rs 1611115) polymorphisms of the dopamine beta-hydroxylase (DBH) gene on clinical parameters of the trajectory of alcohol dependence.
+MATERIAL AND METHODS
+Authors studied 548 male inpatients, of Slavic ethnicity, with ICD-10 diagnosis of «alcohol dependence» (F-10.2).
+RESULTS
+The effects of DBH * 444 G/A on the rate of formation of alcohol withdrawal syndrome (AWS), and DBH *-1021C/T on the age of onset of alcohol abuse with significant role of the age of first alcohol use were identified.
+In 444 G/A GG carriers, the development of AWS was accelerated since the beginning of alcohol abuse compared with AA carriers (p=0.026), AG carriers occupied an intermediate position.
+In 22.5% of GG carriers, AWS developed within 2 years (AA: 8.11%, p=0.005; AG: 17.67%, p=0.04).
+According to the results of linear regression analysis, in AG carriers the alcohol abuse (p=0.037) and the AWS (p=0.049) developed earlier than in AA carriers if the first alcohol use occured at the age of about 15 years.
+Among -1021C/T genotype carriers who began to abuse alcohol at an early age (before 20 years), there were 23.45% patients with CC genotype and only 11.97% with a T allele (genotypes CT+TT) (p=0.03), but T carriers began to abuse alcohol earlier than others (p=0.05) if the first alcohol use occurred at the age of about 16 years.
+CONCLUSION  The results can be used to search for genetic markers for prognosis of alcohol dependence development.

@@ -1,0 +1,5 @@
+[Algorithm for the management of patients with ventricular arrhythmias].  The paper proposes an original algorithm for the management of patients with ventricular arrhythmia from its first registration to choice of treatment policy.
+Using modern diagnostic methods, much attention is paid to the identification of myocardial structural and ischemic changes and also to the involvement of the autonomic and central nervous systems in ventricular arrhythmogenesis.  The diagnostic problems are solved step-by-step.
+The role of psychological diagnosis is accentuated.
+Longitudinal electrocardiogram monitoring with telemetric data transmission can promptly initiate treatment of patients in an outpatient setting and, in a number of cases, without discontinuing work.
+The key point of the algorithm proposed is to prevent sudden cardiac death.

@@ -1,0 +1,11 @@
+[Melatonin in the correction of sleep in post-stroke patients].  AIM
+To assess an effect of melatonin on quality of life and effectiveness of rehabilitation in patients with ischemic stroke (IS) suffered from insomnia due to sleep initiation disturbance.  MATERIAL AND METHODS
+Sixty post-stroke patients with insomnia were stratified into two groups matched for characteristics assessed in the study.
+Patients of the main group received melatonin during 21 days.
+In the first three days after admission and 21 days after the first examination, we administered the MMSE, the Rankin scale, FOSQ, NIHSS, EuroQol, the Epworth sleepiness scale (ESS) and used instrumental methods of examination (computed and magnetic-resonance tomography, electroencephalography, polysomnography).
+RESULTS
+After 3 weeks, there was a reduction (p<0.05) in ESS scores in the main group compared to the control group (5.7 and 10 scores, respectively).
+Significant between-group differences were identified for polysomnographic parameters: latency to sleep was 17.8 min in the main group and 20.5 min in the control group (p<0.05), the number of microactivations was 15 and 18, respectively (p<0.05).
+There was a trend towards more rapid recovery in the main group (on average 8.4 days) compared to the control group (10.2 days), but the differences did not reach the level of statistical significance p<0.05.
+CONCLUSION
+Melatonin reduced sleepiness (measured with the ESS), latency to sleep and number of wakings (microactivations) and was likely to promote the recovery in IS patients with insomnia due to sleep initiation disturbance.

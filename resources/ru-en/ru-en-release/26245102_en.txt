@@ -1,0 +1,8 @@
+[Diagnostics of the human sex from the somatometric features in the cases of large-scale catastrophes].
+The objective of the present study was to develop the models for sex diagnostics based on the results of measurement of the wrist and its separate parts.
+It was shown that the best results are obtained using the size of the palm and finger III (from 87.9 to 93% of correct results).
+The measurement of finger III makes it possible to correctly determine the sex in 90% of the cases.
+At the same time, the incorrect identification of the sequential number of this finger more frequently results in erroneous diagnostics.
+The measurement of finger V is of the lowest informative value (73.7% of the correct results).  Therefore, the use of its measurements is of a tentative value.
+When the sequential number of fingers II or IV is uncertain, both models can be used on equal terms without an appreciable loss of accuracy of the classification.
+The verification of the above models by means of comparison of the data obtained with those from the control group has demonstrated the high accuracy of the classification similar with that of the theoretical model.

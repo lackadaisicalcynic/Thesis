@@ -1,0 +1,12 @@
+Acute flaccid paralysis incidence and Zika virus surveillance, Pacific Islands.
+PROBLEM  The emergence of Zika virus has challenged outbreak surveillance systems in many at-risk, low-resource countries.
+As the virus has been linked with Guillain-Barré syndrome, routine data on the incidence of acute flaccid paralysis (AFP) may provide a useful early warning system for the emergence of Zika virus.
+APPROACH
+We documented all Zika virus outbreaks and cases in 21 Pacific Islands and territories for the years 2007 to 2015.
+We extracted data from the Global Polio Eradication Initiative database on the reported and expected annual incidence of AFP in children younger than 15 years.  Using a Poisson probability test, we tested the significance of unexpected increases in AFP in years correlating with Zika virus emergence.
+Data were analysed separately for each Pacific Island country and territory.
+LOCAL SETTING  In most Pacific Island countries, early warning surveillance for acute public health threats such as Zika virus is hampered by poor health infrastructure, insufficient human resources and geographical isolation.
+RELEVANT CHANGES
+Only one example was found (Solomon Islands in 2015) of a significant increase in reported AFP cases correlating with Zika virus emergence.  LESSONS LEARNT
+We found no conclusive evidence that routinely reported AFP incidence data in children were useful for detecting emergence of Zika virus in this setting.
+More evidence may be needed from adult populations, who are more likely to be affected by Guillain-Barré syndrome.  Reporting of AFP may be deficient in regions certified as polio-free.

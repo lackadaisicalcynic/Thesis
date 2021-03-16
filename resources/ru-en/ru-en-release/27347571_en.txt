@@ -1,0 +1,5 @@
+[Intravitreal injection as a possible model for studying biomechanics of fibrous tunic].  The article summarized the results of Russian and foreign research concerning biomechnical principles of eye functioning as an integral physiological system.
+Quite a number of studies have been published on corneal and scleral mechanics, which is also part of the said system.
+These studies fall largely into three groups: in vivo studies (involving living organism), in vitro studies (within an artificial environment), and mathematical modeling.
+In vivo techniques are often rather complicated and, therefore, most studies are based on in vitro procedures.  Due to the growing number of intravitreal injections, they can be regarded as a stress test for studying fibrous tunic biomechanics in vivo.
+The results of such studies would contribute to a better understanding of the pathogenesis of various eye diseases and thus, a better clinical practice.

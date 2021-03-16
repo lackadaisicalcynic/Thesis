@@ -1,0 +1,12 @@
+Socioeconomic inequalities and mortality trends in BRICS, 1990-2010.
+OBJECTIVE
+To explore the presence and magnitude of--and change in--socioeconomic and health inequalities between and within Brazil, the Russian Federation, India, China and South Africa--the countries known as BRICS--between 1990 and 2010.  METHODS
+Comparable data on socioeconomic and health indicators, at both country and primary subnational levels, were obtained from publicly available sources.  Health inequalities between and within countries were identified and summarized by using standard gap and gradient metrics.
+FINDINGS
+Four of the BRICS countries showed increases in both income level and income inequality between 1990 and 2010.
+The exception was Brazil, where income inequality decreased over the same period.
+Between-country inequalities in level of education and access to sanitation remained mostly unchanged but the largest between-country difference in mean life expectancy increased, from 9 years in 1990 to 20 years in 2010.  Throughout the study period, there was disproportionality in the burden of disease between BRICS.
+However, the national infant mortality rate fell substantially over the study period in all five countries.
+In Brazil and China, the magnitude of subnational income-related inequalities in infant mortality, both absolute and relative, also decreased substantially.
+CONCLUSION  Despite the economic prosperity and general improvements in health seen since 1990, profound inequalities in health persist both within and between BRICS.
+However, the substantial reductions observed--within Brazil and China--in the inequalities in income-related levels of infant mortality are encouraging.

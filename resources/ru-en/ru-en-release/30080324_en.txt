@@ -1,0 +1,10 @@
+[Analysis of security by vitamin D of the elderly people.]  The purpose of the study was to analyze the frequency of detection of vitamin D deficiency in elderly people, identify clinically significant diseases, accompanied by a deficiency of vitamin 25(OH)D.  A retrospective cohort study was conducted in 506 patients over 65 years of age (74,1±6,5 years).
+Patients were divided into three age groups: group A 65-74 years, group B 75-84 years, group C 85 years and older.
+The study of blood samples was carried out from September to May.
+The level of vitamin 25(OH)D was determined by the method of chemiluminescent immunoassay on the Abbott Architect 8000 analyzer (USA).
+Evaluation of vitamin 25(OH)D was performed according to the clinical recommendations of the Russian Endocrinology Association and the recommendations of the Russian Association for Osteoporosis.
+Among people older than 65 years, the average level of 25(OH)D was 20,9 ng/ml (range 2,3 to 70,5 ng/ml), 50% had vitamin D deficiency.
+With age, the proportion of patients with vitamin D deficiency increased more in the male population.
+Low values of vitamin 25(OH)D were more frequent in the spring.
+Arterial hypertension, obesity of varying degrees, sarcopenia increased the risk of vitamin D deficiency in 1,15-1,17-1,2 (р<0,05-0,01) times, respectively.
+Oncological diseases in the anamnesis were accompanied by low parameters of vitamin 25(OH)D in blood serum (p=0,084).

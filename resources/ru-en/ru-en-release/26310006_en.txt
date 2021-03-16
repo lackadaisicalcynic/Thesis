@@ -1,0 +1,8 @@
+[Ultrasound biomicroscopy findings in the area of previous surgical intervention in refractory glaucoma patients under topical ocular hypotensive therapy].  AIM
+to evaluate the effectiveness of different classes of topical hypotensive medications in refractory primary open-angle glaucoma (POAG), judging from structural changes in artificial pathways for intraocular fluid (IOF) visualized with ultrasound biomicroscopy (UBM).  MATERIAL AND METHODS
+UBM analysis was performed in 104 eyes of 102 patients, mean age 68.4 ± 0.8 years, including 41 POAG patients with well controlled intraocular pressure (IOP) (group 1) and 41 refractory POAG patients with poorly controlled IOP (group 2), all under topical hypotensive therapy (prostaglandin analogues, beta blockers, carbonic anhydrase inhibitors, or combination drugs).
+The control group consisted of 20 patients, who maintained normal IOP after a single glaucoma surgery and did not require medical management.  RESULTS
+The following UBM parameters were evaluated: intrascleral cavity and filtering bleb heights and conjunctival and scleral flap thicknesses.  Findings differed depending on the condition of IOF outflow pathways.
+Unlike the poorly controlled patients, UBM parameters in group 1 were comparable to those in the controls.  The optimal control of postoperative IOP was achieved on combination therapy (a beta blocker plus a carbonic anhydrase inhibitor).
+CONCLUSION
+In contrast to well controlled POAG patients, target values of IOP were not achieved in refractory POAG patients with either of the topical therapeutic measures.  Moreover, intrascleral cavity and filtering bleb heights in these patients were reliably low (p ≤ 0.01), as confirmed by UBM analysis of the area of surgical intervention.

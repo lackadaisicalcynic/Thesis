@@ -1,0 +1,11 @@
+[Gender features of cardiovascular events in patients with chronic glomerulonephritis at the pre-dialysis stage of the disease].
+AIM  To identify the gender differences of cardiovascular events in patients with chronic glomerulonephritis (CGN) at the pre-dialysis stage of chronic kidney disease (CKD).
+SUBJECTS AND METHODS
+A total of 170 patients (median age 40±11 years) with CGN who did not receive hemodialysis were examined.
+According to gender, all patients were divided into 2 groups: 1) 66 female patients with CGN; 2) 104 male patients with CGN.
+All the patients underwent general clinical examination and transthoracic echocardiography.
+RESULTS
+In the male group, body weight (70.2±12.3 vs 61.1±12.6 kg; p=0.000), daily proteinuria [2.286 (1.230-3.541) vs. 1.421 (0.703-2.408) g; p=0.021], aortic diameter (3.43±0.36 vs 3.15±0.32 cm; p=0.000), left atrial size (3.80±0.55 vs 3.52±0.49 cm; p=0.000), indexed left ventricular mass (LVM) (223.5±57.5 vs 205.5±54.6 g/m2, p=0.044) were significantly higher than those in the female group.
+Changes (atherocalcification) in the aortic valve structures were more common in the men than in the women (48% vs 22.7%; p=0.001), whereas the women were more frequently observed to have reverse blood flow along the right ventricle.
+CONCLUSION
+In the men with CGN at the pre-dialysis stage of CKD, the increment in LVM index is associated with proteinuria and increases in right ventricle size, frequency of atherosclerotic changes in the aortic valve, and left atrial longitudinal size.

@@ -1,0 +1,6 @@
+[Prediction of the changes of immunological status and psychopathological data in HIV-infected schizophrenia patients].  AIM
+To predict the immunological status in HIV-infected patients with schizophrenia based on a set of clinical and psychopathological characteristics of the endogenous process.  MATERIAL AND METHODS
+The study included 28 patients with confirmed diagnosis of schizophrenia and HIV status.  Authors used psychopathological method, along with psychometric scales (PANSS), in patients with schizophrenia and an immunological method for the determination of HIV-associated status and viral load.
+RESULTS
+Affective syndromes with severe depressive symptoms, volitional impairment, high impulsivity and social features of autism can be prognostically favorable factors for the immune status of HIV-infected patients with schizophrenia that obviously indicates an acute psychotic state.  Negative (deficit) symptoms were prognostically unfavorable for the immune status of HIV-infected patients with schizophrenia and for psychosis course.
+CONCLUSION  Favorable immune status corresponds to acute psychosis whereas the forms with severe deficit are associated with immunosuppression in HIV-infected patients.

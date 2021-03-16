@@ -1,0 +1,14 @@
+[Independent risk factors for severe cardiovascular events in male patients with gout: Results of a 7-year prospective study].
+AIM  To determine risk factors for severe cardiovascular (CV) events (CVEs) in male patients with crystal-verified gout.
+SUBJECTS AND METHODS
+251 male patients with crystal-verified gout were prospectively followed up in 2003 to 2013.
+The mean follow-up period was 6.9±2.0 years.
+New severe CVE cases and deaths were recorded.
+Logistic regression was used to analyze the impact of traditional and other risk factors and allopurinol use on the risk for severe CVEs.
+RESULTS
+32 patients died during the follow-up period.
+Severe CVEs were recorded in 58 (23.1%) patients; CVE deaths were notified in 22 (8.8%) patients.
+The risk of all severe CVEs was high for hypertension, increased serum high-sensitivity C-reactive protein (hs-CRP) level (>5 mg/l), ≥ stage III chronic kidney disease (CKD) (glomerular filtration rate, <60 ml/min/1.73 m2), alcohol intake (>20 g/day), coronary heart disease (CHD), and a family history of premature CHD.
+The risk of fatal CVEs was highest for elevated serum hs-CRP level, ≥ stage III CKD, a family history of premature CHD, hypercholesterolemia, upper quartile of serum uric acid levels (>552 µmol/l), and regular intake of allopurinol.
+CONCLUSION
+In addition to the traditional risk factors of CV catastrophes, the presence of chronic inflammation and the impact of high serum uric acid levels may explain the high frequency of CV catastrophes.

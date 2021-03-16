@@ -1,0 +1,3 @@
+[Work quota setting and man-hour productivity estimation in pathologists].  The paper considers the development and current state of the regulation of work quota setting and remuneration in pathologists.
+Reasoning from the current staff standards for morbid anatomy departments (units), the authors present a method to calculate the load of pathologists.
+The essence of the proposed method is demonstrated using a specific example.

@@ -1,0 +1,7 @@
+[Population models of mental health in the Russian population: assessment of an impact of living conditions and psychiatric care resources].  ОBJECTIVE: The development and use of population models of mental health in the Russian population to analyze the relationship between indicators of mental disorders, psychiatric care resources taking into account medical/demographic and socio-economic factors in the period of 1992-2015.
+MATERIAL AND METHODS
+The sources of information were: 1) the data of the Russian medical statistics on the main indicators of mental health of the Russian population and psychiatric care resources; 2) government statistics on the demographic and socio-economic situation of the population of Russia during this period.
+The study used system data analysis, correlation and regression analyses.
+RESULTS AND CONCLUSION
+Linear and nonlinear models with a high level of significance were obtained to assess the impact of socio-economic, health and demographic (population, life expectancy, migration, mortality) factors and resources of the service (primarily, manpower) on the dynamics of the main indicators (prevalence, incidence) of mental health of the population.
+In recent years, a decline in the prevalence and incidence of the Russian population is a consequence of the scarcity of mental health services, in particular, personnel resources.

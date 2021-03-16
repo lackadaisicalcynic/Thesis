@@ -1,0 +1,14 @@
+[Association of the polymorphic marker Glu23Lys in the KCNJ11 gene with hypertension in Kyrgyz patients].  AIM
+To study the association of the polymorphic marker Glu23Lys in the KCNJ11 with the development of hypertension in Kyrgyz patients.
+SUBJECTS AND METHODS
+This case-control study enrolled 214 unrelated ethnic Kyrgyzes, in which a study group included 152 hypertensive patients (82 men and 70 women) and a control group consisted of 109 apparently healthy individuals (61 men and 48 women).
+The examinees' mean age was 55.2±10.1 years.
+Hypertension was verified when blood pressure (BP) was above 140/90 mm Hg.  Polymerase chain reaction-restriction fragment length polymorphism analysis was used to identify the polymorphic marker Glu23Lys in the KCNJ11 gene.
+RESULTS
+In the hypertension and control groups, the prevalence of 3 genotypes (Glu23Glu, Glu23Lys, and Lys23Lys) of the Glu23Lys polymorphism in the KCNJ11 gene differed significantly (χ2=8.04; p=0.018).
+The Lys23Lys and Glu23Lys genotypes were statistically more frequently recorded in the hypertension group and the homozygous Glu23Glu genotype was, on the contrary, more common in the control group than in the study one.
+In the hypertension group, the 23Lys allele frequency was statistically significantly higher than that in the control one (χ2=7.36; p=0.0067).
+The carriage of the 23Lys allele increased the risk of hypertension by 1.68 times (odds ratio (OR), 1.68; 95% confidence interval (CI), 1.17-2.41), that of the Glu23 allele had, on the contrary, a protective effect (OR, 0.60; 95% CI, 0.41-0.86).
+CONCLUSION
+The polymorphic marker Glu23Lys in the KCNJ11 gene is associated with hypertension in the Kyrgyzes.
+The 23Lys allele is a marker for the higher risk of hypertension.

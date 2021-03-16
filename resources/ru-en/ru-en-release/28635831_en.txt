@@ -1,0 +1,14 @@
+[The 2015-2016 epidemic season in Russia and the world: Circulation of influenza viruses, trends in incidence, clinical aspects, and treatment algorithm].  In the 2015-2016 epidemic season, there were dominant influenza A(H1N1)pdm09 strains (over 90%) among the circulating influenza viruses in most countries of the Northern Hemisphere and in Russia.
+A study of the antigenic properties of influenza A(H1N1)pdm09 strains revealed no differences in those of vaccine virus.
+Sequencing showed that there were amino acid substitutions in hemagglutinin (receptor binding and Sa sites) and in the genes encoding internal proteins (PA, NP, M1, and NS1).
+The rise in the incidence in the Russian Federation, which was etiologically associated with influenza viruses, was registered in January-February 2016 with its maximum being observed at 4-5 weeks of 2016.
+Within the framework of the epidemiological surveillance of circulating influenza viruses in the Russian Federation, which was conducted by the WHO European Office, the D.I. Ivanovsky Institute of Virology, Honorary Academician N.F. Gamaleya Federal Research Centre for Epidemiology and Microbiology, Ministry of Health of Russia, and the Research Institute of Influenza, Ministry of Health of Russia, monitored at the Infectious Diseases Hospital One (IDH-1), Moscow Healthcare Department.
+Among 1491 examinees, influenza was verified in 104 (21.3%) adults, 208 (42.5%) pregnant women, and 177 (36.2%) children.
+Influenza A(H1N1)pdm09 was more often diagnosed in the age group of 15-40 years (63.7%); the proportion of influenza patients aged over 50 years increased (22.1%).
+Most adult patients had moderate influenza; pneumonia complicated the disease in 27.4%.
+Influenza in the pregnant women was complicated by pneumonia in 4.8% of cases.
+Influenza was more frequently diagnosed in infants and preschool children aged 0 to 3 years (42.9%), 4 to 6 years (41.2%), and older (15.9%), namely: 7-9 years (10%) and 10-12 years (5.9%).
+Influenza in the children was complicated by acute tonsillitis (19.4%) and varying degrees of laryngeal stenosis (12.4%).
+Bronchial obstructive syndrome developed in 2.5%, the rate of pneumonia was 6.2%.
+Antiviral therapy (AVT) in the early stages of the disease reduces the risk of its severity, the frequency of secondary complications, and the duration and degree of clinical symptoms of influenza.
+AVT with oseltamivir, zanamivir, imidazolyl ethanamide pentandioic acid (ingavirin), and interferon-a2b (viferon) has been performed in the patients hospitalized at Moscow IDH-1 in the 2015-2016 epidemic season.

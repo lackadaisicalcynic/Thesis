@@ -1,0 +1,13 @@
+[The preliminary results of subthalamic nucleus stimulation after destructive surgery in Parkinson's disease].  OBJECTIVE  To evaluate the efficacy of bilateral electrical stimulation (ES) of the subthalamic nucleus (STN) in patients with Parkinson's disease (PD) after preceding pallidotomy or ventrolateral (VL) thalamotomy.
+MATERIAL AND METHODS
+The study included 9 patients with bilateral STN ES who had undergone previous unilateral destructive surgery on the subcortical structures: pallidotomy (5 patients) and VL thalamotomy (4).
+A control group consisted of 9 patients with STN ES, without prior destructive surgery.
+A clinical and neurological examination included quantitative assessment of motor disturbances using the Hoehn-Yahr scale and Unified Parkinson's disease rating scale (UPDRS).
+UPDRS was used to evaluate the motor activity (IIIrd part of the scale) and severity of drug-induced dyskinesia and motor fluctuations (IVth part of the scale).
+RESULTS
+In the group of STN ES with preceding destruction of the subcortical structures, an improvement in motor functions in the early period (6 months) was 45%, and severity of drug-induced complications was decreased by 75%.
+In a group of STN DBS without destruction, motor disturbances were improved by 61%, and drug-induced complications were decreased by 77%.
+Improvement in motor functions amounted to 51.9% in patients with preceding pallidotomy (GPi destruction) and 37.5% in a group with preceding VL thalamotomy.
+The equivalent dose of levodopa was reduced by 51.39%, from 1,008±346 to 490±194, in the study group and by 55.04%, from 963±96 to 433±160, in the control group.
+CONCLUSION
+Bilateral STN neurostimulation is effective after unilateral stereotaxic destruction of the subcortical structures in PD patients.

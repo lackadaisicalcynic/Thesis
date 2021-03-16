@@ -1,0 +1,11 @@
+[Effect of different nutritional support on pancreatic secretion in acute pancreatitis].  AIM
+To develop and justify optimal nutritional support in early phase of acute pancreatitis (AP).  MATERIAL AND METHODS
+140 AP patients were enrolled.  They were divided into groups depending on nutritional support: group I (n=70) - early enteral tube feeding (ETF) with balanced mixtures, group II (n=30) - early ETF with oligopeptide mixture, group III (n=40) - total parenteral nutrition (TPN).
+The subgroups were also isolated depending on medication: A - Octreotide, B - Quamatel, C - Octreotide + Quamatel.
+Pancreatic secretion was evaluated by using of course of disease, instrumental methods, APUD-system hormone levels (secretin, cholecystokinin, somatostatin, vasointestinal peptide).
+RESULTS
+ETF was followed by pancreas enlargement despite ongoing therapy, while TPN led to gradual reduction of pancreatic size up to normal values. α-amylase level progressively decreased in all groups, however in patients who underwent ETF (I and II) mean values of the enzyme were significantly higher compared with TPN (group III).
+Secretin, cholecystokinin and vasointestinal peptide were increasing in most cases, while the level of somatostatin was below normal in all groups.
+CONCLUSION
+Enteral tube feeding (balanced and oligopeptide mixtures) contributes to pancreatic secretion compared with TPN, but this negative impact is eliminated by antisecretory therapy.
+Dual medication (Octreotide + Quamatel) is more preferable than monotherapy (Octreotide or Quamatel).

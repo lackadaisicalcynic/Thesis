@@ -1,0 +1,14 @@
+[Nonglycemic effects of incretins in patients with long-term type 1 diabetes mellitus and chronic kidney disease].
+AIM  To investigate the nonglycemic effects of incretins in patients with type 1 diabetes mellitus (DM1) of long duration (for more than 20 years) and chronic kidney disease.
+MATERIAL AND METHODS
+Seventy-five patients with varying degrees of diabetic nephropathy (DN) and without this condition, including patients receiving renal replacement therapy with programmed hemodialysis and those who had undergone kidney transplantation were examined.
+The levels of phosphorus-calcium metabolic indicators (calcium, phosphorus, parathyroid hormone, vitamin D, and fibroblast growth factor 23 (FGF-23)), the cardiac damage marker atrial natriuretic peptide, the proinflammatory markers monocyte chemoattractant protein 1 (MCP-1) and C-reactive protein (CRP) and the fibrotic marker transforming growth factor-β, as well as those of glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic peptide (GIP) were estimated in addition to conventional examination methods.
+All the patients underwent cardiac multislice spiral computed tomography, by calculating the Agatston index (calcium index (CI)) reflecting the degree of coronary artery calcification.
+RESULTS
+The investigation revealed no relationship of GLP-1 and GIP levels to the presence and degree of DN in the patients of the study groups.
+GLP-1 was noted to be inversely related to patient age, indicating the diminished secretion of this peptide in older people.
+There was evidence that GLP-1 positively affected blood lipid composition (total cholesterol: r=-0,320; p<0.05) and the magnitude of coronary artery calcification (CI: r=-0.308; p<0.05).
+GIP showed a differently directed effect on the proinflammatory factors: fibrinogen (r=-0.264; p<0.05), CRP (r=-0.626; p<0.05), and FGF-23 (r=-0.341; p<0.05).
+CONCLUSION
+The investigation has demonstrated the nonglycemic effects of incretins that favorably affect the pathogenetic processes underlying the late complications of DM1.
+The findings point to the potential efficacy of incretin-based drugs in preventing and treating the late complications of DM, which necessitates the conduction of larger investigations.

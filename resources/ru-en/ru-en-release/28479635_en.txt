@@ -1,0 +1,9 @@
+Evaluation of a social franchising and telemedicine programme and the care provided for childhood diarrhoea and pneumonia, Bihar, India.
+OBJECTIVE
+To evaluate the impact on the quality of the care provided for childhood diarrhoea and pneumonia in Bihar, India, of a large-scale, social franchising and telemedicine programme - the World Health Partners' Sky Program.
+METHODS  We investigated changes associated with the programme in the knowledge and performance of health-care providers by carrying out 810 assessments in a representative sample of providers in areas where the programme was and was not implemented.
+Providers were assessed using hypothetical patient vignettes and the standardized patient method both before and after programme implementation, in 2011 and 2014, respectively.
+Differences in providers' performance between implementation and nonimplementation areas were assessed using multivariate difference-in-difference linear regression models.
+FINDINGS
+The programme did not significantly improve health-care providers' knowledge or performance with regard to childhood diarrhoea or pneumonia in Bihar.  There was a persistent large gap between knowledge of appropriate care and the care actually delivered.
+Social franchising has received attention globally as a model for delivering high-quality care in rural areas in the developing world but supporting data are scarce.  Our findings emphasize the need for sound empirical evidence before social franchising programmes are scaled up.

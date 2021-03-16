@@ -1,0 +1,3 @@
+[Silent myocardial ischemia in acute coronary syndrome].  The given review considers the pathogenesis, diagnosis, and clinical significance of silent myocardial ischemia (SMI) in individual patient groups.
+It discusses the problem of SMI in acute coronary syndrome (ACS), the possible causes of SMI and the specific features of its diagnosis.
+It also indicates that there is a need for 12-lead ECG telemonitoring in intensive care unit patients with ACS to intraoperatively correct patient management and treatment policy.

@@ -1,0 +1,16 @@
+Textual analysis of sugar industry influence on the World Health Organization's 2015 sugars intake guideline.  OBJECTIVE
+To determine whether sugar industry-related organizations influenced textual changes between the draft and final versions of the World Health Organization's (WHO's) 2015 guideline Sugars intake for adults and children.
+METHODS
+Stakeholder consultation submissions on the draft guideline from seven sugar industry-related and 10 public health organizations were assessed using the Wordscores program.
+Document scores were rescaled using the Martin-Vanberg transformation to improve comparability.
+Draft and final guidelines were compared to identify changes influenced by the sugar industry and public health organizations.
+FINDINGS
+There was a small shift in transformed Wordscores score between the draft and final guidelines, from 0.25 to 0.24, towards the industry position.
+The change was linked to increased use of the word "low" to describe the quality of the evidence, consistent with industry arguments.
+There was also a shift from use of the word "consumption" to "intake", irrespective of policy position.
+Scores for World Sugar Research Organisation and Sugar Nutrition UK submissions ( 0.11 and 0.18, respectively) represented strong pro-industry positions and scores for European Public Health Alliance and Wemos submissions (1.00 and 0.88, respectively) represented the strongest public health positions.
+Industry tactics included challenging the quality of the evidence, distinguishing between different types of sugar and advocating harm reduction.
+CONCLUSION
+There was little change between draft and final versions of the WHO sugars intake guideline 2015, following industry consultation.
+The main change was linked to emphasizing the low quality of the evidence on sugar's adverse effects.
+Guideline development appeared relatively resistant to industry influence at the stakeholder consultation stage.

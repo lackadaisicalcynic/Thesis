@@ -1,0 +1,17 @@
+[A comparison of remote and bedside assessment of the NIH Stroke Scale in acute stroke patients].  AIM  Telestroke videoconference for conducting the National Institute of Health Stroke Scale (NIHSS) is recommended when direct bedside evaluation by a stroke specialist is not immediately available for hyperacute stroke assessment.
+However, some NIHSS-telestroke studies inherit systematic bias due to subjectivity of NIHSS administration.
+Authors aimed to evaluate NIHSS telestroke assessment, while implementing measures to minimize subjectivity bias.
+MATERIAL AND METHODS
+Ninety acute stroke patients within 48 hours of onset were assessed by 6 stroke neurologists grouped in 15 pairs.
+Each pair of physicians assessed 6 patients.
+Patients were allocated through block randomization to a physician pair and order of bedside or remote assessment.
+Every patient was assessed once at the bedside and once remotely.
+Remote examination was performed by a neurologist through high-quality videoconferencing, assisted by a nurse at the patient's bedside.  Kappa coefficients and the number of patients with a cumulative difference of ≤3 NIHSS points were calculated to compare bedside and remote measures.
+RESULTS
+Cumulative difference of ≤3 NIHSS points was observed in 85.6% (95% CI 76.6%; 92.1%) cases.
+Therefore, every fifth remote examination may have been inaccurate.
+Quadratically weighted κ for total NIHSS score was 0.91 (95% CI 0.87; 0.95).
+Minimal agreements were for commands (κ=0.46), facial palsy (κ=0.43), and ataxia (κ=0.27).
+Remote assessments were longer than bedside: 8 minutes (IQR 7; 9) versus 6 (IQR 5; 8), p<0.001.
+CONCLUSION
+NIHSS-telestroke assessment using high-quality videoconferencing in the acute stroke settings is closely matched with NIHSS-bedside assessment but it's credibility for clinical use needs further evaluation.

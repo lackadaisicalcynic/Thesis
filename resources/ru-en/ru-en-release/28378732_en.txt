@@ -1,0 +1,12 @@
+[Analysis of an association of TNF -308G>A polymorphism with a risk for pulmonary sarcoidosis in the Russian population of the Republic of Karelia].
+AIM
+To analyze an association of TNF -308G>A polymorphism with a risk for pulmonary sarcoidosis (PS) in the Russian population of the Republic of Kareli.  SUBJECTS AND METHODS
+84 patients with persistent PS and 96 donors without clinical manifestations of this disease (a control group) were examined.  Polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) analysis was used to identify alleles and genotypes by the marker of TNF -308G>A polymorphism.
+The level of transcripts of the above gene in the peripheral blood leukocytes of healthy and sick people was determined by real-time PCR.
+RESULTS
+There were no significant differences in the distribution of allelic and genotypic frequencies by the marker of TNF -308G>A polymorphism between the control and PS patient groups.
+There was a significant increase in the number of TNF gene transcripts in the peripheral blood leukocytes of patients with PS compared to the controls.
+At the same time, there were no marked differences in mRNA expression levels in the above gene in the carriers of different genotypes by the marker of TNF -308G>A polymorphism in all the examined groups.
+CONCLUSION
+The marker of TNF -308G>A polymorphism is unassociated with the risk of PS in the Russian population of the Republic of Karelia.
+No differences in TNF mRNA levels in the carriers of different genotypes by the above marker may suggest that the found elevated level of transcripts in the above gene in patients with diagnosed with PS is due to the development of the body's inflammatory responses in this disease.

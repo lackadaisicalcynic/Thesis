@@ -1,0 +1,16 @@
+[Clinical features of obstructive sleep apnea syndrome in patients with acromegaly].
+AIM  To investigate the incidence of sleep-related breathing disorders (SRBDs) in patients with active acromegaly (AM), to specify risk factors influencing apnea/hypopnea index (AHI), and to reveal the specific features of obstructive sleep apnea (OSA) in patients with AM versus those with OSA without AM.
+SUBJECTS AND METHODS
+Fifty patients with active AM were examined and divided into 3 groups: control group 1 did not differ from the study group in body mass index (BMI); control group 2 did not similar in AHI from the AM group.
+Polysomnography was done in all the patients.
+RESULTS
+SRBDs were detected in 40 (80%) patients.
+Obstructive apnea was found in all cases.
+Correlation analysis revealed the relationships between AHI and gender (AHI was higher in the men), BMI, disease duration, and insulin-like growth factor 1 (GF-1).
+There were no correlations between AHI and gender, maximum adenoma size, and growth hormone levels.
+Compared with control group 1, the AM group had a statistically significantly higher median AHI [16 (1-92) and 4.7 (0-31.3) episodes per hour of sleep (p < 0.001)].
+In control group 2, the median BMI was considerably higher than in the control group  [29.2 (19.9-44.3) and 35 (24-56) kg/m2 (p < 0.001).
+CONCLUSION
+The detection rate of SRBDs in patients with active AM was 80%, with obstructive disorders being prevalent.
+There was a positive relationship between SRBD severity and BMI, AM duration, IGF-1 level.
+Compared to the controls, the patients with AM developed SRBDs similar in severity with lower BMI; severer SRBDs were detected in the patients with active AM with the similar BMI.

@@ -1,0 +1,14 @@
+Changes in the perceived quality of primary care in Shanghai and Shenzhen, China: a difference-in-difference analysis.
+OBJECTIVE  To assess changes in the quality of primary care in two megacities following the introduction of health system reforms in China.
+METHODS
+We conducted multistage stratified random face-to-face surveys of patients visiting community health centres in Shanghai in 2011 and 2013, and Shenzhen in 2012 and 2013.
+Quality of primary care was measured using an assessment tool.
+Difference-in-difference analyses based on multiple linear regressions were used to compare the changes over time, after controlling for potential confounders.
+FINDINGS
+Most (2721) of the 3214 participants used a community health centre as their regular source of care and were included in our analyses.
+The mean total scores for quality of primary care were similar for Shanghai and Shenzhen at baseline.
+In Shenzhen, the mean total scores for all participants and those on low incomes had worsened by 0.922 (95% CI: 0.629 to 1.215) and 1.203 (95% CI: 0.397 to 2.009), respectively.
+In Shanghai, however, there were improvements in the mean total scores which included increases in the scores for first-contact utilization, continuity, coordination of information and comprehensiveness.
+CONCLUSION
+The quality of primary care improved in Shanghai but not in Shenzhen.
+This may be because, in Shanghai, beneficial long-term relationships between patients and general practitioners were supported by capitation payments and the provision of services tailored to the local health priorities.

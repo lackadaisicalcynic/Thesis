@@ -1,0 +1,8 @@
+[Inhibition of matrix metalloproteinases 9 and 13 affects the degree of lymphocytic infiltration and the expression levels of microRNA miR-21 and miR-let-7b in melanoma cells in vivo].  OBJECTIVE  To estimate changes in the trend of growth of primary tumor nodules, the degree of lymphocytic infiltration, and the expression levels of oncomicroRNA miR-21 and miR-let-7b when inhibiting matrix metalloproteinases 9 and 13 (MMP-9 and MMP-13) in vivo in C57B16 mice with transplantable melanoma B-16.
+MATERIAL AND METHODS
+Tumor growth was evaluated measuring the volume of primary tumor nodules; the degree of lymphocytic infiltration was microscopically estimated using hematoxylin-eosin-stained tissue specimens, by calculating intratumoral lymphocytes.
+The expression of oncomicroRNA was quantified by real-time PCR.
+RESULTS
+It was shown that MMP-9 and MMP-13 inhibition had no impact on the growth of primary tumor nodules; selective MMP-9 inhibition failed to affect the degree of lymphocytic infiltration of a primary tumor nodule and to change the expression of oncomicroRNA miR-21 and miR-let-7b; the concomitant inhibition of MMP-9 and MMP-13 altered the immunogenic properties of melanoma, stimulated the lymphocytic infiltration of tumor nodules, and decreased the expression of oncomicroRNA miR-21 and miR-let-7b; the degree of lymphocytic infiltration of primary tumor nodules increased in the dynamics of a tumor process and the expression levels of oncomicroRNA remained unchanged.
+CONCLUSION
+The concomitant inhibition of MMP-9 and MMP-13 affects prognosis and survival in skin melanoma.

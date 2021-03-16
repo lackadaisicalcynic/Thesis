@@ -1,0 +1,13 @@
+[The three-year follow-up study of retinal changes in patients with multiple sclerosis].
+AIM  To evaluate the ganglion cell complex (GCC) changes in projection to the state of the retinal nerve fiber layer (RNFL) in patients with multiple sclerosis (MS).
+MATERIAL AND METHODS
+A total of 216 participants (370 eyes) were studied.
+Patients were divided into three groups: 1-st - 87 MS patients (121 eyes) with a history of optic neuritis (ON); 2-nd - 95 MS patients (186 eyes) without a history of ON; 3-rd - disease-free control 34 volunteers (63 eyes).
+Thirty-two MS patients (61 eyes) from the cross-sectional cohort were included for longitudinal analysis, follow-up period was 30 (9.5-36) months.
+Sixteen patients (21 eyes) had a history of optic neuritis.
+The study included anamnesis, refracted visual acuity and optical coherence tomography (OCT) performed with the use of RTVue-100 ОСТ system.
+RESULTS AND CONCLUSION
+RNFL and GCC thickness was significantly decreased both in MS+ON and MS-ON groups compared to controls.
+No difference in the annual change of RNFL thickness and GCC parameters between patients with ON and patients who did not have any visual impairment in the anamnesis was found.
+Changes of GCC were detected only in patients with secondary progressive MS.
+The study of GCC and RNFL thickness can be used to describe and characterize the level of axonal damage in MS.

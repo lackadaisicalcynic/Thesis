@@ -1,0 +1,17 @@
+[Markers of visceral adipose tissue metabolic abnormalities in patients with coronary atherosclerosis in relation to the presence of type 2 diabetes mellitus].
+AIM  To assess the specific features of visceral adipose tissue metabolism in patients with coronary atherosclerosis, complicated or uncomplicated type 2 diabetes mellitus (T2DM).
+MATERIAL AND METHODS
+A cohort of 429 patients (325 men and 104 women; mean age, 61.3±9.4 years) with coronary atherosclerosis who had been admitted to the National Research Centre for Preventive Medicine, Ministry of Health of Russia, to undergo coronarography (CG) and to receive high-tech treatments and met the criteria for being included in and excluded from this investigation, was examined.
+The Gensini scoring scale was used to estimate the magnitude of coronary atherosclerosis from CG RESULTS: Carotid artery duplex ultrasound scanning estimating the intima-media thickness was performed in 48% of the patients.
+DM was diagnosed from examination results (fasting plasma glucose ≥7.0 mmol/l and glycated hemoglobin >6.5%) and an endocrinologist's report.
+94% of the patients took statins.
+RESULTS
+Overall, 18% of the examinees had DM that was 2.5 times more common in the women than in the men  (32.7 and 13.2%, respectively (p=0.000).
+The diabetic and non-diabetic patients showed no significant differences in age: 62.9±8.3 and 60.9±9.6 years, respectively (p=0.105).
+There were statistically significant differences in the magnitude of coronary artery atherosclerosis according to the Gensini scale in relation to the presence of T2DM; thus, the median Gensini score was 48 in the diabetic patients and 46 in the persons with no signs of the disease (Mann-Whitney test; p=0.03).
+Analysis of adipokine levels showed that the median leptin level was significantly higher than that in the male patients with T2DM than in the persons with no signs of the disease.
+In the patients with T2DM, the median adiponectin level turned out to be significantly lower in both men and women.
+CONCLUSION
+The coronary atherosclerosis severity rated using the Gensini scale is shown to increase in the presence of T2DM.
+The probability of detecting obvious (>45%) carotid artery lesion is associated with the presence of DM in both men and women.
+The male patients with T2DM concurrent with coronary atherosclerosis are noted to have an elevated leptin level, but a lower adiponectin concentration was found in both the men and women.

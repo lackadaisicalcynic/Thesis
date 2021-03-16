@@ -1,0 +1,11 @@
+Developing an alcohol policy assessment toolkit: application in the western Pacific.
+OBJECTIVE  To demonstrate the development and feasibility of a tool to assess the adequacy of national policies aimed at reducing alcohol consumption and related problems.
+METHODS
+We developed a quantitative tool - the Toolkit for Evaluating Alcohol policy Stringency and Enforcement (TEASE-16) - to assess the level of stringency and enforcement of 16 alcohol control policies.
+TEASE-16 was applied to policy data from nine study areas in the western Pacific: Australia, China excluding Hong Kong Special Administrative Region (SAR), Hong Kong SAR, Japan, Malaysia, New Zealand, the Philippines, Singapore and Viet Nam.
+Correlation and regression analyses were then used to examine the relationship between alcohol policy scores and income-adjusted levels of alcohol consumption per capita.
+FINDINGS
+Vast differences exist in how alcohol control policies are implemented in the western Pacific.
+Out of a possible 100 points, the nine study areas achieved TEASE-16 scores that ranged from 24.1 points for the Philippines to 67.5 points for Australia.
+Study areas with high policy scores - indicating relatively strong alcohol policy frameworks - had lower alcohol consumption per capita.  Sensitivity analyses indicated scores and rankings for each study area remained relatively stable across different weighting schemes, indicating that TEASE-16 was robust.  CONCLUSION
+TEASE-16 could be used by international and national regulatory bodies and policy-makers to guide the design, implementation, evaluation and refinement of effective policies to reduce alcohol consumption and related problems.

@@ -1,0 +1,9 @@
+[Risk factors for progression of atherosclerosis of the shunted coronary artery in the remote postoperative period].  The study was aimed at revealing risk factors for progression of atherosclerosis in the shunted coronary artery in the remote period following coronary artery bypass grafting.
+Our prospective study included a total of 292 patients having endured coronary artery bypass grafting.
+All patients were divided in two groups depending on the type of the bypass grafts used: either autoarterial shunts (Group 1) or autovenous grafts (Group 2).  We thus assessed a total of 516 autoarterial grafts and 257 autovenous grafts, as well as the coronary arteries shunted thereby.
+The long-term results were evaluated by means of coronaroshuntography performed not earlier than 12 months after surgery.  The average duration of follow up amounted to 53.4±26.5 months.
+Analysing the cumulative risk for progression of atherosclerosis in the arteries shunted demonstrated that for autoarterial grafts the rate of the development of proximal stenosis of the coronary artery (CA) shunted was lower compared with autovenous grafts (p≤0.001).
+The Cox regression model showed that an autovein used as a graft increased the risk for the development of occlusion of the shunted CA by 43% from the baseline each postoperative month.
+The presence of proximal stenosis of the shunted coronary artery amounting to or exceeding 90% increases the risk of occlusion by 68% per month.
+Also, for the patients with the SYNTAX scoring ≥ 32 points the risk of coronary artery occlusion increases 2.2-fold each month after the operation.
+Such factors as the patient's gender, the diameter of the shunted artery, diabetes mellitus, tobacco smoking, multifocal atherosclerosis by the findings of the study exerted no influence on the progression of proximal stenosis of the shunted coronary artery.

@@ -1,0 +1,9 @@
+[Septoplasty and tonsillectomy: acute stress response as a measure of effectiveness of local anesthetics].  AIM
+To compare the effectiveness of lidocaine and articaineused as local anesthetics in septoplasty and tonsillectomy based on the physiological stress response.  PATIENTS AND METHODS
+The study included 125 patients with nasal septum deviation (NSD) and chronic tonsillitis (CT).  The patients presenting with NSD were divided into two groups.
+Those comprising group 1A (n=32) were treated with a 2% lidocaine solution for local infiltration analgesia (LIA), the patients of group 1B (n=30) were given 2%articaine as LIA.
+Group 2A contained 32 patients with CT treated with lidocaine, group 2B consisted of 31 patients given articaine.
+In all the patients, the overall heart rate variability (HRV) including its high, low, and very low components was measured.  RESULTS
+Evaluation of HRV revealed a certain degree of disadaptation in the patients of groups 1B and 2A.  High dispersion of SDANN, SDNN index, andrMSSD in group 1Bas well as SDANN values in group 2A indicates the sympathetic/parasympathetic imbalance.
+The high-frequency component was augmented in group 2B which suggested the prevalence of parasympathetic tone, but its high dispersion was just aswell indicative of disadaptation.  CONCLUSION
+Local analgesia with articaine during septoplasty leads tosympathetic/parasympathetic imbalance during the early postoperative period.  Lidocaine analgesia for tonsillectomy does not prevent disadaptation induced by surgical stress.

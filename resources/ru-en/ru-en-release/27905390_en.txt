@@ -1,0 +1,10 @@
+[Prоgnosis of motor function recovery in ischemic stroke using diffusion tensor MRI].
+AIM  To identify factors of motor recovery in ischemic stroke (IS) using diffusion tensor imaging (DTI).
+MATERIAL AND METHODS
+Forty-seven patients with IS were studied within 1-2, 7-8, 14-15, 20-21 days after stroke.
+The fractional anisotropy (FA) values of the pyramidal tract were measured in the posterior limb of the internal capsule, cerebral peduncle and pons.
+Relative values of FA (rFA) ratio (rFA=FA affected side/FA unaffected side) were assessed as well.
+RESULTS
+rFA≤0.7 in the cerebral peduncule and posterior limb of the internal capsule accurately predicted poor motor outcome in ischemic stroke.
+CONCLUSION
+DTI can evaluate the motor deficit quantitatively and may predict the functional prognosis in patients with IS.

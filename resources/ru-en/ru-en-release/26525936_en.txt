@@ -1,0 +1,9 @@
+[Low-molecular-weight DNA in blood plasma and cerebrospinal fluid of patients with acute stroke].  AIM
+To characterize the value of low-molecular-weight DNA in blood plasma and cerebrospinal fluid for the diagnosis of acute stroke of ischemic and hemorrhagic types early after the onset of the disease.  MATERIAL AND METHODS
+DNA from plasma and cerebrospinal fluid was isolated by phenol deproteinization, analyzed by gradient polyacrylamide electrophoresis.  Content of low-molecular-weight DNA was determined on the electrophoregram by comparison with standards.
+RESULTS
+Authors discovered the differences in the changes in the content of low-molecular-weight DNA in the blood plasma of patients with acute ischemic and hemorrhagic types of cerebrovascular accident within 3 days after onset.
+Patients with hemorrhagic stroke were characterized by an increase in low-molecular-weight DNA after 3 hours, while patients with ischemic stroke after 24 hours from onset.
+Low-molecular-weight DNA was also detected in the cerebrospinal fluid of patients with ischemia during the first day of the disease.
+CONCLUSION
+The results indicate a role of apoptosis in the formation of ischemic lesion.

@@ -1,0 +1,15 @@
+[Associations between high levels of hostility and coronary heart disease in an open urban population among 25-64-year-old men].
+AIM  To establish the associations of the prevalence of coronary heart disease (CHD) with high levels of hostility in the open population of 25-64-year-old men in an average urbanized Siberian town.
+SUBJECTS AND METHODS
+A cross-sectional epidemiological survey was conducted in a representative sample of the electorate of a Tyumen administrative district among 1000 males, with 250 being in each of 4 life decades (25-34, 35-44, 45-54, and 55-64 years).
+There were 850 (85%) responses.
+Different forms of CHD were identified by standard methods (the WHO exertional angina questionnaire, resting EEG, and Minnesota coding) used in epidemiological surveys.
+Definite CHD (DCHD) and possible CHD were identified.
+A continuous survey method was used by self-filling out the WHO MONICA-psychosocial questionnaire to estimate the levels of hostility.
+RESULTS
+In an average urbanized Siberian town, the prevalence of high levels of hostility among 25-64-year-old men was 46.4% (age-adjusted rate).
+The high levels of hostility increased with age, peaking in the 55-64-year-old group.
+In the Tyumen male population aged 25-64-year-old, the odds ratio (OR) for coronary heart disease and high levels of hostility was 2.71; 95% confidence interval (CI), 1.63-4.52 (p<0.05); that for DCHD was almost twice higher  (OR, 4.65; 95% CI, 2.14-10.12 (p<0.05).
+In the older men aged 55-64 years, OR for coronary heart disease and high levels of hostility was 5.42; 95% CI, 2.32-12.66 (p<0.05); that for DCHD was 25.85; 95% CI, 3.30-202.60 (p<0.05).
+CONCLUSION
+Consequently, the epidemiological criteria for psychosocial risk factors, including hostility, which are detected by the standardized survey methods, should be used in prophylactic examinations of a male population and in the selection of able-bodied people with cardiovascular disease to be comprehensively examined and followed up.

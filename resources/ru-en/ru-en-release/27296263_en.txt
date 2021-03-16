@@ -1,0 +1,20 @@
+[Serum calgranulin C is a highly sensitive autoinflammation activity indicator in patients with familial periodic fevers].  AIM
+To determine the possibility of using the serum proinflammatory calcium-binding protein, or calgranulin C (S100A12), to assess activity and therapeutic efficiency in patients with periodic disease (PD) and other familial periodic fevers (FPFs).
+SUBJECTS AND METHODS
+Thirty-five patients with PD and other FPDs, which were verified by molecular genetic study, were examined.
+In accordance with the disease activity, the patients were divided into 2 groups.
+The investigators determined the concentration of S100A12 by solid-phase enzyme immunoassay and that of other acute-phase inflammatory markers (erythrocyte sedimentation rate (ERT), neutrophil counts, and fibrinogen and C-reactive protein (CRP) concentrations).
+RESULTS
+The serum concentration of S100A12 in the stage of disease activity was 466.7 (265.22--851.7) ng/ml, which was significantly higher than in remission  (244.29 (118.93--409.85) ng/ml (p=0.000002).
+The highest S100A12 concentrations were noted in the patients with PD; these were 758.95 (434.80--1035.95) ng/ml; the S100A12 level in the majority of PD patients even during remission remained moderately higher.
+An investigation of the relationship of A100A12 to genetic variants found no differences between the patients homozygous for M694V and those with other genotypes (p=0.37).
+Estimation of the time course of therapy-induced changes in the serum S100A12 concentration revealed its considerable reduction (р=0.0018).
+However, normalization of S100A12 levels was not achieved in PD.
+The remaining increased S100A12 concentration in these patients may be suggestive of the activity of PD despite the absence of its clinical manifestations.
+S100A12 as a highly sensitive marker allows more exact evaluation of the anti-inflammatory effect of therapy.
+The S100A12 identification of the subclinical activity of autoinflammatory diseases made all the more important since traditional inflammatory markers, such as ERT, CRP, fibrinogen, and leukocyte counts, are less sensitive for these purposes.
+In our study, these markers were within the reference range in remission.
+No differences were found in the S100A12 levels between the groups with and without amyloidosis (p=0.62).
+CONCLUSION
+S100A12 is a highly sensitive marker for the activity of autoinflammatory diseases and the efficiency of their therapy.
+The serum level of S100A12 in PD may be used to diagnose the subclinical activity of inflammation, which is of importance in monitoring the risk of amyloidosis.

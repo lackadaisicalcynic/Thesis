@@ -1,0 +1,9 @@
+Breastfeeding policy: a globally comparative analysis.
+OBJECTIVE  To explore the extent to which national policies guaranteeing breastfeeding breaks to working women may facilitate breastfeeding.
+METHODS
+An analysis was conducted of the number of countries that guarantee breastfeeding breaks, the daily number of hours guaranteed, and the duration of guarantees.  To obtain current, detailed information on national policies, original legislation as well as secondary sources on 182 of the 193 Member States of the United Nations were examined.
+Regression analyses were conducted to test the association between national policy and rates of exclusive breastfeeding while controlling for national income level, level of urbanization, female percentage of the labour force and female literacy rate.
+FINDINGS  Breastfeeding breaks with pay are guaranteed in 130 countries (71%) and unpaid breaks are guaranteed in seven (4%).
+No policy on breastfeeding breaks exists in 45 countries (25%).  In multivariate models, the guarantee of paid breastfeeding breaks for at least 6 months was associated with an increase of 8.86 percentage points in the rate of exclusive breastfeeding (P < 0.05).
+CONCLUSION
+A greater percentage of women practise exclusive breastfeeding in countries where laws guarantee breastfeeding breaks at work.  If these findings are confirmed in longitudinal studies, health outcomes could be improved by passing legislation on breastfeeding breaks in countries that do not yet ensure the right to breastfeed.

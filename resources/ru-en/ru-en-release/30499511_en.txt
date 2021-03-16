@@ -1,0 +1,15 @@
+[Structural changes in the ocular anterior segment against elevation of intraocular pressure after repeated intravitreal injections].  Numerous studies have demonstrated the efficacy of anti-VEGF medications for exudative (wet) age-related macular degeneration (AMD).
+Significant IOP elevation is one of the side effects of anti-VEGF intravitreal injection.  PURPOSE
+To study the changes in the parameters of anterior segment of the eyeball against acute IOP elevation after repeated intravitreal injections (IVI) of anti-VEGF medication.
+MATERIAL AND METHODS
+The study was conducted on a random sample of 45 patients (45 eyes) diagnosed with exudative (wet) form of AMD.
+All patients received two 0.05 ml intravitreal injections of ranibizumab with one-month interval.
+Measurements of IOP were performed with rebound tonometer Icare-Pro (ICare, Finland) before intravitreal injection, then one minute, 30 minutes and 3 hours after.
+The parameters of the ocular anterior segment, namely thickness and optical density of the cornea, volume and angle of the anterior chamber were evaluated by Scheimpflug imaging (Pentacam HR, Oculus, Germany) before IVI, and 15 minutes after.
+RESULTS
+Statistically significant (p<0.05) elevation of IOP to 40 mm Hg (confidence interval 32-48 mm Hg) was recorded one minute after injecting 0.05 mL of ranibizumab solution into the vitreous cavity with IOP having the tendency for gradual normalization.
+When measured 15 minutes after IVI, the following parameters of the ocular anterior segment structures had reliably changed in the setting of elevated IOP: corneal thickness had increased to 27 µm (confidence interval 14-38 µm), corneal optical density - to 16.7 (confidence interval 10.4-19.5).
+No significant changes of either volume or angle of anterior chamber were revealed.
+Comparative analysis showed no significant changes of parameters after the 1st and the 2nd IVI.
+CONCLUSION
+The revealed changes were transient in nature and did not require any corrections since all parameters returned to baseline after each injection.

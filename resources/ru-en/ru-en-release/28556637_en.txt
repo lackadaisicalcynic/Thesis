@@ -1,0 +1,7 @@
+[Length telomere leukocytes as ageing markers and risk factors for age-related diseases in humans].  The purpose of the research was studying of leukocyte telomere length association with age, sex, risk factors for age-related diseases in Russian people of pre-retirement and retirement age.
+By quantitative real-time PCR method we studied the leukocyte telomere length in 398 men (56,3±7,2 years) and 365 women (56,6±7,1 years) selected from a population sample of 45-69 year-old residents of the Oktyabrsky and Kirovsky districts of Novosibirsk (9 400 people).  The selection was formed in the course of work on the international project HAPIEE.
+As a result, an inverse correlation of telomere length with age (r=-0,159, р<0,001), with the ratio waist / hips (r=-0,107, p=0,003) was found out.
+The average length of telomeres in women significantly more than in men, p=0,031.The correlation of telomere length in males with weight (r=0,140, p=0,005), waist size (r=0,111, p=0,027) was found out.  In women, there is an inverse correlation of telomere length with a waist size (r=-0,127, p=0,015), the ratio of waist / hips (r=-0,141, p=0,007).
+The length of telomeres is an inverse correlation with correlation with quantity of the cigarettes smoked (r=-0,121, р=0,024).
+The length of telomeres leukocytes correlates with age, smoking, and a number of phenotypical signs.
+In men with the family anamnesis burdened by malignancies leucocytes telomere length was found to be greater than in men without such anamnesis.

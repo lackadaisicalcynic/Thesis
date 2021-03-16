@@ -1,0 +1,18 @@
+[Clinical, laboratory and instrumental criteria for myocarditis, established in comparison with myocardial biopsy: A non-invasive diagnostic algorithm].
+AIM  To determine the diagnostic value of different clinical, laboratory, and instrumental signs in the diagnosis of myocarditis in patients with the picture of idiopathic arrhythmias, dilated cardiomyopathy (DCM) and in a comparison group when comparing with myocardial morphological examination.
+SUBJECTS AND METHODS
+A study group included 100 patients (35 women; mean age, 44.7±12.5 years) with idiopathic arrhythmias (n=20) and DCM as a syndrome (n=100).
+All underwent myocardial morphological examination: endomyocardial biopsy (EMB) (n=71), intraoperative biopsy (n=13), study of the explanted heart (n=6), and autopsy (n=11).
+A comparison group consisted of 50 patients (25 women; mean age, 53.7±11.7 years) with non-inflammatory diseases of the heart (left ventricular end-diastolic dimension <6.0 cm, ejection fraction >50%) who underwent open-heart surgery (n=47), EMB (n=2), or autopsy (n=1).
+The investigators also performed polymerase chain reaction for cardiotropic viral DNA in the blood and myocardium, anticardiac antibody (ACA) identification, myocardial scintigraphy (n=26), coronary angiography (n=47), magnetic resonance imaging (MRI) (n=25), and multislice computed tomography of the heart (n=45).  The diagnostic value of the extended spectrum of clinical, laboratory, and instrumental markers for myocarditis was estimated.
+RESULTS
+Active/borderline myocarditis was diagnosed in 76% of the patients in the study group (75.5% in the arrhythmia subgroup and 76.3% in the DCM one) and in 24.3% of those in the comparison group (p<0.001).
+A viral genome in the myocardium was detected statistically significantly less frequently in the study group than that in the comparison one (40.2 and 65%, respectively; p<0.01): in 46.6% in the DCM subgroup and 15.8% in the arrhythmia one.
+An ACA set (sensitivity, specificity, and predictive value of positive and negative test results (45.7, 80, 80.4, and 45%, respectively)) was of the greatest diagnostic importance in identifying myocarditis; antibodies to cardiomyocyte nuclei in a titer of 1:160-1:320 had the highest specificity (93.3%).
+A specificity above 70% was seen for a full medical history triad (acute onset, an association between onset and infection, a symptom duration of less than one year), systemic immune manifestations, anginas in the history and elevated anti-O-streptolysin levels, systemic blood changes, Q waves/QS complexes on ECGs, local hypokinesias, pericardial effusion, atriomegalia (in arrhythmias), angina/ischemia with intact coronary arteries, and focal perfusion defects during myocardial scintigraphy.
+A sensitivity higher than 50% was observed for age over 40 years (differential diagnosis with genetic forms), acute onset, a correlation with infection, and delayed contrast agent accumulation, as evidenced by MSCT/MRI.
+CONCLUSION
+When the incidence of myocarditis is similar in the arrhythmia and DCM subgroups, the viral genome detection rate is statistically significantly higher in DCM.
+Among the non-invasive markers, an ACA set (high sensitivity and specificity) is of the greatest diagnostic value in the diagnosis of myocarditis.
+The diagnostic rule based on counting the number of scores has been developed, which makes it possible to individually establish the risk of myocarditis in patients with idiopathic arrhythmias and DCM for both the determination of indications for biopsy and the lack of the possibility of its performance.
+The risk of myocarditis is high if there are 5-7 scores; that is close to 100% if there are 8 scores or more.

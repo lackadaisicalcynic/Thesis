@@ -1,0 +1,14 @@
+[Differentiation therapy for non-acidic gastroesophageal reflux disease].
+AIM  To investigate the clinical and pathogenetic features of the non-acidic types of gastroesophageal reflux disease (GERD) and to evaluate the impact of combined therapy versus monotherapy on the course of this disease.
+SUBJECTS AND METHODS
+The investigation enrolled 62 patients with non-acidic GERD.
+The follow-up period was 6 weeks.
+The patients were divided into 2 groups: 1) weakly acidic gastroesophageal refluxes (GER); 2) weakly alkaline GER.
+Then each group was distributed, thus making up 4 groups: 1) 19 patients with weakly acidic GER who received monotherapy with rabeprazole 20 mg/day; 2) 21 patients with weakly acidic GER had combined therapy with rabeprazole 20 mg and itopride; 3) 8 patients with weakly alkaline GER who received ursodeoxycholic acid (UDCA) monotherapy; and 4) 14 patients with weakly alkaline GER who had combined therapy with UDCA and itopride, The clinical symptoms of the disease, the endoscopic pattern of the upper gastrointestinal tract (GIT) mucosa, histological changes in the esophageal and gastric mucosa, and the results of 24-hour impedance pH monitoring were assessed over time.
+RESULTS
+During differentiation therapy, the majority of patients reported positive clinical changes and an improved or unchanged endoscopic pattern.
+Assessment of impedance pH monitoring results revealed decreases in the overall number of GERs, the presence of a bolus in the esophagus, and the number of proximal refluxes.
+These changes were noted not only in patients taking proton pump inhibitors (PPIs), but also in those treated with UDCA monotherapy or combined PPI and prokinetic therapy.
+CONCLUSION
+A differentiated approach to non-acidic GER treatment contributes to its efficiency.
+Adding the prokinetic itomed (itopride hydrochloride) to PPI therapy in a patient with weakly acidic GER enhances the efficiency of treatment, by positively affecting upper GIT motility.  The mainstay of therapy for GERD with a predominance of weakly alkaline refluxes is UDCA, the combination of the latter and the prokinetic can exert a more pronounced effect on the clinical and endoscopic pattern and upper GIT motility.

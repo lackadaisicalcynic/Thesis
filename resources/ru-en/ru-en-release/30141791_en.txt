@@ -1,0 +1,9 @@
+[Cerebral structural characteristics in children with unilateral amblyopia: a MRI study].  AIM
+To study the mechanism of the development of amblyopia using the analysis of brain grey matter parameters.
+The areas primarily associated with visual cortex in children with amblyopia were analyzed.  MATERIAL AND METHODS
+The study group comprised 8 right-handed children with left-sided amblyopia.  MRI images were obtained by 1.5T Toshiba scanner with 3D MP-RAGE.
+T1-images were processed with FreeSurfer (5.3.0 version, http://surfer.nmr.mgh.harvard.edu/).
+RESULTS AND CONCLUSION
+No significant interhemisphere differences by cortical thickness were identified in all tested regions of interest.
+In correlation analysis, only the positive correlation between visual acuity in the left eye and cortical thickness in the left pericalcarine as well as the positive correlation between visual acuity in the left eye and cortical thickness in the left V1 area obtained using another anatomical atlas survived multiple comparison correction.
+The findings support the hypothesis that pathological ontogenetic processes in children with amblyopia lead to the structural abnormalities of the primary visual cortex.

@@ -1,0 +1,8 @@
+Use of data from registered clinical trials to identify gaps in health research and development.
+OBJECTIVE
+To explore what can be learnt about the current composition of the "global landscape" of health research and development (R&D) from data on the World Health Organization's International Clinical Trials Registry Platform (ICTRP).
+METHODS
+A random 5% sample of the records of clinical trials that were registered as interventional and actively recruiting was taken from the ICTRP database.
+FINDINGS  Overall, 2381 records of trials were investigated.
+Analysis of these records indicated that, for every million disability-adjusted life years (DALYs) caused by communicable, maternal, perinatal and nutritional conditions, by noncommunicable diseases, or by injuries, the ICTRP database contained an estimated 7.4, 52.4 and 6.0 trials in which these causes of burden of disease were being investigated, respectively.  For every million DALYs in high-income, upper-middle-income, lower-middle-income and low-income countries, an estimated 292.7, 13.4, 3.0 and 0.8 registered trials, respectively, were recruiting in such countries.
+The ICTRP constitutes a valuable resource for assessing the global distribution of clinical trials and for informing policy development for health R&D.  Populations in lower-income countries receive much less attention, in terms of clinical trial research, than populations in higher-income countries.

@@ -1,0 +1,12 @@
+National health accounts data from 1996 to 2010: a systematic review.
+OBJECTIVE  To collect, compile and evaluate publicly available national health accounts (NHA) reports produced worldwide between 1996 and 2010.
+METHODS
+We downloaded country-generated NHA reports from the World Health Organization global health expenditure database and the Organisation for Economic Co-operation and Development (OECD) StatExtract website.  We also obtained reports from Abt Associates, through contacts in individual countries and through an online search.
+We compiled data in the four main types used in these reports: (i) financing source; (ii) financing agent; (iii) health function; and (iv) health provider.
+We combined and adjusted data to conform with OECD's first edition of A system of health accounts manual, (2000).
+FINDINGS
+We identified 872 NHA reports from 117 countries containing a total of 2936 matrices for the four data types.  Most countries did not provide complete health expenditure data: only 252 of the 872 reports contained data in all four types.
+Thirty-eight countries reported an average not-specified-by-kind value greater than 20% for all data types and years.  Some countries reported substantial year-on-year changes in both the level and composition of health expenditure that were probably produced by data-generation processes.
+All study data are publicly available at http://vizhub.healthdata.org/nha/.
+CONCLUSION  Data from NHA reports on health expenditure are often incomplete and, in some cases, of questionable quality.
+Better data would help finance ministries allocate resources to health systems, assist health ministries in allocating capital within the health sector and enable researchers to make accurate comparisons between health systems.

@@ -1,0 +1,19 @@
+AIM  The article is aimed to demonstrate our experience in motor cortex stimulation (MCS) in patients with chronic neuropathic pain syndromes, assess the clinical efficacy of the technique in short-term and long-term follow-up, and analyze potential predictors of the MCS efficacy.
+MATERIAL AND METHODS
+Twenty patients were implanted with MCS electrodes at the Burdenko Neurosurgical Institute in the period between 2004 and 2014.
+The mean age of patients was 52 years (26 to 74 years).  The patients suffered from neuropathic pain syndromes of different genesis (post-stroke, multiple sclerosis, atypical facial pain, phantom limb pain, brachial plexus injury, spinal cord injury, complex regional pain syndrome I).
+All patients underwent neurological examination with verification of neuropathic pain (DN4, Pain Detect, LANSS).
+The pain intensity and its effect on quality of life were assessed before operation and during follow-up according to 10-point visual-analog scales (modified Brief Pain Inventory).
+Before surgery, all patients underwent several repetitive transcranial magnetic stimulation (rTMS) sessions.
+After implantation of epidural electrodes, test MCS was performed.
+RESULTS
+Test stimulation was positive in 19 (95%) patients.
+All these patients were implanted with a chronic MCS system.
+The mean follow-up was 49.3 months (from 3 to 96 months).
+In short-term follow-up (fist 6 months), a positive result of MCS was observed in 17 patients, and a reduction in the pain intensity ranged from 37.5% to 90%.  In long-term follow up (from 12 to 96 months), 14 patients had positive MCS RESULTS: and a reduction in the pain intensity amounted to 25% to 60%.
+All patients with positive MCS results received significantly decreased doses of opioids and tramadol.
+Two patients developed infectious complications, but there was no neurological deficit.
+Analysis of the factors affecting the efficacy of motor cortex stimulation did not reveal a statistically significant effect of rTMS and the presence and intensity of motor deficit.
+CONCLUSION
+Chronic epidural MCS is an effective and safety method for the treatment of some chronic neurogenic medically-refractory pain syndromes.
+Further research is necessary to specify the patient selection criteria and the MCS efficacy predictors.

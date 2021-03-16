@@ -1,0 +1,14 @@
+[Influence of endothelial graft thickness on postoperative visual acuity].  AIM  to assess the influence of the endothelial graft thickness on postoperative visual acuity following modified endothelial keratoplasty (UTDSAEK).
+MATERIAL AND METHODS
+The study included 49 patients with pseudophakic bullous keratopathy and no concomitant disorders of either the retina or optic nerve.  Ultrathin Descemet's stripping automated endothelial keratoplasty (UTDSAEK) was performed in all cases.
+Corneal graft thickness was measured 1 year after UTDSAEK by means of optical coherence tomography.  Postoperative visual acuity values were compared in patients with the endothelial graft thickness from 51 to 98 microns (27 eyes) and those with the endothelial graft thickness from 102 to 121 microns (22 eyes).
+The dynamics of the graft thickness change after surgery was also assessed.
+RESULTS
+The thickness of the graft gets reduced by an average of 21% over the first 2-3 weeks after UTDSAEK and by approximately 5% over 2 more months.
+For the next few years it remains relatively stable (the maximum follow-up period was 5 years).
+The study showed no statistically significant difference in visual acuity between two groups of patients with the endothelial graft thickness of less than and greater than 100 microns (p=0.7).
+CONCLUSION
+The thickness of the endothelial graft for UTDSAEK has no statistically significant effect on postoperative visual acuity.
+The optimal thickness of the graft being cut out lies in the range from 100 to 150 microns.
+Such grafts adapt well to the posterior surface of the recipient cornea with no significant changes to its topography.
+Moreover, thicker grafts are easier manipulated before insertion into the anterior chamber and are associated with a lower risk of perforation during acquisition as compared to grafts of under 100 microns.

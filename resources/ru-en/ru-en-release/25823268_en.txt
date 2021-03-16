@@ -1,0 +1,12 @@
+[Refralon (niferidil) is a new class III antiarrhythmic agent for pharmacological cardioversion for persistent atrial fibrillation and atrial flutter].  AIM
+To evaluate the efficacy and safety of refralon (niferidil), a new class III antiarrhythmic agent whose activity is related to the block of delayed rectifying potassium current and to the prolongation of atrial and ventricular action potential and refractory periods, when it is used as an agent for pharmacological cardioversion for atrial fibrillation (AF) and atrial flutter (AFL).
+SUBJECTS AND METHODS
+The efficacy of the drug as 3 intravenous boluses of 10 μg/kg was evaluated in 134 patients (90 men; 57.8 ± 11 years) with a mean AF duration of 3 (1.5; 6) months.
+Its effect was controlled by 24-hour Holter ECG monitoring.
+The criterion for its antiarrhythmic effect was 24-hour sinus rhythm (SR) recovery.
+RESULTS
+Niferidil restored SR in 47.7% of the patients with AF after administration of bolus 1, in 62% after bolus 2, and in 84.6% after bolus 3.
+SR was restored in all 100% patients with AFL.
+With the AF duration of less than 3 months, the efficacy of niferidil was 91.8%.
+There was nonsustained polymorphic ventricular tachycardia (VT) (torsade de pointes) in 1 (0.7%) patient and nonsustained monomorphic VT was stated in 5 (3.7%) patients.
+CONCLUSION> Pharmacological cardioversion with niferidil for persistent AF and VT may be regarded as a possible alternative to electrical cardioversion.

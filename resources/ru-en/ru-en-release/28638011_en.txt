@@ -1,0 +1,14 @@
+AIM  To analyze collagen types ratio in skin and aponeurosis in order to predict postoperative ventral hernias.
+MATERIAL AND METHODS
+The trial included 141 patients for the period 2012-2015.
+Group I (n=65) of patients without ventral hernias was divided into subgroup AI (primary operation, n=41) and BI (re-operation, n=24).
+Group II consisted of 76 patients with ventral hernias.
+We performed histological examination of skin and aponeurosis to define the collagen structure of connective tissue.
+RESULTS
+There were significant differences between collagen type I/III ratio in skin (2.81±0.52 in group I vs. 1.13±0.48 in group II) and aponeurosis (2.69±0.41 vs. 1.09±0.21, respectively, p≤0.05).
+We revealed strong direct correlation (r=+0.92) between aponeurosis and skin specimens in one group.
+Collagen type I level was 73.81±2.74% in subgroup AI and 72.03±2.47% in subgroup BI.
+Collagen type I was predominant (p≤0.05).
+CONCLUSION
+In patients with ventral hernias collagen type I/III ratio in skin is 2.54 times lower than in patients without hernias.
+Significant correlation of collagen types in skin and aponeurosis (r= +0.92) allows to predict the risk of postoperative ventral hernias on basis of skin fragment.

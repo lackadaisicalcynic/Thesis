@@ -1,0 +1,9 @@
+Catastrophic health spending in Europe: equity and policy implications of different calculation methods.
+Objective
+To investigate the equity and policy implications of different methods to calculate catastrophic health spending.  Methods
+We used routinely collected data from recent household budget surveys in 14 European countries.
+We calculated the incidence of catastrophic health spending and its distribution across consumption quintiles using four methods.  We compared the budget share method, which is used to monitor universal health coverage (UHC) in the sustainable development goals (SDGs), with three other well-established methods: actual food spending; partial normative food spending; and normative spending on food, housing and utilities.
+Findings
+Country estimates of the incidence of catastrophic health spending were generally similar using the normative spending on food, housing and utilities method and the budget share method at the 10% threshold of a household's ability to pay.  The former method found that catastrophic spending was concentrated in the poorest quintile in all countries, whereas with the budget share method catastrophic spending was largely experienced by richer households.
+This is because the threshold for catastrophic health spending in the budget share method is the same for all households, while the other methods generated effective thresholds that varied across households.  The normative spending on food, housing and utilities method was the only one that produced an effective threshold that rose smoothly with total household expenditure.
+The budget share method used in the SDGs overestimates financial hardship among rich households and underestimates hardship among poor households.  This raises concerns about the ability of the SDG process to generate appropriate guidance for policy on UHC.

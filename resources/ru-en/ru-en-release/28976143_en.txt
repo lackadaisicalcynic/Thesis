@@ -1,0 +1,5 @@
+[Metabolic programming: theoretical concepts and experimental evidence].  It is known that the poor nutrition during a fetal development may contribute to an increased risk of chronic diseases in adulthood.
+In a modern literature, this phenomenon is called «the nutritional programming of age-related pathologies».
+It is assumed that the qualitative or quantitative deficiency of certain nutritional components during an early development may lead to the adaptations that contribute to improved survival during the prenatal and early postnatal periods of an ontogenesis.  However, the consequence of such adaptive changes may also be the development of various pathological processes at the later stages of life.
+Recent studies have shown that one of the major mechanisms involved in these adaptations is the epigenetic regulation of a gene activity.
+In this review, the experimental evidence is provided that processes arising from a quantitatively or qualitatively restricted diet during the early stages of development play an important role in the further life and can greatly influence risk of various age-related diseases and life span.

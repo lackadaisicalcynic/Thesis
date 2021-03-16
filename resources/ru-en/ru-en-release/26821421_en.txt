@@ -1,0 +1,16 @@
+[Nodular lymphocyte-predominant Hodgkin's lymphoma: Principles of diagnosis and treatment].
+AIM  To describe the clinical and morphological features of the rare Hodgkin's lymphoma (HL) subtype--nodular lymphocyte-predominant HL (NLPHL).
+SUBJECTS AND METHODS
+Forty-two patients were diagnosed with NLPHL in 2010 to 2014.
+The male to female ratio was 2.2:1; the median age was 37 years (range 17-68 years).
+NLPHL was diagnosed on the basis of the histological and immunohistochemical examinations of tumor biopsy specimens; disease stages were determined by standard HL studies.
+RESULTS
+Before NLPHL was detected, 23 (55%) patients were diagnosed as having HL in 13 cases, follicular lymphoma in 2, lymphofollicular hyperplasia in 3, angioimmunoblastic lymphoma in 1, diffuse large B-cell lymphoma in 3, and B-cell lymphoma (non-HL) in 1.
+Long-term (3-21-year; median 8 years) persistent lymphadenopathy was observed in 16 (38%) patients.
+Seventeen (40.5%) patients had early (I-II) stages of the disease and 25 (59.5%) had advanced stages.
+B symptoms were noted in 24% of cases.
+There was involvement of extranodal sites (salivary gland, tonsil) in 2 patients, spleen in 14 (33%), bone marrow in 8, and bulky disease in 2.
+Cycles of ABVD ± rituximab ± radiotherapy (RT) were used in early-stage NLPHL; those of R-BEACOPP-14 ± RT were performed in the advanced stages of the disease or its transformation to diffuse large B-cell lymphoma with excessive T cells.
+CONCLUSION
+When patients have a history of long-term asymptomatic lymphadenopathy, it is necessary to rule out NLPHL, for which purpose an immunohistochemical examination of a biopsy specimen and its reexamination in a laboratory having experience in diagnosing NLPHL must necessarily be done.
+Lower RT doses and rituximab incorporated into the cycle of treatment are indicated to reduce its toxicity and to preserve therapeutic efficiency.

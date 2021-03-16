@@ -1,0 +1,10 @@
+[The effect of 3-oxypyridine and succinic acid derivatives on the resistance to acute cerebral ischemia].
+OBJECTIVE  The effect of original domestic derivatives of 3-oxypiridine and succinic acid (emoxipine, reamberin and mexidol) on the resistance to acute brain ischemia was studied in an experimental mouse models.
+MATERIAL AND METHODS
+We used 260 adult outbred mice.  The drugs were introduced intraperitoneally 30 min before the modeling of acute brain ischemia.
+Each drug was used in 3 three doses: 1/2 of the calculated equivalent of mean treatment dose (EMTD), EMTD and double EMTD.
+A strangulation model with the assessment of mouse mortality latency and decapitation model with the assessment of agonal respiration (gasping) were used.
+The efficacy of the drugs was determined by comparison against alpha-lipoic acid that was used as a reference substance in previous studies of antihypoxic activity of emoxipine, reamberin and mexidol.  RESULTS AND CONCLUSION
+It was established that the derivatives of 3-oxipiridine and succinic acid protected against subtotal ischemia of rostral brain segments (of cerebral hemispheres) as evidenced by the increase in longevity.  Emoxipine demonstrated the maximal effect thereby surpassing reamberin and mexidol in the intensity of antiischemic activity.
+Antiischemic effect of alpha-lipoic acid was comparable to emoxipine.  In the model of total brain ischemia, the derivatives of 3-oxipiridine and succinic acid caused the opposite (proischemic) action on the bulbar respiratory center as evidenced by the reduction in duration of gasping.
+Alpha-lipoic acid did not affect the duration of gasping.

@@ -1,0 +1,7 @@
+[Age-related changes of water transport by corneal endothelial cells in rats.]
+Senescence-associated alterations in structure and function of cornea make it more sensitive to traumas and disease.  Trauma of cornea leads to edema and vision impairment and only corneal transplantation remains the effective for vision correction.
+Role of aquaporins for cornea endothelium function, as well as age-related changes of their activity, are not entirely understood.  Herein, we studied changes with age the water permeability (Pf) of the plasma membranes of the corneal endothelial cells and the level of expression in them of the mRNA genes of the water channels of the aquaporins AQP1 and AQP3 in Wistar and senescence-accelerated OXYS rats.
+From the age of 3 to 18 months, Pf in Wistar rats increased, in OXYS - decreased and was twice lower than in Wistar rats.
+The expression of aqp1 mRNA (studied by RT-PCR) in the endothelium was the same in Wistar and OXYS rats at the age of 3 months.  By the age of 18 months, it increased only in Wistar rats and became twice higher than in OXYS rats.
+The expression of aqp3 mRNA in the endothelium of 3-month-old OXYS rats was half that of Wistar rats and did not change with age, while in Wistar rats it decreased and at 18 months was 4 times lower than in 3 months.
+We supposed that increased water permeability of endothelial cells in Wistar rats is adaptive and compensates for the decrease in endothelial cell density with age, while the accelerated aging of OXYS rats abolishes this compensation.

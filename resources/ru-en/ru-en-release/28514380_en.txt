@@ -1,0 +1,13 @@
+AIM  To evaluate an efficacy of endovascular hemostasis in patients with gastric ulcerative bleeding and high risk of recurrent bleeding and death.
+MATERIAL AND METHODS
+The work is based on a study of the results in 30 patients with gastric ulcerative bleeding, high risk of recurrent bleeding (rebleeding forecast system (RFS) score over 17) and high risk of death (SAPS II score over 30).
+We attempted transcatheter embolization of left gastric artery to prevent rebleeding.
+The control group consisted of 60 patients with gastric ulcerative bleeding and the same RFS and SAPS II values in whom angiography and endovascular hemostasis were not performed.
+RESULTS
+Technical success of endovascular hemostasis was achieved in 25 (83.3%) cases.
+In 5 cases embolization was not performed.
+Complications after transcatheter angiography and embolization were absent.
+Recurrent bleeding after technically successful embolization was observed in 3 (12.0%) patients.
+In all cases PVA microemboli were used.  Mortality was 11.1% (3 patients).
+CONCLUSION
+Endovascular hemostasis in patients with severe comorbidities (SAPS II score over 30) and high risk of rebleeding (RFS score over 17) reduced incidence of recurrent bleeding from 36.7% to 11.1%.

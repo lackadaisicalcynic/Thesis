@@ -1,0 +1,10 @@
+Applying the international classification of diseases to perinatal mortality data, South Africa.
+Objective  To examine the feasibility of applying the International Classification of Diseases-perinatal mortality (ICD-PM) coding to an existing data set in the classification of perinatal deaths.
+Methods
+One author, a researcher with a non-clinical public health background, applied the ICD-PM coding system to South Africa's national perinatal mortality audit system, the Perinatal Problem Identification Program.
+The database for this study included all perinatal deaths (n = 26 810), defined as either stillbirths (of birth weight > 1000 g and after 28 weeks of gestation) or early neonatal deaths (age 0-7 days), that occurred between 1 October 2013 and 31 December 2016.  A clinical obstetrician verified the coding.
+Findings  The South African classification system does not include the timing of death; however, under the ICD-PM system, deaths could be classified as antepartum (n = 15 619; 58.2%), intrapartum (n = 3725; 14.0%) or neonatal (n = 7466; 27.8%).
+Further, the South African classification system linked a maternal condition to only 40.3% (10 802/26 810) of all perinatal deaths; this proportion increased to 68.9% (18 467/26 810) under the ICD-PM system.
+Conclusion
+The main benefit of using the clinically relevant and user-friendly ICD-PM system was an enhanced understanding of the data, in terms of both timing of death and maternal conditions.
+We have also demonstrated that it is feasible to convert an existing perinatal mortality classification system to one which is globally comparable and can inform policy-makers internationally.

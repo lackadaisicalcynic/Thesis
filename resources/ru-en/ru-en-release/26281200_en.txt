@@ -1,0 +1,14 @@
+[Urinary excretion of angiogenesis regulatory factors and renal injury markers in chronic glomerulonephritis: Significance in the assessment of progression].  AIM
+To study the urinary excretion of the molecular factors regulating angiogenesis, such as vascular endothelial growth factor type A (VEGF-A), thrombospondin 1 (THBS1), and angiopoietin 2 (ANGPT2), versus that of the urinary markers of renal injury and fibrogenesis, such as neutrophil gelatinase-associated lipocalin (NGAL), type IV collagen (COL4), and known clinical risk factors for accelerated disease progression to estimate the prognostic value of urinary excretion in patients with chronic glomerulonephritis (CGN).
+SUBJECTS AND METHODS
+Eighty-two patients (45% men, 55% women; mean age, 36.5 years) with a clinical diagnosis of CGN were examined.
+31.7% of the examinees presented with nephrotic syndrome; 31.7% had a glomerular filtration rate (GFR) of less than 60 ml/min/1.73 m2.
+Morning urine samples were analyzed by Elisa to determine the urinary excretion of biomarkers (VEGF-A, THBS1, ANGPT2, NGAL, and COL4).
+The results were adjusted to urinary creatinine concentrations.
+RESULTS
+The urinary excretion of the angiogenesis regulators VEGF-A, THBS1, and ANGPT2 correlated between them, with that of the renal injury markers NGAL and COL4, with the level of proteinuria.
+That was found to be unassociated with blood pressure and GFR.
+In the presence and absence of nephrotic syndrome, high (> 75th percentile) urinary excretion rates were 46.2 and 14.8% for VEGF-A (p < 0.01); 50 and 13% for THBS1 (p < 0.001); and 46.2 and 14.8% for ANGPT2 (p < 0.01), respectively.
+That for ANGPT2 was also high in the presence of anemia (63.2 versus 11.7%; p < 0.001).
+CONCLUSION
+The finding of the high urinary excretion of the angiogenesis regulators VEGF-A, THBS1, and ANGPT2 and its association with that of kidney injury markers in the patients with the proteinuric forms of CGN suggest that this excretion may be considered as an integral index that displays glomerular injury and indicates tubulointerstitial proteinuric/hypoxic remodeling.

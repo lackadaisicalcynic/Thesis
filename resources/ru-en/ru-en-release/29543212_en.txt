@@ -1,0 +1,19 @@
+[Effectiveness of intraoperative monitoring of motor evoked potentials for predicting changes in the neurological status of patients with cervical spinal cord tumors in the early postoperative period].  AIM
+The study aim was to evaluate the effectiveness of intraoperative monitoring of motor evoked potentials (MEPs) for predicting changes in the neurological status of patients with cervical spinal cord tumors in the early postoperative period.  MATERIAL AND METHODS
+The study included 74 patients with intradural cervical spinal cord tumors who were operated on using motor evoked potential monitoring in the period from 2013 to 2016.  There were 29 (39%) males and 46 (61%) females.
+Group 1 included 26 (35%) patients with intramedullary tumors; group 2 included 48 (65%) patients with intradural extramedullary tumors.
+The neurological status was assessed by using a six-grade muscle power MRC scale; a modified McCormick scale was used to evaluate the functional status.
+Transcranial electrical stimulation of the precentral gyri was performed.
+Recording electrodes were located in the peripheral target muscles of the upper and lower limbs.
+Total intravenous anesthesia with propofol and fentanyl was used.
+RESULTS
+In Group 1, MEPs decreased in 19 (73%) of 26 patients; MEPs remained unchanged in 7 (27%) patients.
+Among the patients with decreased MEPs, 14 (74%) patients had postoperative deterioration of the neurological status; 6 (32%) patients had a preoperative severe neurological deficit; 4 (21%) patients had no changes in the neurological status.
+The sensitivity and specificity of MEPs from the upper limb muscles were higher than those from the lower limb muscles.
+In Group 2, improvement of the neurological status occurred in all 48 patients.
+There was no case of a true positive decrease in the MEP amplitude.
+CONCLUSIONS
+1. Registration of MEPs is a highly sensitive and highly specific method for diagnosing corticospinal tract dysfunction in patients with intramedullary tumors of the cervical spinal cord.
+The sensitivity and specificity of MEPs recorded from the upper limbs are higher than those from the lower limb muscles.
+2. The sensitivity of MEPs in patients with extramedullary intradural tumors was 0%, the diagnostic effectiveness of MEPs amounted to 86% from the upper limb muscles and 93% from the lower limb muscles.
+3. When the MEP amplitude in patients with extra- and intramedullary tumors of the cervical spinal cord decreases, a change in the surgion's approach may reduce or completely eliminate surgically-induced damage to the spinal cord.

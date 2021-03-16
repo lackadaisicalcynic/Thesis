@@ -1,0 +1,6 @@
+[Comparative analysis of the effectiveness of various techniques of endoscopic prostate enucleation in a single center].  AIM
+MATERIAL AND METHODS  693 prostate hyperplasia patients were enrolled. 489 patients underwent holmium enucleation (HoLEP), 51 - monopolar enucleation, 153 - thulium enucleation (ThuLEP).
+Prostate volume was 91.7 (50-250) cm3.  There were no significant differences in preoperative variables between both groups (I-PSS, QoL, Qmax, residual urine volume) (p>0.05).
+Mean time of HoLEP was 97.0±42.2 min, monopolar enucleation - 112.9±36.3 min, ThuLEP duration was significantly less (77.4±36.3 min, p<0.01).  An efficacy of all methods was confirmed in 6 months after surgery by significant (p<0.01) improvement of functional parameters (I-PSS, QoL, Qmax, residual urine volume).
+CONCLUSION  High efficiency of thulium and holmium enucleation allows to consider them as 'gold standard' of prostate hyperplasia management.
+Despite higher incidence of complications an efficacy of monopolar enucleation is comparable to that in laser techniques.

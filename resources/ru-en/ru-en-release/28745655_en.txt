@@ -1,0 +1,12 @@
+[Significance of anti-myelin basic protein antibodies for ocular hydrodynamic disturbances in primary open-angle glaucoma].  The aim of the study was to investigate the significance of anti-myelin basic protein (MBP) antibodies (AB) for ocular hydrodynamic disturbances in primary open-angle glaucoma (POAG).
+The study was conducted using the enzyme-linked immunosorbent assay (ELISA).
+The patients included had either high-tension (82 cases), or normal-tension (62 patients) glaucoma (HTG and NTG).
+In 46.3% of HTG patients and 38.7% of NTG patients, anti-MBP antibodies were lower than in the controls.
+There were also some cases (12.9%) of increased AB production at NTG onset.
+According to the canons of immunology, a decrease in anti-MBP antibodies can be explained by their binding to the protein and an increase - by stimulation of AB production through antigen release.
+In other words, antigen release must precede an increase in antibodies, which, in turn, must be followed by a subsequent decrease.
+In this aspect, an increase in anti-MBP antibody production at the stage of early hydrodynamic disturbances (NTG) and its decrease at the stage of pronounced changes (HTG) are perfectly natural.
+The level of anti-MBP antibodies correlated with the following indicators of ocular hydrodynamics: aqueous humor secretion (r=0.20841, p<0.05), intraocular pressure (r=-0.24046, р<0.05), ease of outflow (r=-0, 21552; р<0.05), and Becker's coefficient that reflects dissociation of control mechanisms in the regulation of hydrodynamics (r=-0.21683, p<0.05).
+The authors came to the conclusion that catalytic antibodies to MBP (also able to cause destruction of the myelin sheath of axons) play an important role in the pathogenesis of open-angle glaucoma.
+A decrease as well as an increase in anti-MBP antibodies has an unfavorable effect on ocular hydrodynamics.
+A theory has been put forward that these disorders may be induced by demyelination of peripheral nervous system axons involved in the regulation of intraocular fluid secretion and outflow.

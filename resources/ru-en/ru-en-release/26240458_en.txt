@@ -1,0 +1,11 @@
+Tuberculosis control and economic recession: longitudinal study of data from 21 European countries, 1991-2012.
+OBJECTIVE
+To investigate whether the economic recession affected the control of tuberculosis in the European Union.
+METHODS
+Multivariate regression models were used to quantify the association between gross domestic product, public health expenditure and tuberculosis case detection rates, using data from 21 European Union member states (1991-2012).
+The estimated changes in case detection attributable to the recession were combined with mathematical models of tuberculosis transmission, to project the potential influence of the recession on tuberculosis epidemiology until 2030.  FINDINGS
+Between 1991 and 2007, detection rates for sputum-smear-positive tuberculosis in the European Union were stable at approximately 85%.  During the economic recession (2008-2011) detection rates declined by a mean of 5.22% (95% confidence interval, CI: 2.54-7.90) but treatment success rates showed no significant change (P = 0.62).
+A fall in economic output of 100 United States dollars per capita was associated with a 0.22% (95% CI: 0.05-0.39) mean reduction in the tuberculosis case detection rate.
+An equivalent fall in spending on public health services was associated with a 2.74% (95% CI: 0.31-5.16) mean reduction in the detection rate.  Mathematical models suggest that the recession and consequent austerity policies will lead to increases in tuberculosis prevalence and tuberculosis-attributable mortality that are projected to persist for over a decade.
+CONCLUSION
+Across the European Union, reductions in spending on public health services appear to have reduced tuberculosis case detection and to have increased the long-term risk of a resurgence in the disease.

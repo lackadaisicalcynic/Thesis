@@ -1,0 +1,17 @@
+[The morphological and immunohistochemical characteristics of stratified mucin-producing intraepithelial lesion].  Stratified mucin-producing intraepithelial lesion (SMILE) is a rare premalignant cervical lesion that combines the structural features of cervical intraepithelial neoplasia (CIN) and endocervical adenocarcinoma in situ (AIS).
+AIM  to analyze archival materials for the detection of SMILE and its subsequent morphological and immunohistochemical characterization.
+MATERIAL AND METHODS
+Cervical cone specimens from 53 women with histologically verified CIN3 were examined.  The diagnosis of SMILE was based on the positive mucicarmine staining and weak focal expression of p63.
+The samples containing SMILE were further immunohistochemically examined using the biomarkers P16, Ki-67, Oct4, CD117, CD34, p53, EMA, and CK15.
+SMILE was detected in 2 of the 53 patients and concurrent with CIN3 in both cases.
+SMILE was characterized by the stratified arrangement of atypical cells containing mucin, the positive mucicarmine staining of the entire layer of the atypical epithelium, weak focal p63 expression, high Ki-67 expression, and diffuse р16Іnk4а staining.
+Both SMILE samples showed weak diffuse p53 expression in the presence of single cells with the pronounced nuclear staining pattern for p53 in one female patient.
+Weak focal CK15 expression was visualized in SMILE.
+The expression of the stem cell markers Oct4 and CD117 and the angiogenic marker CD34 was absent in the examined cervical epithelial preparations.
+The diffuse and intense expression of the marker EMA, which was not different from that in the endocervical and stratified squamous epithelium, and CIN3 was established in SMILE.
+RESULTS
+The findings suggest that SMILE is morphologically and immunohistochemically similar to CIN3.
+In this investigation, these abnormalities differed only in the mucicarmine staining and expression of p63.
+This may be indicative of the underdiagnosis of SMILE, attendant СIN3 in the routine practice of a clinical pathologist, as the diagnosis of CIN3 is primarily based on the results of assessment of only the preparations stained with hematoxylin and eosin; the expression of p16 and Ki-67 is evaluated in some cases, which fails to differentiate SMILE and CIN3 in a number of preparations.
+CONCLUSION
+The diagnosis of SMILE can be made only by immunohistochemical examination.

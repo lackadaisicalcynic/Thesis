@@ -1,0 +1,10 @@
+AIM  The objective of the present study was the improvement of the effectiveness of medical rehabilitation of the children presenting with the disturbances of the locomotor function using a «LymphaVision» apparatus for the selective electrical stimulation.
+MATERIALS AND METHODS
+The study included 42 patients with movement disorders divided into two groups depending on the method of non-drug therapy.  The main group was comprised of the patients receiving the treatment by electrical stimulation with the use of the «LymphaVision» apparatus while the remaining patients made up the group of comparison (they were treated with by means of Vermel electrophoresis with the use of a 1% sodium bromide solution).
+The increase of the muscular strength evaluated based on the scoring system and the number of motor skills were used as the criteria of the effectiveness of the treatment.
+The applied Statistica for Windows package, version 6.0 («StatSoft», USA).  Was employed for the statistical analysis of the data obtained.
+The significance and number of differences between two independent samples of the quantitative features were assessed using the Mann-Whitney U test.  The Wilcoxon matched pairs test was used to compare the two matched groups.
+RESULTS
+The children comprising the group treated by means of selective exposure to electrical stimulation with the use of the «LymphaVision» apparatus in the course of the rehabilitation process exhibited a significant increase in the strength of the muscles of the lower extremities and the trunk over the baseline values (p=0.003 and p=0.04 respectively) and acquired a significantly greater number of the new motor skills (p=0.02).
+CONCLUSION
+The application of the proposed method is characterized by the highly pronounced clinical efficiency.  This approach is pathogenetically well-substantiated for the treatment of the children presenting with the locomotor disorders developing as the consequences of perinatal lesions in the central nervous system and promotes the restoration of the capabilities of the child's body, such as normalization of the muscle tone, increase of the motor activity and muscle strength.

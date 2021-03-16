@@ -1,0 +1,15 @@
+[The role of 3D-CT in surgery for pancreatic ductal adenocarcinoma: post-processing and tissue volume calculation].  AIM
+To define the indications for pancreatoduodenectomy using 3D CT-imaging, to calculate the volume of damaged and intact tissues and to determine type of surgery depending on severity of disease in case of ductal pancreatic adenocarcinoma.  MATERIAL AND METHODS
+Retrospective analysis of CT-scans of 30 patients with ductal pancreatic adenocarcinoma was performed.  In groups 1 and 2 by 15 patients total pancreatectomy and pancreatoduodenectomy were made respectively.
+All patients underwent contrast-enhanced CT examination (Brilliance iCT, Phillips) followed post-processing on Brilliance Workspace Portal platform.
+All data were assessed by two reviewers.
+RESULTS
+In group 1 CT volume of the tumor was 24±19 cm3 (32% of total pancreas), in group 2 - 9.8±6 cm3 (16% of total pancreas).
+CT-volume of celiacomesenteric arteries and portal system was 25.8±10 mm/59.5±18.9 mm and 23.3±6/49.9±14.7 mm in groups 1 and 2 respectively.
+Greater volume of tumor was significantly associated with increased portal system (p<0.03).
+Sensitivity, specificity and accuracy of determining of tumor location were increased up to 94%, 50% and 80% respectively in group 1.
+There were no cases of wrong localization in group 2.
+Data of both reviewers were similar.
+CONCLUSION
+Total pancreatectomy is advisable for pancreatic adenocarcinoma if its volume is over 31.8% of total pancreas according to 3D CT-scans.
+3D-modeling improves preoperative assessment of resectability, accuracy of determining of tumor localization and identifying vascular invasion.

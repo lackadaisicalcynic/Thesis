@@ -1,0 +1,12 @@
+[The molecular mechanisms and morphological manifestations of leiomyoma reduction induced by selective progesterone receptor modulators].  AIM  to investigate the molecular mechanisms and morphological substrate of reduced uterine leiomyoma in patients receiving the selective progesterone receptor modulator (SPRM) ulipristal acetate for 3 months, by estimating the immunohistochemical expression of the markers steroid receptor coactivator 1 (SRC-1), nuclear receptor corepressor 1 (NCoR-1), ER, PgR, Ki-67, p16, TGF-β, and VEGF in tumor tissue.
+SUBJECTS AND METHODS
+The investigation enrolled 75 women with uterine leiomyoma, menorrhagias, and anemia.
+Group 1 included 40 patients who were treated with ulipristal for 3 months, followed by laparoscopic myomectomy.
+Group 2 consisted of 35 patients who underwent surgery without previous preparation.
+The intra- and postoperative parameters and molecular and morphological changes in the myomatous nodules were comparatively analyzed in both groups.
+RESULTS
+After 3 months of therapy initiation, menorrhagia completely ceased, myomatous nodules decreased in size (p<0.05), hemoglobin levels were elevated (p<0.01), and total intraoperative blood loss and operative time decreased in all the patients in Group 1.
+The morphological substrate of partial leiomyoma reduction was leiomyocyte apoptosis and dystrophy, tumor stroma sclerosis and hyalinosis with diminished Ki-67 expression and elevated p16 in the smooth muscle cells, trophic nodular tissue disorders exhibited by vascular wall sclerosis and lower VEGF and TGF-β expression, and leiomyocyte hormonal reception dysregulation that made itself evident through the reduced expression of SRC-1 with the unchanged expression of PR and ER and the maintained level of NCoR-1.
+CONCLUSION
+The molecular mechanisms of tumor reduction involved the reduced Ki-67 expression and elevated p16, lower VEGF and TGF-β, diminished SRC-1 expression with the maintained level of PR, ER, and NCoR-1.
+Overall, this is suggestive of enhanced apoptosis and reduced leiomyoma proliferation and angiogenesis induced by SPRM and indicative of the expediency of using ulipristal acetate as a preoperative agent for organ-sparing surgery in reproductive-aged patients with uterine myoma, menorrhagias, and anemia.

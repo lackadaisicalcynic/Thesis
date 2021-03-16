@@ -1,0 +1,11 @@
+[Autonomic dysfunction in patients with multiple sclerosis].
+AIM  To optimize the early diagnosis of the autonomic dysfunction in patients with MS.
+MATERIAL AND METHODS
+The main group consisted of 46 patients: 15 men and 31 women with MS (McDonald, 2005), the average age was 33.35±9.9 years, the average score of the Expanded disability scale (EDSS) was 2.8±1.17 points.
+The control group consisted of 24 healthy subjects matched by age and sex with the main group.  A study of the autonomic nervous system was carried out using the Scheme for detection of signs of autonomic disorders (A.M. Vein, 1998) and analysis of heart rate variability (HRV) at rest and after active orthostatic test (AOT).
+RESULTS
+Autonomic dysfunction was found in 73% of the patients.
+The overall score of the Scheme was significantly higher in MS patients (31.32±9.43 points) compared to the comparison group (2.36±4.39 points, p<0.05).  According to HRV, the contribution of brainstem autonomic centers in the regulation of stress-response during AOP was significantly reduced (p<0.05) and was characterized by the lack of activation of the sympathetic division of the ANS.
+In patients with MS, cerebral influences were dominating on HRV baseline records, evaluated by the domination of the VLF component in the spectrum.
+During AOP, VLF was almost leveled in both groups, and the VLF changes in patients before and after the AOP reached statistical significance (p<0.05).  CONCLUSION
+The use of the Scheme is preferable in outpatient clinics to screen the large numbers of patients with MS, and then selected patients could be referred to the instrumental methods of investigation.

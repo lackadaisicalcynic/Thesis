@@ -1,0 +1,8 @@
+Zika virus infection estimates, Mexico.
+Objective  To assess the magnitude of the Mexican epidemic of Zika virus infection and the associated risk of microcephaly.
+Methods
+From the reported number of laboratory-confirmed symptomatic infections among pregnant women and the relevant birth rate, we estimated the number of symptomatic cases of infection that occurred in Mexico between 25 November 2015, when the first confirmed Mexican case was reported, and 20 August 2016.
+We used data from the birth certificates to compare mean monthly incidences of congenital microcephaly before (1 January 2010-30 November 2015) and after (1 December 2015-30 September 2017) the introduction of Zika virus, stratifying the data according to whether the mother's place of residence was at an altitude of at least 2200 m above sea level.  We used Poisson interrupted time series, statistical modelling and graphical analyses.
+Our estimated number of symptomatic cases of infection that may have occurred in the general population of Mexico between 25 November 2015 and 20 August 2016, 60 172, was 7.3-fold higher than the corresponding number of reported cases.  The monthly numbers of microcephaly cases per 100 000 live births were significantly higher after the introduction of the virus than before (incidence rate ratio, IRR: 2.9; 95% confidence interval, CI: 2.3 to 3.6), especially among the babies of women living at altitudes below 2200 m (IRR: 3.4; 95% CI: 2.9 to 3.9).
+Conclusion
+The Mexican epidemic appears to be much larger than indicated by estimates based solely on counts of laboratory-confirmed cases, and to be associated with significantly increased risk of microcephaly.

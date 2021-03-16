@@ -1,0 +1,20 @@
+[Metal self-expanding stents for malignant obstruction of stomach outlet and duodenum].  AIM
+To compare different types of self-expanding stents (partially coated or uncovered) for malignant pyloroduodenal obstruction (MPDO).
+MATERIAL AND METHODS
+89 MPDO patients underwent stenting at the Botkin City Hospital (Moscow) for the period 2008-2016.  The causes of malignant obstruction were: stomach cancer - 53 (59.5%), pancreatic cancer - 31 (34.8%), compression by retroperitoneal lymph nodes - 3 (3.4%), duodenal cancer - 2 (2.2%).
+Patients were divided into two homogeneous groups.
+In group 1 (32 patients) partially coated stents were used, in group 2 (57 patients) - uncovered stents.
+Mean age was 68.3±6.2 and 64.3±5.7 years in both groups respectively; male/female ratio 18/14 in group 1, 32/25 in group 2.
+Length of stricture was 51±5.1 mm in group 1, 48±4.8 mm in group 2.
+GOOSS score in group 1: 0-8, 1-13, 2-11, 3-0, in group 2 0-14, 1-25, 2-18, 3-0 (p=0.03).
+RESULTS AND DISCUSSION
+Technical success was achieved in 32 patients of group 1 (100%) and in 57 patients of group 2 (100%).
+There were no procedure-associated complications and mortality.  Clinical success was observed in 29 (90.6%) patients of group 1 and in 50 (87.7%) patients of group 2.
+GOOSS score of group 1: 0-8, 1-8, 2-10, 3-12, group 2: 0-3, 1-15, 2-19, 3-20.
+There were 3 distal dislocations of the stent within 1 - days in group 1, in group 2 dislocations were absent.
+Postoperative chemotherapy was prescribed in 20 (62.5%) patients of group 1 and 38 (66.7%) patients of group 2 (p=0.08).  27 patients of group 1 and 49 patients of group 2 died due to progression of the disease, others are under observation.
+Mean life expectancy: group 1 (18 patients - 50 days, 9 patients - 100 days, 5 patients were alive by the moment of study); group 2 (32 patients - 50 days, 100 days - 17 patients, 8 patients were alive by the moment of study).
+3 patients (9.4%) in group 1 and 7 (12.3%) patients in group 2 had stent dysfunction (p=0.02).
+Mean period of partially covered stent function was 138±3.9 days, uncovered stent - 96±4.8 days (р=0.003).
+CONCLUSION
+Our study showed that time of stent function corresponds to median survival.  Greater number of stent migration in group 1 is due to stent coverage, higher incidence of stent dysfunction in group 2 - due to malignant invasion.

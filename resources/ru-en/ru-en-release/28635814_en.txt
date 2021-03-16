@@ -1,0 +1,5 @@
+[The biological activity of high-density lipoprotein fractions and their role in the development of cardiovascular diseases].  Increasing the human plasma concentration of high-density lipoproteins (HDL) may be part of strategy for control of cardiovascular diseases (CVD).
+HDL particles vary in their structure, metabolism, and biological activity.  The review describes major HDL fractions (subpopulations) and discusses new findings on the antiatherogenic properties of HDL particles.
+The whole spectrum of HDL fractions, small, dense, protein-rich lipoproteins, has atheroprotective properties that are determined by the presence of specialized groups of proteins and lipids; however, this activity may be decreased in atherogenic lesion.
+Comprehensive structural and compositional analysis of HDL may provide key information to identify the fractions that have characteristic biological properties and lose their functionality in CVD.
+These fractions may be also biomarkers for the risk of CVD and hence represent pharmacological targets.

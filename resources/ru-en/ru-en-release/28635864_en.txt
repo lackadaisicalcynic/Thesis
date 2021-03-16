@@ -1,0 +1,4 @@
+[Pharmacotherapy and dementia].  The review considers treatment aspects of dementia in Alzheimer's disease (DAD), vascular dementia (VD) and some other forms of dementia.
+Pathogenetic pharmacotherapy of DAD aims to maintain the activity of cholinergic neurons with anticholinesterase drugs including donepezil, which is used most often.
+The main objective of VD treatment is prevention of new cerebral infarctions using cardiotropic medications, antiaggregants, anticoagulants, hypotensive drugs and statins.
+In Russia, patients with DAD and VD receive polymodal drugs as well.  These drugs have been included in the list of antidementia medications due to their wide use in treatment of discirculatory encephalopathy and chronic brain ischemia.

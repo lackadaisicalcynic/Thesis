@@ -1,0 +1,11 @@
+[Molecular genetic diagnosis of Stargardt disease].  AIM  To comparatively evaluate the efficacy of genetic screening in patients with Stargardt disease (SD) by using an express panel of 5 most common ABCA4 mutations and performing massive parallel sequencing of all coding regions of the ABCA4, ELOVL4, PROM1, and CNGB3 genes.
+MATERIAL AND METHODS
+MLPA analysis for 5 ABCA4 mutations, namely p.G863A, p.L541P, p.A1038V, p.G1961E, and p.P1380L, was done in 54 patients with SD.
+In 25 patients, massive parallel sequencing of coding regions (exons) and neighboring introns of the ABCA4, ELOVL4, PROM1, and CNGB3 genes was also performed.
+RESULTS
+Gene testing for 5 ABCA4 mutations showed that 50% of patients (27 patients) harbored one mutation and 13% - two mutations.
+At massive parallel sequencing (25 patients), two pathogenic alleles were found in 21 patients (84%), one mutation - in 23 patients (91.7%).
+The majority of mutations was accounted for by the ABCA4 gene (83% of all mutation-positive patients).
+CONCLUSION
+Sequencing of exons and neighboring introns of the ABCA4, ELOVL4, PROM1, and CNGB3 genes with the new molecular genetic diagnostic system enabled confirmation of the diagnosis of SD in 84% of patients.
+High prevalence of p.L541P, p.A1038V, and p.G1961E mutations of the ABCA4 gene has been established.

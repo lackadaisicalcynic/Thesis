@@ -1,0 +1,13 @@
+[Role of tenascin С in triple-negative breast cancer].  AIM  to establish a relationship between the main markers tumor stem cells (TSCs), CD44, and CD24, the level of tenascin C production, and chemoresistance in triple-negative breast cancer (BC).
+SUBJECTS AND METHODS
+Thirty biopsy specimens from triple-negative BC patients who had conventionally received preoperative chemotherapy followed by surgery were selected in the investigation.
+All the selected patients were conventionally assigned to neoadjuvant polychemotherapy (PCT) with paclitaxel and carboplatin.
+The surgical specimens were analyzed in relation to the degree of a tumor morphological response to PCT.
+The magnitude of the health-promoting effect of neoadjuvant therapy was evaluated according to the residual cancer burden (RCB) system using an on-line calculator; RCB was categorized into classes (from RCB-0 to RCB-III).  The markers CD44, СD24, and tenascin C were identified by the standard immunoperoxidase method in the primary biopsies.
+RESULTS
+Varying morphological responses of triple-negative breast cancer to PCT were revealed, which showed resistance in 60% of the cases.
+The chemoresistance found in most (87%) cases coincided with the identification of the CD44+/CD24low/- profile.
+The detection of the higher production of the extracellular matrix tenascin C participating in the formation of the TSC niche fully combined with the CD44+/CD24low/- phenotype; while the maximum response to tenascin C was noted in the cases differing in not only a lack of responses to PCTs, but also in the most aggressive course in conjunction with metastatic disease.
+CONCLUSION
+Immunohistochemical analysis shows that the unique association between the CD44+/CD24low/- phenotype and the pronounced production of tenascin C may have a prognostic potential, prospectively indicating the inefficiency of neoadjuvant PCT, in particular that with platinum derivatives, which is used for the standard treatment of triple-negative BC.
+Taking into account the role of tenascin C in invasion, metastasis, and chemoresistance, it per se may be considered as a promising target for the targeted and/or combined therapy of triple-negative BC.

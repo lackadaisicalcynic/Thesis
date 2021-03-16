@@ -1,0 +1,16 @@
+[Significance of the determination of urinary excretion of kidney injury molecule-1 (KIM-1) in the assessment of the activity and prognosis of chronic glomerulonephritis].  AIM
+To estimate the urinary excretion of KIM-1 in groups of patients with varying clinical activity of chronic glomerulonephritis (CGN) and to determine the possibility of using the urinary KIM-1 concentration as a criterion for predicting the course of CGN.
+SUBJECTS AND METHODS
+A total of 47 patients with CGN were examined.  Group 1 included 10 patients with nephrotic syndrome (NS) and decreased glomerular filtration rate (GFR); Group 2 consisted of 16 patients with NS and normal GFR; Group 3 comprised 10 patients with partial remission of NS; Group 4 included 11 patients with CGN, hematuria, moderate proteinuria, and normal GFR.
+A control group consisted of 9 healthy individuals.
+In the examined groups, urinary KIM-1 concentrations were estimated using an indirect immunoassay.
+RESULTS
+The urinary KIM-1 excretion in the patients with CGN was higher than that in the healthy individuals (p <0.0001), at the same time, in the average the KIM-1 excretion was statistically significantly higher in the patients with proteinuria than in those with hematuria (p=0.01).
+The highest levels were registered in Group 1; Group 2 was intermediate in the level of KIM-1 excretion and the difference between Groups 3 and 4 proved to be statistically insignificant.
+The lowest levels were noted in Group 4 and in the controls; the differences between the groups were statistically insignificant.
+In the patients with CGN, the level of KIM-1 excretion was established to correlate with all indicators of NS severity.
+The value of the determination of KIM-1 as a risk factor of persistent/refractory NS was estimated.
+The results of constructing the ROC-curve indicate that KIM-1 levels higher than 2.34 ng/ml could predict NS persistence in CGN patients with a high sensitivity and specificity.
+CONCLUSION
+Urinary KIM-1 levels may be used to estimate the activity of CGN with NS and to evaluate the efficiency of treatment.
+The results of the study substantiate the search for ways of pharmacological blockade of KIM-1 production in the kidney in order to optimize the methods that impact on the pathogenesis of CGN progression.

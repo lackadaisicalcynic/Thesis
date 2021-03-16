@@ -1,0 +1,14 @@
+Interventions to improve adherence to treatment for paediatric tuberculosis in low- and middle-income countries: a systematic review and meta-analysis.
+OBJECTIVE
+To assess the design, delivery and outcomes of interventions to improve adherence to treatment for paediatric tuberculosis in low- and middle-income countries and develop a contextual framework for such interventions.  METHODS
+We searched PubMed and Cochrane databases for reports published between 1 January 2003 and 1 December 2013 on interventions to improve adherence to treatment for tuberculosis that included patients younger than 20 years who lived in a low- or middle-income country.
+For potentially relevant articles that lacked paediatric outcomes, we contacted the authors of the studies.
+We assessed heterogeneity and risk of bias.  To evaluate treatment success - i.e. the combination of treatment completion and cure - we performed random-effects meta-analysis.
+We identified areas of need for improved intervention practices.
+FINDINGS
+We included 15 studies in 11 countries for the qualitative analysis and of these studies, 11 qualified for the meta-analysis - representing 1279 children.
+Of the interventions described in the 15 studies, two focused on education, one on psychosocial support, seven on care delivery, four on health systems and one on financial provisions.
+The children in intervention arms had higher rates of treatment success, compared with those in control groups (odds ratio: 3.02; 95% confidence interval: 2.19-4.15).
+Using the results of our analyses, we developed a framework around factors that promoted or threatened treatment completion.
+CONCLUSION
+Various interventions to improve adherence to treatment for paediatric tuberculosis appear both feasible and effective in low- and middle-income countries.

@@ -1,0 +1,9 @@
+Assessing the quality of primary care in Haiti.
+OBJECTIVE  To develop a composite measure of primary care quality and apply it to Haiti's primary care system.
+METHODS
+Using the Primary Health Care Performance Initiative's framework, we defined four domains of primary care service delivery: (i) accessible care; (ii) effective service delivery; (iii) management and organization; and (iv) primary care functions.  We gave each primary care facility in Haiti a quality score for each domain and overall, with poor, fair and good quality indicated by scores of 0.00-0.49, 0.50-0.74 and 0.75-1.00, respectively.
+We quantified access and effective access to primary care as the proportions of the population within 5 km of any primary care facility and a good facility, respectively.  FINDINGS
+Of the 786 primary care facilities in Haiti in 2013, only 332 (43%) facilities were classified as good for accessible care.  Fewer facilities were classified as good in the domains of effective service delivery (30; 4%), management and organization (91; 12%) and primary care functions (43; 5%).
+Although about 91% of the population lived within 5 km of a primary care facility, only an estimated 23% of the entire population - including just 5% of the rural population - had access to primary care of good quality.  CONCLUSION
+Despite an extensive network of health facilities, a minority of Haitians had access to a primary care facility of good quality.
+Such facilities were especially scarce in rural areas.  Similar systematic analyses of the quality of primary care could inform national efforts to strengthen health systems.

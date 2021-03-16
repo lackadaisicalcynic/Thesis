@@ -1,0 +1,9 @@
+[An effect of cabergoline on alcohol consumption and DRD2 expression in the brain of rats with chronic alcohol intoxication].
+AIM
+Cabergoline is a high selective agonist of dopamine D2 receptors (D2R).
+The activation of D2R plays an important role in the regulation of dopamine transmission, the imbalance of which is thought to underlie the development of alcohol motivation.  To examine this possibility, cabergoline effects on alcohol consumption and brain DRD2 expression in rats with chronic alcohol intoxication were studied.
+MATERIAL AND METHODS
+Male Wister rats were studied using the following methods: modelling of chronic alcohol intoxication, testing in «10% alcohol vs water» choice regimen, quantitative RT-PCR.  RESULTS
+Systemic administration of 0.5 mg/kg of cabergoline significantly decreases alcohol intake in alcohol-preferring rats.  At the same time, cabergoline elevates the DRD2 expression in the midbrain and striatum of high-alcohol-preferring rats but not in intact (alcohol-naïve) animals.
+CONCLUSION
+The involvement of cabergoline in the DRD2 expression may lead to the decrease in alcohol motivation.  These findings indicate that cabergoline needs further investigations as a new potential medication for alcohol use disorder.

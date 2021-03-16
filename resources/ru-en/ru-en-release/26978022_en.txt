@@ -1,0 +1,10 @@
+[Optimization of the immunohistochemical diagnosis of AL amyloidosis using novel antibodies].
+OBJECTIVE
+to improve the immunohistochemical diagnosis of AL amyloidosis, by generating novel peptide antibodies against the variable and constant regions of the κ-light chains.
+MATERIAL AND METHODS  All amyloidogenic κ-light chains were sought in the scientific literature and the database of the National Center for Biotechnology Information.
+On the basis of the findings, a chain was formed from the most common amino acid residues that were used to choose peptide regions for immunization.  Four antibodies were generalized via immunization of rabbits with two peptides that corresponded to the variant or constant regions of κ-light chains.
+RESULTS
+The specificity of the obtained antibodies was confirmed using a series of 222 biopsy specimens from 193 patients with AL, AA, transthyretin, or insulin amyloidosis.
+All the novel polyclonal peptide antibodies produced positive staining in cases of ALκ amyloidosis.
+CONCLUSION
+The generated polyclonal peptide antibodies against the variable and constant regions of κ-light chains are able to improve the immunohistochemical diagnosis of amyloidosis.

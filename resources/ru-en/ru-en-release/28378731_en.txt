@@ -1,0 +1,12 @@
+[Right ventricular diastolic function in patients with lung diseases in the absence or presence of pulmonary hypertension].
+AIM  To investigate the indicators of filling of the right ventricle (RV) in patients with chronic lung diseases with and without pulmonary hypertension (PH) compared to healthy individuals.
+SUBJECTS AND METHODS
+365 people (198 men); mean age 64.6±8.0 years) were examined and divided into a group of patients with respiratory pathology without and with PH (n=124 and n=138, respectively) and a comparison group that included individuals without cardiovascular and respiratory diseases (n=103).
+All underwent echocardiography with examination of RV filling flows (Et, At, Et/At), data of the spectral tissue Doppler imaging of the fibrous ring of the tricuspid valve (e't, a't, e't/a't), and early tricuspid flow propagation velocity (ETFPV).
+RESULTS
+All the groups were found to have an e't/a't decrease to 0.75 (0.63-0.90) - 0.8 (0.63-1.0; p=0.26).
+The groups showed no noticeable differences in indicators, such as Еt/Аt, e't/a't, and Еt/e't ratios, although the increased size of the right heart was noted in patients without PH along with the ETFPV decrease from 33.5 (28-39) to 31.5 (24.5-36) cm/sec, which continued to substantially decline to 27.1 (24-35) cm/sec in patients with PH (p<0.0001).
+CONCLUSION
+Patients with chronic lung disease even without the development of PH exhibited a decreased ETFPV along with the increased size of the right heart.
+Another indicator of RV diastolic function is a tricuspid valve annular velocity ratio in early and late diastole; the e't/a't ratio was not considerably different in the groups, although its decline was observed in all the groups probably due to age-related changes.
+Thus, RV diastolic function should be comprehensively evaluated in patients with lung disease regardless of the presence of PH.

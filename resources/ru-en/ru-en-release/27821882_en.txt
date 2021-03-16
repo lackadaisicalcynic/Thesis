@@ -1,0 +1,11 @@
+Inequalities in full immunization coverage: trends in low- and middle-income countries.
+OBJECTIVE
+To investigate disparities in full immunization coverage across and within 86 low- and middle-income countries.
+METHODS
+In May 2015, using data from the most recent Demographic and Health Surveys and Multiple Indicator Cluster Surveys, we investigated inequalities in full immunization coverage - i.e. one dose of bacille Calmette-Guérin vaccine, one dose of measles vaccine, three doses of vaccine against diphtheria, pertussis and tetanus and three doses of polio vaccine - in 86 low- or middle-income countries.
+We then investigated temporal trends in the level and inequality of such coverage in eight of the countries.  FINDINGS
+In each of the World Health Organization's regions, it appeared that about 56-69% of eligible children in the low- and middle-income countries had received full immunization.
+However, within each region, the mean recorded level of such coverage varied greatly.  In the African Region, for example, it varied from 11.4% in Chad to 90.3% in Rwanda.
+We detected pro-rich inequality in such coverage in 45 of the 83 countries for which the relevant data were available and pro-urban inequality in 35 of the 86 study countries.  Among the countries in which we investigated coverage trends, Madagascar and Mozambique appeared to have made the greatest progress in improving levels of full immunization coverage over the last two decades, particularly among the poorest quintiles of their populations.
+CONCLUSION
+Most low- and middle-income countries are affected by pro-rich and pro-urban inequalities in full immunization coverage that are not apparent when only national mean values of such coverage are reported.

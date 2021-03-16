@@ -1,0 +1,13 @@
+Improved neonatal survival after participatory learning and action with women's groups: a prospective study in rural eastern India.
+OBJECTIVE  To determine whether a women's group intervention involving participatory learning and action has a sustainable and replicable effect on neonatal survival in rural, eastern India.
+METHODS
+From 2004 to 2011, births and neonatal deaths in 36 geographical clusters in Jharkhand and Odisha were monitored.
+Between 2005 and 2008, these clusters were part of a randomized controlled trial of how women's group meetings involving participatory learning and action influence maternal and neonatal health.
+Between 2008 and 2011, groups in the original intervention clusters (zone 1) continued to meet to discuss post-neonatal issues and new groups in the original control clusters (zone 2) met to discuss neonatal health.
+Logistic regression was used to examine neonatal mortality rates after 2008 in the two zones.
+FINDINGS
+Data on 41,191 births were analysed.
+In zone 1, the intervention's effect was sustained: the cluster-mean neonatal mortality rate was 34.2 per 1000 live births (95% confidence interval, CI: 28.3-40.0) between 2008 and 2011, compared with 41.3 per 1000 live births (95% CI: 35.4-47.1) between 2005 and 2008.
+The effect of the intervention was replicated in zone 2: the cluster-mean neonatal mortality rate decreased from 61.8 to 40.5 per 1000 live births between two periods: 2006-2008 and 2009-2011 (odds ratio: 0.69, 95% CI: 0.57-0.83).  Hygiene during delivery, thermal care of the neonate and exclusive breastfeeding were important factors.
+CONCLUSION
+The effect of participatory women's groups on neonatal survival in rural India, where neonatal mortality is high, was sustainable and replicable.

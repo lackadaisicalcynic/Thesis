@@ -1,0 +1,11 @@
+[Effects of bilateral deep brain stimulation in the subthalamic nucleus using two methods of target structure verification].  AIM
+To evaluate the efficacy of deep brain stimulation in the subthalamic nucleus (DBS STN) in patients with Parkinson's disease (PD) using different methods of targeting according to the dynamics of motor symptoms of PD.  MATERIAL AND METHODS
+The study involved 90 patients treated with DBS STN.  In 30 cases intraoperative microelectrode recording (MER) was used.
+MER was not performed in 30 patients of the comparison group.
+The control group consisted of 30 patients with PD who received conservative treatment.
+Hoehn and Yahr scale, Tinetti Balance and Mobility Scale (TBMS), Unified Parkinson's Disease Rating Scale (UPDRS), Parkinson's Disease Quality of Life-39 Scoring System (РDQ-39), Schwab & England ADL Scale were used.
+Levodopa equivalent daily dose (LEDD, 2010) was calculated for each patient.
+RESULTS AND CONCLUSION
+The effect of DBS STN using intraoperative microelectrode recording on the main motor symptoms, motor complications, walking as well as indicators of quality of life and daily activities was shown.
+In both DBS STN groups, there was a significant reduction in the LEDD and marked improvement of the control of motor symptoms of PD.  A significant reduction in the severity of motor fluctuations (50%) and drug-induced dyskinesia (51%) was observed.
+Quality of life and daily activity in off-medication condition were significantly improved in both DBS STN groups of patients, irrespective of the method of target planning (75-100%), compared with the control group.

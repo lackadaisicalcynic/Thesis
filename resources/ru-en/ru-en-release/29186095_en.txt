@@ -1,0 +1,15 @@
+AIM  To optimize fluid therapy in transhiatal eshophagectomy by using of goal-oriented infusion therapy based on stroke volume variation.
+MATERIAL AND METHODS
+Our trial enrolled 30 patients who underwent transhiatal esophagectomy followed by repair for the period 2011-2014.
+Patients were divided into 2 groups.
+The first group (LT) included 16 patients with liberal fluid therapy.
+The second group (GDT) consisted of 14 patients in whom goal-oriented fluid therapy was performed.  Goal-oriented fluid therapy was implemented via stroke volume variation (SVV).
+RESULTS
+Infusion rate was 6.7 ml/kg/h and 11.5 ml/kg/h in the main and control groups, respectively.
+Morbidity rate was 28.6% (n=4) and 62.5% (n=10) in the main and control groups respectively.
+Clavien-Dindo IV complications were lung atelectasis (n=2, 14%), pneumonia (n=1, 7%).
+Hydrothorax required puncture was noted in 1 (7%) case.
+Acute respiratory failure as complication IVa was in 1 (9%) patient.
+In the control group complications were registered in 10 (62.5%) patients.
+Complications I-II degree included lung atelectasis (n=4, 25%), cervical anastomosis failure (n=1, 6%); complications IVa were observed in 8 cases (50%).  It was significant respiratory failure with reduced PO2/FiO2<300.
+Patients of the main group required less time for postoperative mechanical ventilation  (120 [90-300] vs. 315 [215-810] min (p=0.02) and ICU-stay

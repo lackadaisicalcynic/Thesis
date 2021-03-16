@@ -1,0 +1,9 @@
+[Stroke epidemiology in Irkutsk according to the territorial population register].
+AIM
+To study the dynamics of main epidemiological indices of stroke in Irkutsk in 2009-2013 and to compare the results with those in Russia.  MATERIAL AND METHODS
+The study was based on the data of the clinical/epidemiological analysis of stroke in open population of men and women in Irkutsk, the data analysis was performed using SAS 8.0.
+RESULTS
+The territorial population register showed changes in disease and death rates for all stroke cases in the group of 25-74 years old both in men and women.
+The morbidity in men did not significantly exceed that in Russia.
+In the period of 5 years, the morbidity in women decreased by 28%.  The stable trend towards the decrease in deaths from stroke in men and women was observed.
+During the observational period it decreased two-fold.

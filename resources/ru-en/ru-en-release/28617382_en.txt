@@ -1,0 +1,12 @@
+[Dimebon delays the onset of symptoms of FUS-proteinopathy in transgenic mice].
+AIM  To evaluate an effect of dimebon on the onset of symptomatic stage in FUS.1-513 transgenic mice - a new genetic model of neurodegeneration, and to study the dynamics of disease progression in the terminal stage.
+MATERIAL AND METHODS
+The study was carried out on males of line FUS1-513 with the contribution of genes from CD1 strains.
+Mice of the experimental group (n=28) received dimebon with water in the concentration of 70 mcg/ml starting from the 35th day of life.
+The control group (n=25) did not receive the drug.
+Age, body mass of animals at the start of symptomatic stage and duration of symptomatic stage were assessed.
+RESULTS
+Application of dimebon can delay the onset of the manifestation of clinical symptoms of the neurodegenerative process in the experimental group (127.6±4.6 days) compared to the control group (110.6±4.2 days).
+The body mass was similar in both groups.
+CONCLUSION
+Dimebon leads to an increase in the duration of presymptomatic stage and delays the manifestation of clinical symptoms.  The changes in the dynamics of the pathological process in the symptomatic stage are not detected.

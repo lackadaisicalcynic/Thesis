@@ -1,0 +1,22 @@
+[Total mesorectal excision in rectal cancer management: laparoscopic or transanal?].
+AIM
+To evaluate and compare intraoperative features, early surgical outcomes, quality of excised specimen after laparoscopic and transanal total mesorectal excision (LA-TME and TA-TME).
+MATERIAL AND METHODS
+Prospective randomized study included 45 patients with confirmed rectal adenocarcinoma (cT2-4N0-2M0) since October 2013.
+LA-TME and TA-TME groups consisted of 23 and 22 patients respectively.  Inclusion criteria were patients with primary-operable rectal cancer and satisfactory response after neoadjuvant chemo- and radiotherapy.
+Both groups were comparable in stages of cancer, age and body mass index (BMI).
+Median length from anal edge was 6.5 cm and 7 cm in TA-TME and LA-TME groups respectively.
+There was significantly greater number of patients after chemo- and radiotherapy in TA-TME group (86% vs. 48%, p=0.006).
+RESULTS
+Surgery time was 305 and 320 minutes in LA-TME and TA-TME groups recpectively, median blood loss -- less than 100 ml.
+Mean hospital-stay was 8.0 days in both groups.  Each group had 1 conversion including laparoscopic procedure in TA-TME group.
+Transanal extraction of specimen was performed in 86% vs. 48% in TA-TME and LA-TME groups respectively (p=0.021).
+Complications (Clavien-Dindo sclale) were observed in 27% and 26% in TA-TME and LA-TME groups respectively without statistically significance.
+Complications IIIb, IVb and V degrees were not diagnosed in TA-TME group.
+Also in this group «good», «satisfactory» and «unsatisfactory» quality of TME was obtained in 68%, 14% and 18% of cases.  At the same time in LA-TME group these values were 74%, 9% and 17% respectively (p=0.859).
+One of operated patients had «positive» lateral edge (TA-TME).
+Median distal edge of resection was 21 mm and 23 mm in TA-TME and LA-TME groups respectively.
+CONCLUSION
+Preliminary data show comparable early outcomes after transanal and laparoscopic techniques.
+Laparotomy and associated compications are avoided in case of transanal extraction of specimen.
+Further researches are necessary to study functional and long-term results.

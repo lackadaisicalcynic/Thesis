@@ -1,0 +1,11 @@
+[Vein morphology after endovenous laser coagulation at different power and similar linear density of energy].  The purpose of the study was to assess the depth of damage to the venous wall after endovenous laser coagulation (EVLC) at different power of the unit - 5, 7 and 10 W and similar linear density of energy (LDE) - approximately 70 J/cm.
+Our prospective comparative morphological study with blinding included a total of 30 patients subjected to EVLC of the great saphenous vein using the unit with a wavelength of 1,470 nm and radial light guides with automatic traction.
+The patients were divided into three groups, each comprising 10 patients.
+The unit's power (W) during EVLC and velocity of light guide traction (mm/s) in group one amounted to 5 and 0.7 (LDE - 71.4 J/cm), in group two to 7 and 1.0 (LDE - 70 J/cm) and in group tree to 10 and 1.5 (LDE - 66.7 J/cm), respectively.
+The coagulated veins were then procured from mini approaches and subjected to three sections made at a distance of 2 mm from each other.
+Specimens were stained with haematoxylin-eosin and picrofuxin according to the van Gieson technique.
+Then, in four places of each section (at 3, 6, 9 and 12 hours) we assessed the depth of the damage to the venous wall and calculated the average percentage of alteration - the ratio of the depth of the lesion to the venous wall thickness.
+The average depth of damage to the venous wall (μm) amounted in the first group to 122.9 ?m, in the second group to 182.9 μm, and in the third group to 267 μmm.
+The index of alteration (%) averagely amounted: in group one to 25.7, in group two to 37.9 and in group three (at a power of 10 W) to 55.5 (p=0.0001 when comparing each of the groups (the Kruskal-Wallis test)).
+Hence, despite an inconsiderable decrease of the LDE from the first to the third group, as power increased, the depth and percentage of damage to venous walls increased statistically significantly.
+It follows from the above-mentioned that: 1) an increase in power (from 5 to 10 W) of the unit during EVLC at comparable LDE (approximately 70 J/cm) leads to a deeper damage of the venous wall; 2) it is necessary to carry out a clinical study aimed at comparing different modes of coagulation, with the assessment of the frequency of recanalization and the level of pain syndrome.

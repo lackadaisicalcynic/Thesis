@@ -1,0 +1,4 @@
+[Repetitive transcranial magnetic stimulation in neurology and psychiatry].  Transcranial magnetic stimulation (TMS) is a method based on the excitation of neurons in the brain cortex by an alternating magnetic field.
+Repetitive TMS (rTMS) is a kind of stimulation, in which a series of pulses are generated. rTMS can modulate different cortical area's activity and change their interactions using different protocols.
+The review shows the application of rTMS in treatment of various neurological (stroke, Parkinson's disease, dystonia, chronic pain syndromes, tinnitus, epilepsy, spasticity syndrome) and psychiatric (depression and anxiety) disorders.
+Authors collected all the main protocols, and gave recommendations for their use in clinical practice according to principles of evidence medicine.

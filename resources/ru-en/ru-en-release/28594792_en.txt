@@ -1,0 +1,11 @@
+[Assessment of functional state of microcirculatory bed of the foot in patients with lower limb critical ischaemia].  The authors assessed perfusion of the foot in patients presenting with lower limb critical ischaemia before and after endovascular revascularization, as well as analysed the interrelationship between the change of perfusion and the clinical result of treatment.
+The study includes a total of 15 patients presenting with ulcerative-necrotic defects of the foot.
+All patients underwent study of 2D-perfusion of the foot before and after the endovascular intervention.
+The '2D-perfusion' package was used within the framework of an angiographic examination, and required neither increase in the volume of the contrast medium nor radiation load.
+Four parameters of perfusion were evaluated: the time of ingress, the time of reaching the peak value, the peak value and the area under the curve.
+After the intervention, as compared with the baseline values there were statistically significant differences by the time of ingress (a 2.4-fold decrease; p<0.0001), the peak value (a 1.8-fold increase; p<0.0001) and the area under the curve (a 2.4-fold increase; p<0.0001).
+No statistically significant differences were revealed while comparing the time of reaching the peak value before and after the intervention (p=0.767).
+Trophic defects healed in 11 (73.3%) patients, and in 4 (26.7%) patients the process of healing continued with positive dynamics at the check-up examination.
+Hence, our first experience of using the assessment of 2D-perfusion demonstrates simplicity of the method with no increase of the radiation load and the dose of the contrast medium.
+The method makes it possible to obtain important data about the state of microcirculation of the foot in patients with lower limb critical ischaemia, to evaluate alterations after the endovascular intervention.
+Improvement of the parameters of perfusion is associated with a good clinical outcome.

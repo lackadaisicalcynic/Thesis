@@ -1,0 +1,11 @@
+Trends in mortality from respiratory disease in Latin America since 1998 and the impact of the 2009 influenza pandemic.
+OBJECTIVE
+To determine trends in mortality from respiratory disease in several areas of Latin America between 1998 and 2009.
+METHODS
+The numbers of deaths attributed to respiratory disease between 1998 and 2009 were extracted from mortality data from Argentina, southern Brazil, Chile, Costa Rica, Ecuador, Mexico and Paraguay.  Robust linear models were then fitted to the rates of mortality from respiratory disease recorded between 2003 and 2009.
+Between 1998 and 2008, rates of mortality from respiratory disease gradually decreased in all age groups in most of the study areas.  Among children younger than 5 years, for example, the annual rates of such mortality - across all seven study areas - fell from 56.9 deaths per 100,000 in 1998 to 26.6 deaths per 100,000 in 2008.
+Over this period, rates of mortality from respiratory disease were generally highest among adults older than 65 years and lowest among individuals aged 5 to 49 years.
+In 2009, mortality from respiratory disease was either similar to that recorded in 2008 or showed an increase - significant increases were seen among children younger than 5 years in Paraguay, among those aged 5 to 49 years in southern Brazil, Mexico and Paraguay and among adults aged 50 to 64 years in Mexico and Paraguay.
+CONCLUSION
+In much of Latin America, mortality from respiratory disease gradually fell between 1998 and 2008.
+However, this downward trend came to a halt in 2009, probably as a result of the (H1N1) 2009 pandemic.

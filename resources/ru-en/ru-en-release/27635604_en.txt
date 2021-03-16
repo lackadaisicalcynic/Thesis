@@ -1,0 +1,8 @@
+[Predictors of epilepsy in children after ischemic stroke].
+AIM  To determine clinical/instrumental predictors of symptomatic epilepsy after ischemic stroke in children.
+MATERIAL AND METHODS
+One hundred and thirty-six patients, aged 0-15 years, with the diagnosis of ischemic stroke (ICD-10 I63.0-I63.9) were examined.
+The duration of the study was 18 months - 12 years.
+Patients were stratified into post-stroke (n=22) and control (n=114) groups, the latter included patients without epilepsy regardless of the presence of convulsive seizures in the acute stage of stroke.
+Predictors were determined based on EEG and characteristics of convulsive syndrome in the acute stage of stroke.  RESULTS AND CONCLUSION
+The following prognostic criteria were found: generalized type of seizures, focal type of seizures with secondary generalization, epileptiform (peak and/or peak-wave) activity, focal character of epileptiform activity, generalized type of seizures in the combination with slow wave background activity on EEG, generalized type of seizures in the combination with slow wave activity and disorganized activity on EEG.

@@ -1,0 +1,20 @@
+[Risk factors for anemia in the early stages of chronic kidney disease].
+AIM  To identify the early markers of anemia in chronic kidney disease (CKD) in patients with chronic glomerulonephritis (CGN) and glomerulonephritis (GN) in systemic diseases.
+SUBJECTS AND METHODS
+Seventy-nine patients with some male preponderance who were aged 21 to 65 years (45.3±11.1 years) and had CKD (CGN and GN) in systemic diseases (systemic lupus erythematosus and Wegener's granulomatosis) in the early stages (Stages I-II) of CKD were examined.
+GN was diagnosed by a lifetime renal biopsy.
+Systemic diseases were diagnosed according to the criteria for each nosological entity.
+The stages of CKD were defined according to the 2012 Kidney Disease: Improving Global Outcomes (KDIGO) criteria; the glomerular filtration rate (GFR) was calculated using the CKD EPI equation (2012).
+According to the presence or absence of anemia, all the patients included in the study were divided into 2 groups: 1) 43 (54.4%) anemic patients; 2) 36 (45.6%) non-anemic patients (a control group).
+In addition to general clinical examination adopted for a nephrology department, special studies, such as determination of the serum levels of hepcidin, interferon-γ (IFN-γ), soluble Klotho protein (s-Klotho), as well as iron, ferritin, and transferrin saturation (TSAT) ratio, were performed to solve the set tasks.
+RESULTS
+Forty-three anemic patients who had a hemoglobin level of 110 (100; 119) g/l and 36 control patients who had the similar values were noted to have statistically significantly (p<0.001) higher levels of IFN-γ (11 (10; 14) and 0.2 (0.09; 0.6) ng/ml), hepcidin (26 (25; 27) and 5.1 (3.8; 5.9) ng/ml) and C-reactive protein (1.5 (1.1; 2.1) and 0.3 (0.2; 0.6) mg/dl), and lower levels of s-Klotho protein (12 (10; 18) pg/ml) and TSAT  (18 (14; 19)%.
+Forty-three patients with anemia were also found to have a statistically significantly (p<0.01) lower GFR (65 (62; 87) and 80.5 (62; 90) ml/min) and higher systolic blood pressure (145 (125; 160) and 120 (115; 16) mm Hg) as compared with those in 36 control patients.
+At the same time, the compared groups displayed no statistically significant differences in serum ferritin levels (123 (110; 150) and 115 (100; 140) µg/l).
+Among 43 CKD patients with anemia, its detection rate in the presence of systemic diseases was 3.2 times higher than that in CGN patients (41.7 and 12.7%).
+ROC analysis revealed that in the CKD patients with CGN and GN, the serum hepcidin level ≥ 25 ng/ml, with the sensitivity and specificity being of 89.7% and 74%, respectively (p > 0.001), was associated with the development of anemia.
+Moreover, the hemoglobin level of<120 g/ l was found to have an independent impact on the risk of reducing serum s-Klotho production.
+CONCLUSION
+In Stage I-II CKD patients with CGN and GN in the presence of systemic diseases, elevated serum hepcidin levels should be regarded as a predictor for anemia of chronic disease (ACD).
+Herewith, the decrease in hemoglobin levels <120 g/l is associated with the reduced production of the nephroprotective factor s-Klotho.
+The treatment of ACD for Stages I-II CKD should encompass intravenous administration of iron in order to increase its content and availability for erythropoiesis.

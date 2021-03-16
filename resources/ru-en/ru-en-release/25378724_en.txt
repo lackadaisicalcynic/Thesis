@@ -1,0 +1,14 @@
+Estimation of maternal and child mortality one year after user-fee elimination: an impact evaluation and modelling study in Burkina Faso.
+OBJECTIVE  To estimate the impact on maternal and child mortality after eliminating user fees for pregnant women and for children less than five years of age in Burkina Faso.
+METHODS
+Two health districts in the Sahel region eliminated user fees for facility deliveries and curative consultations for children in September 2008.  To compare health-care coverage before and after this change, we used interrupted time series, propensity scores and three independent data sources.
+Coverage changes were assessed for four variables: women giving birth at a health facility, and children aged 1 to 59 months receiving oral rehydration salts for diarrhoea, antibiotics for pneumonia and artemesinin for malaria.
+We modelled the mortality impact of coverage changes in the Lives Saved Tool using several scenarios.
+FINDINGS
+Coverage increased for all variables, however, the increase was not statistically significant for antibiotics for pneumonia.
+For estimated mortality impact, the intervention saved approximately 593 (estimate range 168-1060) children's lives in both districts during the first year.
+This lowered the estimated under-five mortality rate from 235 deaths per 1000 live births in 2008 to 210 (estimate range 189-228) in 2009.
+If a similar intervention were to be introduced nationwide, 14,000 to 19,000 (estimate range 4000-28,000) children's lives could be saved annually.
+Maternal mortality showed a modest decrease in all scenarios.
+CONCLUSION
+In this setting, eliminating user fees increased use of health services and may have contributed to reduced child mortality.

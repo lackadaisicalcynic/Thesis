@@ -1,0 +1,8 @@
+[Features of cytokines profile in various forms of systemic inflammatory response syndrome in patients with acute calculous cholecystitis].  AIM
+Comparative evaluation of systemic concentration of some cytokines in various forms of SIR in patients with acute calculous cholecystitis.  MATERIAL AND METHODS
+The study included 32 patients with acute calculous cholecystitis and SIR.  According to ASSR/SCCM criteria SIR 2 was in 11, SIR 3 - in 8, SIR 4 - in 7 patients, 6 patients had sepsis.
+Serum TNF-α, IL-6, IL-4 and IL-10 were determined prior to surgery, in 3 and 7 days postoperatively by using of ELISA.
+RESULTS
+There was a cytokine imbalance whose severity depended on SIR severity and presence of sepsis.
+CONCLUSION
+Surgical intervention on background of basis therapy does not correct cytokine imbalance.  So adequate pharmacological correction is required.

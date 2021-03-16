@@ -1,0 +1,9 @@
+[An essential negative effect of a family history of substance use on readiness for drug dependence rehabilitation treatment in inpatients with addictions].  AIM
+To reveal objective factors predicting the readiness of inpatient drug treatment patients to undergo a rehabilitation program.
+MATERIAL AND METHODS  In a retrospective comparative study, drug-dependent individuals (n=199, 16.6% females, 83.4% men, 91.5% opioid-dependent) were studied.
+After conducting motivational activities based on cognitive-behavioral psychotherapy, the premorbid, anamnestic, clinical, socio-demographic characteristics of patients were studied as possible predictors of readiness for rehabilitation using binary logistic regression.  RESULTS
+Family history of substance use reduced the probability of readiness for rehabilitation by >4,5 times (p<0.0001, Exp (B) = 4.577, CI 95% [2.0556, 10.190]).  The influence of other factors was weaker and manifested itself only with their combinations (female sex + use of several psychoactive drugs; intravenous drug injection + polydrug addiction; non-remission course of disease + family history of substance use) which increased the likelihood of readiness for rehabilitation.
+There was no effect of social/demographic variables.
+CONCLUSION
+Family history of substance use significantly reduces the likelihood of readiness for rehabilitation.  The clinical severity of the disease, on the other hand, increases the chances of readiness.
+Patients with a family history of substance use represent a specific group of patients requiring maximum efforts in the process of motivation for rehabilitation.

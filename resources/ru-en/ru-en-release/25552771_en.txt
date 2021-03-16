@@ -1,0 +1,15 @@
+Effectiveness of travel restrictions in the rapid containment of human influenza: a systematic review.
+OBJECTIVE
+To assess the effectiveness of internal and international travel restrictions in the rapid containment of influenza.
+METHODS  We conducted a systematic review according to the requirements of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses statement.
+Health-care databases and grey literature were searched and screened for records published before May 2014.
+Data extraction and assessments of risk of bias were undertaken by two researchers independently.  Results were synthesized in a narrative form.
+FINDINGS
+The overall risk of bias in the 23 included studies was low to moderate.
+Internal travel restrictions and international border restrictions delayed the spread of influenza epidemics by one week and two months, respectively.  International travel restrictions delayed the spread and peak of epidemics by periods varying between a few days and four months.
+Travel restrictions reduced the incidence of new cases by less than 3%.  Impact was reduced when restrictions were implemented more than six weeks after the notification of epidemics or when the level of transmissibility was high.
+Travel restrictions would have minimal impact in urban centres with dense populations and travel networks.  We found no evidence that travel restrictions would contain influenza within a defined geographical area.
+CONCLUSION
+Extensive travel restrictions may delay the dissemination of influenza but cannot prevent it.
+The evidence does not support travel restrictions as an isolated intervention for the rapid containment of influenza.
+Travel restrictions would make an extremely limited contribution to any policy for rapid containment of influenza at source during the first emergence of a pandemic virus.

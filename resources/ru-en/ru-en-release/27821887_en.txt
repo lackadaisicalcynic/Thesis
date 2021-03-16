@@ -1,0 +1,15 @@
+Times to key events in Zika virus infection and implications for blood donation: a systematic review.
+OBJECTIVE
+To estimate the timing of key events in the natural history of Zika virus infection.  METHODS
+In February 2016, we searched PubMed, Scopus and the Web of Science for publications containing the term Zika.  By pooling data, we estimated the incubation period, the time to seroconversion and the duration of viral shedding.
+We estimated the risk of Zika virus contaminated blood donations.
+FINDINGS
+We identified 20 articles on 25 patients with Zika virus infection.
+The median incubation period for the infection was estimated to be 5.9 days (95% credible interval, CrI: 4.4-7.6), with 95% of people who developed symptoms doing so within 11.2 days (95% CrI: 7.6-18.0) after infection.
+On average, seroconversion occurred 9.1 days (95% CrI: 7.0-11.6) after infection.
+The virus was detectable in blood for 9.9 days (95% CrI: 6.9-21.4) on average.
+Without screening, the estimated risk that a blood donation would come from an infected individual increased by approximately 1 in 10 000 for every 1 per 100 000 person-days increase in the incidence of Zika virus infection.
+Symptom-based screening may reduce this rate by 7% (relative risk, RR: 0.93; 95% CrI: 0.89-0.99) and antibody screening, by 29% (RR: 0.71; 95% CrI: 0.28-0.88).
+CONCLUSION
+Neither symptom- nor antibody-based screening for Zika virus infection substantially reduced the risk that blood donations would be contaminated by the virus.
+Polymerase chain reaction testing should be considered for identifying blood safe for use in pregnant women in high-incidence areas.

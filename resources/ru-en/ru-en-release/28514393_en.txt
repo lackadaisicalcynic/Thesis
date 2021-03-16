@@ -1,0 +1,10 @@
+[Subtraction CT angiopulmonographic assessment of the vascular bed and lung perfusion in patients with chronic thromboembolic pulmonary hypertension: A pilot study].
+AIM  To evaluate the vascular bed and lung perfusion in patients with chronic thromboembolic pulmonary hypertension (CTEPH) by computed tomography (CT) and to compare the severity of pulmonary arterial (PA) thrombotic lesions concurrent with parenchymal perfusion disorders with angiopulmonographic findings and clinical and hemodynamic characteristics.
+SUBJECTS AND METHODS
+In the period from November 2015 to May 2016, 22 patients (7 men, 15 women) aged 27 to 67 years with a verified diagnosis of CTEPH were examined using an Aquilion ONE VISION Edition 640 (Toshiba Medical Systems, Japan) CT scanner with a 320-row detector.
+Perfusion defect in this study was evaluated with the new software allowing one to combine contrast and contrast-free images by a subtraction method.
+CT data analysis included visual assessment of the vascular bed and lung parenchyma and quantitative assessment with perfusion map construction and semi-automatic determination of the obstruction index (OI) and perfusion defect index (PDI).
+OI was compared with PDI and mean LA pressure according to the data of right heart catheterization and 6-minute walk test.  RESULTS
+A statistically significant correlation was found between OI and PDI in patients with CTEPH (Pearson r=0.56; p=0.0065).  There were no relationships between mean LA pressure and vascular perfusion indices (OI and PDI) or between vascular perfusion parameters and 6-minute walk test results.
+CONCLUSION
+CT angiopulmonography in conjunction with pulmonary perfusion assessment (within one study) allows evaluation of the severity of vascular lesions and perfusion disorders and determination of the efficiency of treatment in patients with CTEPH.

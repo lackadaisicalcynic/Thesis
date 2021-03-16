@@ -1,0 +1,14 @@
+[Morphogenesis of choroidal melanomas in OCT imaging].
+When planning conservation therapy for choroidal melanoma (CM), evaluation of its size and stage is done using various methods of visualization, among which is optical coherence tomography (OCT).
+A recently introduced modification of OCT - Enhanced Depth Imaging (EDI) allows observation of deep choroid and sclera.
+PURPOSE
+To specify clinicomorphologic correlations between OCT signs related to CM and its pathomorphological state as described in literature.  MATERIAL AND METHODS
+The study included 33 patients with predominantly small CM who were examined with EDI-OCT.
+RESULTS  The following surface profiles were revealed: small and medium sized CM with even and uneven surface and with a plateau on the top; medium sized CM with flattened edge.
+Bruch's membrane (BM) had folds along the tumor edge in medium and big CM.  In mushroom-shaped CM, extended defective areas could be observed.
+Increase of optical density in the inner parts of choroidal complex were seen over time.
+In CM of 2.9 mm and less, cavities were observed in the middle layers of choroid in the tumor area.  In roughly half of the cases, vascular distention was seen in choroid in the tumor periphery.
+Changes of retinal pigment epithelium (RPE) included its thickening and presence of hyperreflective foci.  In CM with prominence of more than 2.17 mm at the top, the changes included the formation of a 'single unitary block' at the level of BM/RPE and neurosensory retinal layers.
+Intraretinal cysts could be seen on top of the tumor at the level of outer retinal layers in CM with prominence of more than 1.5 mm.
+CONCLUSION
+Comparison of OCT images of CM with various biometric parameters with literature data on pathomorphological changes helped specify early pathomorphological symptoms in perifocal choroid (a feature of initial CM) and highly dynamic phasing of secondary changes in the retina.

@@ -1,0 +1,6 @@
+[Age-related expression of calcium-binding proteins in autonomic ganglionic neurons].  Calbindin 28 kDa (CB), calretinin (CR) and parvalbumin (PB) are belonged to calcium-binding proteins which are widely distributed in the nervous system and selectively expressed in certain population of neurons.
+These proteins are expressed not only in the central nervous system, but also in the autonomic ganglia.
+CB and PB are found in the sympathetic ganglia of rodents, CB and CR are found in metasympathetic intramural ganglia.
+Their functions are poor understood but one can suggest their important role in regulation of the Ca2+ level in the cell.  Сalcium-binding proteins are also play an important role in the development of autonomic neurons.
+There is an increasing of the percentage of CB and CR in the metasympathetic intramural ganglia of small intestine in the early postnatal development, whereas in sympathetic ganglia the percentage of CB is decreased.
+Possibly, the functional meaning of such changes can be explained by the role of calcium currents in the development of neurons and the synaptic transmission.

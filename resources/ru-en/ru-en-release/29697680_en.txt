@@ -1,0 +1,20 @@
+[Specialist's training for laparoscopic surgery in Wet-lab educational operating theatre].
+AIM
+To develop system for students training in laparoscopic surgery by using of Wet-lab educational operating theatre.
+MATERIAL AND METHODS
+We have launched laparoscopic surgery teaching program for students of Ryazan State Medical University.
+This system includes several stages.  At the first stage professional selection was carried out on 'dry' laparoscopic simulators among III-IV-year students of medical faculty.
+So, 10 people were selected.
+The second stage included theoretical and practical parts consisting of development of basic laparoscopic skills on 'dry' simulators.
+5 students who scored the maximum points were admitted to the next stage.
+The third stage is working in Wet-lab operating theatre with a mentor.
+There were 10 sessions on 10 laboratory pigs.
+Final stage of our study compares two groups of participants: main group - 5 students who underwent above-described program and control group of 5 residents without experience for laparoscopic operations.
+RESULTS
+The participants of the main group had significantly higher OSATS score compared with another group (20 vs. 10; p<0.05).
+Movements effectiveness estimated by measuring of movements trajectory total length was also higher in main group than in control group (6 vs. 20; p<0.05).
+Experts' subjective assessment according to 10-point scale was also higher for students than for interns (9 vs. 5, p<0.05).
+Participants in the main group required significantly less time to complete the task compared with the control group (40 vs. 90 minutes, p<0.05).
+CONCLUSION
+Our experience has shown that training system with Wet-lab operating theatre is effective for quick and efficient training of medical students in main laparoscopic procedures.
+In our opinion, introduction of students into 'advanced' surgery from early age will make it possible to get finally highly professional specialists.

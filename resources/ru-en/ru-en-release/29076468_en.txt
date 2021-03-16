@@ -1,0 +1,14 @@
+[Percutaneous endoscopic discectomy in the treatment of patients with degenerative diseases of the lumbosacral spine].  Modern surgery uses a variety of treatments for spine pathology.
+Endoscopic techniques have become particularly popular across the world over the past decade.  In this article, we summarize our experience and analyze the immediate and long-term results of surgical treatment of lumbar disc herniation using a percutaneous fully endoscopic technique for removing the herniated intervertebral disc, which is new for Russian medical practice.
+OBJECTIVE  to evaluate the efficacy of percutaneous endoscopic discectomy in the treatment of herniated lumbar discs in patients with radicular pain syndrome.
+MATERIAL AND METHODS
+We conducted a cohort retrospective study that included 69 patients who underwent herniated disc removal using the percutaneous endoscopic technique.
+Surgery was performed through two approaches: the intralaminar approach was used in 44 patients, and the transforaminal approach was used in 25 patients.
+To assess the efficacy of surgery, we used a visual analogue scale (VAS) of pain: the intensity of local pain (VAS1) and the intensity of radicular pain (VAS2).
+Changes in the quality of life and ability to work were assessed by using the Oswestry scale; patient satisfaction with treatment was assessed by using the MacNab scale.
+RESULTS
+The mean follow-up period after surgery was 24 months.
+An analysis of changes in the pain syndrome (VAS1 and VAS2) before surgery and in the early postoperative period demonstrated a significant regression of pain regardless of the approach type (r=0.25).
+Patients' survey (MacNab scale) in the long-term postoperative period revealed no unsatisfactory results; excellent, good, and satisfactory results were observed in 21 (30%), 32 (46%), and 16 (24%) patients, respectively.
+CONCLUSION
+Percutaneous endoscopic discectomy is an effective surgical treatment for degenerative diseases of the lumbosacral spine, providing excellent and good treatment outcomes in most operated patients.

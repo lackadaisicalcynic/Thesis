@@ -1,0 +1,6 @@
+[An experimental evaluation of the therapeutic window of the neuroprotective activity of a low-molecular nerve growth factor mimetic GK-2].  AIM
+To identify the time interval for the preservation of the effect of GK-2 depending on the start of administration after modeling ischemic stroke by the transient occlusion of the middle cerebral artery in rats.  MATERIAL AND METHODS
+The experiments were performed on 33 wild-type male rats and 81 male Wistar rats.  Animals were kept in standard conditions.
+Ischemic stroke was modelled by thread occlusion of the middle cerebral artery.
+RESULTS AND CONCLUSION  It was found that GK-2 at a daily dose of 1 mg/kg, intraperitoneally, during 7 days statistically significantly reduces brain infarct volume by 20-60% at the first injection from 4 to 24h, with the highest effect 6-8 hours after surgery.
+Thus, the 'therapeutic window' of GK-2 detected in the experiment is no less than 24 hours, which exceeds the existing neuroprotective agents.

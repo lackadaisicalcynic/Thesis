@@ -1,0 +1,3 @@
+[Electroporation: characteristics and therapeutic application of the method (a review)].
+The article briefly summarizes the currently available information on electroporation and electroporation-based therapy.  We consider the definition and the biophysical basis of the method as well as the possible mechanisms underlying the formation of pores under the influence of the application of a pulsed electric field.
+The characteristics of the devices for electroporation are described and the most typical examples of the use of electroporation and electrochemotherapy in experimental and clinical oncology, dermatology, cosmetology, and other fields of medicine are provided.

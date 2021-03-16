@@ -1,0 +1,6 @@
+[Microbial dormancy and prevention of healthcare-associated infections].
+Healthcare-associated infections (HCAI) remain one of the most challenges of modern health care and assume increasing social and medical significance.
+The specific features of HCAI are frequent recurrences and inefficiency of antibiotic therapy, a reason for which is antibiotic resistance in microorganisms.
+The review discusses antibiotic resistance, a form of antibiotic tolerance (AT), and its role in the development of HCAI.
+It also describes essential differences between AT and antibiotic tolerance at the cellular and molecular genetic levels.  Relationships between AT and dormancy of microorganisms, pathogens of HCAI, are discussed.
+The paper gives the data available in the literature on how AT occurs in HCAI pathogens and discusses the diagnosis of this condition.  It also analyzes the literature data on pharmacological attempts to overcome AT and discusses novel approaches to antibiotic therapy for HCAI.

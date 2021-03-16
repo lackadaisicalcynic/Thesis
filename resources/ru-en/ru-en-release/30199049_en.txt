@@ -1,0 +1,17 @@
+[Meta-analysis of management of colorectal anastomotic leakage].  AIM
+To identify the most effective management of colorectal anastomosis failure via analysis of available literature sources.
+RESULTS
+Systematic review included 20 original trials.
+Effectiveness of redo interventions for colorectal anastomosis failure including open, laparoscopic, minimally invasive techniques (transanal drainage, endoscopic vacuum therapy, endoscopic drainage) was described.
+Anastomotic failure rate was 6.5%.
+Medication was effective in 57% (95% CI 34-77%) of cases.
+Redo open surgery was applied in 43% (95% CI 23-66%) of patients.
+Postoperative mortality was 21-27%.
+Redo laparoscopic procedure was performed in 61% (95% CI 50-70%) of cases for anastomotic failure after previous laparoscopy, incidence of conversion was 12% (95% CI 4-28%).
+Transanal drainage was effective in 85% (95% CI 61-94%) of cases, endoscopic vacuum therapy - in 82% (95% CI 74-87%), healing of anastomosis without need for colostomy was achieved in 16% (95% CI 9-26%) of cases.
+Endoscopic clipping for colorectal anastomotic defect was effective in 73.3-77% of cases.
+CONCLUSION
+Redo surgery for anastomotic failure is associated with advanced mortality and need for permanent colostomy.
+Laparoscopic approach reduces incidence of complications after redo surgery and followed by better functional outcomes.
+Minimally invasive procedures are advisable for colorectal anastomosis failure without need for redo surgery.
+However, effectiveness of these methods is controversial due to few reports and no comparative trials.

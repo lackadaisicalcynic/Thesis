@@ -1,0 +1,13 @@
+[The neurotoxicity biomarkers as potential indicators of the spinal cord ischemia].  The study aimed at assessing the level of glutamate receptors antibodies (Abs) in blood serum and cerebrospinal fluid (CSF) of patients with spinal cord ischemia along with traditional diagnostic approaches.
+MATERIAL AND METHODS
+Forty patients with spinal cord ischemia (10 with spinal stroke and 30 with subacute and chronic course of the disease) were enrolled.
+After exclusion of some participants, 27 patients continued the study.
+Comparison groups included 30 patients with ischemic stroke and 30 patients with radiculopathy.
+The control group consisted of 15 healthy volunteers.
+All participants underwent a neurological examination and spinal cord magnetic resonance imaging (MRI).
+Abs to glutamate receptors (NR2 subunits of NMDA-receptors, AMPA/kainate receptors) were measured by ELISA.
+RESULTS
+NR2 Abs in patients with spinal cord ischemia were significantly increased in serum (p=0.0001) and CSF (p=0.0005) compared to controls and comparison groups.
+The NR2 Abs reliably differentiated spinal cord ischemia compared to AMPA/kainate receptors and S100β protein.
+On the other hand, increased levels of Abs to the AMPA/kainate have been detected in patients with a more severe impairment associated with extensive white matter damage.  CONCLUSION
+The results show the potential of the Abs to glutamate receptors assessment in the diagnosis of spinal cord ischemia and severity of the process.

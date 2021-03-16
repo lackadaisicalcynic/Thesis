@@ -1,0 +1,17 @@
+[Causes of T lymphocyte activation in HIV-infected patients coinfected with hepatitis C virus].  AIM
+To establish the causes of T lymphocyte activation in human immunodeficiency virus (HIV)-infected patients coinfected with hepatitis C (HCV) who are adherent to their antiretroviral therapy regimen and interferon untreated.
+SUBJECTS AND METHODS
+Examinations were made in 62 people who were HIV+HCV-positive (n=21), HIV+HCV-negative (n=21), and noninfected volunteers (n=20).
+The activation (CD38+HLA-DR+) and proliferation (Ki-67+) of CD4+ and CD8+ T lymphocytes were estimated.
+The blood concentration of intestinal fatty acid-binding protein (I-FABP) was determined.
+RESULTS
+The proportion of activated cells among the CD4+ T lymphocytes was equal in the HIV+HCV-positive and HIV+HCV-negative groups.
+But these indicators were statistically significantly higher than those in the controls (HIV- HCV-).
+CD8+ T cell activation was greater in the HIV/HCV-coinfected patients than that in the other groups and that was higher in the HIV monoinfected than in the noninfected.
+The blood I-FABP concentrations were elevated in the HIV+HCV-positive and HIV+HCV groups compared with those in the HIV-HCV-negative group, but these did not differ among themselves.
+In the HIV+HCV-negative patients, CD4+ and CD8+ T cell activation directly and statistically significantly correlated with blood I-FABP levels.
+In the HIV+HCV-positive group, this correlation remained only for CD4+ T lymphocytes.
+CD8+ T cell activation in HIV/HCV-coinfected patients was unrelated to I-FABP concentrations.
+CONCLUSION
+The increased activation of CD4+ and CD8+ T lymphocytes in HIV monoinfection was found to be associated with intestinal epithelial destruction and unrelated to cell division processes.
+In HIV/HCV coinfection, the activated state of CD4+ T cells is determined by both the level of proliferative processes and impairment of the intestinal barrier and that of CD8+ T cells is only by proliferation.

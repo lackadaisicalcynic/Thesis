@@ -1,0 +1,17 @@
+Strategies to increase the demand for childhood vaccination in low- and middle-income countries: a systematic review and meta-analysis.
+OBJECTIVE  To investigate which strategies to increase demand for vaccination are effective in increasing child vaccine coverage in low- and middle-income countries.
+METHODS
+We searched MEDLINE, EMBASE, Cochrane library, POPLINE, ECONLIT, CINAHL, LILACS, BDSP, Web of Science and Scopus databases for relevant studies, published in English, French, German, Hindi, Portuguese and Spanish up to 25 March 2014.
+We included studies of interventions intended to increase demand for routine childhood vaccination.
+Studies were eligible if conducted in low- and middle-income countries and employing a randomized controlled trial, non-randomized controlled trial, controlled before-and-after or interrupted time series design.
+We estimated risk of bias using Cochrane collaboration guidelines and performed random-effects meta-analysis.
+FINDINGS
+We identified 11 studies comprising four randomized controlled trials, six cluster randomized controlled trials and one controlled before-and-after study published in English between 1996 and 2013.
+Participants were generally parents of young children exposed to an eligible intervention.
+Six studies demonstrated low risk of bias and five studies had moderate to high risk of bias.
+We conducted a pooled analysis considering all 11 studies, with data from 11,512 participants.
+Demand-side interventions were associated with significantly higher receipt of vaccines, relative risk (RR): 1.30, (95% confidence interval, CI: 1.17-1.44).
+Subgroup analyses also demonstrated significant effects of seven education and knowledge translation studies, RR: 1.40 (95% CI: 1.20-1.63) and of four studies which used incentives, RR: 1.28 (95% CI: 1.12-1.45).
+CONCLUSION
+Demand-side interventions lead to significant gains in child vaccination coverage in low- and middle-income countries.
+Educational approaches and use of incentives were both effective strategies.

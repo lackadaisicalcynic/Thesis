@@ -1,0 +1,15 @@
+Insecticide-treated nets and malaria prevalence, Papua New Guinea, 2008-2014.
+Objective
+To investigate changes in malaria prevalence in Papua New Guinea after the distribution of long-lasting Insecticide-treated nets, starting in 2004, and the introduction of artemisinin-based combination therapy in 2011.
+Methods  Two malaria surveys were conducted in 2010-2011 and 2013-2014.
+They included 77 and 92 randomly selected villages, respectively.  In each village, all members of 30 randomly selected households gave blood samples and were assessed for malaria infection by light microscopy.
+In addition, data were obtained from a malaria survey performed in 2008-2009.
+Results
+The prevalence of malaria below 1600 m in altitude decreased from 11.1% (95% confidence interval, CI: 8.5-14.3) in 2008-2009 to 5.1% (95% CI 3.6-7.4) in 2010-2011 and 0.9% (95% CI 0.6-1.5) in 2013-2014.
+Prevalence decreased with altitude.
+Plasmodium falciparum was more common than P. vivax overall, but not everywhere, and initially the prevalence of P. vivax infection decreased more slowly than P. falciparum infection.
+Malaria infections were clustered in households.
+In contrast to findings in 2008-2009, no significant association between net use and prevalence was found in the later two surveys.  The prevalence of both fever and splenomegaly also decreased but their association with malaria infection became stronger.
+Conclusion  Large-scale insecticide-treated net distribution was associated with an unprecedented decline in malaria prevalence throughout Papua New Guinea, including epidemic-prone highland areas.
+The decline was accompanied by broader health benefits, such as decreased morbidity.
+Better clinical management of nonmalarial fever and research into residual malaria transmission are required.

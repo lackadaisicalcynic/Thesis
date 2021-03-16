@@ -1,0 +1,14 @@
+[Impact of hyperglycemia on the results of percutaneous coronary interventions in patients with acute ST-segment elevation myocardial infarction].
+AIM
+To investigate the impact of hyperglycemia on the results of percutaneous coronary interventions (PCIs) in patients with acute ST-segment elevation myocardial infarction (ASTEMI).  SUBJECTS AND METHODS
+A study group consisted of 511 patients with hyperglycemia (blood glucose level (BGL) ≥7.77 mmol/L) who underwent primary PCIs in the period from 2005 to 2015.  A comparison group included 579 patients (BGL ≥7.77 mmol/L).
+RESULTS
+Assessment of the results of hospital interventions revealed that the mortality rates in patients with hyperglycemia proved to be higher than in those with normal BGL (6.5 and 2.6%, respectively; p=0.002).
+No differences were found in the rates of stent thrombosis (1 and 1.4%; p=0.541) and recurrent myocardial infarction (1.2 and 1.6%; p=0.591).
+Major adverse cardiac events, including death, recurrent infarction, and stent thrombosis, were more frequently determined in the hyperglycemic patients (7.6 and 4.3%; p=0.020).
+No-reflow phenomenon statistically significantly more frequently developed in the patients with hyperglycemia (6.8 and 3.3%; p=0.007).
+Binary logistic regression analysis showed that the presence of hyperglycemia served as an independent predictor of hospital mortality (odds ratio (OR) 2.6; 95% confidence interval (CI), 1.4 to 4.8; p=0.002).
+The application of a random probability sampling technique revealed that mortality remained statistically significantly higher in the hyperglycemic patients than in the normoglycemic individuals at admission (6.7 and 2.6%; р=0.011).
+CONCLUSION
+PCIs in patients with ASTEMI and hyperglycemia are characterized by higher mortality rates and the risk of major adverse cardiac events.
+Admission hyperglycemia is an independent predictor of hospital mortality.

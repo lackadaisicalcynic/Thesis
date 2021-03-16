@@ -1,0 +1,9 @@
+[The optimization of restoration approaches of advanced hand activity using the sensorial glove and the mCIMT method].  AIM
+To reason the choice of methods of restoration of advanced hand activity depending on severity of motor disturbance in the top extremity.  MATERIAL AND METHODS
+Eighty-eight patients were randomized into 3 groups: 1) the mCIMT group, 2) the 'touch glove' group, 3) the control group.
+For assessment of physical activity of the top extremity Fugl-Meyer Assessment Upper Extremity, Nine-Hole Peg Test, Motor Assessment Scale were used.
+Assessment of non-use phenomenon was carried out with the Motor Activity Log scale.
+RESULTS AND CONCLUSION
+At a stage of severe motor dysfunction, there was a restoration of proximal departments of a hand in all groups, neither method was superior to the other.
+In case of moderate severity of motor deficiency of the upper extremity the most effective was the method based on the principle of biological feedback - 'a touch glove'.
+In the group with mild severity of motor dysfunction, the best recovery was achieved in the mCIMT group.

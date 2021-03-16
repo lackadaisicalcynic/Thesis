@@ -1,0 +1,13 @@
+[The diagnostic value of measuring the momentary blood flow reserve versus non-invasive methods to detect myocardial ischemia in assessing the functional significance of borderline coronary artery stenoses].
+AIM  To estimate the diagnostic value of measuring the momentary blood flow reserve (MBFR) versus the surrogate non-invasive standard (SNS) for myocardial ischemia verification (MIV) (a combination of stress echocardiography and single-photon emission computed tomography).
+SUBJECTS AND METHODS
+The investigation enrolled 50 patients with stable angina in the presence of chronic coronary heart disease (CHD) or suspected CHD, in whom coronary angiography (CA) revealed borderline coronary stenoses (50-70% lumen diameters).
+The examination algorithm had two options.
+In one option, when included in the study, patients had already CA results not older than 1 month, and MBFR was measured 4-7 days after non-invasive stress tests.
+In the other option, MBFR in the area of borderline coronary artery stenosis was measured simultaneously with CA; and the noninvasive stress tests were carried out in the following week.
+A total of 74 coronary stenoses were examined.
+RESULTS
+SNS for MIV was positive in 14 (28%) patients.
+When comparing with the non-invasive methods of myocardial ischemia verification, the area under the ROC curve for MBFR was 0.961±0.019 (95% confidence interval, 0.888-0.992).  The optimal cut-point was 0.92, which is corresponded by a sensitivity of 100% and a specificity of 84%.
+CONCLUSION
+When compared with SNS for MIV, the method for measuring MBFR has a high diagnostic accuracy.

@@ -1,0 +1,6 @@
+[Role of PLAT, PKHD1L1, STK38L and TEAD1 genes Alu-polymorphism for longevity].  The distribution of allele and genotype frequencies of Alu(I/D)-polymorphic sites in PLAT (TPA25), PKHD1L1 (Yb8AC702), STK38L (Ya5ac2145) и TEAD1 (Ya5ac2013) genes was first characterized in the ethnically homogeneous group (Tatars from the Republic of Bashkortostan, Russia), and was established (found) the association of each gene polymorphism with age.
+The study group consisted of 1580 unrelated individuals aged between 21 and 109 years, including 204 long-livers.
+It was found that STK38L*I/D genotype had positive association with longevity in the total group (OR=1,016, p=0,034).
+Long-lived women had a high probability of detection of PKHD1L1*I/I (OR=1,289, p=0,009), PLAT*D/D (OR=1,175, p=0,016) and TEAD1*I/I (OR=1,047, p=0,042) genotypes.
+PKHD1L1*I/D genotype was a significant factor in providing of male longevity (OR=1,713, p=0,030).
+Therefore, age-dependent changes in genotype frequencies are specific for each studied gene.

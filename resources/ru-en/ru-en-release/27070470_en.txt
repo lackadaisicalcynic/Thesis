@@ -1,0 +1,8 @@
+[Regression models of interrelationships between clinical and neurobiological parameters in treatment of manic-delusional conditions in attack-like schizophrenia].
+OBJECTIVE
+to identify a complex of neurobiological parameters informative for the assessment of severity of patient's initial clinical state and for individual prognosis of therapeutic response.
+MATERIAL AND METHODS
+Correlation and regression analyses of clinical scores measured by the PANSS scale, resting EEG spectral parameters and immunological parameters have been performed in 45 patients  (mean age 31.3±11.4 years with manic-delusional conditions in attack-like schizophrenia.
+Neurobiological data obtained before the treatment course were matched with clinical scores of the same patients at the stage of remission establishment after treatment course.  The multiple linear regression equations, which contained only 3 to 4 (from 80) initial EEG parameters and one of four immunological parameters, allowed to explain with high significance from 89 to 92% of clinical scores variance before treatment course, and to predict from 72 to 87% of clinical scores variance after treatment course at the stage of remission establishment, as well.
+CONCLUSION
+The data obtained emphasize the role of neurophysiological inhibition deficit and processes of neuroinflammation and neuroplasticity in the pathogenesis of manic-delusional conditions and may be used in practice for elaboration of methods of prediction of treatment efficacy in patients with manic-delusional disorders.

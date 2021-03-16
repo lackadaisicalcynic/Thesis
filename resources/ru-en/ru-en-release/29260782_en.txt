@@ -1,0 +1,11 @@
+[The prevalence and risk factors of allergic rhinitis among the children of the preschool age].  The objective of the present work was to estimate the prevalence and risk factors of the development of allergic rhinitis among the children at the age from 3 to 6 years.
+The cross-sectional study was carried out in five cities of the Altai region during the period from 2015 to 2016.  The prevalence of allergic rhinitis was evaluated with the use of the Russian language version of the ISAAC questionnaire filled up by the parents of the children.
+A child whose parents answered in the affirmative to the question 'Did your child have the runny nose, nasal congestion, and/or sneezing in the absence of cold symptoms and acute viral infection during the last 12 months?' were considered to be suffering from active allergic rhinitis (AAR).
+The risk factors for the development of this condition were identified with the use of an additional questionnaire.
+A total of 3205 filled questionnaires were available for the analysis.
+Based on the data obtained, the prevalence of active allergic rhinitis among the study population was estimated at 18.0% (n=577). 243 (42.1%) of these children presented with the symptoms of conjunctivitis.  Therefore, the prevalence of active allergic rhinoconjunctivitis
+(ARC appears to be 7.5% (n=243).
+In fact, the medically verified diagnosis of allergic rhinitis was established only in 6.4% (n=204) children of the 577 ones having AAR.
+The family history of allergic rhinitis was shown to increase the risk of development of AAR by 2.6 times (OR=2.63 , 95%; CI=2.16-3.19; p<0.01) and that of ARC by 2.8 times (OR=2.85, 95%; CI=2.16-3.75; p<0.01).  Masculine gender was found to increase the risk of development of both AAR an ARC by 1.3 times (OR=1.35, 95%; CI=1.01-1.37; p<0.05) and (OR=1.35, 95%; CI=1.03-1.76; p<0.05) respectively.
+The actual prevalence of active allergic rhinitis was significantly higher than the frequency of the medically verified diagnoses of this condition.
+It is concluded that the family history of allergic diseases and the masculine gender considerably increase the risk of development of both AAR and AFC.

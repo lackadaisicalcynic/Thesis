@@ -1,0 +1,13 @@
+OBJECTIVE  to study safety and efficacy of the biosimilars of disease-modifying drugs (DMDs) in the prospective nonrandomized open long-term study of patients with multiple sclerosis in the Yaroslavl oblast (an Yaroslavl' cohort).
+MATERIAL AND METHODS
+The study included 203 patients treated with DMD biosimilarsduring 30 months according to the instruction for using.
+The efficacy was assessed by the relapse frequencychanges in EDSS scores, changes of lesions on MRI T2-weighted images (T2-WI).
+The safety was assessed by the determination of the percentage of patients with side-effects due to the treatment.
+Results at baseline and month 30 visit were compared.
+RESULTS
+There was a significant decrease in the frequency of relapses in patients treated with biosimilars compared to baseline (cinnovex by 0.03, genfaxon by 0.29, ronbetal/interferon by 0.13, infibeta by 0.36).
+For all biosimilars, with the exception of infibeta,EDSS scores significantly increased (cinnovex +0.31, genfaxon +0.38, ronbetal/interferon +0.66, infibeta +0.26).
+MRI results revealed an increase in the number of lesions in patients treated with cinnovex (+16.6%), genfaxon (+14.4%) and ronbetal (+10.6%) and a decrease of lesions on T2-WI in patients treated with infibeta (-14.5%).
+The most marked generalized reasponses were in the cinnovex group (flu-like syndrome - 66% of the patients), local reactions were most marked in the genfaxon group (82%).
+CONCLUSION
+The differences between some biosimilars and original DMDs in the safety profile and efficacy suggest that attention should be drawn to the thorough study of drug effects in clinical trilas and postmarketing studiesincluding registers of patients treated with DMDs managed independently from pharmaceutical companies.

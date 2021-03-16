@@ -1,0 +1,16 @@
+[Electromyographic control of botulinum toxin a injections in the upper extremities in patients with spasticity of various etiology].  AIM
+The study was aimed at studying the efficacy of botulinum toxin A injections combined with EMG-control of the injections in patients with upper limb spasticity of various etiology for decreasing muscle tone and improving the passive limb function as well as at assessing the possibility of a botulinum toxin dose reduction under combination of these methods.  MATERIAL AND METHODS
+61 patients with upper limb spasticity of different etiology were evaluated.
+The main group consisted of 29 patients who were injected with abobotulinum, the botulinum toxin A (500 U per vial), under EMG-control.
+The control group consisted of 32 patients who received BTA injections without EMG-control.
+A repeated BTA injection was performed on the 4th month of the study.
+Patients in both groups received standard rehabilitation therapy.
+The spasticity pattern was determined using the Arm Spasticity Pattern (ASP) scale.
+Evaluation of the treatment efficacy was performed using the modified Ashworth scale to determine upper limb spasticity and the modified Barthel Index scale to assess the quality of life as well as the Disability Assessment Scale (DAS) and Clinical Global Impression (CGI) scale.
+RESULTS
+The main spasticity patterns were as follows: the type III was in 13 (44.8%) and 17 (53.1%) patients, the type I was in 9 (31.0%) and 9 (28.1%) patients, and the type VI was in 7 (24.2%) and 6 (18.8%) patients of the main and control groups, respectively.
+One month after BTA treatment, a significant improvement was observed in both groups, but the improvement in the main group was more pronounced compared to that in the control group (р<0.05).  This difference persisted for the whole treatment period (р<0.05).
+The DAS score demonstrated improvement in both groups, but only patients of the main group had a statistically significant improvement in putting the arm through a sleeve (р<0.05).
+EMG-control enabled a reduction in the BTA dose by 50-300 U.
+CONCLUSION
+BTA injections under EMG-control in upper limb spasticity patients may improve the treatment efficacy.

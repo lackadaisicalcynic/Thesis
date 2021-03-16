@@ -1,0 +1,11 @@
+Health and happiness: cross-sectional household surveys in Finland, Poland and Spain.
+OBJECTIVE
+To explore the associations between health and how people evaluate and experience their lives.  METHODS
+We analysed data from nationally-representative household surveys originally conducted in 2011-2012 in Finland, Poland and Spain.  These surveys provided information on 10 800 adults, for whom experienced well-being was measured using the Day Reconstruction Method and evaluative well-being was measured with the Cantril Self-Anchoring Striving Scale.
+Health status was assessed by questions in eight domains including mobility and self-care.  We used multiple linear regression, structural equation models and multiple indicators/multiple causes models to explore factors associated with experienced and evaluative well-being.
+FINDINGS  The multiple indicator/multiple causes model conducted over the pooled sample showed that respondents with younger age (effect size, β = 0.19), with higher levels of education (β = -0.12), a history of depression (β = -0.17), poor health status (β = 0.29) or poor cognitive functioning (β = 0.09) reported worse experienced well-being.
+Additional factors associated with worse evaluative well-being were male sex (β = -0.03), not living with a partner (β = 0.07), and lower occupational (β = -0.07) or income levels (β = 0.08).
+Health status was the factor most strongly correlated with both experienced and evaluative well-being, even after controlling for a history of depression, age, income and other sociodemographic variables.
+CONCLUSION
+Health status is an important correlate of well-being.
+Therefore, strategies to improve population health would also improve people's well-being.

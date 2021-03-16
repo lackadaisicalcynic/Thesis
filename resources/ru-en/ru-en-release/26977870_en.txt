@@ -1,0 +1,8 @@
+[Ultrasound dynamics lysis apex thrombus as an objective criterion of effectiveness of anticoagulation therapy in venous thrombosis].
+OBJECTIVE OF THE STUDY
+To assess the effectiveness of anticoagulant therapy (ACT) for the treatment of patients with deep venous thrombosis (DVT) of the lower extremities.  MATERIAL AND METHODS
+The study considered ultrasonic characteristics of lysis of the proximal part of thrombus: localization and nature of venous thrombosis, the length and diameter of the proximal floating part of the thrombus, and duration of the venous thrombosis.  Depending on the ACT options patients were divided into 3 groups: Group 1 (18 patients) received rivaroxaban, group 2 (19 patients) received enoxaparin sodium with subsequent transition to warfarin, and 3 group (19 patietns) received enoxaparin sodium, followed by administration of rivaroxaban.
+RESULTS
+Treatment with rivaroxaban was preferable over standard ACT with enoxaparin/warfarin with regards to the lysis of thrombus when duration of thrombosis did not exceed 10 days.
+In 10.5% of patients who received warfarin flotation of thrombi remained for 14 days; the length of the floating part of the thrombi did not exceed 3 cm.  Such circumstances and inability to reach a therapeutic INR value required cava filter placement.
+Treatment with enoxaparin sodium followed by the administration of rivaroxaban was found to be the most efficient ACT regimen as there was no negative dynamics of ultrasound characteristics of lysis of thrombi at any duration of the disease.

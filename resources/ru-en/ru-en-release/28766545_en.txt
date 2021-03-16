@@ -1,0 +1,3 @@
+[Thrombotic events in patients with hemophilia].  The paper describes 4 clinical cases of thrombotic events (pulmonary embolism, deep vein thrombophlebitis, acute myocardial infarction, ischemic stroke) that have occurred in patients with hemophilia.
+It discusses the possible causes of their development and methods for their prevention and treatment.
+Controlled natural hypocoagulation, in which the dose of an administered deficient factor decreases to such an extent that in order to maintain the safe level of hypocoagulation (plasma factor activity is 15-20%; activated partial thromboplastin time is 1.5-2 times normal values), is proposed as one of the treatment options.

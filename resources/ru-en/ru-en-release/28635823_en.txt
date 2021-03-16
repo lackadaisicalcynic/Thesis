@@ -1,0 +1,10 @@
+[En face' optical coherence tomography guided focal navigated laser photocoagulation].  Aim - to prove the feasibility of focal navigated laser photocoagulation (LP) for central serous chorioretinopathy (CSC) that relies only on the data provided by optical coherence tomography (OCT) without considering fluorescein angiography (FA).
+MATERIAL AND METHODS
+Two patients with CSC were treated with focal navigated LP (NAVILAS laser system) basing on macular OCT findings (RTVue 100).
+Before the procedure, FA was not performed.
+RESULTS
+In both cases the leaking point was recognized by a solitary focal detachment of the pigment epithelium in 'en face' OCT scans.
+OCT images were then imported into the laser photocoagulator unit and superimposed on the basic image of the fundus, thus, enabling accurate focal LP.
+In both cases the serous retinal detachment resolved completely within 9-14 days.
+CONCLUSION
+In some CSC patients, 'en face' OCT data allow focal navigated laser photocoagulation without prior fluorescein angiography.

@@ -1,0 +1,13 @@
+[Diagnostic value of immunoglobulin free light chains at the debut of multiple sclerosis].
+AIM  To evaluate the diagnostic value of determination of free immunoglobulin light chains (IgG) in the debut of multiple sclerosis (MS).
+MATERIAL AND METHODS
+Data from 226 patients, including 111 patients with clinically isolated syndrome with conversion to multiple sclerosis within the first 2 years of the disease (group 1), 49 patients with clinically isolated syndrome who did not develop multiple sclerosis within the first 2 years of the disease (group 2), 20 patients with other inflammatory diseases of the central nervous system (group 3) were analyzed.  The control group consisted of 46 patients with non-inflammatory diseases of the central nervous system.
+The clonality of immunoglobulins in the CSF, concentration of kappa and lambda free light chains and their ratio were studied.  RESULTS
+Concentrations of free light chains were significantly higher in the first group in comparison with group 2 and the control group, but didnot differ from group 3.  In group 3, concentrations of free light chains were significantly higher compared to group 2 and controls.
+In oligoclonal-positive patients with clinically isolated syndrome (groups 1 and 2), concentrations of kappa and lambda free light chains were significantly higher than in oligoclonal-negative patients.
+The production of free light chains in patients from the first group was considerably higher than in group 2 regardless of the oligoclonal status.
+The concentration of kappa chains and quotient of kappa free light chains in the CSF had the best diagnostic characteristics.
+Their use, along with the evaluation of IgG clonality, reduced the risk of false-negative results by 50%.
+Regardless of other factors, elevated concentrations of kappa chains increase the likelihood of MS diagnosis by 9.718 times.
+CONCLUSION
+The use of free light chains as a laboratory marker can increase the accuracy of MS diagnosis.  These markers can help indirectly assess the risk of transformation of a clinically isolated syndrome into definite multiple sclerosis within the first 2 years of disease.

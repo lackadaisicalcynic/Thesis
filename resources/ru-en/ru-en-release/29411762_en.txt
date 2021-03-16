@@ -1,0 +1,12 @@
+[Association of FOXP3 gene -3279 C>A polymorphism with the risk of pulmonary sarcoidosis].
+AIM  To investigate the association of the polymorphic marker -3279 C>A of the FOXP3 gene with the risk of pulmonary sarcoidosis (PS) and to estimate the transcription level of this gene in the carriers of different genotypes of this polymorphic marker.
+SUBJECTS AND METHODS
+The investigation included 99 patients of Russian ethnicity (mean age, 45.41±1.31 years) living in the Republic of Karelia, who were diagnosed with persistent PS, and 116 healthy donors (mean age, 42.06±1.30 years) in the control group.
+The alleles and genotypes of the polymorphic marker -3279 C>A of the FOXP3 gene were identified using polymerase chain reaction (PCR)-restriction fragment length polymorphism.
+The number of transcripts of the studied gene in the peripheral blood leukocytes of healthy donors and PS patients was determined with real-time PCR.
+RESULTS
+The control group and the PS patient one had no statistically significant differences in the distribution of the frequencies of alleles and genotypes by the polymorphic marker -308G>A of the FOXP3 gene (p > 0.05).
+The number of FOXP3 gene transcripts was not statistically significantly different in the peripheral blood leukocytes of patients with PS and control individuals.
+No statistically significant differences were observed in the mRNA expression levels in the above-mentioned gene in the carriers of different genotypes by the polymorphic marker -3279 C>A of the FOXP3 gene in all examined groups.
+CONCLUSION
+The polymorphic marker -3279 C>A of the FOXP3 gene is unassociated with the risk of PS.

@@ -1,0 +1,21 @@
+[Clinical and morphological features of different types of Castleman's disease].
+AIM  To study the clinical features of Castleman's disease (CD) and to elaborate therapeutic approaches in its different morphological types.
+SUBJECTS AND METHODS
+The clinical and laboratory data were studied in 59 prospectively examined patients and 17 retrospectively examined ones with CD who had been treated at the Outpatient Department, Hematology Research Centre, in 1996 to 2014.
+There were a total of 37 men (median age, 36 years) and 39 women (median age, 34 years).
+The diagnosis was established from the results of histological and immunohistochemical examinations of removed lymph nodes (LN) or tumors in all the cases.
+RESULTS
+A hyaline vascular variant (HVV) with local LN involvement was diagnosed in 38 (50%) patients; a plasma cell variant (PCV) was in 38 (50%); among the latter, 17 (22%) patients were found to have local involvement and 21 (28%) had generalized (multicentriC) involvement (multicentric Castleman's diseases (MCD)).
+Five (24%) patients with MCD were established to be infected with human herpesvirus type 8 (HHV-8).
+HVV was more frequently diagnosed in women (4%) than in men (29%); PCV was equally common in both men (47%) and women (53%); MCD was statistically significantly more frequently encountered in men (86%) than in women (14%) (p=0.05). The basic involvement areas in local HVV and PCV were peripheral (38%), mediastinal (29), retroperitoneal (18%), abdominal (9%), and small pelvic (6%) LNs.
+HVV and local PCV were benign and these were cured by surgical removal of LNs involved in the pathological process.
+MCD took its aggressive course with obvious constitutional symptoms, generalized lymphadenopathy, hepatosplenomegaly, hypergammaglobulinemia, autoimmune hemolysis, thrombocytopenia, and involvement of extranodal foci in the pathological process.
+MCD transformation to plasmablastic lymphoma was observed in 4 of the 5 HHV8-positive patients and followed by a poor outcome.
+The prognosis of untreated MCD was unfavorable.
+In a number of cases prednisolone monotherapy worsened prognosis and the MCD patients receiving timely multiple-drug R-CHOP or R-VD chemotherapy could achieve sustained remission (the 5-year overall survival was 55%).
+CONCLUSION
+CD must be included into the differential diagnosis of lymphadenopathies.
+When specific treatment is performed, the prognosis of HVV and local PCV is favorable: the disease is surgically cured in 95% of cases.
+Multidrug chemotherapy according to the B-cell lymphoproliferative disease program is indicated for the treatment of MCD: sustained remission can be achieved by the use of R-CHOP or R-VD programs.
+The HHV-8-positive variants of MCD increase the probability of transforming the disease to incurable plasmablastic lymphoma.
+Overall, prognosis and therapy choice in HIV-negative patients with CD depend on the histological variant of the disease, the extent of a tumor, and HHV-8 infection.

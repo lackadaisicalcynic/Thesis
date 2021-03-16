@@ -1,0 +1,6 @@
+[Evidence-based medicine: opportunities of the Propensity Score Matching (PSM) method in eliminating selection bias in retrospective neurosurgical studies].
+To date, a large amount of retrospectively collected data about treatment of neurosurgical pathology have been accumulated.
+Modern methods of medical statistics are necessary for correct interpretation of the data.  The article purpose is to demonstrate application of one of the modern methods, Propensity Score Matching (PSM), in neurosurgery.
+The use of PSM avoids misinterpretation of retrospectively collected data and obviates errors in planning further prospective studies.
+For the past 10 years, the number of published international PSM-based studies has increased more than 10-fold, with the number of articles by Russian authors accounting for less than 0.2%.
+In line with the tendencies of international studies, application of PSM in analysis of retrospectively collected data will enable testing of a number of hypotheses and correct planning of prospective randomized studies.

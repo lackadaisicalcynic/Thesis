@@ -1,0 +1,11 @@
+[Efficacy of conservative treatment in patients with dry form of age-related macular degeneration].  AIM  To evaluate the efficacy of conservative treatment in dry AMD patients by means of 3D computer-automated threshold Amsler grid testing (3D-CTAG; Fink & Sadun, 2004).
+MATERIAL AND METHODS
+The study included 90 patients (180 eyes) with dry AMD divided into three groups.  Group 1 (n = 30) was prescribed Vitrum Vision forte, 1 tablet b.i.d., group 2 (n = 30)--Vitrum Vision forte, 1 tablet b.i.d. and Vitrum Cardio Omega-3, 1 capsule b.i.d. Group 3 (n = 30), the controls, received Taurine 250 mg, 1 tablet b.i.d.
+Besides standard ophthalmic examination, all patients underwent 3D-CTAG before and after the treatment.
+The number of defects per eye (ND) and volume lost relative to the hill-of-vision (VLRH) were chosen as evaluation criteria.
+RESULTS
+After 3 months of treatment ND decreased from 0.33 ± 0.02 to 0.22 ± 0.01 in group 1 (p < 0.01) and from 0.33 ± 0.02 to 0.2 ± 0.01 in group 2 (p < 0.01); VLRH decreased from 0.32 ± 0.02% to 0.15 ± 0.01% out of 693,000 [deg2%] in group 1 (p < 0.01) and from 0.32 ± 0.03% to 0.15 ± 0.01% out of 693,000 [deg2%] in group 2 (p < 0.01).
+In the controls both indices increased: ND from 0.32 ± 0.02 to 0.37 ± 0.02 and VLRH from 0.35 ± 0.24% to 0.49 ± 0.03% out of 693,000 [deg2%] (p < 0.01).
+CONCLUSION
+The positive effect of Vitrum Vision forte in combination with Vitrum Cardio Omega-3 on macular function is comparable to that of monotherapy with Vitrum Vision forte.
+The maximum effect was achieved in patients with small scotomas (VLRH < 1.5% out of 693,000 [deg2%]).

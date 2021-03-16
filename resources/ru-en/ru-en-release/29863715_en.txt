@@ -1,0 +1,11 @@
+[The importance of handprint morphometry for determining the human body length].  Handprint morphometry for the purpose of personality identification still remains a relatively novel approach.
+The methods employed for the measurements are not infrequently difficult to reproduce and therefore cause controversy.
+The objective of the present study was to introduce the system of methods for the measurement of handprints suitable for the reliable determination of the human body length.
+MATERIAL AND METHODS
+The study included the measurement of the size of 40 handprints left by124 adult subjects (52 men and 72 women).
+Two methods of the regression analysis, stepwise and forced inclusion, were applied to the combined group of handprints to select the equations with the high (R>0.800) coefficients of multiple correlation with the body length.
+RESULTS
+13 equations of multiple regression were obtained and analyzed.  The standard error of estimating (SEE) varied from 4.30 to 5.19 cm.
+The best results were obtained with the equations constructed from the sizes I, II, and III of the rays without their distal phalanges.
+It was shown that the body length can be successfully reconstructed within the height range from 168 to 183 cm for men and from 157 to 176 cm for women.
+The examples of the use of the equations for the purpose of expertise of illegible and incomplete handprints are presented.

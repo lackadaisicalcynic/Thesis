@@ -1,0 +1,13 @@
+Vaccination timing of low-birth-weight infants in rural Ghana: a population-based, prospective cohort study.
+OBJECTIVE  To investigate delays in first and third dose diphtheria-tetanus-pertussis (DTP1 and DTP3) vaccination in low-birth-weight infants in Ghana, and the associated determinants.
+METHODS
+We used data from a large, population-based vitamin A trial in 2010-2013, with 22 955 enrolled infants.  We measured vaccination rate and maternal and infant characteristics and compared three categories of low-birth-weight infants (2.0-2.4 kg; 1.5-1.9 kg; and < 1.5 kg) with infants weighing ≥ 2.5 kg.
+Poisson regression was used to calculate vaccination rate ratios for DTP1 at 10, 14 and 18 weeks after birth, and for DTP3 at 18, 22 and 24 weeks (equivalent to 1, 2 and 3 months after the respective vaccination due dates of 6 and 14 weeks).
+FINDINGS
+Compared with non-low-birth-weight infants (n = 18 979), those with low birth weight (n = 3382) had an almost 40% lower DTP1 vaccination rate at age 10 weeks (adjusted rate ratio, aRR: 0.58; 95% confidence interval, CI: 0.43-0.77) and at age 18 weeks (aRR: 0.63; 95% CI: 0.50-0.80).
+Infants weighing 1.5-1.9 kg (n = 386) had vaccination rates approximately 25% lower than infants weighing ≥ 2.5 kg at these time points.
+Similar results were observed for DTP3.
+Lower maternal age, educational attainment and longer distance to the nearest health facility were associated with lower DTP1 and DTP3 vaccination rates.
+CONCLUSION
+Low-birth-weight infants are a high-risk group for delayed vaccination in Ghana.
+Efforts to improve the vaccination of these infants are warranted, alongside further research to understand the reasons for the delays.

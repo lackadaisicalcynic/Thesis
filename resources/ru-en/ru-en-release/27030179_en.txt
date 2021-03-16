@@ -1,0 +1,15 @@
+[Specific features of gastroesophageal reflux disease associated with obesity and overweight].
+AIM  To reveal the specific features of gastroesophageal reflux disease (GERD) associated with obesity and overweight, by investigating the clinical and endoscopic manifestations of the disease, 24-hour pH-metry scores, and leptin levels.
+SUBJECTS AND METHODS
+A total of 131 patients with GERD were examined.
+The data about complaints and those from life and medical histories were collected; anthropometric measurements and the results of blood biochemical tests, esophagoduodenoscopy (EPDS), and pH-metry were assessed; and the serum levels of leptin and its receptor were estimated.
+The patients were allocated into a study group (104 obese and/or overweight patients) and a comparison one (27 normal weight people).
+RESULTS
+Waist circumference, hip circumference, and blood glucose levels proved to be statistically significantly higher in the study group (p<0.00000, p<0.00002, and p<0.02, respectively).
+The obese patients were found to have a statistically significantly higher level of leptin and a lower level of its soluble receptors: the median leptin levels were 30.42 (13.42-45.62) ng/ml in the study group and 5.47 (3.35-7.68) ng/ml in the comparison group; the median levels of the receptors were 18.83 (14.98-25.11) ng/ml and 30.93 (24.68-33.53) ng/ml, respectively).
+This group showed a moderate negative correlation between these indicators (rs=-0.451; p<0.0004).
+The study group displayed higher pH values in the gastric cardia and body (p<0.05 and p<0.04, respectively).
+The mucosal contact time with the refluxate having with a low pH value (<4) in the above segments turned out to be longer in the comparison group (p<0.05).
+There were weight-independent relationships of the leptin level to its spread, aggressiveness quotient, to the highest pH value in the gastric cardia and body, and to the mucosal contact time with the refluxate having a pH below 4.0 (rs=0.543; p<0.006; rs=0.432; p<0.04; rs=0.431; p<0.04; rs=-0.450; p<0.03, respectively), leptin receptors with a pH ratio in the gastric cardia and body, to the number of reflux episodes longer than 5 minutes in the esophagus, and to the De Meester index for this indicator (rs=0.471; p<0.04; rs=-0.455; p<0.04; rs=-0,454; p<0.04, respectively).
+CONCLUSION
+Obese and overweight patients develop GERD in the presence of leptin resistance and biliary tract disease, which determines the specific features of the disease (alkaline or mixed refluxate) and the need for individualized therapy.

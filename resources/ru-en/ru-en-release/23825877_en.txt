@@ -1,0 +1,11 @@
+The global burden of congenital toxoplasmosis: a systematic review.
+OBJECTIVE
+To estimate the global burden of congenital toxoplasmosis (CT), which results from infection of pregnant women with Toxoplasma gondii.  METHODS
+The authors systematically searched 9 major databases for published and unpublished sources and established direct contact with the authors of source materials.
+Searches were country-specific.
+To be included, studies had to report on the incidence of CT, on positivity to Toxoplasma-specific IgM in infants and pregnant women (including seroconversion results) or on positivity to Toxoplasma-specific IgG in the general population.
+Various modelling techniques were used, depending on the country-specific data available, to estimate the CT incidence and burden in each country.
+These data were then synthesized into an estimate of the global incidence of CT and of the global burden of CT in disability-adjusted life years (DALYs).  FINDINGS
+The global annual incidence of congenital toxoplasmosis was estimated to be 190,100 cases (95% credible interval, CI: 179,300-206,300).  This was equivalent to a burden of 1.20 million DALYs (95% CI: 0.76-1.90).
+High burdens were seen in South America and in some Middle Eastern and low-income countries.  CONCLUSION
+Congenital toxoplasmosis poses a substantial burden of poor health globally.  Toxoplasmosis should be included in future updates of the global burden of disease and the corresponding data should be used to support public health interventions to reduce disease burden.

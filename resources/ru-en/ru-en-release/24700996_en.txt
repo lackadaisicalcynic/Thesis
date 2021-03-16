@@ -1,0 +1,6 @@
+Why "improved" water sources are not always safe.
+Existing and proposed metrics for household drinking-water services are intended to measure the availability, safety and accessibility of water sources.  However, these attributes can be highly variable over time and space and this variation complicates the task of creating and implementing simple and scalable metrics.
+In this paper, we highlight those factors - especially those that relate to so-called improved water sources - that contribute to variability in water safety but may not be generally recognized as important by non-experts.
+Problems in the provision of water in adequate quantities and of adequate quality - interrelated problems that are often influenced by human behaviour - may contribute to an increased risk of poor health.
+Such risk may be masked by global water metrics that indicate that we are on the way to meeting the world's drinking-water needs.  Given the complexity of the topic and current knowledge gaps, international metrics for access to drinking water should be interpreted with great caution.
+We need further targeted research on the health impacts associated with improvements in drinking-water supplies.

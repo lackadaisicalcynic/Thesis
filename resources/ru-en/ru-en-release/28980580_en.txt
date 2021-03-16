@@ -1,0 +1,11 @@
+[Total antioxidant status of blood in various types of ischemic stroke].
+AIM  To study the antioxidant status (AOS) of blood serum of patients in the acute period in patients with a variety of pathogenic forms of ischemic stroke (IS).
+MATERIAL AND METHODS
+A total of 99 patients (study group) with different types of ischemic stroke (IS): with atherothrombotic variant (n=74) IS, with cardioembolic (n=15) with lacunar type (n=10).
+The control group consisted of 15 persons.
+Total antioxidant status (TAS) in the blood serum was examined by the test system 'General antioxidatic status - Novo' ('Vector-Best', Russia) for 1-2 days from the onset of the disease.
+RESULTS AND CONCLUSION
+Patients in the control group AOS was 1.69±0.17 mmol/L (median 1.72, interquartile range 1.53-1.83 mmol/L).
+With the development of IS AOS was 1.15±0,41 mmol/L (median 1.12; interquartile range 0.84-1.45 mmol/L) (p=0.000001). In groups with different pathogenetic mechanism of the IS value of the AOS was lower than in the control group and accounted for atherothrombotic variant (1.24; 0.98-1.67 mmol/L) (p=0.000001), for cardioembolic (p=0.000031), and for lacunar (1.24; 0.98-1.67 mmol/L) (p=0.035044). The value of the AOS was not significantly differ between men and women and was independent on the age and location of the ischemic lesion.
+Reduced AOS serum indicates an imbalance between prooksidatnoy and antioksidatnoy system in the formation of any pathogenic forms of IS.
+The decrease of AOS in blood serum indicates the balance between prooxidative and antioxidative system in the formation of any pathogenic forms of AI.

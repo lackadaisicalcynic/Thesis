@@ -1,0 +1,10 @@
+AIM  To study the concentrations of intraocular cytokines in patients with retinal vein occlusion (RVO) before and after intravitreal ranibizumab injection and to compare the results with clinical activity of the disease and treatment efficacy.
+MATERIAL AND METHODS
+A comprehensive ophthalmological examination of 44 patients with RVO and macular edema was performed.
+Intraocular fluid was first collected before the intravitreal injection.  Cytokines concentrations were measured using Bio-Plex Pro Human Cytokine 27-plex Panel (Bio-Rad Laboratories, USA) for flow cytometry.
+The test was repeated 1 month after the injection.
+RESULTS
+A total of 11 cytokines were reliably detected.
+After ranibizumab injections certain angiogenic (VEGF) and proinflammatory (IL-6, IL-8, IL-13, IL-15, MCP-1) factors appeared to be significantly suppressed.  Clinical efficacy of the therapy correlated with the degree of cytokines suppression, which in turn depended on the severity of ocular involvement at baseline.
+CONCLUSIONS
+Retinal vein occlusion pathogenesis involves a cascade of immune and inflammatory processes, including activation of not only VEGF but also quite a few inflammatory and chemotactic factors, whose activity depends on the extent of ischemic damage in the retina.

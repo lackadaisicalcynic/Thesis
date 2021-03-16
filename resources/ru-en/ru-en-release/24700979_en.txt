@@ -1,0 +1,12 @@
+A comparison of two visual inspection methods for cervical cancer screening among HIV-infected women in Kenya.
+OBJECTIVE
+To determine the optimal strategy for cervical cancer screening in women with human immunodeficiency virus (HIV) infection by comparing two strategies: visual inspection of the cervix with acetic acid (VIA) and VIA followed immediately by visual inspection with Lugol's iodine (VIA/VILI) in women with a positive VIA result.  METHODS
+Data from a cervical cancer screening programme embedded in two HIV clinic sites in western Kenya were evaluated.  Women at a central site underwent VIA, while women at a peripheral site underwent VIA/VILI.
+All women positive for cervical intraepithelial neoplasia grade 2 or worse (CIN 2+) on VIA and/or VILI had a confirmatory colposcopy, with a biopsy if necessary.  Overall test positivity, positive predictive value (PPV) and the CIN 2+ detection rate were calculated for the two screening methods, with biopsy being the gold standard.
+FINDINGS
+Between October 2007 and October 2010, 2338 women were screened with VIA and 1124 with VIA/VILI.
+In the VIA group, 26.4% of the women tested positive for CIN 2+; in the VIA/VILI group, 21.7% tested positive (P < 0.01).
+Histologically confirmed CIN 2+ was detected in 8.9% and 7.8% (P = 0.27) of women in the VIA and VIA/VILI groups, respectively.
+The PPV of VIA for biopsy-confirmed CIN 2+ in a single round of screening was 35.2%, compared with 38.2% for VIA/VILI (P = 0.41).
+CONCLUSION
+The absence of any differences between VIA and VIA/VILI in detection rates or PPV for CIN 2+ suggests that VIA, an easy testing procedure, can be used alone as a cervical cancer screening strategy in low-income settings.

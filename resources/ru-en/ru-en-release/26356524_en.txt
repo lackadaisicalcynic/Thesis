@@ -1,0 +1,6 @@
+[Characteristics of the regulation of neurotrophic mechanisms in ischemic stroke].  AIM
+To explore the endogenous and pharmacological activation of neurotrophic mechanisms in a model of brain ischemic lesion in rats.  MATERIAL AND METHODS
+The study was performed on 170 male albino rats (195-205 g).  The model of ischemic stroke was accomplished by the electrocoagulation of the proximal segment of the left middle cerebral artery and simultaneous permanent ligation of the left common carotid artery.
+RESULTS AND CONCLUSION
+The evaluation of NSE, NO, VEGF, NGF levels in the brain cytoplasmic lysate and plasma showed the delayed activation of neurotrophic mechanisms in astrocytes accompanied by a decrease in delayed alteration of neurons.
+The use of cytoflavin in the treatment of stroke was accompanied by the earlier and more intense activation of neurotrophic mechanisms in astrocytes, delayed activation of neurotrophic mechanisms in endothelial cells, which promoted neuroprotection in acute ischemic stroke.

@@ -1,0 +1,7 @@
+[The genetic predictors of cognitive impairment in Parkinson's disease].  Parkinson's disease (PD) is a common neurodegenerative disorder that can be both sporadic and familial.
+A number of studies are devoted to the study of non-motor symptoms in PD today.  Cognitive deficits, and especially dementia, are one of the most severe and disabling non-motor symptoms of PD.
+More than a quarter of patients in the early stages of PD have a moderate cognitive impairment, more than half of patients with PD develop dementia within 10 years from the date of diagnosis.
+Using genome-wide association studies (GWAS), a number of genes associated with cognitive impairment have been identified based on a comparison of genetic and clinical phenotypes.
+These genes can be divided into three groups: genes that lead to the development of PD and are inherited according to the laws of Mendel (SNCA), genes that are risk factors for PD development (GBA, MAPT) and genes associated with the development of cognitive impairment, but not with PD (COMT, APOE, BDNF).
+This review examines the effect of genetic variants in the above-mentioned genes on cognitive functions in patients with PD.
+The elucidation of the genetic basis of cognitive deficits in PD could help in choice of treatment tactics and in development of new therapeutic strategies.

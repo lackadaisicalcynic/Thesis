@@ -1,0 +1,11 @@
+AIM  to perform a comparative study of peripheral refraction and retinal contour in patients with congenital versus acquired high myopia.
+MATERIAL AND METHODS
+A total of 30 patients (60 eyes) with high myopia aged 8 to 18 years (11.2±0.32 years on average) were examined.
+The patients were divided into 2 groups.
+Group 1 consisted of 21 patients (42 eyes) with acquired myopia of -6.0 to -10.25 diopters (-7.55±0.17 diopters on average), group 2 - of 9 patients (18 eyes) with congenital myopia of -8.75 to -28.75 diopters (-16.39±1.24 diopters on average).
+Using the Grand Seiko WR-5100K binocular open-field autoref/keratometer (Japan), relative peripheral refraction was assessed with account to relative peripheral eye length measured by the IOL Master partial coherent interferometer ('Carl Zeiss', Germany) at 15° and 30° nasally and temporally from the foveal center along the horizontal meridian.
+RESULTS
+In acquired myopia, relative peripheral refraction and relative peripheral eye length readings evidenced the formation of peripheral hyperopic defocus in all examined zones.
+Congenital high myopia cases were notable for myopic defocus at 15° of the nasal retina (N15 zone): -0.67±0.33 diopters against the eye length change of -0.33±0.13 mm.
+CONCLUSION
+The research helped identify retinal contour changes characteristic of congenital myopia and indicative of posterior pole irregularity.

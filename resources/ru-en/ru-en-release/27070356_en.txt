@@ -1,0 +1,5 @@
+[Current concepts on intrathecal humoral immune response and diagnostic importance of oligoclonal immunoglobulins in multiple sclerosis].
+Multiple sclerosis (MS) is a demyelinating disease of the central nervous system of probable autoimmune origin.
+In this review of literature, the authors present a constantly broadening list of potential antigens, including myelin and non-myelin structures, that cause the autoimmune reaction.  Determination of antibodies to any antigen has not sufficient specificity and sensitivity for the use in routine laboratory practice.
+Oligoclonal immunoglobulins determined with isoelectric focusing (IEF) technique are currently considered as the main immunological MS markers.
+The sensitivity and specificity of IEF are 90 and 86%, respectively.  The authors have considered the additional markers such as oligoclonal IgM and MRZ-response.

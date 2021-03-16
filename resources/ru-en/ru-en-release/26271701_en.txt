@@ -1,0 +1,4 @@
+[Visual perception of dentition esthetic parameters (part 1)].  The article presents a study on the impact of violations of aesthetic parameters as the inclination of the incisalline, thedislocation of median interincisal line and the width of dental arch on visual perception.
+Comparison of the data of objective assessment data the subjective assessment of the respondents was conducted.
+It is proved that all dependencies are linear and can be described by a linear regression equations.
+A similar method can be used for objective quantitative method for the assessment of aesthetics teeth when you smile before and after dental treatment.

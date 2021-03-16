@@ -1,0 +1,12 @@
+Antibiotic stewardship interventions in hospitals in low-and middle-income countries: a systematic review.
+Objective
+To review the effectiveness of antibiotic stewardship interventions in hospitals in low- and middle-income countries.  Methods
+We searched MEDLINE®, Embase®, Cochrane Central Register of Controlled Trials and regional indexes for studies of interventions to improve appropriate prescribing and use of antibiotics for hospitalized patients in low- and middle-income countries.
+We included controlled trials, controlled before-and-after studies and interrupted time-series studies published up to December 2017.  We report prescribing, clinical and microbiological outcomes using a narrative approach.
+Findings
+We screened 7342 original titles and abstracts, assessed 241 full-text articles and included 27 studies from 2 low-income and 11 middle-income countries.
+We found a medium (11 studies) or high risk (13 studies) of bias.  Generally, all types of interventions (structural, persuasive and enabling) and intervention bundles were reported to improve prescribing and clinical outcomes.
+However, the studied interventions and reported outcomes varied widely.  The most frequent intervention was procalcitonin-guided antibiotic treatment (8 of 27 studies, all randomized controlled trials).
+The intervention was associated with a relative risk for patients receiving antibiotics ranging between 0.40 and 0.87.  Conclusion
+The majority of studies reported a positive effect of hospital antibiotic stewardship interventions.  However, we cannot draw general conclusions about the effectiveness of such interventions in low- and middle-income countries because of low study quality, heterogeneity of interventions and outcomes, and under-representation of certain settings.
+To strengthen the evidence base, action needs to be taken to address these shortcomings.

@@ -1,0 +1,12 @@
+Lower incidence of myocardial infarction after smoke-free legislation enforcement in Chile.
+Objective
+To evaluate the impact of a complete smoking ban in enclosed spaces on the incidence of acute myocardial infarction in Chile.
+Methods
+The population-based study involved residents of urban areas, where 80% of the Chilean population live, aged 20 years or older who had a myocardial infarction.
+Monthly myocardial infarction incidence and mortality rates at health-care facilities between January 2011 and December 2014 were derived from admission and mortality databases.  Regression discontinuity methods were used to estimate the near-immediate impact on disease incidence of enforcing smoke-free legislation in March 2013.
+The same analysis was performed for ischaemic stroke, degenerative disc disease and colon cancer.  Data on the concentration of fine respirable particulates were included in an additional analysis of myocardial infarction incidence in the Santiago metropolitan area.
+Results  The enforcement of smoke-free legislation was associated with an abrupt, near-immediate decline of 0.639 cases of myocardial infarction per 100 000 adults per month (95% confidence interval, CI: 0.242 to 1.036; relative decline: 7.8%).
+Similar declines were observed in men and women and in people aged over and under 70 years.  However, enforcement of the legislation was not associated with a significant change in the rate of ischaemic stroke, degenerative disc disease or colon cancer.
+The abrupt decline in myocardial infarction incidence was also observed when data on fine respirable particulates were included in an analysis for Santiago.
+Conclusion
+The enforcement of extensive smoke-free legislation in Chile was associated with an abrupt, near-immediate decline in the incidence of myocardial infarction.

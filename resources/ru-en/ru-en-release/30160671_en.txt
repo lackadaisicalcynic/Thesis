@@ -1,0 +1,16 @@
+[Steps to personalized therapy of multiple sclerosis: predicting safety of treatment using mathematical modeling].
+AIM  To construct a mathematical model capable of predicting the drug safety of a patient receiving multiple sclerosis disease modifying drugs (DMD), on a model of flu-like syndrome (FLS).
+MATERIAL AND METHODS
+The study included 457 patients with multiple sclerosis (MS), aged from 18 to 68 years, mean 38.79 years, the mean duration of disease 122.58 months.
+All patients received first-line injections drug (interferon-beta).
+The sample included data from a three-year prospective dynamic observation with a frequency of observation of 1 every 6 months, with only the data of those examinations for which the presence or absence of FLS was known for the next 6 months (1203 cases).
+At the first step, the frequency of factors in the compared groups using the W Wald-Wolkovitz test, then the prognostic coefficients (PC) and the Kulbak informativity coefficient (CI) were calculated for each factor gradation.
+To determine the predictive ability of signs, the Spearman's R criterion was used.
+At the second step, a model of a two-layer neural network was constructed based on the data obtained.
+RESULTS
+A simple static model and algorithm were developed to assess the risks of the onset and persistence of FLS during the next 6 months of interferon beta therapy.
+An attempt was also made to create an active model using neural network technology.
+Both models showed good sensitivity and specificity - 81.2% and 80.6% for the neural network, and 73.4 and 71.6% for the static model.
+CONCLUSION
+Using of these algorithms allows to significantly increase the possibility of predicting the occurrence of AE at the time of drug prescribing.
+From the mathematical point of view, for the first time the mechanism and possibilities of using a neural network in conditions of incomplete initial information were determined.

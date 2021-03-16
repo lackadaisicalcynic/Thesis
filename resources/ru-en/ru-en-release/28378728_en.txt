@@ -1,0 +1,13 @@
+[Prevalence of external respiratory dysfunction in young people].
+AIM  To investigate the prevalence of impaired external respiration function (ERF) in young Novosibirsk dwellers.
+SUBJECTS AND METHODS
+A cross-sectional population-based survey in one of the typical districts of Novosibirsk was conducted at the Research Institute of Internal and Preventive Medicine in 2013-2015.
+ERF was examined by spirometry in accordance with the guidelines.
+The best indicators of forced expiratory volume in 1 second (FEV1), forced vital capacity (FVC), and FEV1/FVC ratio were selected and three reproducible attempts were made to evaluate ERF.
+Spirometry was carried out in 787 respondents (358 males and 429 females) for the entire period.
+The results were interpreted according to the guidelines of the European Respiratory Society, the American Thoracic Society, and the Russian Respiratory Society.
+RESULTS
+The prevalence of a FEV1/FVC of <70% in the total sample was 10.3% (13.4% for men and 7.7% for women; p=0.009); a FEV1 of <80% was 13.9% (14.5% for men and 13.3% for women; p=0.617); a FVC of <80% was 7% (6.1% for men and 7.7% for women; p=0.397).
+The obstructive type of ventilation disorders (FEV1/FVC <70%, FVC ≥80%) was recorded in 9.4% of the people, the restrictive type (FVC <80%, FEV1/FVC ≥70%) in 6.1%, and the mixed one (FEV1/FVC <70%, FVC <80%) in 0.9%; normal values (FEV1/FVC ≥70% and FVC ≥80%) were seen in 83.6%.
+CONCLUSION
+Spirometric screening of a young Novosibirsk population demonstrated the incidence of impaired ERF, which is comparable with Russian and foreign data.

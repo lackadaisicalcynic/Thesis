@@ -1,0 +1,13 @@
+[Brain atrophy and perfusion changes in patients with remitting and secondary progressive multiple sclerosis].
+AIM  To study the relationship of brain atrophy and changes in perfusion with an increase in the level of disability in patients with multiple sclerosis (MS).
+MATERIAL AND METHODS
+Twenty patients with remitting MS, 20 patients with secondary progressive multiple sclerosis (SPMS) and 20 healthy people were studied.
+The level of neurological deficit was assessed with EDSS and cognitive status with PASAT.
+MRI of the brain (standard impulse sequences and 3D-T1-MPR for voxel MRI-morphometry) and perfusion computed tomography with the assessment of visually intact white matter (VIWM) and thalamus were performed.
+RESULTS  Compared to the control group, patients with MS had a significant atrophy of subcortical gray matter.
+Patients with SPMS in addition had an atrophy of some cortical areas which was correlated with EDSS scores (p<0.05).
+The correlation between cognitive impairment and the volume of the left inferior parietal lobule (r=0.677; p=0.011) and worsening of perfusion of VIWM of frontal and parietal lobes, thalamus on both sides was observed in patients with SPMS compared to those with remitting MS.  That was correlated with cognitive performance assessed by PASAT.
+CONCLUSION
+Patterns of atrophy distribution in different types of MS were determined.
+The level of disability is correlated with the severity of brain atrophy.
+Hypoperfusion of VIWM that was correlated with cognitive impairment was found in patients with SPMS.

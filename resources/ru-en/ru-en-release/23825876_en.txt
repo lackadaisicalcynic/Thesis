@@ -1,0 +1,12 @@
+Impact of expanded access to combination antiretroviral therapy in pregnancy: results from a cohort study in Ukraine.
+OBJECTIVE
+To investigate the scale-up of antenatal combination antiretroviral therapy (cART) in Ukraine since this became part of the national policy for the prevention of mother-to-child transmission (PMTCT) of human immunodeficiency virus (HIV).  METHODS
+Data on 3535 HIV-positive pregnant women who were enrolled into the Ukraine European Collaborative Study in 2008-2010 were analysed.  Factors associated with receipt of zidovudine monotherapy (AZTm) - rather than cART - and rates of mother-to-child transmission (MTCT) of HIV were investigated.
+FINDINGS
+cART coverage increased significantly, from 22% of deliveries in 2008 to 61% of those in 2010.
+After adjusting for possible confounders, initiation of antenatal AZTm - rather than cART - was associated with cohabiting (versus being married; adjusted prevalence ratio, aPR: 1.09; 95% confidence interval, CI: 1.02-1.16), at least two previous live births (versus none; aPR: 1.22; 95% CI: 1.11-1.35) and a diagnosis of HIV infection during the first or second trimester (versus before pregnancy; aPR: 1.11; 95% CI: 1.03-1.20).
+The overall MTCT rate was 4.1% (95% CI: 3.4-4.9); 42% (49/116) of the transmissions were from the 8% (n = 238) of women without antenatal ART.
+Compared with AZTm, cART was associated with a 70% greater reduction in the risk of MTCT (adjusted odds ratio: 0.30; 95% CI: 0.16-0.56).
+CONCLUSION
+Between 2008 and 2010, access to antenatal cART improved substantially in Ukraine, but implementation of the World Health Organization's Option-B policy was slow.
+For MTCT to be eliminated in Ukraine, improvements in the retention of women in HIV care and further roll-out of Option B are urgently needed.

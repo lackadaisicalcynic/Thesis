@@ -1,0 +1,5 @@
+[Pharmacotherapy for irritable bowel syndrome in the context of evidence-based medicine].
+The paper analyzes an evidence base for the pharmacotherapy of irritable bowel syndrome (IBS) A large number of randomized placebo-controlled trials (RPCTs) systematized in a number of meta-analyses suggest that monotherapy regimens with spasmolytics, antidepressants, dietary fibers, polyethylene glycol, rifaximin, probiotics, and mesalamine are effective.
+Only some RPCTs evaluate the efficiency of combined pharmacotherapy versus placebo for IBS.
+Since the basis for the pathophysiology of the latter is motility and functional disorders, visceral hypersensitivity, and, probably, impaired microbiota, we anticipate that the need to use combined approaches to treating the majority of patients with IBS, by covering a few components of its pathogenesis, is relevant.
+Thus, to choose pharmacotherapy for IBS in each specific case is a challenge as this is determined by the form of IBS, the availability of an approved medicine on the domestic market, the indications for use, possible long-term use, high safety, and efficacy evidence drawn from RPCTs.

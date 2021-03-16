@@ -1,0 +1,5 @@
+Objective.  To compare pharmacokinetic parameters of mexidol (coated tablets, "Farmasoft") and mexiprim (tablets film-coated, "STADA CIS").
+Material and methods.
+The study included 14 adult male Chinchilla rabbits.  Concentration of 2-ethyl-6-methyl-3-hydroxypyridine succinate in the blood plasma of animals was analyzed using HPLC with UV detection.
+Results and conclusion.  Mexidol as compared to mexiprim was more completely and rapidly absorbed from the gastrointestinal tract, it was confirmed by the higher value of maximal concentration of 2-ethyl-6-methyl-3-hydroxypyridine succinate and less maximal concentration time after mexidol administration.
+The drugs had similar excretion that was confirmed by the lack of significant differences in the values of total clearance, half-life, and the average retention time.

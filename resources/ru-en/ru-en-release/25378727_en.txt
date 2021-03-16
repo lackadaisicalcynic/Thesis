@@ -1,0 +1,12 @@
+Trends in all-cause mortality during the scale-up of an antiretroviral therapy programme: a cross-sectional study in Lusaka, Zambia.
+OBJECTIVE
+To follow the trends in all-cause mortality in Lusaka, Zambia, during the scale-up of a national programme of antiretroviral therapy (ART).  METHODS
+Between November 2004 and September 2011, we conducted 12 survey rounds as part of a cross-sectional study in Lusaka, with independent sampling in each round.  In each survey, we asked the heads of 3600 households to state the number of deaths in their households in the previous 12 months and the number of orphans aged less than 16 years in their households and investigated the heads' knowledge, attitudes and practices related to human immunodeficiency virus (HIV).
+FINDINGS
+The number of deaths we recorded - per 100 person-years - in each survey ranged from 0.92 (95% confidence interval, CI: 0.78-1.09) in September 2011, to 1.94 (95% CI: 1.60-2.35) in March 2007.
+We found that mortality decreased only modestly each year (mortality rate ratio: 0.98; 95% CI: 0.95-1.00; P = 0.093).
+The proportion of households with orphans under the age of 16 years decreased from 17% in 2004 to 7% in 2011.
+The proportions of respondents who had ever been tested for HIV, had a comprehensive knowledge of HIV, knew where to obtain free ART and reported that a non-pregnant household member was receiving ART gradually increased.
+CONCLUSION
+The expansion of ART services in Lusaka was not associated with a reduction in all-cause mortality.
+Coverage, patient adherence and retention may all have to be increased if ART is to have a robust and lasting impact at population level in Lusaka.

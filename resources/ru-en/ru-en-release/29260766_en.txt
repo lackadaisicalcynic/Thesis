@@ -1,0 +1,4 @@
+[Mathematical-cartographic modeling and forecasting of caries and acute apical periodontitis incidence in pediatric population].
+The paper presents the results of mathematical-cartographic simulation study of the incidence of caries and acute apical periodontitis in pediatric population of Belgorod region.
+The Borisov district was found to be the most unfavorable area of the region with the highest incidence of the diseases.  The forecast indicates an increase in the incidence of caries in children by 181.1 cases and acute apical periodontitis by 15.00 cases per 1.000 children annually in the coming years.
+The incidence of acute apical periodontitis is influenced by the excess of maximum permissible concentration of phenol and soot in atmospheric air, forming a homogenous cluster.

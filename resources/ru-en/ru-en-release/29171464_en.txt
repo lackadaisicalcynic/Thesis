@@ -1,0 +1,10 @@
+[Impact of various wound dressings on wound bed neoangiogenesis in patients with different forms of diabetic foot syndrome].
+AIM  To investigate the impact of various wound dressings on wound bed neoangiogenesis in patients with different forms of diabetic foot syndrome (DFS).
+SUBJECTS AND METHODS
+The clinical (local tissue oxygenation) and immunohistochemical (CD31) markers of foot soft tissue neoangiogenesis were evaluated in patients with DFS receiving negative pressure (NP) therapy and collagen-containing dressings (CCDs) versus standard treatment.
+63 patients with neuropathic and neuroischemic (without critical ischemia) forms of DFS were examined after wound debridement.
+In the postoperative period, 21 patients received NP treatment, CCDs were applied to 21 patients, and 21 patients had standard treatment.
+RESULTS
+During NP therapy, there was statistically significantly intensified local microhemodynamics, as evidenced by transcutaneous oximetry (p < 0.05); the remaining two groups showed no statistically significant differences in transcutaneous oxygen tension during the treatment.
+Immunohistochemical examination revealed a significant increase in the number of newly formed vessels, as shown by anti-CD31 antibody staining (p < 0.05), in patients who had NP therapy and CCDs (p < 0.05).  CONCLUSION
+Vacuum (NP) therapy versus standard therapy most effectively affects wound bed neoangiogenesis.  This is reflected in the increased local tissue microhemodynamics, as confirmed by immunohistochemical examination.

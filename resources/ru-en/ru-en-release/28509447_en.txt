@@ -1,0 +1,4 @@
+[Discontinuity of the annuity curves.  I. Departures from Gompertz law in Drosophila melanogaster Canton-S strain].
+Analysis of male imago mortality in Drosophila melanogaster Canton-S strain demonstrated deviation from Gompertz law.  Annuity curves were composed of five phases divided by sharp bends.
+All the phases seemed to be linear.
+We discuss the hypotheses of strict genetic determination of the phenomenon.

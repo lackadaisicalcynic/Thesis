@@ -1,0 +1,17 @@
+Mortality among people who inject drugs: a systematic review and meta-analysis.
+OBJECTIVE  To systematically review cohort studies of mortality among people who inject drugs, examine mortality rates and causes of death in this group, and identify participant- and study-level variables associated with a higher risk of death.
+METHODS
+Tailored search strings were used to search EMBASE, Medline and PsycINFO.
+The grey literature was identified through online grey literature databases.
+Experts were consulted to obtain additional studies and data.
+Random effects meta-analyses were performed to estimate pooled crude mortality rates (CMRs) and standardized mortality ratios (SMRs).
+FINDINGS
+Sixty-seven cohorts of people who inject drugs were identified, 14 of them from low- and middle-income countries.
+The pooled CMR was 2.35 deaths per 100 person-years (95% confidence interval, CI: 2.12-2.58).
+SMRs were reported for 32 cohorts; the pooled SMR was 14.68 (95% CI: 13.01-16.35).
+Comparison of CMRs and the calculation of CMR ratios revealed mortality to be higher in low- and middle-income country cohorts, males and people who injected drugs that were positive for human immunodeficiency virus (HIV).
+It was also higher during off-treatment periods.
+Drug overdose and acquired immunodeficiency syndrome (AIDS) were the primary causes of death across cohorts.
+CONCLUSION
+Compared with the general population, people who inject drugs have an elevated risk of death, although mortality rates vary across different settings.
+Any comprehensive approach to improving health outcomes in this group must include efforts to reduce HIV infection as well as other causes of death, particularly drug overdose.

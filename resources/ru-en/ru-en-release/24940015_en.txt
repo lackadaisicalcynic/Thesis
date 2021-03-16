@@ -1,0 +1,8 @@
+Time series analysis of the impact of tobacco control policies on smoking prevalence among Australian adults, 2001-2011.
+OBJECTIVE
+To determine the impact of tobacco control policies and mass media campaigns on smoking prevalence in Australian adults.  METHODS
+Data for calculating the average monthly prevalence of smoking between January 2001 and June 2011 were obtained via structured interviews of randomly sampled adults aged 18 years or older from Australia's five largest capital cities (monthly mean number of adults interviewed: 2375).
+The influence on smoking prevalence was estimated for increased tobacco taxes; strengthened smoke-free laws; increased monthly population exposure to televised tobacco control mass media campaigns and pharmaceutical company advertising for nicotine replacement therapy (NRT), using gross ratings points; monthly sales of NRT, bupropion and varenicline; and introduction of graphic health warnings on cigarette packs.  Autoregressive integrated moving average (ARIMA) models were used to examine the influence of these interventions on smoking prevalence.
+The mean smoking prevalence for the study period was 19.9% (standard deviation: 2.0%), with a drop from 23.6% (in January 2001) to 17.3% (in June 2011).  The best-fitting model showed that stronger smoke-free laws, tobacco price increases and greater exposure to mass media campaigns independently explained 76% of the decrease in smoking prevalence from February 2002 to June 2011.
+CONCLUSION
+Increased tobacco taxation, more comprehensive smoke-free laws and increased investment in mass media campaigns played a substantial role in reducing smoking prevalence among Australian adults between 2001 and 2011.

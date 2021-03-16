@@ -1,0 +1,6 @@
+[The canonical Wnt/β-catenin pathway: From the history of its discovery to clinical application].
+The Wnt/β signaling pathway (Wnt-SP) is a phylogenetically ancient mechanism that regulates development and maintains tissue homeostasis through the control of cell proliferation, differentiation, migration, and apoptosis.
+The accurate regulation of the canonical Wnt/β-catenin signaling pathway (Wnt-SP) is critical for embryogenesis and postnatal development; and impaired signal transduction at one of its stages leads to various diseases, including organ malformations, cancers, metabolic and neurodegenerative disorders.
+The literature review discusses the biological role of the canonical Wnt-SP in the development of the skeleton and in the remodeling of bone tissue.  The Wnt signal transmission changes observed during genetic mutations cause various human skeletal diseases.
+Understanding the functional mechanism involved in the development of bone abnormality could open new horizons in the treatment of osteoporosis, by affecting the Wnt-SP.
+The design of antibodies to sclerostin, a Wnt-SP inhibitor, is most promising now.  The paper summarizes the studies that have investigated the canonical Wnt-SP and designed drugs to treat osteoporosis.

@@ -1,0 +1,14 @@
+[Role of soluble Fas ligand in myocardial remodeling, severity and outcomes of chronic heart failure].
+AIM  to reveal the specific features of Fas ligand-mediated ischemic myocardial remodeling and those of chronic heart failure (CHF) development during a 12-month prospective follow-up.
+SUBJECTS AND METHODS
+A total of 94 patients with ischemic CHF were examined and divided into 3 groups according to NYHA Functional Class (FC): 1) FC II CHF in 35 patients; 2) FC III CHF in 31; 3) FC IV CHF in 28.
+According to the results of the 12-month follow-up, the patients were randomized into 2 groups: A) 49 patients with a favorable course of cardiovascular disease and B) 45 patients with its poor course.
+Serum soluble Fas ligand (sFas-L) levels were measured by enzyme immunoassay.
+RESULTS
+In the patients with CHF, the baseline sFas-L levels substantially exceeded that in the control group by 3-6 times (p<0.01).
+In the men with the poor course of CHF, the baseline serum sFAS-L levels (85.94±4.14 pg/ml) were significantly higher than that in the favorable CHF group (107.33±5.13 pg/ml; р=0.0015).
+ROC analysis of the sensitivity and specificity of cardiovascular risk stratification according to sFAS-L levels revealed the high prognostic value of this marker - ROC-Area±S.E. was 0.75±0.05 (95% confidence interval, 0.60 to 0.81; p=0.0005).
+There was a statistically significant moderate correlation of left ventricular (LV) ejection fraction with sFAS-L concentrations and a moderate direct correlation between serum sFAS-L concentrations and LV remodeling parameters.
+CONCLUSION
+The serum level of sFas-L determines the development of ischemic LV remodeling and the severity of CHF, by increasing in proportion to the degree of disease progression.
+The determination of serum sFas-L levels assists in objectively estimating the severity of apoptosis and may be an important prognostic test to assess the course of CHF in patients with coronary heart disease.

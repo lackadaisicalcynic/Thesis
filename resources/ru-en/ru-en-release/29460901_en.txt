@@ -1,0 +1,7 @@
+[The clinical significance of the lamotrigine pharmacokinetic variability].  AIM
+To estimate pharmacokinetic variability of lamotrigine (LTG) and its clinical significance.  MATERIAL AND METHODS
+One hundred patients, including 74 women, aged from 18 to 77 years (38.23±14.37 years), with focal epilepsy were examined.  Monotherapy with LTG was administered to 54 patients, duotherapy to 46 patients (LTG and valproic acid combination to 27 patients, LTG and liver enzymes inducers to 19 patients).
+Patients underwent procedures of therapeutic drug monitoring (TDM).  Minimal (Cssmin) and maximal (Cssmax) steady-state LTG plasma concentrations, and concentration-to-weight ratio (CDR) were calculated.
+In patients who used LTG in monotherapy, LTG Cssmin was 5.6±4.65 mg/l, Cssmax 7.59±5.54 mg/l.  In the group that received LTG in combination with valproate, LTG Сssmin was 7.8 [5.4; 11.8] mg / l and Cssmax 11.4 [7.3; 15.3] mg/l.
+In the group that received LTG in combination with drug-inducers of glucuronidation, Cssmin was 2.5 [1.99; 4.32] mg/l, Cssmax 4.73 [2.91; 6.70] mg/l.  Statistically significant differences in CDR parameter between groups with LTG monotherapy and duotherapy, both with inducer and with inhibitors, as well as between groups of duotherapy with inductors and with inhibitors were obtained.
+The results of the study indicate a pronounced pharmacokinetic variability of the LTG.  Conducting TDM allows the establishment of individual therapeutic concentrations of LTG in blood plasma and setting a correction vector for antiepileptic therapy.

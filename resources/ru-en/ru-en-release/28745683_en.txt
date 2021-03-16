@@ -1,0 +1,7 @@
+[Genetic aspects of schizophrenia].  Schizophrenia is a disease with a complex non-Mendelian inheritance mechanism in most cases involving the combined action of a large number of genes.
+Identifying of genomic variations associated with schizophrenia endophenotypes has a great potential.
+This review describes genetic markers of the disease, current methods of their analysis, including genome-wide association study (GWAS).
+Certain genes with mutations that increase the risk of schizophrenia are described.
+Functional polymorphisms with phenotypic expression, which are significantly associated with clinical manifestation of schizophrenia, can serve as useful genetic markers.
+The authors highlight that currently there are no certain susceptibility genes.
+Further global research and search for markers in different population groups are needed.

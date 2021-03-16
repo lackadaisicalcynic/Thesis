@@ -1,0 +1,17 @@
+[Effect of nonsteroidal anti-inflammatory drugs on the indicators of cardiovascular risk in patients with acute nonspecific back pain].
+AIM  To evaluate the safety of etoricoxib in patients with acute nonspecific back pain associated with the high risk of cardiovascular events (CVE) in clinical practice.
+SUBJECTS AND METHODS
+The open prospective follow-up by a simple randomization method included 80 patients, including 49 women and 31 men (mean 60.8±4.7 years).
+The patients were randomized into 4 groups of 20 persons each: 1) etoricoxib 90 mg/day; 2) nimesulide 100 mg/day; 3) diclofenac 100 mg/day; 4) meloxicam 15 mg/day.
+The investigation lasted 90±4.5 days.
+The interim evaluation criteria (study points) were pain changes using a visual analog scale (VAS); blood pressure (BP) changes; diurnal BP rhythm; and changes in coagulation hemostatic parameters and blood biochemical markers.
+The primary evaluation criteria (study endpoints) were the incidence of CVE in the use of nonsteroidal anti-inflammatory drugs (NSAIDs).
+RESULTS
+The patients with acute back pain were shown to have a high incidence of comorbidities during outpatient care.
+The administration of NSAIDs resulted in a significant reduction in the magnitude and intensity of pain syndrome according to VAS in all the groups just on day 3 of therapy with a more marked analgesia in patients receiving etoricoxib and diclofenac.
+All the groups exhibited an increase in average daily systolic and diastolic BP with the most favorable profile in Group 1 patients.
+The intake of etoricoxib and other NSAIDs provided no evidence for changes in hemostatic parameters and biochemical markers during 10 weeks.
+The safety of etoricoxib was comparable with that of NSAIDs in its effect on the plasma hemostatic system.
+CONCLUSION
+Unlike nimesulide, diclofenac, and meloxicam, etoricoxib was characterized by a rapid steady-state analgesic effect with a less pronounced action on diurnal BP rhythm.
+Within 3 months after treatment, no acute CVE was recorded in the patients taking etoricoxib.

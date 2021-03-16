@@ -1,0 +1,9 @@
+[Genetics and epigenetics of attention deficit hyperactivity disorder].  Molecular genetic studies of attention deficit hyperactivity disorder (ADHD) have demonstrated the involvement of multiple genes in the etiology of ADHD.
+A polygenic hypothesis of the etiopathogenesis was formulated without clear knowledge of common mechanisms of ADHD development.
+Twin, family and adoption studies have established the heritability of 70-80% for ADHD.
+Association studies have shown the relationship between ADHD and genes of dopaminergic (DRD4, DRD5, SLC6A3), serotoninergic (HTR1B, 5-HTTLPR), glutamatergic (mGluR, NDRG2) systems, metabolic pathways (SLC2A3, SLC6A4, CDH13, CFOD1, GFOD1), membrane proteins (KChIP1, ITGA1, SNAP-25) as well as tumour-suppressor (NDRG2, NF1) and cytokine genes.
+The marked comorbidity of ADHD with other psychiatric disorders and shared genetic risk factors were determined.
+Studies of a role of copy number variations (CNVs) provided more promising evidence that suggested the possible involvement of retroelements as the unifying factors of disease etiopathogenesis.
+Transposons, which are sensitive to stress, may cause CNVs and are key regulators of brain development and functioning.
+The dysregulation of transposons is thought to be important in changes in tuning of gene regulatory pathways and epigenetic regulation of neurons in ADHD that may be a common principle underlying the heterogeneous nature of ADHD.
+Research on noncoding RNAs will help to confirm the hypothesis and develop diagnostic algorithms of examination of ADHD patients as an important step in the implementation of personalized medicine in psychiatry.

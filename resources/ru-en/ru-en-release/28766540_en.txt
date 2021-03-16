@@ -1,0 +1,17 @@
+[Leukemization of follicular lymphoma: The features of diagnostic and clinical course of a rare form of the disease].
+AIM  To characterize a group of patients with follicular lymphoma (FL) with leukemization and to evaluate the efficiency of different therapy options (R-CHOP/R-FMC/high-dose chemotherapy (HDCT)).
+SUBJECTS AND METHODS
+18 (7.2%) out of 250 patients diagnosed with FL, who were examined and treated at the National Research Center for Hematology, Ministry of Health of the Russian Federation, were found to have leukemic FL  (tumor cells in the peripheral blood smears were detected by cytology and flow cytofluorometry.
+Eight of the 18 patients had extranodal foci of involvement: lung, stomach, spleen, lumbar muscles, upper jaw, and vertebrae.
+Bone marrow was involved in 17 of the 18 patients.
+Tumor biopsy specimens displayed a morphological pattern of indolent FL in the majority of patients (10 of the 18 patients had cytological grade 1-2 tumors and 14 patients had a nodular or nodular-diffuse tumor growth pattern).
+The patients underwent R-CHOP/R-FMC) or HDCT cycles as first-line therapy, followed by autologous stem cell transplantation (auto-SCT).
+RESULTS
+The median follow-up was 66 months (range 12-217 months).
+The 5-year overall survival (OS) and progression-free survival (PFS) rates were 70% (10% SEM) and 35% (15% SEM), respectively.
+The median OS was not reached; the median PFS was 3 years.
+CONCLUSION
+Leukemic FL is characterized by low OS and PFS rates.
+The most effective chemotherapy regimens were R-CHOP, followed by HDCT and auto-SCT in first remission or R-FMC.
+These cycles can to a greater extent achieve a complete eradication of the bone marrow tumor clone.
+Due to the relapsing course of FL and the aggressiveness of leukemic FL, it is expedient to carry out auto-SCT in first remission.

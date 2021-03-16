@@ -1,0 +1,16 @@
+PURPOSE  To compare the wavefront and accommodation parameters without correction and in soft contact lenses (SCL) in natural and cycloplegic conditions in eyes with myopia and hyperopia.
+MATERIAL AND METHODS
+A total of 142 myopic (mean -5.6±1.4 D) and 48 hyperopic (mean +3.5±1.1 D) eyes were examined in 95 patients aged 5-32 years (mean age 16.9±0.9 years) to compare the wavefront aberrations without correction and with different SCL before and after cycloplegia (two drops of cyclopentolate hydrochloride 1%).
+The device was set up for 4 mm zone for both narrow and wide pupils.
+To compare the accommodation parameters under different correction conditions, 85 patients aged 8-23 years (mean age 14.9±0.6 years) with average myopia of (-)5.27±1.4D (123 eyes) and average hyperopia of +3.53±1.2 D (46 eyes) were chosen from the study group.
+Among the measured parameters are objective accommodative response (OAR), relative accommodation reserves (RAR), pseudoaccumulation amplitude (PA), higher-order aberrations: RMSHOAs, 6-9 Trefoil, 7-8 Coma, spherical aberration (SA).
+RESULTS
+In myopic eyes with SCL Coma 7 decreases, Coma 8 increases with transition to positive values, and Trefoil 9 increases.
+In hyperopic eyes, trefoil 6 decreases, Coma 7-8 go negative.
+In myopic or hyperopic eyes with SCL, SA goes from positive to negative.
+In both myopia and hyperopia, accommodation and PA rates are higher in SCL than in glasses.
+CONCLUSION
+SCL change certain wavefront parameters for myopia and hyperopia in different ways.
+The accommodation parameters in SCL are elevated in both myopia and hyperopia.
+The negative spherical aberration induced by contact lenses improves the accommodative response.
+The revealed features should be considered in the development of correction methods that target refractogenesis.

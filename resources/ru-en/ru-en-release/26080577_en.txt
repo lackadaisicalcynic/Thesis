@@ -1,0 +1,12 @@
+[Progressive hyperopic shift after radial keratotomy: possible causes].  AIM
+To describe possible causes of progressive hyperopia in patients who underwent radial keratotomy.  MATERIAL AND METHODS
+The study enrolled 33 subjects who underwent radial keratotomy earlier in their lives, of them 15 controls (29 eyes, group 1) with no refractive error and 18 patients (35 eyes, group II) with progressive hyperopia.  The number and type of keratotomy scars was determined during biomicroscopy.
+Biomechanical properties of the cornea were assessed by means of bidirectional applanation (Ocular Response Analyzer).  Dynamic contour tonometry (Pascal) was also used for intraocular pressure (IOP) measurement.
+Evaluation of the optic nerve head and retina included standard automated perimetry (Humphrey Field Analyzer) and confocal scanning laser ophthalmoscopy with Heidelberg Retinal Tomograph (HRT III).
+RESULTS
+Group II showed reliable signs of low corneal rigidity, namely reduction of CH and CRF values (by 2.4 and 1.6 mmHg respectively) and central corneal thickness (by 56 microns) as compared to the controls.
+Tonometry results differed inconsiderably showing a tendency toward hypertension in both groups.
+The interquartile range of IOP was 17.8 ÷ 22.4 mmHg in group II and 16.3 ÷ 20.6 mmHg in group I. Changes in retinal light sensitivity and optic nerve head parameters were more pronounced in the controls.
+CONCLUSION  Several reasons for lowering of corneal rigidity can be suggested: initial biomechanical parameters of the cornea, surgical interference, and age-related changes.
+We think that hyperopic shift results from the combination of low corneal rigidity and increased IOP, i.e. not the lamina cribrosa but the cornea becomes the target of ocular hypertension.
+Thus, patients with weakened corneal refraction after radial keratotomy are at risk for developing glaucoma in the late postoperative period.

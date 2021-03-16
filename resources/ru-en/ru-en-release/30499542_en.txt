@@ -1,0 +1,9 @@
+[Optical coherence tomography angiography in paracentral acute middle maculopathy (a case report)].  PURPOSE
+To describe a case of paracentral acute middle maculopathy (PAMM) from the perspective of multimodal visualization and characterize it using optical coherence tomography angiography (OCT-A).  MATERIAL AND METHODS
+Multimodal imaging of the eye structures was used to investigate the right eye of a patient with PAMM.  Infrared scanning laser ophthalmoscopy (IR-SLO), scanning laser ophthalmoscopy in autofluorescence mode and fluorescein angiography (FAG) were performed with scanning laser ophthalmoscope F-10 ('Nidek Co', Japan).
+Spectral domain OCT and OCT-A were performed with Copernicus REVO ('OPTOPOL Technology', Poland).  RESULTS
+IR-SLO showed paracentral hyporeflective area less than one optic nerve head in measure corresponding to an area of early hypofluorescence seen in FAG.
+OCT results included hyperreflectivity of the inner nuclear layer and slight decrease of central retinal thickness.  OCT-A revealed hyperperfusion area in superficial retinal capillary plexus and hypoperfusion area in deep retinal capillary plexus.
+CONCLUSION
+OCT-A is the most informative method for PAMM diagnostics.
+OCT-A findings confirm the vascular nature of PAMM.  Separate analyses of retinal capillary plexuses with OCT-A evidences ischemia occurring mainly in deep retinal capillary.

@@ -1,0 +1,3 @@
+[Influence of vascular endothelial growth factor on angiogenesis and neurogenesis].  Vascular endothelial growth factor (VEGF) is known as a key mediator of angiogenesis, but there is also evidence of its broad significance in neurogenesis and neuroprotection.
+Cytokines of the VEGF family affect neovascularization and neural development in the brain, particularly during cerebral ischemia, in which there is a coordinated interaction of angiogenesis and neurogenesis that contributes to rapid functional recovery.
+This review examines the involvement of VEGF family members and their receptors in physiological and pathophysiological processes as well as the relationship between VEGF-A plasma levels and ischemic stroke.

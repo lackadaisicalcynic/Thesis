@@ -1,0 +1,9 @@
+[Early outcomes of robot-assisted liver resection].  AIM
+To assess an experience of robot-assisted liver resection using CUSUM-test.
+MATERIAL AND METHODS
+The results of 46 robot-assisted liver resections were retrospectively analyzed by using of CUSUM-test.
+RESULTS
+There were 3 periods in development of the technology.  The 1st period - procedures with the lowest index of difficulty (n=16), the 2nd period - expansion of the indications for difficult resections (n=18) and the 3rd period - stabilization of the results (n=12).
+The dynamics of difficulty index, intraoperative blood loss, duration of procedure and morbidity (Clavien-Dindo Grade II-V) were evaluated.
+Five liver resections were needed to decrease blood loss and duration of the procedure.
+Expansion of indications was feasible after 16 procedures.  Stable results were obtained after 34 liver resections.

@@ -1,0 +1,9 @@
+[Electrocardiogram readings in different degrees of secondary atrial septal defect].
+AIM  To study the electrocardiographic characteristics of secondary atrial septal defect (ASD) depending on its size.
+MATERIALS AND METHODS
+A total of 80 patients (32 men and 48 women; mean age 23.5±2.7 years) with this defect were examined and divided into three groups according to its size relative to body surface area.
+RESULTS  The degree of electrocardiographic changes in secondary ASD depended on its size: a significant positive correlation was established between defect size and P wave amplitude (r=0.8; p<0.005), as well as its duration (r=0.5; p<0.001).
+A positive correlation was noted between defect size and R wave amplitude in lead V1 (r=0.6; p<0.04), that and S wave amplitude in lead V5 (r=0.3; p<0.02); between the size of the defect and the degree of an increase in the total index RV1+SV5,V6 (r=0.7; p<0.02); and that and the degree of electrical heart axis (EHA) deviation to the right (r=0.3; p<0.03).
+CONCLUSION
+The degree of electrocardiographic changes in secondary ASD depends on its size.
+Giant defects are characterized by a frequent EHA deviation to the right, pronounced signs of right ventricular hypertrophy, and a higher prevalence of right bundle branch block.

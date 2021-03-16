@@ -1,0 +1,13 @@
+Pre-treatment loss to follow-up in tuberculosis patients in low- and lower-middle-income countries and high-burden countries: a systematic review and meta-analysis.
+OBJECTIVE  To assess the magnitude of loss to follow-up in smear- or culture-positive tuberculosis patients before treatment initiation and outcomes among patients who were traced.
+METHODS
+Ovid Medline and Global Health databases were searched for studies published between 1994 and January 2013 that described pre-treatment loss to follow-up in patients with smear- or culture-positive tuberculosis in routine national tuberculosis programmes (NTPs) in low- and lower-middle-income countries and in countries with a high burden of tuberculosis.
+Data on the proportion of patients who did not initiate treatment after their tuberculosis diagnosis were extracted from studies meeting inclusion criteria.  Where available, data on causes and outcomes, including initiation of tuberculosis treatment at another facility, were investigated.
+Heterogeneity and publication bias were assessed and random-effects meta-analyses by subgroup (region) were performed.
+FINDINGS
+Twenty-three eligible studies were identified, with a total of 34 706 smear- or culture-positive tuberculosis patients from 14 countries (8 in Africa, 5 in Asia and 1 in the western Pacific).
+Most studies were retrospective and linked laboratory and treatment registers to identify pre-treatment loss to follow-up.
+Pre-treatment loss to follow-up varied from 4 to 38% and was common in studies from Africa (random-effects weighted proportion, WP: 18%; 95% confidence interval, CI: 13-22) and Asia (WP: 13%; 95% CI: 10-15).
+CONCLUSION
+Pre-treatment loss to follow-up, common in most settings, can hinder tuberculosis control efforts.
+By not counting individuals who are lost to follow-up before treatment when reporting standard programme indicators, NTPs underestimate case detection rates and mortality and overestimate cure rates.

@@ -1,0 +1,14 @@
+[Changes in intraocular pressure after intravitreal injections].  At present, intravitreal drug injections are used for treatment of various diseases of posterior segment of the eye.
+Among its side effects is significant rise of intraocular pressure (IOP).  PURPOSE
+To study the changes in IOP levels after two intravitreal injections.
+MATERIAL AND METHODS
+The study was performed on a random selection of 335 patients (335 eyes) diagnosed with choroidal neovascular membrane (CNVM).
+All the patients received intravitreal injections of ranibizumab according to medical indications.
+IOP was measured by rebound tonometer Icare-Pro (Icare, Finland) before intravitreal injection, as well as 1 minute, 30 minutes and 3 hours post-injection.
+Injection was repeated one months after the initial procedure.
+RESULTS
+Intravitreal injection of additional liquid volume causes significant IOP rise, up to 38 mm Hg in average (confidence interval 30-45 mm Hg, p<0.05), with further tendency for IOP to self-normalize.
+After 30 minutes, IOP remained slightly higher than the initial level - 18 mm Hg (confidence interval 15-21 mm Hg, p<0.05).
+After 3 hours, IOP approached baseline level - 14 mm Hg (confidence interval 12-16 mm Hg, p<0.05).
+After the second injection, IOP was observed to decrease slower, causing more patients (28% compared to 21% after the first injection) to have IOP raised by 6 to 10 mm Hg from the initial level 30 minutes after the procedure.  CONCLUSION
+The revealed changes can serve as a pathophysiological model for studying changes of biometric parameters of anterior and posterior eye segments and biomechanical properties of fibrous tunic.

@@ -1,0 +1,4 @@
+[Spectrophotometric method for objective focal enamel demineralization diagnostics].  The article presents the results of spectrophotometric tooth enamel scanning.
+Research was conducted in vitro on extracted teeth.
+Numeric color parameters measurements were made by VITA EasyShade spectrophotometer after the 37% phosphoric acid enamel conditioning, that was made for an artificial tooth enamel demineralization reconstruction.  Then transverse section of this enamel part was evaluated by scanning electronic microscopy.
+The scale of enamel demineralization depth in mm/microns and its' lightness parameter compliance was created.

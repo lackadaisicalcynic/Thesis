@@ -1,0 +1,19 @@
+[Bacterial infections in the early period after allogeneic bone marrow transplantation].
+AIM  To study the incidence and risk factors of bacterial infections and the efficiency of empirical antibacterial therapy in patients in the early period after allogeneic hematopoietic stem cell transplantation (allo-HSCT).
+SUBJECTS AND METHODS
+The study included 155 patients who had undergone allo-HSCT.
+Myeloablative conditioning was used in 39% of the patients.
+All the patients with neutropenia (NP) received antibiotic prophylaxis with fluoroquinolones until recovery of white blood cell counts or before systemic antibiotic therapy.
+Antibiotic therapy and a change of antibiotics were considered effective in achieving persistent apyrexia and positive clinical changes.
+RESULTS
+The incidence of febrile neutropenia (FNP) in the patients after allo-HSCT was 63%.
+The duration of grade 4 leukopenia did not depend on the conditioning regimen.
+Neutropenic fever was noted in 68% of the patients with NP lasting longer 10 days.
+In shorter-duration NP, the rate of fever was 52%.
+Among the patients with mucositis, the frequency of FNP episodes was significantly higher (69% versus 52%; p=0.02).
+The diverse spectrum of isolated bacteria was represented as gram-positive cocci in 45% of cases; Klebsiella pneumoniae and Enterobacter cloacae were more common among gram-negative ones (24%).
+The efficiency of empirical antibiotic therapy was 57% (25% for monotherapy, 53% for combined treatment regimens); the early mortality was 2%.
+CONCLUSION
+Infection-related FNP is noted in 68% of the patients in the early posttransplantation period and the risk factors of its development are NP duration, oral colonization with pathogens, and the absence of invasive mycosis after allo-HSCT.
+Antibacterial prophylaxis significantly decreases the incidence of bacterial complications.
+Empirical monotherapy with third- or fourth-generation cephalosporins and carbapenems against infections in a transplantation patient is as effective as their combination with aminoglycosides.

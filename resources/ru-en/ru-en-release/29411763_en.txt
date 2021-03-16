@@ -1,0 +1,13 @@
+[ACOS: Clinical and functional features The Russian formulation mesalazine (kansalazine) in the therapy of ulcerative colitis].
+AIM  To investigate the clinical and functional parameters in patients with asthma-chronic obstructive pulmonary disease overlap syndrome (ACOS) versus those with chronic obstructive pulmonary disease (COPD) and asthma.
+SUBJECTS AND METHODS
+A total of 129 people were examined.
+51 patients with ACOS were followed up in Group 1; Group 2 included 38 patients with severe asthma; Group 3 consisted of 40 patients with severe COPD.
+All the patients underwent clinical examination: history data collection, physical examination, evaluation of disease symptoms, and study of respiratory function (spirometry, body plethysmography).
+RESULTS
+ACOS is clinically characterized by considerable demands for emergency drugs and by more frequent asthmatic fits and exacerbations, which require hospitalization.
+The parameters of bronchial resistance in ACOS were established to be increased throughout the follow-up period and to be comparable with those in patients with COPD.
+In the patients with ACOS, the severity of pulmonary hyperinflation was associated with increased demands for emergency drugs (r=0.59; p=0.015).
+Fixed bronchial obstruction in ACOS can be caused by smoking intensity and duration associated with increased bronchial resistance in expiration (r=0.51; p=0.003) and intrathoracic volume (r=0.71; p=0.0001); as well as increased body mass index (p<0.001) and disease duration, which were interrelated with a reduction in the forced expiratory volume in one second/forced vital capacity ratio (r=-0.63; p=0.001 and r=-0.71; p=0.0034, respectively).
+CONCLUSION
+Patients with ACOS show more severe clinical manifestations and a substantial increase in functional residual capacity and intrathoracic volume throughout the follow-up period, suggesting that the distal bronchi are impaired and pulmonary hyperinflation develops.

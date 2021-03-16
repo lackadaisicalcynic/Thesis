@@ -1,0 +1,13 @@
+Zika virus in semen: a prospective cohort study of symptomatic travellers returning to Belgium.
+Objective  To prospectively monitor Zika viral loads in semen from Belgian travellers with confirmed Zika virus infection, who returned from the Americas during the 2016 Zika virus epidemic.
+Methods
+We recruited symptomatic travellers consulting our clinic and we confirmed infection with either reverse-transcriptase (RT) polymerase chain reaction (PCR) assay or virus neutralization test.
+The participants produced semen samples weekly, either at the clinic or at home.  For the initial sample, the laboratory staff did a microscopy analysis if they received the sample within an hour of production.
+Using RT-PCR, we monitored Zika virus ribonucleic acid (RNA) loads in semen until we obtained two negative results.  Findings
+We detected Zika virus RNA in nine of 15 participants' semen, one of whom was vasectomized.  The median time to loss of RNA detection in semen was 83 days after symptom onset (95% confidence interval, CI: 57-108).
+The longest duration of viral shedding in semen before obtaining the first negative RT-PCR result was 144 days after symptom onset.
+All of the 11 participants, for whom we microscopically analysed their semen, had presence of leukocytes, 10 showed haematospermia and six showed oligospermia.
+These abnormalities occurred irrespective of Zika virus detection in semen.
+Conclusion
+The majority of men in our study had detectable Zika virus RNA in their semen.
+We recommend that semen from Zika virus-infected men should be analysed with RT-PCR and that health professionals should advise infected men, even if they are vasectomized, about current recommendations for prevention of sexual transmission of the virus.

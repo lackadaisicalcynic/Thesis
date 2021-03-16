@@ -1,0 +1,10 @@
+A life-course perspective on physical functioning in women.
+OBJECTIVE
+To validate Kalache & Kickbusch's model: namely, that functional capacity peaks in early adulthood, then declines at a rate dependent on fitness level until a "disability threshold" is reached.  METHODS
+Data came from the Australian Longitudinal Study on Women's Health, which followed three cohorts from 1996 to 2011: a young, a mid-aged and an older cohort (born in 1973-78, 1946-51 and 1921-26, respectively).
+The Short Form (36) Health Survey was used to measure physical functioning (score 1-100).  The disability threshold was the mean physical functioning score in older women requiring assistance with daily activities (62.8).
+The relationship between age and physical functioning was modelled using spline regression for the entire sample, and by baseline physical functioning quintile and physical activity level.
+FINDINGS
+PHYSICAL DECLINE QUICKENED WITH AGE: 0.05 annual units (95% confidence interval, CI: -0.13 to 0.22) at ages 18-23 years (i.e. no decline); -2.43 (95% CI: -2.64 to -2.23) at ages 82-90 years.  Decline was faster in quintiles with lower baseline physical functioning in the younger and mid-age cohorts and in quintiles with higher baseline physical functioning in the older cohort.
+The disability threshold was reached at a mean age of 79 years, but the range was 45-88 years, depending on baseline physical functioning and physical activity.  CONCLUSION
+Age and physical decline are not linearly related, as traditionally believed; decline accelerates with age.  However, baseline physical functioning, but not physical activity, influences the rate of decline.

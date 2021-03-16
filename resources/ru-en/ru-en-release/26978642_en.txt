@@ -1,0 +1,11 @@
+[A protective role of the nitrite/nitrate reductase system in ischemic stroke].  OBJECTIVE  To reveal a protective role of the nitrite/nitrate reductase system in NO- synthase (NOS) inhibition in ischemic stroke.
+MATERIAL AND METHODS
+An effect of the non-selective NOS inhibitor Nω-nitro-L-arginine (L-NNA) introduced in dose of 25 mg/kg and nitrates (КNO3, NaNO3, Mg(NO3)2, Ca(NO3) in doses of 5 mg/kg) on ischemic stroke induced by the occlusion of carotid arteries in an experimental model was studied.
+The animals (Wistar rats) were stratified into 20 experimental groups (n=480) and 4 control groups (n=96).
+One of nitrates or L-NNA along with one of nitrates or L-NNA alone were administered to experimental groups 1h before brain ischemia or 5s after carotid artery occlusion.
+0.9% NaCl was used in the control rats.
+RESULTS
+L-NNA increases neurological deficit and lethality in brain ischemia.
+Depending on a cation, the nitrite/nitrate reductase system may play a protective role in the inhibition of NOS-system in brain ischemia.
+CONCLUSION
+In brain ischemia and NOS inhibition, Mg(NO3)2 has the greatest protective effect.

@@ -1,0 +1,8 @@
+[An experimental in vitro study of antioxidant and antiradical properties of cytoflavin, vinpocetine, actovegin and ethylmethylhydroxypyridine succinate].
+AIM
+To investigate experimentally in vitro the antioxidant and anti-radical activity of several drugs.  MATERIAL AND METHODS
+Antioxidant activity was assessed by induced luminol-dependent chemiluminescence (CL).
+An impact on the generation of reactive oxygen species (O2-, OH, 1D, H2O2, HClO) and their ability to inhibit the auto-oxidation of quercetin combined with the generation of superoxide radical anion were determined.
+Anti-radical activity was studied by the method of restoring a stable radical α-α-diphenyl-β-picryl hydrazine (DPPH) molecule of the alleged anti-oxidant.  RESULTS AND CONCLUSION
+The many-sided action of the drugs on the products of free radicals generated in the in vitro experiments has been shown.  Only cytoflavin has the highest total antioxidant and antiradical activity.
+Vinpocetine has demonstrated similar, but somewhat less pronounced, activity.  Ethylmethylhydroxypyridine succinate and actovegin have shown only the nonspecific superoxide dismutase activity which was by times lower than that of cytoflavin and vinpocetine.

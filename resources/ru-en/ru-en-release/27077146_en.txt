@@ -1,0 +1,9 @@
+[Molecular biological predictors for kidney cancer].  The paper considers the data available in the modern literature on studies of potential molecular predictors for renal cell carcinoma (RCC).
+Investigations of cell death markers, namely; Bcl-2 as an inhibitor of apoptosis, are of interest.
+Its high expression correlates with a more favorable prognosis.
+Inactivation of Berclin 1 that is an authophagy indicator in intact tissues gives rise to t high risk for tumorigenesis.
+At the same time, high Beclin 1 expression in the tissue of the tumor itself results in the lower efficiency of performed chemotherapy.
+Excess annexin A2 in the tumor promotes the growth and invasion of cancer cells.
+Patients with tumor over-expression of SAM68 protein involved in cell proliferation have a lower overall survival rate.
+The lifespan of patients without distinct metastases survive significantly longer in the overexpression of epithelial cell adhesion molecule (EpCAM).
+High PD-L1 protein expression on the cell membrane is considered to be a potential marker of effective immunotherapy for RCC.

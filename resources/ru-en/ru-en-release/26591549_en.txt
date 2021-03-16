@@ -1,0 +1,9 @@
+[Alcohol anamnesis and a death place factor: Role in mortality rates due to leading cardiovascular diseases].
+AIM  To reveal the specific features of marital status and educational level in people who have died of leading circulatory diseases (CDs) in Arkhangelsk in relation to the place of death, alcohol anamnesis, and demographic characteristics (gender, life span).
+Materials and methods.
+Data on the diagnosed underlying cause of death, marital status, educational level, and place of death were copied from 4137 medical death certificates (form 106/y-08) of all those who had died in Arkhangelsk in 1 July to 30 June 2012.
+Data on patients registered at a psychoneurology dispensary as having a diagnosis of alcohol-induced mental and behavioral disorders (F10) were copied.
+The data were statistically processed using the procedures of binary and multinomial logistic regression analysis.  RESULTS
+A total of 2101 people (50.8% of the total number of deaths) died of CDs (ICD-10 Class IX) in the study period.  Male sex and a compromised alcohol anamnesis were associated with untimely death (less than 60 years of age) from acute conditions in ICD-10 Class IX. Male sex, a compromised alcohol anamnesis, and negative characteristics of marital and educational statuses were related to untimely death from chronic conditions in ICD-10 Class IX. Single people having a lower educational level and a compromised alcohol anamnesis statistically more frequently died of CDs outside a health care facility.
+CONCLUSION
+The results of the investigation suggest that there is inequality in the excess risk of death from leading CDs among the representatives of different social population groups in Arkhangelsk, as well as nonequivalence in their interaction with the public health system.

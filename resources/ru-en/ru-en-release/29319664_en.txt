@@ -1,0 +1,12 @@
+[Differential diagnostic OCT-criteria of acute and chronic central serous chorioretinopathy].  Principal differences in natural history, therapeutic approaches, and functional prognosis of acute and chronic central serous chorioretinopathy (CSC) requires that they were distinguished.
+AIM  to define differential diagnostic criteria for acute and chronic CSC basing on the chorioretinal complex analysis by EDI-optical coherence tomography (OCT).
+MATERIAL AND METHODS
+A retrospective analysis was performed that included data of 112 patients with CSC, who were assigned to either the 'acute' (52 patients) or 'chronic' (60 patients) group depending on symptoms duration (3 months) and fluorescein angiography findings.
+With the enhanced depth imaging (EDI) module mounted on OCT (Spectralis, Heidelberg, Germany), the structure of the chorioretinal complex was studied.
+RESULTS
+In acute CSC, the height of the neuroepithelium detachment (310.73±113.63 μm) was greater than that in chronic CSC (205.68±90.80 μm), p=0.03.  The frequency of subretinal deposits also differed (17.3% and 100% of cases, respectively), p<0.01.
+The subfoveal choroidal thicknesses were similar (462.7±110.7 and 494.7±132.1 μm, respectively, p=0.6), however, in acute CSC, diffuse thickening of the choroid was noted (39 patients, 75% of cases), while chronic CSC was marked by local dilatation of the Haller's layer (39 eyes, 65% of cases).
+The diameter of hyporeflective pockets in the Haller's layer in the 'acute' (324±98.1 μm) and 'chronic' (352.0±84.3 μm) groups correlated with choroidal thicknesses (r=0.68, r=0.75).
+Hyperreflective intrachoriodal dots were more common in the 'chronic' group (acute - 1.9%, chronic - 68.3%), so did hyperreflective vascular walls -13.5% and 68.3%, respectively, p<0.01. Dome-shaped RPE detachments were observed equally often in both groups (acute - 67.3%, chronic - 68.3%, p=0.9), while the 'double-layer sign' was only characteristic of chronic CSC (86.7%).
+CONCLUSION
+OCT criteria of acute CSC include a dome-shaped detachment of neuroepithelium and diffuse thickening of the choroid in the absence of deposits; of chronic CSC - subretinal deposits, local dilatation of the Haller's layer vessels, hyperreflective vascular walls, intrachoroidal dots, and the 'double-layer sign'.

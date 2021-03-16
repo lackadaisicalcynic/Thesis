@@ -1,0 +1,15 @@
+[Possibilities of thermographic rating the level of microcirculation with local anesthesia in dentistry].  It is known that the reduction of blood vessels by epinephrine that are part of the local anesthetic leads to a decrease in oxygen intake and the development of hypoxia, which has a significant effect on the excitability of nerve fibers.
+This is due to the fact that epinephrine is present in the local anesthetic cartridge, which helps to reduce, until termination, microcirculation in the depot area, which leads to local hypothermia.
+With the introduction of local anesthetics, the temperature of which is significantly lower than the depot temperature, the patient experiences severe discomfort, which is associated with unsuccessful local anesthesia.
+The goal of the study was the need to analyze the feasibility of using the thermography method in assessing the degree of ischemia of the soft tissues of the maxillofacial region against the background of local anesthesia with a different concentration of epinephrine in dentistry.
+MATERIAL AND METHODS
+In the pilot study, 22 healthy volunteers aged between 29-35 years of both sexes participated.
+To assess the degree of external vasoconstriction, a buccal region was chosen near the maxilla.
+Infiltration anesthesia was used with a 4% solution of articaine with epinephrine 1: 100 000 and 1: 200 000 at a dosage of 0.5-0.7 ml.
+The temperature distribution in the study area was estimated using a thermal imager Nec InfReC Thermo Gear G30.
+RESULTS
+The study showed that the use of epinephrine in local anesthetics naturally has a moderate effect on hemodynamics in areas adjacent to the anesthesia depot.
+When using a low concentration of epinephrine (1:200 000), the projection hyperthermia of the skin is determined.
+Perhaps this is due to the activation of microcirculation due to an increase in capillary blood flow in the region above the zone of action of the epinephrine.
+From the point of view of physiological arterial hyperemia, this mechanism carries positive properties, since leads to an increase in tissue oxygenation.
+When using a high concentration of epinephrine (1:100 000), the zone of hypothermia of the skin is determined, which corresponds to the phenomenon of angiospastic ischemia.

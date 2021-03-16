@@ -1,0 +1,3 @@
+[The drug-drug interactions in a psychiatric hospital].  An analysis of 132 drugs used in a psychiatric hospital for the estimation of the possibility of drug-drug interactions has been carried out.
+It has been established that one in five potential combination has a drug-drug interaction with clinically significant interactions being more frequent.  Psychotropic drugs occupy a leading position in the number of such interactions.
+This analysis is able to improve the safety of the combined pharmacotherapies by choosing an alternative drug, correction of dose or active monitoring of the clinical condition of the patient, including laboratory and instrumental data.

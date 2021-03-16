@@ -1,0 +1,9 @@
+The effectiveness of policies for reducing dietary trans fat: a systematic review of the evidence.
+OBJECTIVE
+To systematically review evidence for the effectiveness of policies, including self-regulation, aimed at reducing industrially produced trans fatty acids (TFAs) in food.  METHODS
+The Medline, Embase and Cinahl databases were searched to identify peer-reviewed articles examining the effect of TFA policies.
+In addition, the first 20 pages of Google searches were examined for articles from the grey literature.  A study was included if: (i) it was empirical and conducted in a "real-world" setting (i.e. modelling studies were excluded); (ii) it examined a TFA policy involving, for example, labelling, voluntary limits or bans; and (iii) it examined a policy's effect on TFA levels in food, people's diets, blood or breast milk.
+FINDINGS  Twenty-six articles met the inclusion criteria: 5 involved voluntary self-regulation; 8, labelling alone; 4, labelling and voluntary limits; 5, local bans and 4, national bans.
+Overall, the TFA content of food decreased with all types of policy intervention.  In general, saturated fat levels increased or decreased, depending on the product type, and total fat content remained stable.
+National and local bans were most effective at eliminating TFAs from the food supply, whereas mandatory TFA labelling and voluntary TFA limits had a varying degree of success, which largely depended on food category.  CONCLUSION
+Policies aimed at restricting the TFA content of food were associated with significant reductions in TFA levels, without increasing total fat content.  Such policies are feasible, achievable and likely to have an effect on public health.

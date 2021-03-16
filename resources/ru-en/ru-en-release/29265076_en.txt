@@ -1,0 +1,13 @@
+[Tissue collagenase MMP-14 and endogenous regulators of its activity in the corpus uteri in squamous cell carcinoma of the cervix].
+AIM  to investigate the expression of the membrane-bound matrix metalloproteinase MT1-MMP (MMP-14), its tissue inhibitor TIMP-2, and the proMMP-14 activator furin in the corpus uteri from the vaginal wall to the bottom of the uterine cavity in squamous cell carcinoma of the cervix (SCCC).
+MATERIAL AND METHODS
+Hysterectomy material was examined in patients with SCCC.  Reverse transcriptase polymerase chain reaction (RT-PCR), immunohistochemistry (IHC), and enzyme assays were used.
+RESULTS  In SCCC, higher levels of MMP-14 expression were established in tumor cells, as evidenced by IHC (+3) and RT-PCR.
+IHC showed that the expression of MMP-14 was absent or insignificant in the normal uterine endometrial and myometrial tissues.
+However, that of MMP-14 mRNA was also found in the normal tissues to the bottom of the uterine cavity.
+Furin activity in the tumor was much higher than that in normal tissues.  IHC indicated that TIMP-2 expression was low or absent in both the tumor and normal tissues.
+The expression of TIMP-2 mRNA was sufficiently obvious in both the tumor and normal tissues to the bottom of the uterine cavity.
+CONCLUSION
+In SCCC, MMP-14 expression was substantially increased in tumors.
+The expression of MMP-14 and regulators of its activity is aimed at enhancing the tumor destructive (invasive) potential in the pericellular space and can occur (be induced) in the morphologically normal uterine tissue apparently with involvement of signaling through the epithelial-mesenchymal interaction.
+Data are important for understanding the role of MMP-14 in the development of a multistage process of carcinogenesis and may have prognostic value and an impact on therapeutic strategy for the patient.

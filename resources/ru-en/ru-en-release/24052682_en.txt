@@ -1,0 +1,11 @@
+Self-reported illness and household strategies for coping with health-care payments in Bangladesh.
+OBJECTIVE
+To investigate self-reported illness and household strategies for coping with payments for health care in a city in Bangladesh.
+METHODS
+A cluster-sampled probability survey of 1593 households in the city of Rajshahi, Bangladesh, was conducted in 2011.
+Multilevel logistic regression - with adjustment for any clustering within households - was used to examine the risk of self-reported illness in the previous 30 days.
+A multilevel Poisson regression model, with adjustment for clustering within households and individuals, was used to explore factors potentially associated with the risk of health-care-related "distress" financing (e.g. paying for health care by borrowing, selling, reducing food expenditure, removing children from school or performing additional paid work).  FINDINGS
+According to the interviewees, about 45% of the surveyed individuals had suffered at least one episode of illness in the previous 30 days.  The most frequently reported illnesses among children younger than 5 years and adults were common tropical infections and noncommunicable diseases, respectively.
+The risks of self-reported illness in the previous 30 days were relatively high for adults older than 44 years, women and members of households in the poorest quintile.  Distress financing, which had been implemented to cover health-care payments associated with 13% of the reported episodes, was significantly associated with heart and liver disease, asthma, typhoid, inpatient care, the use of public outpatient facilities, and poverty at the household level.
+CONCLUSION
+Despite the subsidization of public health services in Bangladesh, high prevalences of distress financing - and illness - were detected in the surveyed, urban households.

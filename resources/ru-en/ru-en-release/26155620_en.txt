@@ -1,0 +1,16 @@
+[Analysis of the state-of-the-art of consulting medical care to patients with glucocorticoid-induced osteoporosis or its risk according to the data of a questionnaire survey (GLUCOST study)].  AIM
+To analyze the state-of-the-art of consulting medical care to Russian patients with glucocorticoid-induced osteoporosis (GCOP) or its risk.  SUBJECTS AND METHODS
+This GLUCOST study was organized and conducted by the Russian Association of Osteoporosis.  A total of 1129 patients with chronic inflammatory diseases, who had been taking oral glucocorticosteroids (OGCSs) a long time (3 months or more), were examined.
+The patients filled out an anonymous questionnaire on their own.
+Whether the measures taken to diagnose, prevent, and treat GCOP complied with the main points of Russian clinical guidelines was assessed.
+RESULTS
+61.8% of the patients knew that the long-term treatment of GCOP might cause osteoporosis.
+48.1% of the respondents confirmed the results of bone densitometry; 78.1% of the patients reported that they had been prescribed calcium and vitamin D supplements by their physician, but their regular intake was confirmed by only 43.4%; 25.4% of the patients had sustained one low-energy fracture or more.
+Treatment for GCOP was prescribed for 50.8% of the patients at high risk for fractures, but was actually received by 40.2%.
+Therapeutic and diagnostic measures were implemented in men less frequently than in women.
+When the patient was aware of GCOP, the probability that he/she would take calcium and vitamin D supplements rose 2.7-fold (95% Cl; 2.1 to 3.5; p = 0.001) and that he/she would follow treatment recommendations did 3.5-fold (95% Cl; 2.3 to 5.3; p = 0.001).
+Bone densitometry increased the prescription rate for antiosteoporotic medication and patient compliance.
+CONCLUSION
+According to the data of Russia's large-scale GLUCOST survey, every four patients with chronic inflammatory disease who are on long-term OGCS therapy have one low-energy fracture or more.
+Due to inadequate counseling, the patients are little aware of their health and do not get the care required to prevent the disease.
+Less than 50% of patients who have GCOP and a high risk for fractures undergo examination and necessary treatment aimed at preventing fractures.

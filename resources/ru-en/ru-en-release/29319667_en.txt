@@ -1,0 +1,10 @@
+AIM  to investigate the possible use of anterior segment optical coherence tomography (AS-OCT) and laser scanning confocal microscopy (LSCM) for visualization of limbal progenitor structures and epithelial changes at different stages of aniridia-associated keratopathy (AAK) and to analyze genotype-phenotype correlations of corneal damage.
+MATERIAL AND METHODS
+Thirty-four patients (63 eyes) with congenital aniridia (CA) were subjected to epithelial cell density measurement in the central cornea as well as epithelial surface assessment with limbal palisades of Vogt (POV) detection in the corresponding sites of the two corneas.  For that, LSCM (HRT3) and AS-OCT (RTVue XR Avanti) were performed.
+Central corneal and epithelial thicknesses were measured using the Pachymetry protocol.
+RESULTS
+There has been found an increase in the central corneal thickness (CCT) of CA patients, which correlated with the stage of AAK, and a decrease in the central epithelial thickness as compared with healthy subjects (p<0.05).
+The difference between the basal and wing epithelial cells density in eyes with stages I and II AAK and normal cells density at stage 0 AAK was statistically significant (p<0.05).  Intact or disturbed POV were detected in all patients with PAX6 3' deletion.
+At that, AS-OCT findings highly agreed with LSCM images for both the inferii (rS=0.85, p<0.05) and superior limbi (rS=0.53, p<0.05).  A negative correlation was established between the stage of AAK and in vivo morphology of POV (rS=-0.5, p<0.05).
+However, no correlation was found between the stage of AAK and patient's age (rS=0.169, p=0.174).  CONCLUSION
+AS-OCT and LSCM are both important diagnostic tools for corneal surface monitoring in patients with limbal stem cells deficiency.

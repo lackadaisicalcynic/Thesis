@@ -1,0 +1,12 @@
+Implementation of a diabetic retinopathy referral network, Peru.
+Objective
+To describe the implementation of a diabetic retinopathy referral network incorporating all levels of health care in La Libertad region, Peru.
+Method
+The nongovernmental organization Orbis International and the Regional Institute of Ophthalmology established a network of primary, secondary and tertiary health-care facilities for diabetic retinopathy screening and treatment.
+The programme included the provision of three non-mydriatic retinal cameras for patient examination, the development of a flowchart to guide patient referrals, training of health personnel, investment in laser technology for treatment and the delivery of public awareness activities for blindness prevention and the need for timely screening.
+Findings  From 2014-2017, 11 849 patients with diabetes were screened within the diabetic retinopathy referral network.
+In primary-care centres, 6012 patients with diabetes mellitus were identified and 5632 patients were referred for diabetic retinopathy screening.  A further 4036 patients directly attended two secondary-level hospitals and 2181 attended the tertiary-level hospital for screening.
+This represented a 138.1% increase in diabetic retinopathy screenings from a baseline of 4977 patients screened at the regional institute of ophthalmology over 2010-2013.  A total of 2922 patients (24.7%) were found to have diabetic retinopathy and 923 (31.6%) were treated: 508 with laser photocoagulation, 345 with intravitreal bevacizumab and 70 with vitreoretinal surgery.
+Conclusion
+Effective and timely treatment for diabetic retinopathy is possible when patient education, screening and care are fully integrated into the general health-care system across primary-, secondary- and tertiary-level facilities.
+This requires the integration of professionals at all levels and all relevant specialties.

@@ -1,0 +1,9 @@
+[Absolute numbers of peripheral blood CD34+ hematopoietic stem cells prior to a leukapheresis procedure as a parameter predicting the efficiency of stem cell collection].
+AIM
+To identify a parameter predicting a collection of at least 2·106 CD34+ hematopoietic stem cells (HSC)/kg body weight per leukapheresis (LA) procedure.  SUBJECTS AND METHODS
+The investigation included 189 patients with hematological malignancies and 3 HSC donors, who underwent mobilization of stem cells with their subsequent collection by LA.  Absolute numbers of peripheral blood leukocytes and CD34+ cells before a LA procedure, as well as a number of CD34+ cells/kg body weight (BW) in the LA product stored on the same day were determined in each patient (donor).
+RESULTS
+There was no correlation between the number of leukocytes and that of stored CD34+ cells/kg BW.
+There was a close correlation between the count of peripheral blood CD34+ cells prior to LA and that of collected CD34+ cells calculated with reference to kg BW.
+CONCLUSION
+The optimal absolute blood CD34+ cell count was estimated to 20 per µl, at which a LA procedure makes it possible to collect 2·106 or more CD34+ cells/kg BW.

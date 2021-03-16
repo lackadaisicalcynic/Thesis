@@ -1,0 +1,14 @@
+Decentralized care for multidrug-resistant tuberculosis: a systematic review and meta-analysis.
+OBJECTIVE  To assess the effectiveness of decentralized treatment and care for patients with multidrug-resistant (MDR) tuberculosis, in comparison with centralized approaches.
+METHODS
+We searched ClinicalTrials.gov, the Cochrane library, Embase®, Google Scholar, LILACS, PubMed®, Web of Science and the World Health Organization's portal of clinical trials for studies reporting treatment outcomes for decentralized and centralized care of MDR tuberculosis.
+The primary outcome was treatment success.
+When possible, we also evaluated, death, loss to follow-up, treatment adherence and health-system costs.
+To obtain pooled relative risk (RR) estimates, we performed random-effects meta-analyses.  FINDINGS
+Eight studies met the eligibility criteria for review inclusion.  Six cohort studies, with 4026 participants in total, reported on treatment outcomes.
+The pooled RR estimate for decentralized versus centralized care for treatment success was 1.13 (95% CI: 1.01-1.27).
+The corresponding estimate for loss to follow-up was RR: 0.66 (95% CI: 0.38-1.13), for death RR: 1.01 (95% CI: 0.67-1.52) and for treatment failure was RR: 1.07 (95% CI: 0.48-2.40).
+Two of three studies evaluating health-care costs reported lower costs for the decentralized models of care than for the centralized models.
+CONCLUSION
+Treatment success was more likely among patients with MDR tuberculosis treated using a decentralized approach.
+Further studies are required to explore the effectiveness of decentralized MDR tuberculosis care in a range of different settings.

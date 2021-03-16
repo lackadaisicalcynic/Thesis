@@ -1,0 +1,13 @@
+[Prevention of gastrostasis after pancreaticoduodenal resection: new technique of gastroenterostomy].  It was performed a retrospective comparative analysis of treatment results of 113 patients with pancreatic head and periampular cancer.
+The main group consisted of 58 patients in whom pancreaticoduodenal resection was performed according to an original technique of Russian Scientific Center of Surgery.
+Control group included 55 patients who underwent end-to-side gastrojejunostomy reconstruction.
+We have analyzed immediate postoperative complications in 2 groups without taking into consideration nosological forms of the disease.
+Pancreaticojejunostomy failure was diagnosed postoperatively in 5 (8.6%) patients in main group and in 10 (18.2%) patients in control group.
+There was no hepaticoentero- and gastroenterostomy failure in patients who underwent new technique of gastrojejunostomy while these events were observed in 8 (14.5%) and 3 (5.5%) patients respectively in control group.  Mortality was 1.7% (n=1) in main group and 5.5% (n=3) in control group (p=0.29).
+Mild degree of gastrostasis (A class) was observed in 54 (93.7%) patients of main group and in 34 (61.8%) patients of control group (p=0.0004).
+There was B class of gastrostasis in 4 (6.9%) patients of main group.  Severe gastrostasis (C class) was not revealed in any observation.
+In control group B class of gastrostasis was diagnosed in 14 (25.5%) patients, severe degree - in 7 (12.7%) patients.
+Univariant analysis showed hemotransfusion (p=0.037), pancreatic fistula (p=0.001), enteric fistula (p=0.005) and reconstruction technique (p=0.00004) as predictors of gastrostasis.
+Multivariant analysis defined pancreatic fistula (p=0.01), enteric fistula (p=0.04) and reconstruction technique (p=0.001) as significant predictors of gastrostasis.
+Thus, our study revealed significant decreasing gastrostasis incidence in case of original technique in comparison with conventional anastomosis, as well as demonstrated effect of anastomoses failure on augmentation of gastrostasis frequency after pancreaticoduodenal resection.
+Further randomized investigations are necessary to confirm our results.

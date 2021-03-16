@@ -1,0 +1,11 @@
+[Immunohistochemical study of the specific features of expression of matrix metalloproteinases 1, 9 in the photoaged skin, the foci of actinic keratosis and basal cell carcinoma].
+Matrix metalloproteinases (MMPs) mediate the degradation of all types of collagens and other extracellular matrix components (elastin, proteoglycans, and laminin), their synthesis and accumulation play a key role in the hydrolysis of basement membrane.
+MMPs are involved in a wide range of proteolytic processes in the presence of different physiological and pathological changes, including inflammation, wound healing, angiogenesis, and carcinogenesis.  AIM
+to study the specific features of MMP-1 and MMP-9 expression in different stages of skin photoaging, in the foci of actinic keratosis and basal cell carcinoma by immunohistochemical examination.
+MATERIAL AND METHODS
+12 samples of the healthy skin (6 samples of the eyelid skin with Glogau grade II photoaging; 6 ones of eyelid skin with Glogau grades III-IV photoaging) and biopsies from 8 foci of actinic keratosis and from 8 ones of basal cell carcinoma were examined.
+A positive reaction to MMPs was shown as different brown staining intensity in the cytoplasm of keratinocytes/tumor cells.
+RESULTS  MMP-1 and MMP-9 expression was recorded in 67% of the histological specimens of the Glogau grade III photoaged skin and in 100% of those of Glogau grade IV.
+In the foci of actinic keratosis, the expression of MMP-1 was observed in 62.5% of cases and that of MMP-9 was seen in 87.5%.  In basal cell carcinoma, the expression of MMP-1 and MMP-9 was detected in all investigated samples.
+CONCLUSION  The immunomorphological findings are indicative of the important role of the level of MMP-1 and MMP-9 expression that is associated with the degree of progression of skin photoaging processes.
+Minimal MMP-1 and MMP-9 expression was recorded even in grades III-IV photoaging and in the foci of actinic keratosis.  Intense MMP-1 and MMP-9 expression was detected in malignant skin epithelial neoplasms as different clinicomorphological types of basal cell carcinoma.

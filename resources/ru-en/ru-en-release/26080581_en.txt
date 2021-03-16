@@ -1,0 +1,8 @@
+OBJECTIVE  To assess opportunities for determination of acoustic properties of cataract lenses by means of combined ultrasound examination.
+MATERIAL AND METHODS
+A total of 106 patients (40 male and 66 female; 117 eyes) with cataracts of various intensity and localization planed for surgical treatment were enrolled.  The algorithm of lens assessment included several sequentially performed ultrasound scans in different imaging modes.
+Acoustic density of particular layers of the lens (2D density of the anterior and posterior capsules, anterior and posterior cortical layers; 2D and 3D density of the nucleus) and the total 3D acoustic density of the lens were measured.  RESULTS
+Acoustic density of the anterior and posterior capsules of both cataract and conditionally transparent lenses are almost equal.  When opacified, anterior and posterior cortical and nuclear layers appear more dense in the 2D mode than normal (by 26.5, 17.4, and 26.4 units on average, correspondingly).
+Total 3D acoustic density of the lens and 3D acoustic density of the nucleus also increase by 14.0 and 14.6 units correspondingly.  Correlation coefficients between acoustic density and cumulative dissipated energy values were positive and ranged from 0.42 to 0.52.
+CONCLUSION
+The approved algorithm can be recommended for routine use in preoperative assessment of patients with complicated cataracts as well as for groups normalization in clinical research concerning cataractogenesis or effectiveness of different surgical techniques.

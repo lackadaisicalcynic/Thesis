@@ -1,0 +1,9 @@
+[Quantitative evaluation of uveoscleral outflow for optimization of glaucoma treatment].  UNLABELLED
+The leading role in glaucoma treatment is now played by prostaglandin analogues (PGAs), whose point of application is the uveoscleral outflow of aqueous humor.  Quantitative evaluation of the latter is, however, a problem yet unsolved.
+AIM
+To assess the clinical applicability of a new method for quantitative evaluation of the uveoscleral outflow in human eyes, which is meant to help with optimization of glaucoma therapy.  MATERIAL AND METHODS
+Patients with early (n=33) and advanced (n=30) primary open-angle glaucoma (POAG) were enrolled.  Besides the routine ophthalmic examination, all patients had their uveoscleral outflow quantified with our method.
+Basing on these findings, we have analyzed the effect of different hypotensive eye drops, namely, betaxolol 0.5% (selective beta-1-blocker), brinzolamid 1% (carbonic anhydrase inhibitor), travoprost 0.004% (prostaglandin analogue) and travoprost 0.004%/timolol 0.5% fixed combination (TTFC; prostaglandin analogue plus non-selective beta-blocker).  RESULTS
+In early POAG, the uveoscleral outflow facility (Cfu) without treatment was 0.06±0.06, after betaxolol 0.5% as well as brinzolamid 1% use - 0.05±0.03, while after travoprost 0.004% and FCTT use - 0.10±0.06 and 0.08±0.05 correspondingly.  In advanced POAG, Cfu was 0.04±0.03 without treatment, 0.06±0.04 - after betaxolol 0.5% or brinzolamid 1% use, 0.1±0.05 - after travoprost 0.004% use, and 0.1±0.04 - after FCTT use.
+CONCLUSION
+Quantitative evaluation of the uveoscleral outflow with the new method that has not only been justified, but also clinically tested, provides an opportunity to optimize POAG treatment.

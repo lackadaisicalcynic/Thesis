@@ -1,0 +1,17 @@
+RATIONALE  There are no studies on application of functional MRI (fMRI) for long-term monitoring of the condition of patients after resection of frontal and temporal lobe tumors.
+PURPOSE  The study purpose was to correlate, using fMRI, reorganization of the speech system and dynamics of speech disorders in patients with left hemisphere gliomas before surgery and in the early and late postoperative periods.
+MATERIAL AND METHODS
+A total of 20 patients with left hemisphere gliomas were dynamically monitored using fMRI and comprehensive neuropsychological testing.
+The tumor was located in the frontal lobe in 12 patients and in the temporal lobe in 8 patients.
+Fifteen patients underwent primary surgery; 5 patients had repeated surgery.
+Sixteen patients had WHO Grade II and Grade III gliomas; the others had WHO Grade IV gliomas.  Nineteen patients were examined preoperatively; 20 patients were examined at different times after surgery.
+Speech functions were assessed by a Luria's test; the dominant hand was determined using the Annette questionnaire; a family history of left-handedness was investigated.
+Functional MRI was performed on an HDtx 3.0 T scanner using BrainWavePA 2.0, Z software for fMRI data processing program for all calculations >7, p<0.001.
+RESULTS
+In patients with extensive tumors and recurrent tumors, activation of right-sided homologues of the speech areas cold be detected even before surgery; but in most patients, the activation was detected 3 months or more after surgery.  Therefore, reorganization of the speech system took time.
+Activation of right-sided homologues of the speech areas remained in all patients for up to a year.
+Simultaneous activation of right-sided homologues of both speech areas, the Broca's and Wernicke's areas, was detected more often in patients with frontal lobe tumors than in those with temporal lobe tumors.
+No additional activation foci in the left hemisphere were found at the thresholds used to process fMRI data.  Recovery of the speech function, to a certain degree, occurred in all patients, but no clear correlation with fMRI data was found.
+CONCLUSION  Complex fMRI and neuropsychological studies in 20 patients after resection of frontal and temporal lobe tumors revealed individual features of speech system reorganization within one year follow-up.
+Probably, activation of right-sided homologues of the speech areas in the presence of left hemisphere tumors depends not only on the severity of speech disorder but also reflects individual involvement of the right hemisphere in enabling speech function.
+This is confirmed by right-sided activation, according to the fMRI data, in right-sided patients without aphasia and, conversely, the lack of activation of right-sided homologues of the speech areas in several patients with severe postoperative speech disorders during the entire follow-up period.

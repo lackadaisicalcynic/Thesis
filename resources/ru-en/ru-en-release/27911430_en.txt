@@ -1,0 +1,16 @@
+[Clinical presentations of Herpes Zoster Ophthalmicus (diagnosis and therapy)].  Approximately a quarter of the world's population at some point in life is at risk of developing shingles (Herpes Zoster).  In 10-20% of cases the first branch of the trigeminal nerve gets involved (Herpes Zoster Ophthalmicus, HZO).
+Ophthalmic complications of HZO are able to cause a significant reduction in visual function.
+AIM  To study and summarize clinical features of HZO (including the rate of complications and their nature) and to determine the relationship between clinical and laboratory data from these patients.
+MATERIAL AND METHODS
+The study included 133 patients with ophthalmic and neurological complications of HZO (group 1 (n=28) - retrospective analysis of outpatient records for the period 1995-2005; group 2 (n=95) - a prospective study for the period 2005-2015), who received a course of conservative treatment in either the Botkin City Hospital, branch № 1, or in the ophthalmic department of the Moscow herpes centre (Gerpeticheskiy Tsentr Ltd.).
+Laboratory tests were performed only in patients from group 2 and included: examination of biological fluids for six types of herpes viruses by polymerase chain reaction, examination of tears and urine for DNA of Chlamydia, Mycoplasma, and Ureaplasma, and serological blood testing for markers of herpes virus infection.
+Patients from group 1 were prescribed topical antiviral, antibacterial, and anti-inflammatory therapy, in rare cases - acyclovir per os.
+In group 2, the treatment included systemic antiviral medications and immune correction therapy.
+Anti-inflammatory therapy consisted of local and systemic non-steroidal agents (NSAIDs).
+RESULTS
+The most common ophthalmic complications of HZO in both groups were stromal keratitis and keratoiridocyclitis, neurological - III and VI cranial nerves palsies.
+The duration of the disease in the first group ranged from 2 months to 3 years; in the second group, patients were divided into two subgroups: subgroup A with the disease duration of no more than one month (n=81) and subgroup B with the disease duration from 1.5 to 9 months (n=14).
+Varicella-zoster virus (VZV) DNA was present in tears and/or other biological fluids of patients from group 2 in more than 70% of cases (n=67).  Particularly, in 27.4% of cases the virus was isolated in two fluids and in 7.4% of cases - in three fluids.
+The duration of virus production in tears and other biological fluids (saliva, blood, and urine) ranged from 10 days to 4 months.
+CONCLUSION
+Topical non-steroidal anti-inflammatory drugs and systemic etiological treatment in case of intraocular inflammation in HZO patients may reduce the risk of severe consequences of VZV reactivation and help avoid recurrences later in life.

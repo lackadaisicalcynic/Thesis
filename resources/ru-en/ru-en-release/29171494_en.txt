@@ -1,0 +1,14 @@
+[The clinical features of Parkinson's disease in patients with mutations and polymorphic variants of GBA gene].  BACKGROUND  Mutations in the glucocerebrosidase gene (GBA) increase the risk of Parkinson's disease (PD) by 6-10 times in all populations and are associated with the early-onset of PD, development of cognitive impairment and presence of psychotic disorders.
+At the same time, polymorphic variants associated with the twofold increase in the risk of PD were also described in the GBA gene.
+AIM
+To estimate the clinical features of PD in patients with mutations and polymorphic variants of the GBA gene.
+MATERIAL AND METHODS
+Evaluation of motor, cognitive, emotional, psychotic and autonomic dysfunctions in patients with mutations (N370S, L444P) and polymorphic variants (E326K, T369M) in the GBA gene was performed using clinical scales.
+RESULTS
+Patients with mutations (mGBA-PD), and with polymorphic variants (pGBA-PD) in the GBA gene were compared with the group of patients with sporadic PD (sPD).  Compared to sPD, affective disorders (depression and anxiety) were more expressed in the mGBA-PD group (p=0.001) and the general GBA-PD group (p=0.001) assessed with Sheehan anxiety rating scale, in the pGBA-PD group (p=0.012) and the general GBA-PD group (p=0.05) assessed with the NPI, in the mGBA-PD (p=0.003), pGBA-PD (p=0.022), and general GBA-PD groups (p=0.001) assessed with the Hospital Anxiety and Depression scale (HADS 'A'), and in the pGBA-PD group (p=0.005) assessed with the HADS 'D'.
+Non-motor symptoms assessed with the PD-NMS were more expressed in the pGBA-PD patients (p=0.007) and in the total group with GBA-PD (p=0,014) compared to sPD.
+Cognitive impairment measured with MMSE was more marked in mGBA-PD patients (p=0.022).
+Differences in motor and non-motor clinical symptoms between pGBA-PD and mGBA-PD groups were not found.
+CONCLUSION
+Thus, clinical features of non-motor symptoms were described both in carriers of GBA mutations and polymorphisms.
+Identification of the specific clinical phenotype of PD in carriers of GBA polymorphic variants is important due to their relatively high prevalence in PD patients.

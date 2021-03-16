@@ -1,0 +1,9 @@
+AIM  to assess macular blood flow in primary open-angle glaucoma (POAG) patients using optical coherence tomography angiography (OCT-A).
+MATERIAL AND METHODS
+The study included 65 POAG patients and 22 age-matched healthy volunteers.
+Using OCT-A, blood flow parameters (Flow Area, Flow Index, and Vessel Density) were assessed in the para- and perifovea (0.6-2.5 mm and 2.5-5.5 mm, respectively) at the level of both superficial and deep vascular pexuses.
+Statistical analysis was performed with SPSS version 21 and MASS library of the R language.
+RESULTS  All the studied parameters were decreased in glaucoma patients as compared to healthy participants: Index superficial parafovea was 0.03±0.01 and 0.04±0.01 (p<0.001), respectively; Index superficial perifovea - 0.02±0.01 and 0.04±0.01 (p<0.001), respectively; Flow superficial parafovea area - 1.57±0.85 mm2 and 2.53±0.53 mm2 (p<0.001), respectively; Index deep parafovea - 0.02±0.02 and 0.03±0.01 (p<0.001), respectively; Index deep perifovea - 0.01 ±0.01 and 0,03±0.01 (p<0.001), respectively; and Flow deep parafovea area 1.02±0.9 mm2 and 1.97±0.82 mm2 (p<0.001), respectively.
+The differences were statistically significant between glaucoma patients and the controls, but not between glaucoma patients at different disease stages.
+CONCLUSION
+Decreased OCT-A parameters in non-advanced glaucoma indicate an early reduction of blood supply to the macula and explain the involvement of the latter in the pathological process in POAG.

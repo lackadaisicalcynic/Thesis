@@ -1,0 +1,8 @@
+Economic benefits of keeping vaccines at ambient temperature during mass vaccination: the case of meningitis A vaccine in Chad.
+OBJECTIVE
+To evaluate the potential economic benefits of keeping a meningitis A vaccine at or near ambient temperature for up to 4 days during a mass vaccination campaign.
+METHODS
+During a 10-day mass vaccination campaign against meningitis A in three regions of Chad in 2011, the costs associated with storage and transport of the vaccine in a traditional cold chain system were evaluated.  A mathematical model was used to estimate the savings that could have been achieved if the vaccine had been stored at or near ambient temperature--in a "controlled temperature" chain--at the peripheral levels of the supply chain system.
+The cost of the cold chain and associated logistics used in the campaign in Chad was 0.24 United States dollars (US$) per person vaccinated.  In the modelled scenario for a controlled temperature chain, however, these costs dropped by 50% and were estimated to be only US$ 0.12 per person vaccinated.
+CONCLUSION
+The implementation of a "controlled temperature" chain at the most peripheral levels of the supply chain system--assuming no associated loss of vaccine potency, efficacy or safety--could result in major economic benefits and allow vaccine coverage to be extended in low-resource settings.

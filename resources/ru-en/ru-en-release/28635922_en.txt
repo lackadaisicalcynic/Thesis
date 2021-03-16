@@ -1,0 +1,5 @@
+[Molecular genetics of maturity-onset diabetes of the young].  To verify the type of diabetes mellitus (DM) remains an extremely important problem in endocrinology, as along with types 1 and 2 DM there are rarer hereditary types of DM, including maturity-onset diabetes of the young (MODY).
+The latter is a genetic type of DM, which is characterized by an autosomal dominant inheritance.
+Eleven types of MODY (MODY 1 to MODY13) are identified; each is associated with mutations in the certain gene: HNF4A, GCK, HNF1A, PDX1, HNF1B, NEUROD1, KLF11, CEL, PAX4, INS, BLK, KCNJ11 and ABCC8.
+A molecular genetic testing for suspected MODY is conducted to verify the diagnosis and to define a subtype of MODY, patient management tactics, to predict the outcome of the disease and its complications in relation to the found subtype of MODY.
+It is also important to seek mutation causing MODY in terms of the early detection of MODY in the first-degree relatives of a proband, appropriate therapy of the disease, and prevention of its complications.

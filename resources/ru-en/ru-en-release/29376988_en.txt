@@ -1,0 +1,14 @@
+[Pathogenesis of cognitive disorders in patients with Duchenne muscular dystrophy].
+AIM  Clarification of the pathogenesis of cognitive disorders in patients with Duchenne muscular dystrophy in the clinical laboratory and molecular genetic study.
+MATERIAL AND METHODS
+Thirty-six male patients with Duchenne muscular dystrophy (DMD), aged from 5 to 22 years (mean age 13.7 years), were examined.
+The control group consisted of 30 healthy people (7-22 years old, mean age 13.8).
+The clinical, molecular-genetic and laboratory study was conducted.
+The search for mutations in the dystrophin gene was carried out using multiplex PCR and multiplex ligation-dependent probe amplification.
+The laboratory study included determination of neurotrophins: brain-derived neurotrophic factor (BDNF), nerve growth factor (NGF) and ciliary neurotrophic factor (CNTF) using immunoenzyme method in serum.
+RESULTS AND CONCLUSION
+Severe cognitive impairment was found in 33% of patients with DMD.
+The distribution of mutations in the DMD gene was not uniform, most often the mutations were found in the region from exon 43 to exon 50.
+Serum concentration of NGF in patients with DMD was higher than in the control group (2391 pg/ml [1587; 4136] and 553 pg / ml [314; 864], respectively (p<0.001)).  In the group of patients with cognitive disorders, there was a decreased concentration of BGF (23 670 [21 700; 30 720] pg/ml (p<0.001)).
+In patients with BGF concentration less than 31 000 pg/ml, the chances of cognitive disorders were more than 10 times higher (p<0.001, odds ratio OR=12.0, 95% CI [1.9-76.4]).
+Thus, biochemical mechanisms, such as NGF overexpression and BGF deficiency, are involved in the development of cognitive disorders in patients with DMD.

@@ -1,0 +1,10 @@
+[Structural retinal and optic nerve changes in patients with post-geniculate visual pathway damage].
+AIM
+To establish the possibility of retrograde trans-synaptic neural degeneration following acquired post-geniculate visual pathway damage.
+MATERIAL AND METHODS  Twenty-two patients with homonymous hemianopia caused by acquired post-geniculate visual pathway damage were examined.
+Peripapillary retinal nerve fiber layer (RNFL) thickness and ganglion cell complex (GCC) measurements were assessed with RTVue-100 Fourier-domain optical coherence tomography (OCT).  RESULTS
+In 12 out of 22 patients we detected binocular GCC thinning that was ipsilateral to post-geniculate involvement.
+Nine patients showed a decrease in the RNFL thickness.  However, topographic correspondence between the post-geniculate lesion and RNFL thickness was established for 2 of them only.
+GCC thinning was more common in patients with hemianopsia acquired more than 6 months ago (p<0.0009).
+CONCLUSION
+Having assessed the ganglion cell complex and retinal nerve fiber layer with OCT, we have proved possible that trans-synaptic retrograde degeneration develops in patients with post-geniculate visual pathway damage.

@@ -1,0 +1,8 @@
+Improving reporting of infant deaths, maternal deaths and stillbirths in Haryana, India.  Underreporting hampers the accurate estimation of the numbers of infant and maternal deaths and stillbirths in India.
+In Haryana state, a surveillance-based model - the Maternal Infant Death Review System - was launched in 2013 to try to resolve this issue.
+The system is a mixture of routine passive data collection and active surveillance by specially recruited and trained field volunteers.
+The volunteers gather the relevant data from child day-care centres, community health centres, cremation grounds, hospitals, the municipal corporation's offices and primary health centres and regularly visit health subcentres.
+The collected data are triangulated against the standard death registers and discussions with relevant community members.  The details of any unregistered death are rapidly uploaded on the system's web-based platform.
+In April 2014, we made field observations, reviewed records and conducted in-depth interviews with the key stakeholders to see if the system's performance matched the state government's planned objectives.  The data collected indicate that implementation of the system has led to quantitative and qualitative improvements in reporting of infant and maternal deaths and stillbirths.
+Completeness and consistency in the reporting of deaths are essential for focused policy and programmatic interventions and there remains scope for improvement in Haryana via further reform and changes in policy.
+The model in its current form is potentially sustainable and scalable in similar settings elsewhere.

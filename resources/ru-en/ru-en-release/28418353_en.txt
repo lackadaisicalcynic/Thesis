@@ -1,0 +1,9 @@
+[A change in the expression of membrane-associated proteins and cytoplasmic actin isoforms in the progression of human colon tumors].  Tumor progression is a complex process that also involves the restructuring of the actin cytoskeleton and the weakening of intercellular adhesive contacts due to the tumor cells that pass through the epithelial-mesenchymal transition (EMT).
+AIM
+Тo identify correlations between clinical features, risk of progression and/or recurrence of human colon adenocarcinomas (CAC), and EMT-related tumor markers.  MATERIAL AND METHODS
+Descending colon and sigmoid colon adenocarcinoma samples were examined immunohistochemically.  Formalin-fixed paraffin-embedded tissue sections were incubated with antigen-specific antibodies, then secondary antibodies labeled with fluorochromes, and the fluorescence intensity of microscopy images was analyzed.
+RESULTS
+The cells of a tumor compared to those of intact colon tissue showed a weak staining of E-cadherin in the cell-cell contact areas.  The reduced membrane staining and nuclear localization of β-catenin were detected in moderately (G2) and poorly (G3) differentiated tumors.
+There were substantially decreased β-actin levels in almost all tumor samples and increased γ-actin ones, mainly in the samples belonging to stage IV disease.  CONCLUSION
+A correlation was found between stage, tumor differentiation grade, risk for relapse or progression of disease, and the impaired expression of different EMT markers: total or partial loss of E-cadherin expression, β-catenin reorganization in cell-cell contacts, and a change in the ratio of cytoplasmic actin isoforms in the late stages of CAC development.
+We believe that these molecular markers may have a prognostic potential.

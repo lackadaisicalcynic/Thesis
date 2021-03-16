@@ -1,0 +1,9 @@
+[The immunohistochemical features of ovarian serous adenocarcinoma cells, which determine a disease course and survival rates in patients].  OBJECTIVE  To study a relationship of survival rates to the expression of major genes (p53, PTEN, COX2, pRb and others) involved in the pathogenesis of ovarian cancer.
+SUBJECTS AND METHODS
+The trial enrolled 23 patients with Stages III-IV ovarian serous adenocarcinoma.
+Of them, 11 patients showed a long overall survival (median 50 ± 2.5 months), 12 did a short one (14.5 ± 0.7 months).
+Ovarian adenocarcinomas were high- and low-grade in 20 (87%) and 3 (13%) cases, respectively.
+RESULTS
+Estimating the relationship of the expression of the examined markers and the prognosis of the disease showed that the expression of p53 and Rb was more common in the patients with a short overall survival (median 14.5 versus 50 months; p = 0.03; p = 0.04).
+CONCLUSION
+The expression of mutant p53 protein and that of retinoblastoma (Rb) gene protein are poor prognostic factors for ovarian serous adenocarcinoma.

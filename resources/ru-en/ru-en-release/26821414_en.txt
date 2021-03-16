@@ -1,0 +1,12 @@
+[Impact of etiotropic therapy on the immune status of patients with HIV infection and tuberculosis].
+AIM  To evaluate the impact of etiotropic therapy on the immunological efficiency of treatment in patients with HIV infection in relation to the presence of active tuberculosis (TB) and the baseline count of CD4+ lymphocytes.
+SUBJECTS AND METHODS
+A total of 239 HIV-infected patients were examined and divided into 3 groups: 1) 103 HIV-infected patients with TB who received both anti-TB therapy (ATBT) and antiretroviral therapy (ART); 2) 46 HIV-infected patients with TB who did not receive ART during TB treatment; 3) 90 HIV-infected patients without TB who used ART for the first time.
+CD4+ lymphocyte counts were measured by flow cytofluorometry in all the patients before and 4 and 12 weeks after treatment.
+RESULTS
+Analysis of an increment in CD4+ lymphocyte counts in the HIV-infected patients with tuberculosis showed that those who had very low baseline CD4+ lymphocyte counts (median, 78 cells/μl) were noted to have significant positive changes (median, +146 cells/μl) at 12 weeks of ART.
+Even without ART, effective ATBT in the patients with a well preserved immune system (> 350 CD4+ cells/μl) in turn resulted in a substantial increase in CD4+ lymphocyte counts (median, +187 cells/μl following 12-week ATBT).
+At the same time, 10.9% of the patients showed a decrease in the baseline CD4+ lymphocyte counts during progression or delay in the tuberculosis process, which required that ART should be promptly performed.
+CONCLUSION
+The investigation of the time course of changes in the increment of CD4+ lymphocyte counts revealed a swifter response to ART as their rapid increment in patients with coinfection (HIV infection concurrent with TB) than that in those with HIV monoinfection.
+When the baseline CD4+ lymphocyte counts are over 350 cells/μl, the start of ART should be delayed until TB treatment is completed.

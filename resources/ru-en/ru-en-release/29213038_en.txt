@@ -1,0 +1,12 @@
+[An influence of interictal anxiety on coping and self-control strategies for epileptic seizures in patients with temporal lobe epilepsy].
+AIM  A comparative analysis of coping and self-control strategies for epileptic seizures in temporal lobe epilepsy patients with and without interictal anxiety.
+MATERIAL AND METHODS
+Authors evaluated interictal anxiety (IA) with HADS, strategies for seizure control with CBES-SC, coping-style with BriefCOPE scale and quality of life with QOLIE-31-P scale in 45 patients with temporal lobe epilepsy (TLE).  The control group consisted of 86 healthy individuals.
+RESULTS
+In 35% of patients with TLE, the anxiety (HADS) was higher compared to the normal level.
+TLE patients with IA had a lower quality of life compared to patients without IA (51.19±12.39% vs. 65.43±18.11%, p=0.008).
+A comparative analysis of coping strategies in TLE patients with and without IA showed that patients with IA used such strategies as 'venting' and 'behavioral disengagement' more often.
+Patients with IA had a higher emotional coping style score (р<0.05) and used strategies for seizure control more often (71% of patients with IA vs. 32% of patients without IA, χ2=6.282, р<0.05), but there were no significant differences in the effectiveness of seizure control between groups.
+CONCLUSION
+Associative interactions between interictal anxiety, emotional coping style and low quality of life were shown.  This gives grounds for regarding anxiety as a target for treatment.
+At the same time, anxiety motivates patients to a wider use of self-management strategies, but has no impact on the effectiveness of seizure control.

@@ -1,0 +1,16 @@
+Operational lessons drawn from pilot implementation of Xpert MTB/Rif in Brazil.
+PROBLEM
+The World Health Organization has endorsed the Xpert MTB/RIF (Xpert), an automated polymerase-chain-reaction-based assay, for the rapid diagnosis of tuberculosis.
+However, large-scale use of a new technology calls for preparation and adaptation.
+APPROACH
+A pilot implementation study was conducted in two Brazilian cities to explore the replacement of sputum smear microscopy with Xpert.
+The laboratories included covered 70% of the tuberculosis cases diagnosed, had no overlap in population catchment areas, handled different workloads and were randomly shifted to Xpert.
+Sputum samples were collected through the same routine procedures.
+Before the study the medical information system was prepared for the recording of Xpert results.  Laboratory technicians were trained to operate Xpert machines and health workers were taught how to interpret the results.
+LOCAL SETTING  The average annual tuberculosis incidence in Brazil is around 90 cases per 100,000 population.
+However, co-infection with the human immunodeficiency virus and multidrug resistance are relatively infrequent (10% and < 2%, respectively).
+RELEVANT CHANGES
+Of the tested sputum samples, 7.3% were too scanty for Xpert and had to be examined microscopically.  Ten per cent of Xpert equipment needed replacement, but spare parts were not readily available in the country.
+Absence of patient identification numbers led to the introduction of errors in the medical information system.  LESSONS LEARNT
+For nationwide scale-up, a local service provider is needed to maintain the Xpert system.  Ensuring cartridge availability is also essential.
+The capacity to perform smear microscopy should be retained.  The medical information system needs updating to allow efficient use of Xpert.

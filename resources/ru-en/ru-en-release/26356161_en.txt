@@ -1,0 +1,14 @@
+[An analysis of treatment of the Russian group of patients in the international observational study «Factors influencing response to botulinum toxin type A in patients with idiopathic cervical dystonia»].
+AIM  The analysis of the results of treatment of the Russian patient population in the frame of international, multicenter, non-interventional study of CD, the primary purpose of which was to determine the response rate to therapy with BTA at the peak of the effect: after one course of injections in settings of routine practice, as well as the results of application of modern definition for "response" to treatment with BTA.
+MATERIAL AND METHODS  In Russia 60 patients with idiopathic CD were included.
+Patients were classified as «responders» according to the following 4 criteria: effect size (improvement by ≥ 25% assessed by TWSTRS); effect duration: ≥ 12 weeks interval between the BTA injection and the day when the patient reported a decrease of clinical effect, indicating the need for repeated treatment; good tolerability of treatment (no treatment-related serious adverse events (AEs) during the study period); patient-reported Clinical Global Improvement (CGI) score is +2 («significant improvement») or +3 («very significant improvement») at the visits 2 or 3.
+RESULTS AND CONCLUSION
+In the Russian population, patients with a ≥ 25% improvement by TWSTRS scale at visit 2 (peak effect) accounted for 88.3%.
+Most of patients (81.6%) and physicians (81.7%) evaluated the efficacy of therapy as a «significant improvement» or «very significant improvement» by CGI.
+The criterion of the effect duration was achieved in 50% of cases.
+The BTA therapy was well tolerated (no severe AEs related to treatment) in 98.3% of patients.
+Overall, 40% of all patients met all the criteria for response to BTA treatment.
+According to the analysis of the general population, a high degree of response was observed for the effect size (73.6%), tolerability (97.5%) and patient-reported global clinical improvement (69.8%).
+Subjective assessment of the duration of the effect was achieved in 49.3% of patients, with 28.6% of patients considered as responders.
+Most patients met three of the four criteria.
+The proposed multifactorial definition of «response» may be of practical use for routine practice.

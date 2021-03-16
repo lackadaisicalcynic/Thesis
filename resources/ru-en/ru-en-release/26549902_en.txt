@@ -1,0 +1,16 @@
+An insecticide-treated bed-net campaign and childhood malaria in Burkina Faso.
+OBJECTIVE
+To investigate if the first national insecticide-treated bed-net campaign in Burkina Faso, done in 2010, was followed by a decrease in childhood malaria in a district with high baseline transmission of the disease.
+METHODS  We obtained data on the prevalence of Plasmodium falciparum parasitaemia in children aged 2 weeks to 36 months from malaria surveys in 2009 and 2011.
+We assessed morbidity in children younger than 5 years by comparing data from the Nouna health district's health management information system before and after the campaign in 2010.
+We analysed mortality data from 2008 to 2012 from Nouna's health and demographic surveillance system.
+FINDINGS
+The bed-net campaign was associated with an increase in the reported use of insecticide-treated nets.
+In 2009, 73% (630/869) of children reportedly slept under nets.
+In 2011, 92% (449/487) did.
+The campaign had no effect on the proportion of young children with P. falciparum parasitaemia after the rainy season; 52% (442/858) in 2009 and 53% (263/499) in 2011.
+Cases of malaria increased markedly after the campaign, as did the number of children presenting with other diseases.
+The campaign was not associated with any changes in child mortality.
+CONCLUSION
+The 2010 insecticide-treated net campaign in Burkina Faso was not associated with a decrease in care-seeking for malaria or all-cause mortality in children younger than 5 years.
+The most likely explanation is the high coverage of nets in the study area before the campaign which could have had an effect on mosquito vectors, limiting the campaign's impact.

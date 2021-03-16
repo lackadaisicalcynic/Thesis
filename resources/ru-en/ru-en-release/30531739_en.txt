@@ -1,0 +1,13 @@
+[In-hospital outcomes of carotid endarterectomy depending on severity of contralateral lesion].
+AIM
+To compare in-hospital outcomes of carotid endarterectomy (CEE) in patients with different lesion of contralateral internal carotid artery (ICA).  MATERIAL AND METHODS
+There were 730 CEE procedures in patients with bilateral ICA lesion for the period 2011-2016.  All patients were divided into 4 groups depending on contralateral ICA stenosis grade: group 1 - stenosis up to 60% (42.6%, n=311); group 2 - 60-90% (18.7%, n=137); group 3 - 90-99% (25.9%, n=189); group 4 - occlusion (12.7%, n=93).
+Endpoints were unfavorable cardiovascular events including death, myocardial infarction (MI), stroke/TIA, significant hemorrhage by BARC scale (Bleeding Academic Research Consortium).
+RESULTS
+In-hospital mortality and incidence of MI, stroke/TIA were similar in all groups.
+However, there were no cardiovascular complications in patients with critical contralateral stenosis or occlusion.
+Bleeding followed by redo surgery was the most frequent complication.
+Overall incidence of adverse cardiovascular events did not exceed 1.23%.
+CONCLUSION
+There was no correlation between contralateral ICA stenosis and incidence of in-hospital adverse events including death, MI, stroke/TIA.
+Currently, technique of CEE is well developed that is associated with low incidence of postoperative complications.

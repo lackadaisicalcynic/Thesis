@@ -1,0 +1,25 @@
+[Application of intraoperative electromagnetic frameless navigation in transcranial and endoscopic neurosurgical interventions].  The paper summarizes the experience in using a system of electromagnetic intraoperative frameless navigation in various neurosurgical pathologies of the brain.
+The electromagnetic navigation technique was used for 102 operations in 98 patients, including 36 transnasal endoscopic interventions.  There were no intraoprtative and postoperative complications associated with the use of the system.
+In the process of using the system, factors influencing the accuracy of navigation and requiring additional control by the surgeon were identified.
+PURPOSE
+The study purpose was to evaluate the use of electromagnetic navigation in surgical treatment of patients with various brain lesions.  MATERIAL AND METHODS
+The system of electromagnetic navigation was used for 102 operations in 98 patients (42 males and 56 females, including 18 children; median age, 34.8 years (min, 2.2 years; max, 69 years)) in the period from December 2012 to December 2016.
+In 36 patients, the system was used for endoscopic interventions.
+In 19 patients, electromagnetic navigation was used in combination with neurophysiological monitoring.
+RESULTS
+In our series of cases, the frameless electromagnetic navigation system was used in 66 transcranial operations.
+The mean error of navigation was 1.9±0.5 mm.
+In 5 cases, we used the data of preoperative functional MRI (fMRI) and tractography for navigation.
+At the same time, in all 7 operations with simultaneous direct stimulation of the cortex, there was interference and significant high-frequency noise, which distorted the electrophysiological data.
+A navigation error of more than 3 mm was associated with the use of neuroimaging data with an increment of more than 3 mm, image artifacts from the head locks, high rate of patient registration, inconsequence of touching points on the patient's head, and unsatisfactory fixation to the skin or subsequent displacement of a non-invasive localizer of the patient.
+In none of the cases, there was a significant effect of standard metal surgical tools (clamps, tweezers, aspirators) located near the patient's head on the navigation system.
+In two cases, the use of massive retractors located near the patient's localizer caused noise in the localizer and navigation errors of more than 10 mm due to significant distortions of the electromagnetic field.
+Thirty-six transnasal endoscopic interventions were performed using the electromagnetic frameless navigation system.
+The mean navigation error was 2.5±0.8 mm.
+CONCLUSION
+In general, electromagnetic navigation is an accurate, safe, and effective technique that can be used in surgical treatment of patients with various brain lesions.
+The mean navigation error in our series of cases was 1.9±0.5 mm for transcranial surgery and 2.5±0.8 mm for endoscopic surgery.
+Electromagnetic navigation can be used for different, both transcranial and endoscopic, neurosurgical interventions.
+Electromagnetic navigation is most convenient for interventions that do not require fixation of the patient's head, in particular for CSF shunting procedures, drainage of various space-occupying lesions (cysts, hematomas, and abscesses), and optimization of the size and selection of options for craniotomy.
+In repeated interventions, disruption of the normal anatomical relationships and landmarks necessitates application of neuronavigation systems in almost mandatory manner.  The use of electromagnetic navigation does not limit application of the entire range of necessary intraoperative neurophysiological examinations at appropriate surgical stages.
+Succession in application of neuronavigation should be used to get adequate test results.

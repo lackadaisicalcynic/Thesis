@@ -1,0 +1,8 @@
+[Neuronet restructuring in focal and generalized epilepsy according to resting state fMRI].  AIM
+To compare neuronet restructuring in focal and generalized epilepsy.
+MATERIAL AND METHODS  Seventy-seven patients, aged from 18 to 65 years, with the diagnosis of epilepsy, including 63 patients with focal epilepsy and 14 with generalized epilepsy, were examined.
+A control group included 23 healthy people.
+Neuronet restructuring was studied using fMRI.
+RESULTS AND CONCLUSION
+According to resting state fMRI, there were between-group differences in spatial organization (activity map) of the brain structures as well as in the results of cross-correlation analysis of interaction maps of resting-state networks.
+It has been concluded that functional restructuring in connectomes in focal and generalized epilepsy have the opposite patterns of disorganization (toward increase or decrease) in most structures studied though there are structures with the same direction of connectivity changes.

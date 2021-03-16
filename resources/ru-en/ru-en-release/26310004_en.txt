@@ -1,0 +1,18 @@
+[Evaluating the efficacy of anti-VEGF therapy in patients with exudative age-related macular degeneration and concomitant glaucoma].  AIM
+to evaluate the efficacy of anti-VEGF therapy in patients with exudative age-related macular degeneration (AMD) and glaucoma.  MATERIAL AND METHODS
+The study enrolled 117 patients (117 eyes) with exudative AMD and concomitant non-operated primary open-angle glaucoma (POAG).
+All patients were divided into several groups depending on their intraocular pressure (IOP) and stage of POAG.
+Hypotensive therapy included carbonic anhydrase inhibitors, beta-adrenergic antagonists (beta blockers) and alpha(2)-adrenergic agonists (alpha-2 mimetics).
+Lucentis (ranibizumab) was intravitreally injected thrice at monthly intervals.
+All patients underwent a standard ophthalmic examination, fluorescent retinal angiography, and optical coherence tomography.
+IOP was measured before the first and after the last injection by means of Icare PRO reboud tonometer.
+RESULTS
+There was no statistically significant difference between groups Ia, IIa, Ib, and IIb in terms of IOP elevation.
+Glaucoma IIc and IIIa patients showed just a moderate increase in IOP that did not require regimen adjustment.
+There was, however, a single IIIb case of persistent IOP elevation, in which one-step penetrating trabeculectomy with intravitreal ranibizumab injection was later performed.
+Resolution of macular edema was achieved in all patients.
+Visual acuity (VA) varied between the groups demonstrating a tendency toward improvement in glaucoma Ia patients (p = 0.062) and stabilization in glaucoma IIa (p = 0.61), Ib (p = 0.07), and IIb (p = 0.29) patients.
+In some cases of low vision at baseline and subretinal fibrosis, VA changes were of no clinical significance.
+CONCLUSIONS
+Intravitreal ranibizumab therapy proved effective in exudative age-related macular degeneration with concomitant glaucoma.
+Timely treatment of both AMD (i.e. before the development of subretinal fibrosis) and glaucoma contributes to therapeutic success in these patients.

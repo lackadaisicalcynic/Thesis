@@ -1,0 +1,9 @@
+[Cerebral atherosclerosis: a biomarker profile].
+AIM  To assess the changes in several biomarkers in patients with atherosclerosis of brachiocephalic arteries and shape a biomarker profile of cerebral atherosclerosis as an integrative index.
+MATERIAL AND METHODS
+The study included 124 patients with atherosclerotic lesions of internal carotid arteries (82 men and 42 women) aged from 37 to 73 years.  The patients were stratified by history of prior stroke into 'asymptomatic' and 'symptomatic'.
+Along with general clinical and neurological examinations, ultrasound analysis of brachiocephalic arteries, neuroimaging, identification of biomarkers reflecting different stages of atherogenesis and evaluation of pathomorphological parameters of atherosclerotic plaques removed during carotid endarterectomy surgery were performed.  RESULTS
+Concentrations of NO2, NO3 and NO in blood plasma significantly differed between groups: 58.4, 43.3 and 15 mcmol/l, respectively, in the symptomatic group and 45, 19.2 and 25.8 mcmol/l in the asymptomatic group.  The pro-inflammatory character of changes in atherosclerosis was confirmed by the increase in the concentration of lipoprotein-associated phospholipase A2 in patients with stroke (354.72±44.16 ng/ml versus 298.45±54.12 ng/ml).
+The level of the atheroprotective marker adiponectin decreased significantly in 'symptomatic' patients.
+Significant changes towards the prothrombotic state of blood were identified via levels of blood markers of fibrinolytic activity: plasminogen tissue activator and plasminogen activator inhibitor-1.  CONCLUSION
+Together with other diagnostic methods, identification of biomarkers can increase the accuracy of prognosis and prevention of sudden cardiovascular death.  The authors have developed a scale of biomarker 'burdeness' of the patient with cerebral atherosclerosis that may be a first step to individualized prevention of associated ischemic complications.

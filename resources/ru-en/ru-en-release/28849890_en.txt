@@ -1,0 +1,7 @@
+STAT3 as novel drug target for multiple age-related disorders: docking and simulation analysis.  Signal transducer and activator of transcription 3 (STAT3) considerably contributes to various age-related disorders (ARDs) for instance cancer, autoimmune disorders, bowel-associated disorders, Alzheimer's disease, Parkinson's disease and age-related macular degeneration.
+Previous studies have substantiated that obstructing STAT3 activity may cure an amount of ARDs.
+Studies on STAT3 have proved it as a novel and promising drug target.
+In this study, a docking-based virtual screening combined with molecular dynamics simulation was executed to ascertain STAT3 dimerization inhibitors.
+It was indicated that ligand 01 (ZINC20601870) and ligand 02 (ZINC01216760) exhibited remarkably higher binding affinities (binding affinity with ligand 01 = -8,01 Kcal/mol, binding affinity with ligand 02 = -6,91 Kcal/mol) compared to other ligands.
+These two ligands reached equilibrium with STAT3 in molecular dynamics simulation.
+Hence, in this work, we suggest ligand 01 and 02 as a promising lead for further optimization and may serve as drug molecules in therapeutics of multiple ARDs.

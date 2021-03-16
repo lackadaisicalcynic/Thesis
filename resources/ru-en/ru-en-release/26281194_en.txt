@@ -1,0 +1,14 @@
+[Impact of interleukin-10 and interleukin-28 gene polymorphisms on the development and course of lupus nephritis].  AIM
+To assess the relationship of the carriage of IL-10-1080 G/A and IL-28 rs8099917 C/T polymorphisms to the course of lupus nephritis (LN).
+SUBJECTS AND METHODS
+Ninety-nine patients with systemic lupus erythematosus (SLE), including 68 with LN, were examined.
+Gene polymorphisms were analyzed using standard molecular genetic techniques.
+The frequency of the clinical manifestations of LN was analyzed; renal survival (RS) was estimated by the Kaplan-Meier method.
+RESULTS
+Ten-year RS rates were 80 and 86% of the patients with and without the mutant IL-10 allele, respectively (p = 0.78).
+The 10-year RS was lower (75%) in carriers of the mutant IL-28 rsl2979860 allele than in patients without this mutant allele (83%; p = 0.049) and in those of the mutant IL28 rs8099917 allele than in patients without the above mutant allele (67 and 88%, respectively; p = 0.047).
+LN patients, carriers of the mutant IL-10-1028 G/A allele, were observed to have higher-grade proteinuria in the presence of nephritic syndrome (mean 6.1 g/l) than those without the mutant allele of this gene (mean 2.9 g/l; p = 0.034).
+However, the mutant allele carriers responded to treatment better (p = 0.050).
+The mutant IL-10 and IL-28 alleles were unassociated with the development of rapidly progressive nephritis, the activity of a renal lupus process, and the rate of onset of SLE and LN.
+CONCLUSION
+In the LN patients, the carriage of the mutant IL-10 allele A is associated with a better response to treatment and that of the mutant IL-28 allele is linked to the severe course of the disease.

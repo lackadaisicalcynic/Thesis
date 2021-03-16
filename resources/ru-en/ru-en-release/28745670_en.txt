@@ -1,0 +1,8 @@
+[The administration of neurocytoprotectors in a rat model of experimental spinal cord ischemia].
+AIM  To study an effect of cortexin on functional recovery and morphology of the spinal cord of rats with spinal cord ischemia.
+MATERIAL AND METHODS
+Spinal cord ischemia was achieved by ligation of the infrarenal abdominal aorta in 16 rats stratified into two equal groups: the ligation of infrarenal aorta was performed in the control group, aorta ligation was performed also in the experimental group with preliminary intraperitoneally administration of cortexin in a dose of 0.15 mg/kg 30 min before procedure.
+Evaluation of neurologic deficit was performed by the Tarlov's scale.  Morphological evaluation was made by analyzing the histological sections of the lumbar and sacral cord using the Nissl's method of coloring.
+Statistical analysis was performed as well.
+RESULTS AND CONCLUSION  A pronounced and significant effect of cortexin, which was clinically expressed in a decrease in neurological deficit (p=0.0095), morphologically in an increase in the number of normochromic neurons (р=0.01), and a decrease in shrunken neurons (р=0.0001) and shadow cells (р=0.0003), was noted.
+The results suggest a potential myeloprotective effect of cortexin.  The drug can be considered in the context of treatment of vascular myelopathy.

@@ -1,0 +1,7 @@
+[Role of ceramide in reduction of the cardiolipin content in the heart during aging].
+The close correlation between ceramide accumulation and cardiolipin content decrease in cardiomyocytes, mitochondrial dysfunction and heart failure was well documented.
+Taking into account that ceramide can alter the cardiolipin metabolism the purpose of the present study was to determine the role of ceramide in age-dependent decline of cardiolipin content in rat heart tissue.
+In the present work the puberty young, adult and old (3-, 12-, 24-, 30- and 34-month-old) Wistar male rats were used.  It has been shown, that cardiolipin content significantly decreased, while content of cardiolipin precursor, phosphatidic acid, increased during aging.
+Doxorubicin injection to the rats or isolated heart perfusion with the C16-ceramide-conteined buffer induced ceramide accumulation and cardiolipin level drop in the heart of 3-month-old rats.
+Treatment of 24-month-old rats with inhibitors of acid sphingomyelinase, melipramine and zoledronic acid, decreased the ceramide level and increased the cardiolipin content in the heart.  The results obtained clearly demonstrated that the age-related ceramide accumulation is closely associated with the loss of cardiolipin content and may lead to mitochondrial dysfunction in the heart at old age.
+Acid sphingomyelinase and cardiolipin metabolism can be important targets for treatment of age-dependent heart pathology.

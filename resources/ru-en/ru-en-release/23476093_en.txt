@@ -1,0 +1,13 @@
+Emergency obstetric care in Mali: catastrophic spending and its impoverishing effects on households.
+OBJECTIVE  To investigate the frequency of catastrophic expenditures for emergency obstetric care, explore its risk factors, and assess the effect of these expenditures on households in the Kayes region, Mali.
+METHODS
+Data on 484 obstetric emergencies (242 deaths and 242 near-misses) were collected in 2008-2011.
+Catastrophic expenditure for emergency obstetric care was assessed at different thresholds and its associated factors were explored through logistic regression.
+A survey was subsequently administered in a nested sample of 56 households to determine how the catastrophic expenditure had affected them.
+FINDINGS
+Despite the fee exemption policy for Caesareans and the maternity referral-system, designed to reduce the financial burden of emergency obstetric care, average expenses were 152 United States dollars (equivalent to 71 535 Communauté Financière Africaine francs) and 20.7 to 53.5% of households incurred catastrophic expenditures.
+High expenditure for emergency obstetric care forced 44.6% of the households to reduce their food consumption and 23.2% were still indebted 10 months to two and a half years later.
+Living in remote rural areas was associated with the risk of catastrophic spending, which shows the referral system's inability to eliminate financial obstacles for remote households.  Women who underwent Caesareans continued to incur catastrophic expenses, especially when prescribed drugs not included in the government-provided Caesarean kits.
+CONCLUSION
+The poor accessibility and affordability of emergency obstetric care has consequences beyond maternal deaths.
+Providing drugs free of charge and moving to a more sustainable, nationally-funded referral system would reduce catastrophic expenses for households during obstetric emergencies.

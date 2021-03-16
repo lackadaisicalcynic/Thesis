@@ -1,0 +1,3 @@
+[Detection of vertical root fractures by cone beam CT].  The aim of the study was to assess the feasibility and precision of vertical root fracture diagnostics by cone beam CT (CBCT).
+Vertical root fractures were simulated in 25 sound teeth extracted because of orthodontic and periodontal reasons and examined by CBCT.  The roots were then sectioned in corresponding planes and fractures were assessed microscopically.
+CBCT sensitivity and precision was significantly higher for visualization of vertical fractures >150 µm when compares to fractures <50 µm with no difference in specificity.  CBCT is an effective tool for vertical root fractures detection.

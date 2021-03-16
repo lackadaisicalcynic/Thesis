@@ -1,0 +1,19 @@
+AIM  To conduct a comparative analysis of outcomes in patients with extramedullary tumors operated on using a minimally invasive approach and traditional laminectomy.
+MATERIAL AND METHODS
+The study included 40 patients (13 males and 27 females) who underwent surgical treatment at the Department of Spinal Neurosurgery of the Burdenko Neurosurgical Institute.
+The mean age of patients was 47 years (range: 41-60 years).  Tumors were located in the cervical, thoracic and lumbar spine.
+All patients were divided into two groups.
+In the control group, 20 patients underwent traditional laminectomy using a yard retractor or an Egorov-Freidin retractor.
+In the study group, 20 patients underwent hemilaminectomy using a retractor for minimally invasive surgery (Caspar and MAST Qudrant).
+The outcomes were evaluated 3, 6, and 12 months after surgery.
+The McCormik and VAS scales were used for the evaluation.  MRI data were also evaluated.
+RESULTS
+Total tumor resection was reached in all cases.
+The mean surgery duration was 247 min (range: 180-320 min) for the first group and 105.25 min (range: 60-190 min) for the second one.  The volume of blood loss was 297 mL (range: 100-600 mL) for the first group and 210 mL (50 to 400 mL) for the second group.
+The histological nature of the tumors was as follows: neurinoma, meningioma, and ependymomas of the cauda equina.
+The evaluation of the pain syndrome in the early postoperative period revealed that the pain syndrome intensity according to VAS was reduced in patients of the second group compared to that in patients of the first group.
+The evaluation using the McCormik scale revealed no obvious difference in the results between the study and control groups.
+MRI studies performed in the postoperative period showed no tumor recurrence.
+CONCLUSION
+Surgical treatment of patients with intradural extramedullary tumors can be safely and effectively performed using minimally invasive approaches.
+A potential reduction in surgery duration, intraoperative blood loss, the amount of anesthetic drugs and reduction in the pain syndrome in the early postoperative period allow us to conclude that, when performed by an experienced surgeon, the method of minimally invasive surgery may be an alternative to the traditional removal of an extramedullary tumor.

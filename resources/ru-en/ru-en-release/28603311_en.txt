@@ -1,0 +1,12 @@
+Developing global indicators for quality of maternal and newborn care: a feasibility assessment.
+OBJECTIVE  To assess the feasibility of applying the World Health Organization's proposed 15 indicators of quality of care for maternal and newborn health at health-facility level in low- and middle-income settings.
+METHODS
+Six of the indicators are about maternal health, five are for newborn health and four are general cross-cutting indicators.
+We used data collected routinely in facility registers and obtained as part of facility assessments from 963 health-care facilities specializing in maternity services in 10 countries in Africa and Asia.
+We made a feasibility assessment of the availability of data and the clarity of indicator definitions and identified additional information and data collection processes needed to apply the proposed indicators in real-life settings.
+FINDINGS
+Of the indicators evaluated, 10 were clearly defined, of which four could be applied directly in the field and six would require revisions to operationalize them.
+The other five indicators require further development, with one of them being ready for implementation by using information readily available in registers and four requiring further information before deployment.
+For indicators that measure coverage of care or availability of services or products, there is a need to further strengthen measurement.  Information on emergency obstetric complications was not recorded in a standard manner, thus limiting the reliability of the information.
+CONCLUSION
+While some of the proposed indicators can already be applied, other indicators need to be refined or will need additional sources and methods of data collection to be applied in real-world settings.

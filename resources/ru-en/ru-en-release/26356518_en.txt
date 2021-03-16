@@ -1,0 +1,9 @@
+[Characteristics of ischemic stroke according to hospital register data: a role of neuroreparative therapy].
+AIM  To study characteristics of the acute stage of ischemic stroke (IS) basing on the data of a hospital register of the Perm Regional vascular center and to assess the efficacy and safety of the drug cellex in patients with IS.
+MATERIAL AND METHODS
+Authors have analyzed the group of 128 patients with MRI-confirmed acute ischemic lesion.
+The subgroup of 40 patients, which beside the basic therapy received cellex in dose of 0.1 mg during 10 days, was randomized.
+RESULTS  The following data were analyzed: gender and age, prevalence of risk factors, primary prevention, time before admission, clinical presentations, results of instrumental diagnostic methods, pathogenic structure of stroke, use of intravenous thrombolysis, regimens of secondary prevention, functional outcome and its predictors.
+CONCLUSION
+The group of patients was characterized by the high prevalence of risk factors, insufficient primary prevention, prolonged time before the admission, low rate of thrombolysis use and significant prevalence of large artery disease associated with stroke.
+The main independent predictors of low mobility level at discharge were severe neurological deficit on admission, cognitive impairment and age.  Patients treated with cellex were characterized by the lower level of neurologic deficit, higher mobility and better global cognitive status in comparison with controls.

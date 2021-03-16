@@ -1,0 +1,13 @@
+UNLABELLED  The aim of the study was to compare the effectiveness of D3-lymphadenectomy in compliance with «no-touch» principle and mesocolectomy with traditional hemicolectomy in patients with right-sided colon cancer.
+MATERIAL AND METHODS
+It is retrospective-prospective comparative case-match study.
+From prospectively collected database patients with right-sided colon cancer stage I-III treated in 2009-2013 without adjuvant chemotherapy were selected.
+Patients who underwent conventional right-sided hemicolectomy with D2-lymphadenectomy in the regional oncologic dispensary formed the first group.
+The second group included patients after right-sided hemicolectomy with D3-lymphadenectomy, «no-touch» principle and mesocolectomy performed in academic hospital of the third level.
+From both groups 'case-match' patients by gender, age, stage and location of primary tumor were selected.
+Each group consisted of 50 patients.
+RESULTS
+Overall and cancer-related 5-year survival was significantly higher in the second group - 80.9% vs. 56.0% (p=0.01) and 93.4% vs. 59.8% (p=0.01), respectively.
+CONCLUSION
+D3-lymphadenectomy and mesocolectomy for right-sided colon cancer stage I-III without adjuvant chemotherapy provides significantly better overall and cancer-related 5-year survival compared with conventional right-sided hemicolectomy.
+Thus, D3-lymphadenectomy and mesocolectomy in compliance with «no-touch» principle for right-sided colon cancer is reproducible and effective in Russian conditions.

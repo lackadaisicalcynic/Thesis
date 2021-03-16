@@ -1,0 +1,13 @@
+[Annual blood pressure dynamics and weather sensitivity in women].
+AIM  To study the annual cycle of blood pressure (BP) and weather sensitivity in normotensive women aged 20-59 years.
+SUBJECTS AND METHODS
+The same group of 25 non-smoking women who had been living in the European North of Russia (62° N, 51° E) almost since their birth and were engaged in moderate-intensity mental labor was daily examined.
+During a year, there were 11823 blood pressure measurements using the Korotkoff technique; heart rate was calculated by palpation.
+These meteorological parameters were taken at the websites: http://meteo.infospace.ru and ftp://ftp.ngdc.noaa.gov/stp/geomagnetic_data/indices/kp_ap.  The statistical significance of differences in the indicators was determined using the Fisher's test and the Newman-Keuls test.
+The study used a correlation analysis with the calculation of the Spearman's rank correlation coefficient.
+RESULTS
+The maximum systolic and diastolic BP values were revealed in February and January, respectively.
+The minimum values of systolic BP were detected in July; those of diastolic BP were in August.
+An individual-based analysis of sensitivity to environmental variations showed that about 88% of the women responded to atmospheric temperature; nearly 44% did to geomagnetic activity; almost 24% were sensitive to relative air humidity, and about 16% of the women were to atmospheric pressure.
+CONCLUSION
+The dynamics of systolic and diastolic BP in the annual cycle of women depends on meteorological factors and suggests that there is a change in the priorities of its control in different periods of a year.

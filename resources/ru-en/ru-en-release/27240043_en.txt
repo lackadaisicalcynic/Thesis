@@ -1,0 +1,9 @@
+OBJECTIVE  To analyze possibilities of using different methods to increase the efficacy of psychopharmacotherapy of late onset depression, in particular to increase treatment duration.
+MATERIAL AND METHODS
+The study included 378patients, aged from 50 to 82 years (mean age 60.6±8.4).
+Patients were stratified into groups with short (4--8 weeks), moderate (12 weeks) and long (20-34 weeks) duration of psychopharmacotherapy.
+RESULTS AND CONCLUSION
+Treatment effect was much lower after <8 weeks of treatment compared with that after 12 weeks (the comparison of these groups was not available because the initial samples were not).
+To the 24th week, 63.9% of the patients responded to treatment, 43.4% achieved remission.
+Partial response and stable positive dynamics to the 12th week (about ½ of the patients achieved remission) were predictors of response with treatment duration <24 weeks.
+Based on the results obtained, the authors developed algorithms for choosing treatment tactics in patients with late onset depression in dependence of the results of the first 12 weeks of psychopharmacotherapy.

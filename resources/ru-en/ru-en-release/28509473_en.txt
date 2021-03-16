@@ -1,0 +1,5 @@
+[The issue of quality of Russian cause-specific mortality statistics at old ages].  The paper presents a brief analysis on the quality of cause-specific mortality statistics at old ages in Russia.
+Two aspects are in focus: the regional differences in approaches for choosing the underlying cause of death and the comparison of Russian coding practice with the practices of some other European countries.
+The results obtained indicate that there are certain problems with the quality of cause-of-death coding at old ages in Russia.  No unified approach to coding deaths as caused by «Senility» is used at a sub-national level.
+This leads to the distortion of the regional cause-specific mortality structures.
+Furthermore for many groups of causes Russian death rates are much lower than those in European countries.  This peculiarity is caused by the specificity of Russian cause-of-death coding practice, which results in underestimating the mortality from certain causes at old ages.

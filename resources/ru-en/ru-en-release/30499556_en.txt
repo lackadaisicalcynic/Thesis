@@ -1,0 +1,11 @@
+[The dynamics of markers of apoptosis in the acute period of ischemic stroke].  AIM
+To study the dynamics of markers of apoptosis (Bcl-2, p53) in serum in the acute period of ischemic stroke (IS) in comparison to the severity of the neurological condition and the volume of infarct.
+MATERIAL AND METHODS
+Fifty-one patients (mean age 60.5±2.2 years) with the first ever carotid IS were examined within the first 24 hours.
+The comparison group consisted of 20 patients (mean age 58.7±2.1 years) with chronic cerebral insufficiency.
+Clinical and neurological dynamic examinations with assessment of neurological deficit using (NIHSS), CT/MRI of the brain; ELISA immunoassay of p53 and Bcl-2 in blood serum were carried out.
+RESULTS AND CONCLUSION
+Significantly higher levels of p53 and of Bcl-2 were shown on the 3rd and 10th days in patients with IS compared to the control group (p<0.05).
+An increase in the content of p53 was positively correlated with the severity of neurological deficit (NIHSS≥10) on the first and third days of acute IS and with larger amounts of damage to the brain parenchyma according to the MRI study from the first day of IS and all subsequent days.
+High levels of Bcl-2 were positively correlated with the large volume of brain damage only on the 10th day of IS (p<0.045).
+The results confirm the active involvement of pro- and antiapoptotic processes in the formation of delayed neuronal death in the brain, which are important components of damaged brain tissue in IS.

@@ -1,0 +1,9 @@
+[Growth mechanisms and morphological structural features of large uterine leiomyoma].  OBJECTIVE  To investigate the growth mechanisms of large uterine leiomyoma (LULM) on the basis of a clinical morphology examination, by providing immunohistochemical (IHC) characteristics of the expression of growth factors (transforming growth factor-beta (TGFβ) and platelet-derived endothelial cell growth factor (PD-ECGF)) and markers of stemness (CD117/c-kit, Connexin 43, Nestin) and proliferation (Ki-67).
+SUBJECT AND METHODS
+The investigators examined surgical specimens from 38 women diagnosed with simple uterine leiomyoma (ULM), who had been divided into two groups: 1) 21 patients with LULM (>6 cm in diameter) (a study group); 2) 17 patients with small ULM (<4 cm in diameter) (a comparison group). Each group was also divided into two age subgroups
+(younger (<45 years) and older (≥45 years) subgroups  (1a (n=12), 1b (n=9), 2a (n=8) and 2b (n=9), respectively.
+Histological specimens were used to make IHC examination with antibodies against TGFβ, PD-ECGF, CD117/c-kit, Connexin 43, Nestin, and Ki-67.
+RESULTS
+The growth mechanisms of LULM of simple histological structure were found to be associated with the larger number of growth zones in the tumors, with their enhanced cellular proliferative activity, and with the appearance of cells with signs of stemness, which is combined with the preserved subsequent maturation of tumor cells and determines the benign nature of LULM.
+CONCLUSION
+There were differences in the molecular profile of LULM and small ULM, as well as LULM in perimenopausal and young women by the expression levels of Ki-67, TGFβ, PD-ECGF, CD117, and Connexin 43, which can be used for diagnosis, prediction, and development of targeted therapies.

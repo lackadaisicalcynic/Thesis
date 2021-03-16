@@ -1,0 +1,10 @@
+[Genetic and clinical predictors of treatment efficacy in depressive disorders].
+AIM
+To study clinical and genetic characteristics that impact on the efficacy of pharmacotherapy of depressive disorders.  MATERIAL AND METHODS
+The study included 188 patients with unipolar depressive disorders of different genesis (psychogenic, endogenous and organic).
+A clinical-psychopathological method and depression psychometric scales were used.  Serotonin transporter 5-HTTLPR and STin2 and dopamine transporter 3',-VNTR polymorphisms were determined.
+RESULTS AND CONCLUSION
+The S-allele of the 5-HTTLPR polymorphism is associated with the low efficacy of treatment with selective serotonin reuptake inhibitors.
+Tricyclic antidepressants are more effective in treatment of psychogenic depression.
+The authors determined clinical factors that can predict response to treatment of psychogenic and endogenous depression.
+No predictors were found for organic depression.

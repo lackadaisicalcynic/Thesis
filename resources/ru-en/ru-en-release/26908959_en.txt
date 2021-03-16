@@ -1,0 +1,12 @@
+Compliance with smoke-free legislation within public buildings: a cross-sectional study in Turkey.
+OBJECTIVE
+To investigate public compliance with legislation to prohibit smoking within public buildings and the extent of tobacco smoking in outdoor areas in Turkey.  METHODS
+Using a standardized observation protocol, we determined whether smoking occurred and whether ashtrays, cigarette butts and/or no-smoking signs were present in a random selection of 884 public venues in 12 cities in Turkey.  We visited indoor and outdoor locations in bars/nightclubs, cafes, government buildings, hospitals, restaurants, schools, shopping malls, traditional coffee houses and universities.
+We used logistic regression models to determine the association between the presence of ashtrays or the absence of no-smoking signs and the presence of individuals smoking or cigarette butts.  FINDINGS
+Most venues had no-smoking signs (629/884).  We observed at least one person smoking in 145 venues, most frequently observed in bars/nightclubs (63/79), hospital dining areas (18/79), traditional coffee houses (27/120) and government-building dining areas (5/23).
+For 538 venues, we observed outdoor smoking close to public buildings.
+The presence of ashtrays was positively associated with indoor smoking and cigarette butts, adjusted odds ratio, aOR: 315.9; 95% confidence interval, CI: 174.9-570.8 and aOR: 165.4; 95% CI: 98.0-279.1, respectively.
+No-smoking signs were negatively associated with the presence of cigarette butts, aOR: 0.5; 95% CI: 0.3-0.8.
+CONCLUSION
+Additional efforts are needed to improve the implementation of legislation prohibiting smoking in indoor public areas in Turkey, especially in areas in which we frequently observed people smoking.
+Possible interventions include removing all ashtrays from public places and increasing the number of no-smoking signs.

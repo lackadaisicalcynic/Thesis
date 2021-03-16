@@ -1,0 +1,11 @@
+[Analysis of postoperative complications after pneumo-n-ectomy using thoracic morbidity and mortality (tmm) system in nsclc patients for a 5-year period].  AIM
+Postoperative complications after pneumonectomy for NSCLC depend on the extension of surgery, comorbidities and accurate registration of any adverse event.  The aim of the study was to evaluate the short-term results after standard and extended pneumonectomy in NSCLC patients according to the TMM grading system.
+MATERIAL AND METHODS
+We included 216 NSCLC patients consecutively submitted to pneumonectomy at our institution from January 2009 to December 2013 in the retrospective study performed on data prospectively collected in an electronic clinical database.  All patients were divided into two different groups: standard (n=142) and extended (n=74) pneumonectomy, where resection of adjacent organs was indicated.
+The patients undergone extended pneumonectomy were subdivided into single (n=49) and multi-organ resection (n=25) groups.
+Morbidity and mortality rate was analyzed according to the standard criteria and TMM classification system.
+RESULTS
+Postoperative morbidity and mortality rate after standard pneumonectomy (23,9% and 3,5%) was significantly lower than extended procedure (43,2% and 10,8%) (p=0.02). Multi-organ resection was an independent prognostic factor of unfavourable outcome: morbidity and mortality was significantly higher in the multi-organ group (48,0% and 16,0%), while in the single-organ group it was 40,8% and 8,2% respectively (p=0.01).
+Major complications rate (grade IIIA and higher according to the TMM) was significantly higher in the multi-organ group (40,0%) than in the single-organ (28,6%) and standard (14,8%) group (p=0.01).
+CONCLUSION  TMM classification system is more accurate in grading and further analysis of postoperative complications after pneumonectomy in NSCLC patients in compare with standard criteria.
+Multi-organ resection should be carried out with caution due to unacceptable high morbidity and mortality rate.

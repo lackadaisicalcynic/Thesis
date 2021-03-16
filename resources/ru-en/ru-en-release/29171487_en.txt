@@ -1,0 +1,8 @@
+[Evaluation of efficiency and safety of adding neuromultivit to basic therapy of vertebrogenic radiculopathy].
+AIM  To evaluate the efficacy and safety of neuromultivit (valiant, Russia) as add-on to the basic therapy of vertebrogenic radiculopathy (VR) L5-S1.
+MATERIAL AND METHODS
+The open clinical trial included 100 patients with VR L5-S1 randomized into 2 groups.  In group 1, patients received neuromultivit and basic therapy; in group 2 only basic therapy.
+Treatment efficacy was assessed by the dynamics of regression of pain intensity on the visual analogue scale (VAS), McGill pain questionnaire (MGPQ), Aberdeen back pain scale (ABPS), the Quebec Back Pain Disability Scale (QBPDS), the dynamics of neurologic symptoms, the need for additional treatment with NSAID.  Safety was assessed by evaluation of vital functions, laboratory tests, ECG, registration of adverse events (AE).
+RESULTS  In both groups, a significant positive changes on VAS, MGPQ, ABPS, QBPDS were observed.
+Nevertheless, the positive effect of therapy was more pronounced in group 1 p<0.05).  The AE spectrum between two groups did not differ significantly (p<0.05).
+CONCLUSION  Addition of neuromultivit to basic therapy increased the efficacy of treatment of VR L5-S1.

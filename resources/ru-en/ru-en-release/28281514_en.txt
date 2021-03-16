@@ -1,0 +1,11 @@
+[Ultrasound elastography of the liver for assessing the risk of complications of its cirrhosis of different etiologies].
+AIM  To study the results of dynamic liver ultrasound elastography (LUE) in assessing the risk of complications of liver cirrhosis (LC) of different etiologies and to elaborate a monitoring program for estimation of the predictive value of elastography in patients with LC.
+SUBJECTS AND METHODS
+A total of 194 patients with LC of different etiologies, including 56 patients with alcoholic cirrhosis, 48 with LC and an outcome of nonalcoholic fatty liver disease, 53 with LC and an outcome of chronic hepatitis C, 23 with LC and an outcome of chronic hepatitis B, and 14 with an outcome of coinfection with hepatitis B and D viruses, were examined.
+An analysis was made between the presence of a number of LC complications and the results of LUE, by constructing the receiver operating characteristic (ROC) curves to select LUE threshold values, in which there was a high risk for LC complications (esophageal varices, bleeding esophageal varices, hepatic encephalopathy, and ascites).
+RESULTS
+The investigation could obtain liver elastography threshold values expressed in kilopascals (kPa), which were proposed for use as a prognostic sign of the presence of complications caused by LC and assessed liver elastography threshold values for its mortality prediction.
+The predictive value of positive LUE results in determining the risk of different complications was 75.7 to 92.5%; that of negative results was 70 to 92.9%.
+An algorithm for individualized diagnostic and treatment policy was elaborated in relation to the liver elastography results obtained during the primary examination of a patient.
+CONCLUSION
+The dynamic LUE findings in patients with LC of different etiologies suggest that the proposed LUE threshold values are efficient and may be used in practical healthcare, which will be able to timely correct management tactics for a patient and to monitor his treatment.

@@ -1,0 +1,13 @@
+Availability and affordability of new medicines in Latin American countries where pivotal clinical trials were conducted.
+OBJECTIVE
+To assess whether new pharmaceutical products approved by the United States Food and Drug Administration (FDA) in 2011 and 2012 were registered, commercialized and sold at affordable prices in the Latin American countries where they were tested.
+METHODS
+We obtained a list of new molecular entities (new pharmaceutical products) approved by the FDA in 2011 and 2012.
+FDA medical reviews indicated the countries where pivotal clinical trials had been conducted.
+The registration status of the products was obtained from pharmaceutical registers; pharmaceutical companies confirmed their availability in national markets and local pricing observatories provided the price of medicines in retail pharmacies.
+Affordability was assessed as the cost of a course of treatment as a proportion of monthly income.
+Information on safety and efficacy was gathered from independent drug bulletins.  FINDINGS
+Of an expected 114 registrations, if the 33 products had been registered in all the countries where tested, only 68 (60%) were completed.  Eight products were registered and commercialized in all countries but 10 had not been registered in any of the countries.
+With one exception, products for which we obtained pricing information (n = 18) cost more than the monthly minimum wage in all countries and 12 products cost at least five times the monthly minimum wage.  CONCLUSION
+Many pharmaceutical products tested in Latin America are unavailable and/or unaffordable to most of the population.  Ethical review committees should consider the local affordability and therapeutic relevance of new products as additional criteria for the approval of clinical trials.
+Finally, clinical trials have opportunity costs that need to be assessed.

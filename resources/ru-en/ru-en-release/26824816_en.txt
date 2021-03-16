@@ -1,0 +1,13 @@
+[Genetic determinants of antibiotic resistance in oropharyngeal streptococci in patients with chronic obstructive pulmonary disease and in those with asthma].
+AIM  To identify oropharyngeal Streptococcus species and to analyze the genetic determinants of antibiotic resistance in patients with asthma and in those with chronic obstructive pulmonary disease (COPD).
+MATERIAL AND METHODS
+An experimental diagnostic Streptopol+ (Lytech Co. LTD) panel based on a multiplex real-time PCR was applied to investigate the representation of antimicrobial resistance genes (mef and ermB) and the species composition of streptococci isolated from oropharyngeal swab samples from 89 patients with stable COPD and from 51 patients with asthma.
+RESULTS
+In the stable disease period, the oropharyngeal swabs were found to contain Streptococcus pneumoniae in 7.8% of the patients with asthma and in 6.74% of those with COPD; the common feature of these groups was a tendency towards a severe disease course and recurrent exacerbations requiring antibiotics.
+S. pyogenus was detected in 42.9% of the oropharyngeal swabs from COPD and asthma patients without exacerbations.
+The oropharyngeal swabs showed the mef gene in 100% of the patients with asthma and in 100% of those with COPD; the ermB gene was encountered in 91% of the patients with COPD and in 82.4% of those with asthma.
+The COPD patients displayed a direct correlation between the representation of the ermB gene and sputum production and smoking index.
+The mef and ermB genes were directly correlated with the frequency of exacerbations in patients with COPD.
+CONCLUSION
+The identified streptococci are a reservoir of antimicrobial resistance genetic determinants - the mef and ermB genes encoding the mechanisms of streptococcal macrolide resistance.
+The representation of the above genes directly correlates with the frequency of exacerbations and the number of antimicrobial drug uses.

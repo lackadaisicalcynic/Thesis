@@ -1,0 +1,12 @@
+Sampling at community level by using satellite imagery and geographical analysis.  PROBLEM
+Traditional random sampling at community level requires a list of every individual household that can be randomly selected in the study community.  The longitudinal demographic surveillance systems often used as sampling frames are difficult to create in many resource-poor settings.
+APPROACH
+We used Google Earth imagery and geographical analysis software to develop a sampling frame.
+Every household structure within the catchment area was digitized and assigned coordinates.
+A random sample was then generated from the list of households.
+LOCAL SETTING
+The sampling took place in Lilongwe, Malawi and formed a part of an investigation of the intensity of Plasmodium falciparum transmission in a multi-site Phase III trial of a candidate malaria vaccine.
+RELEVANT CHANGES
+Creation of a complete list of household coordinates within the catchment area allowed us to generate a random sample representative of the population.  Once the coordinates of the households in that sample had been entered into the hand-held receivers of a global positioning system device, the households could be accurately identified on the ground and approached.
+LESSONS LEARNT  In the development of a geographical sampling frame, the use of Google Earth satellite imagery and geographical software appeared to be an efficient alternative to the use of a demographic surveillance system.
+The use of a complete list of household coordinates reduced the time needed to locate households in the random sample.  Our approach to generate a sampling frame is accurate, has utility beyond morbidity studies and appears to be a cost-effective option in resource-poor settings.

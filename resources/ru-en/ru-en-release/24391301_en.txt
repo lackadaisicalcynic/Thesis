@@ -1,0 +1,9 @@
+The challenges of global case reporting during pandemic A(H1N1) 2009.
+During the 2009 A(H1N1) influenza pandemic, the World Health Organization (WHO) asked all Member States to provide case-based data on at least the first 100 laboratory-confirmed influenza cases to generate an early understanding of the pandemic and provide appropriate guidance to affected countries.
+In reviewing the pandemic surveillance strategy, we evaluated the utility of case-based data collection and the challenges in interpreting these data at the global level.
+To do this, we assessed compliance with the surveillance recommendation and data completeness of submitted case records and described the epidemiological characteristics of up to the first 110 reported cases from each country, aggregated into regions.  From April 2009 to August 2011, WHO received over 18 000 case records from 84 countries.
+Data reached WHO at different time intervals, in different formats and without information on collection methods.
+Just over half of the 18 000 records gave the date of symptom onset, which made it difficult to assess whether the cases were among the earliest to be confirmed.
+Descriptive epidemiological analyses were limited to summarizing age, sex and hospitalization ratios.  Centralized analysis of case-based data had little value in describing key features of the pandemic.
+Results were difficult to interpret and would have been misleading if viewed in isolation.  A better approach would be to identify critical questions, standardize data elements and methods of investigation, and create efficient channels for communication between countries and the international public health community.
+Regular exchange of routine surveillance data will help to consolidate these essential channels of communication.

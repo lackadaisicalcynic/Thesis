@@ -1,0 +1,12 @@
+[Relationship between matrix metalloproteinase-3 levels and articular destructive changes in early and extended rheumatoid arthritis].
+AIM  To estimate a relationship between matrix metalloproteinase-3 (MMP-3) levels and articular radiographic changes in early and extended rheumatoid arthritis (RA); to analyze the role of this biomarker in predicting the progression of joint destruction in RA.
+SUBJECTS AND METHODS
+Forty-five patients with early RA and 42 with extended RA were examined.
+Radiography of the hands and distal feet was performed before and one year after therapy.
+Serum MMP-3 levels were measured by an enzyme immunoassay prior to and 12 and 24 weeks after treatment.
+RESULTS
+After 52 weeks, in the early RA group, 16 patients continued monotherapy with methotrexate (MT); because of its inefficiency, 29 additionally received a biological agent in different follow-up periods.
+The extended RA group took tocilizumab for 24 weeks, then the drug was discontinued and the patients continued the former therapy with disease-modifying antirheumatic drugs, nonsteroidal anti-inflammatory drugs, and glucocorticosteroids.  One year later, radiographic progression was recorded in 20.5 and 22.5% of the patients with early and extended RA, respectively.
+ROC analysis indicated that in the early RA group the MMP-3 level of more than 34.3 ng/ml at 12 weeks of MT therapy was associated with the radiographic progression of articular destructive changes after 52 weeks of therapy (the area under the curve (AUC) was 0.7; 95% confidence interval (CI) 0.46 to 0.93).
+In the patients with extended RA, the baseline MMP-3 levels of ≤51.3 ng/ml was related to no radiographic progression following 52 weeks (AUC, 0.587; 95% CI 0.33 to 0.84).  CONCLUSION
+MMP-3 may be regarded as an early marker for joint destruction in RA.  The determination of MMP-3 level with other immunological markers may be useful to identify a group of patients who have a potentially severer disease course and need more intensive therapy.

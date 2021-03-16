@@ -1,0 +1,15 @@
+[The possibility of selecting optimal antiplatelet therapy in patients with coronary heart disease in terms of CYP2C19 polymorphism].  AIM
+To estimate whether optimal antiplatelet therapy can be selected in terms of CYP2C19 polymorphism.
+SUBJECTS AND METHODS
+The prospective randomized trial included 124 patients (93 men and 31 women) who were to undergo percutaneous coronary intervention.  They initially received dual antiplatelet therapy: clopidogrel 75 mg + acetylsalicylic acid (ASA) 300 mg.
+Genetic testing was performed in all the patients to reveal the carriage of allelic variants of the genes of cytochrome P-450 isoenzymes and the efficiency of antiplatelet therapy was evaluated.
+The carriers of one allele (CYP2C19*2/*1) were randomized into 3 subgroups according to further antiplatelet therapy.  The therapy was not changed in Subgroup 1.
+The dose of clopidogrel was increased up to 150 mg/day and that of ASA remained unchanged in Subgroup 2.
+In Subgroup 3, the therapy was completely changed to the regimen: ASA 300 mg + ticagrelor 90 mg twice daily.  Three days later, platelet aggregation was reinvestigated in all the three subgroups.
+RESULTS
+In our investigation, the prevalence of carriage of at least one of the CYP2C19*2 alleles was about 35%.
+Comparison of the baseline platelet aggregation levels during the same platelet therapy showed statistically significant differences between the carriers and non-carriers: 32.7±11.6 and 44.8±12.9 (p=0.0024).
+Compared with the baseline values, there was a drug therapy switching-induced reduction in platelet aggregation in Subgroups 2 and 3 (p=0.0001 and p=0.0056, respectively).
+No statistically significant differences were found in Subgroup 1.
+CONCLUSION
+The determination of CYP2C19 gene polymorphism allows a personalized approach to be applied in antiplatelet therapy for all patients with coronary artery disease.

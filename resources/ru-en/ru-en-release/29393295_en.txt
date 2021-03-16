@@ -1,0 +1,10 @@
+[Hypofractionated radiotherapy for glioblastoma: changing the radiation treatment paradigm].
+Hypofractionation has the dual advantage of increased cell death with a higher dose per fraction and a reduced effect of accelerated tumor cell repopulation due to a shorter overall treatment time.
+However, the potential advantage may be offset by increased toxicity in the late-responding neural tissues.  Recently, investigators have attempted delivering radical doses of HFRT by escalating the dose in the immediate vicinity of the enhancing tumor and postoperative surgical cavity and reported reasonable outcomes with acceptable toxicity levels.
+Three different studies of high-dose HFRT have reported on the paradoxical phenomenon of improved survival in patients developing radiation necrosis at the primary tumor site.
+The toxicity criteria of RTOG and EORTC have defined clinically or radiographically suspected radionecrosis as Grade 4 toxicity.
+However, most patients diagnosed with radiation necrosis in the above studies remained asymptomatic.
+Furthermore, the probable association with improved survival would strongly argue against adopting a blind approach for classifying radiation necrosis as Grade 4 toxicity.
+The data emerging from the above studies is encouraging and strongly argues for further research.
+However, the majority of these studies are predominantly retrospective or relatively small single-arm prospective series that add little to the overall quality of evidence.
+Notwithstanding the above limitations, HFRT appears to be a safe and feasible strategy for glioblastoma patients.

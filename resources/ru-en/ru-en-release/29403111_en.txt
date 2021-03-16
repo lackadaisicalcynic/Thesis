@@ -1,0 +1,10 @@
+Implementation research: reactive mass vaccination with single-dose oral cholera vaccine, Zambia.
+Objective  To describe the implementation and feasibility of an innovative mass vaccination strategy - based on single-dose oral cholera vaccine - to curb a cholera epidemic in a large urban setting.
+Method
+In April 2016, in the early stages of a cholera outbreak in Lusaka, Zambia, the health ministry collaborated with Médecins Sans Frontières and the World Health Organization in organizing a mass vaccination campaign, based on single-dose oral cholera vaccine.
+Over a period of 17 days, partners mobilized 1700 health ministry staff and community volunteers for community sensitization, social mobilization and vaccination activities in 10 townships.  On each day, doses of vaccine were delivered to vaccination sites and administrative coverage was estimated.
+Findings  Overall, vaccination teams administered 424 100 doses of vaccine to an estimated target population of 578 043, resulting in an estimated administrative coverage of 73.4%.
+After the campaign, few cholera cases were reported and there was no evidence of the disease spreading within the vaccinated areas.  The total cost of the campaign - 2.31 United States dollars (US$) per dose - included the relatively low cost of local delivery - US$ 0.41 per dose.
+Conclusion
+We found that an early and large-scale targeted reactive campaign using a single-dose oral vaccine, organized in response to a cholera epidemic within a large city, to be feasible and appeared effective.
+While cholera vaccines remain in short supply, the maximization of the number of vaccines in response to a cholera epidemic, by the use of just one dose per member of an at-risk community, should be considered.

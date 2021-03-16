@@ -1,0 +1,15 @@
+Monitoring progress towards the elimination of measles in China: an analysis of measles surveillance data.
+OBJECTIVE  To analyse the epidemiology of measles in China and determine the progress made towards the national elimination of the disease.
+METHODS
+We analysed measles surveillance data - on the age, sex, residence and vaccination status of each case and the corresponding outcome, dates of onset and report and laboratory results - collected between January 2005 and October 2013.
+FINDINGS
+Between 2005 and October 2013, 596 391 measles cases and 368 measles-related deaths were reported in China.
+Annual incidence, in cases per 100 000 population, decreased from 9.95 in 2008 to 0.46 in 2012 but then rose to more than 1.96 in 2013.
+The number of provinces that reported an annual incidence of less than one case per million population increased from one in 2009 to 15 in 2012 but fell back to one in 2013.
+Median case age decreased from 83 months in 2005 to 14 months in 2012 and 11 months in January to October 2013.
+Between 2008 and 2012, the incidence of measles in all age groups, including those not targeted for vaccination, decreased by at least 93.6%.
+However, resurgence started in late 2012 and continued into 2013.
+Of the cases reported in January to October 2013, 40% were aged 8 months to 6 years.
+CONCLUSION
+Although there is evidence of progress towards the elimination of measles from China, resurgence in 2013 indicated that many children were still not being vaccinated on time.
+Routine immunization must be strengthened and the remaining immunity gaps need to be identified and filled.

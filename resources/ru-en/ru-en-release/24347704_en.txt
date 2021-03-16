@@ -1,0 +1,11 @@
+Health worker remuneration in WHO Member States.
+OBJECTIVE  To present the available data on the money spent by Member States of the World Health Organization (WHO) on remunerating health workers in the public and private sectors.
+METHODS
+Data on government and total expenditure on health worker remuneration were obtained through a review of official documents in WHO's Global Health Expenditure Database and directly from country officials and country official web sites.
+Such data are presented in this paper, by World Bank country income groups, in millions of national currency units per calendar year for salaried and non-salaried health workers.
+They are presented as a share of gross domestic product (GDP), total health expenditure and general government health expenditure.
+The average yearly change in remuneration (i.e. compound annual growth rate) between 2000 and 2012 as a function of these parameters was also assessed.  FINDINGS
+On average, payments to health workers of all types accounted for more than one third of total health expenditure across countries.
+Such payments have grown faster than countries' GDPs but less rapidly than total health expenditure and general government health expenditure.  Remuneration of health workers, on the other hand, has grown faster than that of other types of workers.
+CONCLUSION  As they seek to attain universal health coverage (UHC), countries will need to devote an increasing proportion of their GDPs to health and health worker remuneration.
+However, the fraction of total health expenditure devoted to paying health workers seems to be declining, partly because the pursuit of UHC calls for strengthening the health system as a whole.

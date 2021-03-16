@@ -1,0 +1,13 @@
+[Indicators of homeostasis, inflammation and homocysteine in ischemic stroke in the young age].
+AIM  To determine indicators of homeostasis, inflammation and homocysteine in the young-aged patients with ischemic stroke (IS) of different genesis in the subacute and chronic stages.
+MATERIAL AND METHODS
+Out of 218 patients with IS (mean age 34.7±8.7 years), 55 had stroke due to dissection of the inner carotid or the spinal artery, 28 due to cardioembolia, 38 due to antiphospholipid syndrome (APS), 16 due to cerebral arteritis; 85 patients were classified as having cryptogenic stroke, including 23 with noncerebral thrombosis (coagulopathy of unknown etiology) and 62 with no thrombosis.
+The control group included 28 healthy people matched for age and sex.
+RESULTS
+There were 1) an increase in von Willebrand factor and coagulation factor VIII as well as a decrease in plasminogen and an increase in plasmin-inhibitor in IS caused by thrombosis (APS, cardioembolia, coagulopathy of unknown etiology); 2) alterations in erythrocyte aggregation and deformity in cryptogenic stroke; 3) mild or moderate hyperhomocysteinemia, with the exception of patients with APS and arteritis.
+Linear regression analysis confirmed these relationships.
+Discriminant analysis identified the clusters of parameters characteristic of APS (an increase in (aPTT), plasminogen, blood sedimentation rate, C-reactive protein) and cardioembolia (decreased protein C and increased hematocrit).
+CONCLUSION
+The laboratory markers associated with cerebral thrombosis can be used for identification of a prothrombotic state as a cause of IS in the young age.
+Moderate hyperhomocysteinemia is a risk factor but not a cause of IS.
+The increase of inflammatory markers in APS suggests a role of infection in its development.

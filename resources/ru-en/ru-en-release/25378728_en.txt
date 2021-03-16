@@ -1,0 +1,12 @@
+Measles incidence and reporting trends in Germany, 2007-2011.
+OBJECTIVE  We aimed to quantify progress towards measles elimination in Germany from 2007 to 2011 and to estimate any potential underreporting over this period.
+METHODS
+We determined the annual incidence of notified cases of measles - for each year - in northern, western, eastern and southern Germany and across the whole country.  We then used measles-related health insurance claims to estimate the corresponding incidence.
+FINDINGS
+In each year between 2007 and 2011, there were 6.9-19.6 (mean: 10.8) notified cases of measles per million population.
+Incidence decreased with age and showed geographical variation, with highest mean incidence - 20.3 cases per million - in southern Germany.
+Over the study period, incidence decreased by 10% (incidence rate ratio, IRR: 0.90; 95% confidence interval, CI: 0.85-0.95) per year in western Germany but increased by 77% (IRR: 1.77; 95% CI: 1.62-1.93) per year in eastern Germany.
+Although the estimated incidence of measles based on insurance claims showed similar trends, these estimates were 2.0- to 4.8-fold higher than the incidence of notified cases.
+Comparisons between the data sets indicated that the underreporting increased with age and was generally less in years when measles incidence was high than in low-incidence years.  CONCLUSION
+Germany is still far from achieving measles elimination.  There is substantial regional variation in measles epidemiology and, therefore, a need for region-specific interventions.
+Our analysis indicates underreporting in the routine surveillance system between 2007 and 2011, especially among adults.

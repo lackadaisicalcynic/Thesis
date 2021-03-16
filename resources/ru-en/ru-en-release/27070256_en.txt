@@ -1,0 +1,15 @@
+[Overall survival and intracranial relapse in patients with brain metastases after gamma knife radiosurgery alone].  UNLABELLED
+The study purpose was to evaluate the impact of gamma knife radiosurgery (GKRS) alone on the overall survival and rate of intracranial recurrences in brain metastasis patients.  MATERIAL AND METHODS
+Treatment outcomes in 502 patients (211 males and 291 females with 2782 brain metastases (BMs)) were retrospectively reviewed.  Most patients (n=142; 28.2%) were diagnosed with breast cancer.
+Multiple BMs were detected in 259 patients (51.6%).  The median of the total tumor volume and ВM number was 5.9 cm3 (0.09-44.5 cm3) and 4 (1-36), respectively.
+The mean marginal radiation dose was 21 Gy (15-24 Gy).  The mean follow-up period was 10.6 months (0.2-47.2 months).
+RESULTS
+The overall survival rate for 12 and 24 months was 37.6 and 19.1%, respectively.  The median overall survival after GKRS was 8.6 months (95% confidence interval (CI) 7.0-10.0).
+Local control of metastatic lesions was achieved in 78.8% of patients.  The median local recurrence-free survival was 6.8 months after radiosurgery.
+The development of new (distant) metastases was observed in 49.5% of patients.
+The median distant metastasis-free time was 8.8 months.  The Karnofsky performance score (KPS) of ≥80 (HR 0.3935, 95% CI 0.2429-0.6376; p=0.0002), BM number of <3 (HR 0.6138, 95% CI 0.3993-0.9943; p=0.0269), and BMs of breast and lung cancers (HR 0.5442, 95% CI 0.3642-0.8071; p=0.0027) are predictors of better survival.
+In the case of intracranial metastasis recurrence, repeated radiosurgery provides the median overall survival of 19.6 months versus 9.6 months in patients without radiosurgery (HR 0.4026, 95% CI 0.2381-0.6809).
+CONCLUSION
+Radiosurgical treatment of patients with multiple BMs provides the median overall survival of 8.6 months.
+A good functional status, non-extensive metastasis of the brain, and radiosensitive morphology of the primary tumor are the predictors of better survival.
+Repeated radiosurgical treatment for intracranial recurrences provides longer overall survival compared to that in patients without repeated radiosurgical treatment.

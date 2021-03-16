@@ -1,0 +1,8 @@
+[Functioning features of the mirror neuron system in patients with affective disorders].
+AIM  To reveal EEG patterns and activation of neural network changes during perception and realization of a simple motor act in healthy subjects and patients with affective disorders.
+MATERIAL AND METHODS
+The patient group consisted of 15 people with affective disorders, the control group included 11 normals.
+As task subjects were asked to observe the movement of the experimenter hand (clenching of the hand), then submit this motion and then repeat it by themselves.
+EEG recording and EEG analysis were conducted.  To identify activation areas, sLORETA method was used for solving the inverse problem of EEG.
+RESULTS AND CONCLUSION
+In patients with affective disorders, the activation of the brain mirror system occurred in the left temporal region, while in healthy people such activation was observed in the temporal lobes of the two hemispheres and in the frontal upper, middle and lower convolutions.

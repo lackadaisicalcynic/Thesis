@@ -1,0 +1,4 @@
+[Predictors and modifiers of impulse control disorders in Parkinson`s disease].  Impulse control disorders (ICDs), including compulsive gambling, buying, sexual behavior, and eating, are a serious and increasingly recognized psychiatric complication in Parkinson's disease (PD).
+ICDs have been most closely related to the use of dopamine agonists (DAs), perhaps more so at higher doses.
+Possible predictor's for ICDs include male sex, younger age and younger age at PD onset, use of dopaminergic agents.
+Modifiers of ICDs are pharmacological (medication) and non-pharmacological (surgical, behavioral) treatments.

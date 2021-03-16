@@ -1,0 +1,8 @@
+[MiRNAs in the diagnosis of cardiovascular diseases associated with type 2 diabetes mellitus and obesity].  Worldwide, the number of patients with type 2 diabetes mellitus (T2DM), obesity, and cardiovascular diseases (CVD) continues to increase steadily.
+Despite long-term studies of obesity and concomitant diseases, the molecular genetic bases for the development of these pathological conditions have remained the subject of numerous investigations so far.  Recent investigations point to the involvement of miRNAs as dynamic modifiers of the pathogenesis of various pathological conditions, including obesity, T2DM, and CVD.
+MicroRNAs are involved in various biological processes underlying the development of CVDs, including endothelial dysfunction, cell adhesion, and atherosclerotic plaque formation and rupture.  Some of them are considered as potential sensitive diagnostic markers of coronary heart disease and acute myocardial infarction.
+Approximately 1,000 microRNAs are found in the human body.
+It has been determined that miRNAs regulate 30% of all human genes.
+Among them there are about 50 circulating miRNAs presumably associated with cardiovascular diseases.
+This review provides recent data on the participation of some miRNAs in various pathological and physiological states associated with CVD in DM and obesity.
+An extended and exact understanding of the function of miRNAs in the gene regulatory networks associated with cardiovascular risk in obesity will be able to reveal new mechanisms for the progression of disease, to predict its development, and to elaborate innovative therapeutic strategies.

@@ -1,0 +1,10 @@
+Pre-exposure rabies prophylaxis: a systematic review.
+OBJECTIVE  To review the safety and immunogenicity of pre-exposure rabies prophylaxis (including accelerated schedules, co-administration with other vaccines and booster doses), its cost-effectiveness and recommendations for use, particularly in high-risk settings.
+METHODS
+We searched the PubMed, Centre for Agriculture and Biosciences International, Cochrane Library and Web of Science databases for papers on pre-exposure rabies prophylaxis published between 2007 and 29 January 2016.  We reviewed field data from pre-exposure prophylaxis campaigns in Peru and the Philippines.
+FINDINGS  Pre-exposure rabies prophylaxis was safe and immunogenic in children and adults, also when co-administered with routine childhood vaccinations and the Japanese encephalitis vaccine.
+The evidence available indicates that shorter regimens and regimens involving fewer doses are safe and immunogenic and that booster intervals could be extended up to 10 years.  The few studies on cost suggest that, at current vaccine and delivery costs, pre-exposure prophylaxis campaigns would not be cost-effective in most situations.
+Although pre-exposure prophylaxis has been advocated for high-risk populations, only Peru and the Philippines have implemented appropriate national programmes.  In the future, accelerated regimens and novel vaccines could simplify delivery and increase affordability.
+CONCLUSION
+Pre-exposure rabies prophylaxis is safe and immunogenic and should be considered: (i) where access to postexposure prophylaxis is limited or delayed; (ii) where the risk of exposure is high and may go unrecognized; and (iii) where controlling rabies in the animal reservoir is difficult.
+Pre-exposure prophylaxis should not distract from canine vaccination efforts, provision of postexposure prophylaxis or education to increase rabies awareness in local communities.

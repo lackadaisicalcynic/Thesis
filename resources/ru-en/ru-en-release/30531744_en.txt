@@ -1,0 +1,4 @@
+[Problem of decision-making in surgery].
+Decision-making process is often complex, responsible and not always reflected in surgical protocol.
+Some surgeons usually prefer standard finishing of procedure; others talk about individual approach but they have some preferences; the third ones analyze all possible perioperative factors (pre- and intraoperative data) and seek to justify differentiated approach.
+Some aspects of these processes are discussed in this report.

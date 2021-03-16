@@ -1,0 +1,11 @@
+[The association of the FAS/APO-1 (rs2234767) gene polymorphism with the risk and rapid progression of multiple sclerosis].
+AIM  To evaluate the association of the FAS/APO-1 (rs2234767) gene polymorphism with the risk of multiple sclerosis and its progression dynamics.  MATERIAL AND METHODS
+A case-control study included 100 patients with recurrent multiple sclerosis (MS), Russians from the Altai Territory, and 100 healthy volunteers.
+Real-time polymerase chain reaction was used to genotype the 1377G>A polymorphism in the promoter of the FAS/APO-1 (rs2234767) gene.
+Association of this polymorphism with the risk of multiple sclerosis and its progression was evaluated.
+RESULTS
+The G/А genotype and the А-allele were associated with the increased risk of multiple sclerosis.
+The G/А genotype and the А-allele were associated with the risk of high progression rate of the disease.  The G/G genotype and the G-allele had a protective effect.
+CONCLUSION
+Predisposition to MS as well as to high progression rate are associated with the FAS/APO-1*G/А gene in Russians living in the Altai Territory.
+Further research is required to make the conclusion.

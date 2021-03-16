@@ -1,0 +1,4 @@
+[The chemical toxicological investigation of gamma-hydroxybutyric acid in biological objects and the interpretation of the results of the analysis].  The authors propose a method for the quantitative determination of gamma-hydroxybutyric acid (GHBA) in biological objects including biological fluids (blood, urine) and tissues with the use of gas chromatography with mass-selective detector.
+The samples for the analysis were prepared by liquid-liquid extraction by butyl acetate with subsequent derivatization using a N,O-Bis(trimethylsilyl)trifluoroacetamide/Trimethylchlorosilane mixture (BSTFA + 1%TMCS).
+The graded graphs were linear in the range of GHBA concentrations from 26.4 to 1321.6 mg/l.  Coefficients of correlation for all the graphs were higher than 0.999.
+The threshold of detectability for GHBA in blood, urine, and internal organs was 10 mg/l, the quantification limit concentration 26 mg/l.

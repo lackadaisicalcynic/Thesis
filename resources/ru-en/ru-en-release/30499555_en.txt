@@ -1,0 +1,9 @@
+[A comparative assessment of indicators of platelet aggregation and interleukins in patients with different outcomes of ischemic stroke].  AIM
+To compare indicators of platelet aggregation (PA) and the level of interleukins IL-1β, IL-4, IL-6, IL-18 in patients with ischemic stroke (IS).
+MATERIAL AND METHODS
+A prospective clinical cohort study involved 108 IS patients classified into group 1 (survivors) and group 2 (fatal outcomes).
+The studies were conducted in the most acute and acute phases of IS.  The level of interleukins was measured by enzyme immunoassay method.
+PA was evaluated by the nephelometric method.  RESULTS AND CONCLUSION
+PA, IL-1β and IL-6 indicators in the most acute phase of IS were significantly higher in the 2nd group compared to the 1st group.
+In the 1st group, there was a reduction in the levels of IL-1β and IL-6, and an increase in the level of IL-4 in the acute phase compared to the most acute period of IS, whereas patients of the 2nd group showed further increase in IL-1β and IL-6, and reduction of IL-4 levels.
+In surviving acute IS patients, the reduction in PA and the level of pro-inflammatory interleukins IL-1b, IL-6 and IL-18, and the increase in the level of anti-inflammatory interleukin IL-4 were accompanied with improvements in the clinical condition, whereas the negative dynamics of the aforementioned indicators was recorded in deceased patients.

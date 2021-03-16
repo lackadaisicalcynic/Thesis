@@ -1,0 +1,9 @@
+[Association of the -844G>A polymorphism in the catalase gene with the increased risk of essential hypertension in smokers].
+AIM
+To investigate whether the functionally relevant -844G>A promotor polymorphism in the catalase (CAT) gene is associated with the development of essential hypertension (EH).  SUBJECTS AND METHODS
+The investigation enrolled 2,339 unrelated ethnic Russian people, including 1,269 EH patients and 770 apparently healthy individuals.  Genotyping of CAT -844G>A (rs769214) polymorphism was performed using a TaqMan real-time polymerase chain reaction assay.
+RESULTS
+The -844A allele (odds ratio (OR)=1.31; 95% confidence interval (CI), 1.04 to 1.64; р=0.02) and the -844AA genotype (OR=1.41; 95% CI, 1.02 to 1.94; р=0.03) were found to be related to a higher risk of EH in the smokers.
+No association was found between this polymorphism and EH risk in the non-smokers.
+CONCLUSION
+Smoking is a predisposing factor for development of EH in CAT -844AA genotype carriers.

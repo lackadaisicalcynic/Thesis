@@ -1,0 +1,4 @@
+[Functional examinations of visual channels: clinical aspects].  The review discusses literature data on the clinical relevance of functional assessment of magno- (M), parvo- (P), and koniocellular (K) pathways.
+It also covers the differential contribution of the M, P, and K channels to visual impairments and how it determines the prognosis, early diagnosis, and treatment choice in patients with neurodegenerative diseases of the retina and brain.
+Selective changes in the performance of the visual channels are investigated by the example of glaucoma and optic neuritis in multiple sclerosis (MS) patients.
+A detailed analysis of pattern electroretinogram and visual evoked potentials in response to pattern stimuli of varying luminance and chromatic contrast in glaucoma and MS and characteristic functional alterations (objective markers of pathology of the visual pathways) are presented.

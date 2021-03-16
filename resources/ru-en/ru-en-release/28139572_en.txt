@@ -1,0 +1,20 @@
+[Phase contrast MRI-based evaluation of cerebrospinal fluid circulation parameters in patients with foramen magnum meningiomas].  BACKGROUND
+Meningiomas of the foramen magnum (FMR) region account for 1.8 to 3.2% of all meningiomas.
+The international literature has insufficient data describing the state of cerebrospinal fluid (CSF) circulation in these patients.
+MATERIAL AND METHODS
+We studied 38 patients with FM meningiomas, aged from 35 to 79 years (mean age, 56.7 years).
+The mean meningioma size was 30 mm (10-60 mm).
+Meningiomas had the anterolateral localization in 29 patients, ventral localization in 5 patients, and dorsal localization in 4 patients.
+Twenty nine patients underwent surgery.
+All operated patients were examined before and after surgery.
+The CSF circulation was studied using phase contrast MRI (PC-MRI).
+RESULTS
+The size and localization of FM meningiomas do not significantly affect the CFS circulation parameters.
+Pyramidal symptoms, sensory disorders, and XIth cranial nerve dysfunction are correlated with the CFS circulation parameters.
+According to the preoperative PC-MRI data, the CFS circulation parameters in all FM meningioma patients were significantly higher than their normal values.
+Surgery was followed by a reduction in the peak positive velocity, negative peak velocity, and range of the maximum linear velocity amplitude.
+Positive and negative volumes and the stroke volume did not change.
+Recovery dynamics of the CFS circulation parameters was similar, regardless of surgery completeness.
+According to the PC-MRI data, the CFS circulation parameters did not reach normal values in all groups of operated patients.
+CONCLUSION
+The results of investigation of the CFS circulation in patients with FM meningiomas support the use of palliative surgery (partial resection, dural plasty, craniovertebral junction decompression) in the case of inoperable meningiomas.

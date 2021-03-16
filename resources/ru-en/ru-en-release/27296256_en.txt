@@ -1,0 +1,16 @@
+[Acute kidney injury and tubular biomarkers after hematopoietic stem cell transplantation].
+AIM
+To determine the value of molecular biomarkers (BMs) associated with tubular epithelial damage in developing and predicting acute kidney injury (AKI) after hematopoietic stem cell transplantation (HSCT).
+SUBJECTS AND METHODS  The open-label observational prospective study enrolled 90 patients (46 males and 44 females) who had undergone HSCT.
+The concentrations of BMs  (calbindin, clusterin, interleukin-18 (IL-18), kidney injury molecules-1 (KIM-1), glutathione S-transferase-π (GST-π), and monocyte chemoattractant protein-1 (MCP-1) were measured in urinary samples 7 days before HSCT (week 0) and at weeks 1, 2, 3, 4, and 5.
+Main clinical parameters were simultaneously monitored.
+AKI was diagnosed and stratified according to the Kidney Disease Improving Global Outcomes (KDIGO) guidelines.
+RESULTS
+At weeks 1, 2, 3, 4, and 5 after HSCT, the proportion of AKI cases was 7.8, 8.9, 12.5, 27.3, and 35.9%, respectively.
+The elevated urinary levels of BMs (above the median) were found to be substantially more common than AKI cases.
+The urinary excretion of the majority of BMs dramatically increased in the early HSCT period.
+The median number of simultaneously elevated BMs was 3 (2; 5) during the entire follow-up period.
+Clusterin, MCP-1 and KIM-1 positively and significantly correlated with serum creatinine at the week following the determination of BMs in the multivariate linear regression models adjusted for other confounders.
+The higher urinary KIM-1 and/or MCP-1 excretion regardless of other clinical indicators was associated with the higher relative risk (RR) of AKI, which increased by 2.3 times with a rise in one of these indicators and by 3.4 times with a rise in both indicators.
+CONCLUSION
+Multiple renal toxic effects after HSCT result in a substantial and simultaneous elevation of urinary excretion of BMs for tubular damage.  Among the BMs studied, KIM-1 and MCP-1 seem to be the most suitable molecules for assessing the risk of AKI in this cohort of patient within the predictive diagnostic approach.

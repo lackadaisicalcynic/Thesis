@@ -1,0 +1,22 @@
+[Impact of sagittal balance parameters on life quality in elderly and senile patients after surgery for degenerative lumbar spine stenosis].  INTRODUCTION
+As the life span and proportion of people over 65 years increase, the incidence of degenerative lumbar spine stenosis grows proportionally.  Various parameters of the spinopelvic relationships are used to predict surgical treatment outcomes in patients with degenerative spine diseases.
+There are no unified protocols for evaluation, in terms of the sagittal balance, of surgical treatment outcomes in elderly patients.
+PURPOSE  To study the impact of sagittal balance parameters on the life quality of elderly and senile patients after surgery for degenerative stenosis of the lumbar spine.
+MATERIAL AND METHODS
+The study included 109 patients.
+Decompression was performed in the first group of 53 patients.
+Decompression and stabilization were performed in the second group of 27 patients.
+In the third group of 29 patients, XLIF indirect decompression, scoliosis correction, reconstruction of disturbed spinopelvic relationships, and stabilization were carried out.
+We evaluated the following sagittal balance parameters: pelvic incidence (PI), sacral slope (SS), pelvic tilt (PT), lumbar lordosis (LL), and PI minus LL (PI-LL).
+The quality of life indicators were assessed using VAS, ODI, and SF36 scores.
+RESULTS
+In the first group, there were not statistically significant differences for PT≤20° and PT>20°.
+A statistically significant change in the PI-LL parameter (p=0.0263) was in the first group.
+A decrease in PI-LL was accompanied by regression of pain (p<10-4).
+In the second group, comparison of the quality of life indicators revealed no statistically significant differences between PT≤20° and PT>20° as well as PI-LL≤10° and PI-LL>10 in the postoperative period.
+In the third group, postoperative improvement in PT (p=0.0002) and PI-LL (p=0.0008) parameters was accompanied by a decrease in pain in the legs (p=0.0002) and lumbar spine (p=0.0001).
+CONCLUSION
+Improvement in the quality of life indicators in 48.6% of cases was achieved by decompression only; the sagittal balance parameters had no significant impact on quality of life.
+In 24.8% of cases, improvement in the quality of life indicators was achieved by decompression and stabilization because the dominant clinical neurological syndrome was instability.
+Reduced quality of life in 26.6% of patients was caused by disturbed spinopelvic relationships.
+Application of the XLIF technique in these patients provides statistically significant restoration of the sagittal balance parameters, PT and PI-LL, which improves quality of life.

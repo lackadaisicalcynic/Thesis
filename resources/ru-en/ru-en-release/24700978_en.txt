@@ -1,0 +1,10 @@
+Effect of Chiranjeevi Yojana on institutional deliveries and neonatal and maternal outcomes in Gujarat, India: a difference-in-differences analysis.
+OBJECTIVE
+To evaluate the effect of the Chiranjeevi Yojana programme, a public-private partnership to improve maternal and neonatal health in Gujarat, India.
+METHODS
+A household survey (n = 5597 households) was conducted in Gujarat to collect retrospective data on births within the preceding 5 years.  In an observational study using a difference-in-differences design, the relationship between the Chiranjeevi Yojana programme and the probability of delivery in health-care institutions, the probability of obstetric complications and mean household expenditure for deliveries was subsequently examined.
+In multivariate regressions, individual and household characteristics as well as district and year fixed effects were controlled for.  Data from the most recent District Level Household and Facility Survey (DLHS-3) wave conducted in Gujarat (n = 6484 households) were used in parallel analyses.
+FINDINGS  Between 2005 and 2010, the Chiranjeevi Yojana programme was not associated with a statistically significant change in the probability of institutional delivery (2.42 percentage points; 95% confidence interval, CI: -5.90 to 10.74) or of birth-related complications (6.16 percentage points; 95% CI: -2.63 to 14.95).
+Estimates using DLHS-3 data were similar.
+Analyses of household expenditures indicated that mean household expenditure for private-sector deliveries had either not fallen or had fallen very little under the Chiranjeevi Yojana programme.  CONCLUSION
+The Chiranjeevi Yojana programme appears to have had no significant impact on institutional delivery rates or maternal health outcomes.  The absence of estimated reductions in household spending for private-sector deliveries deserves further study.

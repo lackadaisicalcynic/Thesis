@@ -1,0 +1,14 @@
+[The concurrence of kidney and liver dysfunctions in decompensated heart failure].
+AIM  To study the incidence, pattern, and predictive factors of concurrent kidney and liver dysfunctions in patients with decompensated heart failure (HF).
+SUBJECTS AND METHODS
+The kidney and liver function indicators were estimated in 322 patients aged 69.5±10.6 years with decompensated HF  (hypertension in 87%, myocardial infarction in 57%, atrial fibrillation in 65%, chronic kidney disease in 39%, type 2 diabetes in 42%, a left ventricular ejection fraction (EF) of 38±13%, EF <35% 39%, NYHA Functional Class IV in 56%).
+Cardiohepatic syndrome (CHS) was diagnosed if at least one indicator of liver function was increased; acute kidney injury (AKI) was diagnosed using the KDIGO criteria.
+RESULTS
+AKI and CHS had been previously diagnosed in 60 (18.6%) and 274 (85.1%) patients, respectively.
+Among the patients with signs of kidney and/or liver dysfunction, the incidence of isolated CHS, concurrent AKI and CHS, and isolated AKI was 78.4, 20.1, and 1.5%, respectively.
+The patients with concurrent kidney and liver dysfunctions were observed to have more profound systemic hemodynamic changes (hypoperfusion and congestion).
+The risk of concurrent AKI and CHS increased glomerular filtration rate (GFR) <45 ml/min/1.73 m2, admission systolic blood pressure <110 mm Hg, needs for vasopressors, hydropericardium, and EF <35%.
+The concurrence of AKI and CHS was associated with longer hospital stay (15.7±6.5 and 13.5±4.8 days, respectively; p<0.05).
+CONCLUSION
+The incidence of concurrent AKI and CHS in patients with decompensated HF is 20.1%.
+Concurrent kidney and liver dysfunctions is associated with more obvious signs of hypoperfusion and congestion and characterized by worse prognosis.

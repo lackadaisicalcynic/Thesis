@@ -1,0 +1,12 @@
+[The treatment by expanded ex vivo autologous regulatory T-cells CD4+CD25+FoxP3+CD127low restores the balance of immune system in patients with remitting-relapsing multiple sclerosis].  AIM  To assess clinical efficacy and safety of the autologous (own) regulatory T-cells (Tregs)CD4+CD25+Foxp3+CD127low isolated from the blood of patients with remitting-relapsing multiple sclerosis.
+Patients with autoimmune diseases have the decreased number of peripheral Tregs (pTreg) and impaired suppressive ability.
+In order to restore levels of pTreg, it is possible to isolate precursor cells, enter expanded ex vivo autologous Treg cells and introduce an expanded amount of autologous cells as Treg vaccine.
+MATERIAL AND METHODS
+A method of ex vivo Tregs expansion by 30-40 times within 5-7 days has been developed.
+Expanded ex vivo Tregs are more than 90% CD4+CD25+Foxp3+CD127low and have high suppressor activity.
+Fourteen patients with remitting-relapsing multiple sclerosis were included in pilot studies.  Ex vivoTregs were introduced subcutaneously in dosefrom 2.8 to 4.5 108 cell per injection.
+The duration of follow-up was 1 year.
+RESULTS AND CONCLUSION
+The numbers of pTregs in the blood of these patients elevated by 1.5-2 times.
+No adverse-effects, a decrease of relapses and stabilization of disability index were observed.
+It has been suggested that ex vivo expanded Tregs can compensate the impaired function of pTregs and can be used for adoptive immunotherapyof multiple sclerosis.

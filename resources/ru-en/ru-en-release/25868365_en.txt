@@ -1,0 +1,16 @@
+[Pulmonary histological and ultrastructural changes in HIV infection concurrent with tuberculosis].
+OBJECTIVE
+To analyze cellular and subcellular disorders in the lung in the presence of HIV-associated tuberculosis.
+MATERIAL AND METHODS  The investigators made a comprehensive morphological examination of 25 autopsy specimens from patients who had died from HIV-associated tuberculosis.
+Lung pieces from the foci of caseous necrosis at its boundary and adjacent lung segments and from macroscopically intact perifocal pulmonary segments were microscopically explored.
+Plain stains and Ziehl-Neelsen histobacterioscopy were used for light microscopy.  An immunohistochemical study was conducted using tuberculosis mouse monoclonal antibodies (clone 1.1/3/1, Vector).
+Seven early autopsy specimens (1-2 hours after statement of biological death) were investigated ultrastructurally.  Ultrathin sections were contrasted with Reynolds' lead citrate and looked through a Libra-120 transmission electron microscope (Germany).
+Semithin sections were stained with toluidine blue.
+RESULTS
+HIV-associated tuberculosis is a disease accompanied by dual aggressive infection.
+Impaired blood-air barrier integrity gives rise to structural and ultrastructural changes primarily in type I alveolocytes that are responsible for physiological gas exchange and detoxification.
+Type I alveolocytes have been noted to be in close contact with plasmocytes that are most ultrastructurally preserved and at the same time display the phagocytic and detoxifying functions being redistributed, which is necessary to keep cells viable and which is a characteristic sign of this comorbidity.
+This redistribution is due to severe damage to macrophages that are unable to ensure complete mycobacterial phagocytosis; thereby the plasma cells partly assume this function, as supported by ultrastructural examination.
+Severe destruction of granulocyte organelles and partial and complete cell necrosis with its preceding apoptotic changes were established.  A study of vessels in the microcirculatory bed has indicated that the ultrastructural changes in the endothelial cells are polymorphic, which is characteristic of an exudative-inflammatory response of lung tissue.
+CONCLUSION
+Cellular and subcellular changes, the pattern of intercellular relationships, and necrotic and apoptotic cell rearrangements, which are in one way or another involved in the pathophysiological processes maintaining definite hemostasis, are an important component in the pathogenesis of HIV-associated tuberculosis.

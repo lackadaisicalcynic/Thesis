@@ -1,0 +1,10 @@
+[The primary screening of patients with autonomic disorders in outpatient clinics in Russia (START1) using the Russian version of The Four-Dimensional Symptom Questionnaire (4DSQ)].
+OBJECTIVE  To develop an effective diagnostic algorithm for detection of a mental component in the state of patients diagnosed with autonomic nervous system disorder.
+MATERIAL AND METHODS
+In the frames of START1 epidemiological study, we examined 6633 patients with autonomic nervous system disorders (ICD-10 G.90.8 and G90.9) and somatoform disorders (F45) including 18,8% patients who got a referral to a psychiatrist.
+A linguistically validated Russian version of The Dutch Four-Dimensional Symptoms Questionnaire (4DSQ) was tested in domain subpopulations.
+RESULTS
+In subpopulations of anxiety and depression, more than 26% of the patients got a referral to a psychiatrist that indirectly supported the assumption on the conformity of 4DSQ to the purposes of primary screening of four-dimensional disorders in the general population of patients with autonomic nervous system disorders.
+CONCLUSION  The linguistically validated Russian version of 4DSQ enabled to formalize the description of clinical profile of these patients.
+Cluster analysis of the results allowed to single out two superdomains by the pairwise combination somatization with distress (SDis) and anxiety with depression (ADep).
+The detection of superdomain SDis appears to be a population specific characteristic of autonomic nervous system disorders in the Russian Federation.

@@ -1,0 +1,8 @@
+[Ataxia with oculomotor apraxia type 4 detected by next-generation sequencing].  Ataxias with oculomotor apraxia (AOA) belong to autosomal recessive ataxias.
+Their common feature is oculomotor apraxia: inability to coordinate eye movements not due to muscle weakness.  Next-generation sequencing (NGS) gives unique opportunities of rare disorders diagnostics and discovering of new forms, including AOA.
+In 2015, AOA type 4 produced by PNKP mutations was delineated in a group of Portuguese patients.
+We diagnosed AOA4 in a 9-year-old boy from Byelorussian family.
+He presented with ataxia since 2 years and deterioration in 8 years, oculomotor apraxia, dystonic hyperkinesia, dysarthria, polyneuropathy, borderline/mildly impaired intelligence, cerebellar atrophy on MRI and moderate hypercholesterolemia.
+Panel NGS detected two PNKP mutations: c.1123G>T (p.Gly375Trp) common in Portuguese patients, and novel c.1270_1283dupACAAACCCAGACGC (p.Ala429fs).
+This is one of a few world AOA4 cases and first non-Portuguese case with 'Portuguese' common mutation.
+The case illustrates NGS diagnostic value, particularly in rare heterogeneous disorders like AOA.

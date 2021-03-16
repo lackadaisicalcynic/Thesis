@@ -1,0 +1,13 @@
+[Photoacoustic spectroscopy evaluation of the impact of smoking on the composition of exhaled air in patients with bronchopulmonary diseases].
+AIM  To investigate the impact of smoking on the air exhaled by patients with chronic obstructive pulmonary disease (COPD) and asthmatics, by applying photoacoustic spectroscopy.
+SUBJECTS AND METHODS
+The exhaled air absorption spectra (EAAS) were analyzed in healthy volunteers and patients with COPD and asthmatics, by applying an ILPA-1 CO2 laser photoacoustic gas analyzer.
+The procedure based on the calculation of an integrated estimate (IE) of the state of the object was used to assess the findings.
+RESULTS
+Comparison of the IE of EAAS in COPD patients and non-smoking healthy individuals showed that spectra of the compounds, the formation of which was associated with smoking, were recorded in the range of wavelengths corresponding to the 10R branch of CO2 laser generation.
+This also provided evidence indicating that the exhaled air of asthmatics differed from that of both smoking and non-smoking healthy individuals.
+The calculations yielded the threshold values of EAAS IE in the range of wavelengths corresponding to the 10P branche of CO2 laser generation, which made it possible to distinguish non-smoking healthy individuals from asthmatics and COPD patients in 94 and 89% of cases, respectively.
+CONCLUSION
+The investigation has confirmed that smoking substantially impacts the composition of the air exhaled by healthy individuals.
+It has been shown that the use of reference groups formed from non-smoking healthy individuals can improve the accuracy of photoacoustic spectroscopy in detecting COPD and asthma.
+A further development in this direction will open up new prospects for a new method to diagnose COPD and asthma.

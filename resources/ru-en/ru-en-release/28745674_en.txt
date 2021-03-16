@@ -1,0 +1,19 @@
+[Gene mutations in patients with hereditary cavernous malformations].
+AIM  To identify mutations in cerebral cavernous malformation (CCM) genes in patients with hereditary and sporadic CCMs in the Russian population.
+MATERIAL AND METHODS
+Blood samples from 73 randomly selected patients, including 29 MRI-confirmed familial cases, 8 clinically confirmed familial cases and 38 so-called sporadic cases, were examined.
+A search for large deletions/duplications was performed using multiplex ligation-dependent probe amplification (MPLA).
+For MLPA-negative samples, the whole genome sequencing was performed to search for single nucleotide polymorphisms (SNP).
+RESULTS
+Deletions in three genes (ССМ1, ССМ2, ССМ3) were identified in 14 patients, including 5 without definitely established familial type, in whom the familial character of disease was not confirmed by clinical and neuroimaging results.
+SNP mutations were found in 13 patients, CCM gene mutations in 27.
+Mutations were detected in 91.7% of familial cases.
+In two patients, new CCM3 deletions were identified.
+Gene distribution was as follows: 60.7 for CCM1, 32.2 for CCM2 and 7.1% for CCM3.
+In two members of a family with hereditary CCMs, no high effect mutations in the known CCM genes were found.
+Patients with mutations had greater severity of disease.
+Two patients with CCM3 mutations demonstrated the most aggressive clinical course.
+De novo formation and growth of CCM were observed only in patients with mutations.
+CONCLUSION
+The distribution of pathogenic mutations in known CCM genes is consistent with other large-scale studies.
+Familial CCMs are associated with more severe disease course and may be caused by mutations beyond the known CCM genes.

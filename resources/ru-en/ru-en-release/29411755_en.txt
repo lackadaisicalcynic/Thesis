@@ -1,0 +1,10 @@
+[Anticoagulant therapy in patients with atrial fibrillation and reduced kidney function of diabetic and non-diabetic etiologies].
+AIM
+To evaluate the efficacy and safety of direct oral anticoagulants (DOACs) in patients with atrial fibrillation (AF) and stages I-III chronic kidney disease (CKD).
+SUBJECTS AND METHODS
+The cohort parallel-group study included 92 patients with AF and stages I-III diabetic and non-diabetic CKD, who were treated with DOACs (dabigatran, rivaroxaban, or apixaban) and vitamin K antagonists (warfarin).  The follow-up duration was 12 months.
+RESULTS  Thromboembolic events and bleeding, which required patient hospitalization or blood transfusions, were not recorded during 1-year follow-up.
+There was no clinically significant progression of CKD in the groups of therapy with vitamin K antagonists or DOACs.  Just the same, a more intense decrease in glomerular filtration rate and a high rate of hemorrhagic complications were revealed in the subgroup of patients with diabetes mellitus (DM) versus those with non-diabetic CKD.
+CONCLUSION
+In patients with non-valvular AF and diabetic and non-diabetic CKD, the use of DOACs effectively and safely prevents thromboembolic events, irrespective of the stage of CKD.
+At the same time, in patients taking anticoagulants, CKD progresses more rapidly in the presence of DM than in its absence, regardless of a specific anticoagulant.  Hemorrhagic complications are more common in patients with AF, DM, and CKD, which requires more frequent monitoring of their kidney function.

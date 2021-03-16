@@ -1,0 +1,14 @@
+[The experience of using thrombolysis in patients with acute disturbances of cerebral circulation: efficacy, safety, predictors of outcome and hemorrhagic transformation].
+AIM
+To evaluate neurological and functional outcomes of early stage of ischemic stroke, their determining factors and predictors of hemorrhagic transformation in patients who received thrombolysis.  MATERIAL AND METHODS
+A retrospective analysis of 147 patients, who underwent thrombolysis, and 127 patients, matched for basic parameters, who did not receive thrombolysis, was performed.
+Anamnesis, results of clinical examination, a spectrum of laboratory-instrumental parameters were evaluated.  Functional status was assessed at discharge from the hospital using the Rivermead mobility index and the modified Rankin scale.
+Along with standard computed tomography (CT) at admission and after 24h, 73 patients receiving thrombolysis underwent CT-perfusion examination.
+RESULTS
+The insufficient number of patients (37%) are admitted to a hospital in the first 2 h after stroke.
+The high prevalence of cardioembolic stroke and aphasia disorders in patients treated with thrombolysis was identified compared to the control group.  CT revealed acute cerebral infarction in 14% of patients admitted within 2h.
+CT-perfusion examination determined brain ischemia only in half of patients.  There was a low prevalence of symptom hemorrhagic transformation (0.7%).
+Thrombolysis was correlated with the higher rate of good functional outcomes of acute stroke, reduced neurological deficit, better mobility at discharge and shorter duration of the first rehabilitation period.
+Age, smoking, Rankin scale score at baseline, acute infarction on the primary CT, pathogenetic variant of stroke, myocardial hypertrophy, atherosclerosis of carotid arteries and volume of MRI lesions were the main factors associated with the efficacy of thrombolysis.  The main predictors of hemorrhagic transformation were the severity of stroke, glomerular filtration rate, atrial fibrillation, treatment with antiaggregants before admission and hemispheric stroke.
+CONCLUSION
+The analysis has demonstrated the safety and efficacy of thrombolysis in ischemic stroke in real clinical practice of a regional Vascular center.

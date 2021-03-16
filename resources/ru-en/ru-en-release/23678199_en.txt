@@ -1,0 +1,11 @@
+Recurrence of adverse perinatal outcomes in developing countries.
+OBJECTIVE  To evaluate the risk of recurrence of adverse perinatal outcomes in second pregnancies in developing countries.
+METHODS
+Data from the 2004-2008 Global Survey on Maternal and Perinatal Health were used to determine the outcomes of singleton second pregnancies for 61 780 women in 23 developing countries.
+The mother-infant pairs had been followed up until discharge or for 7 days postpartum.
+FINDINGS
+At the end of their second pregnancies, women whose first pregnancy had ended in stillbirth (n = 1261) or been followed by neonatal death (n = 1052) were more likely than women who had not experienced either outcome to have given birth to a child with a birth weight of < 1500 g (odds ratio, OR: 2.52 and 2.78, respectively) or 1500-2499 g (OR: 1.22 and 1.60, respectively), or to an infant requiring admission to an intensive care unit (OR: 1.64 and 1.68, respectively).
+At the end of their second pregnancies, those whose first pregnancy had ended in a stillbirth were at increased risk of another stillbirth (OR: 2.35) and those whose first infant had died as a neonate were at increased risk of having the second infant die within the first 7 days of life (OR: 2.82).
+These trends were found to be largely unaffected by the continent in which the women lived.
+CONCLUSION
+In the developing world, a woman whose first pregnancy ends in stillbirth or is followed by the death of the neonate is at increased risk of experiencing the same outcomes in her second pregnancy.

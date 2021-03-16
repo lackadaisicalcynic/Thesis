@@ -1,0 +1,12 @@
+Data collection tools for maternal and child health in humanitarian emergencies: a systematic review.
+OBJECTIVE
+To describe tools used for the assessment of maternal and child health issues in humanitarian emergency settings.
+METHODS
+We systematically searched MEDLINE, Web of Knowledge and POPLINE databases for studies published between January 2000 and June 2014.
+We also searched the websites of organizations active in humanitarian emergencies.  We included studies reporting the development or use of data collection tools concerning the health of women and children in humanitarian emergencies.
+We used narrative synthesis to summarize the studies.  FINDINGS
+We identified 100 studies: 80 reported on conflict situations and 20 followed natural disasters.  Most studies (76/100) focused on the health status of the affected population while 24 focused on the availability and coverage of health services.
+Of 17 different data collection tools identified, 14 focused on sexual and reproductive health, nine concerned maternal, newborn and child health and four were used to collect information on sexual or gender-based violence.
+Sixty-nine studies were done for monitoring and evaluation purposes, 18 for advocacy, seven for operational research and six for needs assessment.  CONCLUSION
+Practical and effective means of data collection are needed to inform life-saving actions in humanitarian emergencies.  There are a wide variety of tools available, not all of which have been used in the field.
+A simplified, standardized tool should be developed for assessment of health issues in the early stages of humanitarian emergencies.  A cluster approach is recommended, in partnership with operational researchers and humanitarian agencies, coordinated by the World Health Organization.

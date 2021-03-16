@@ -1,0 +1,15 @@
+[Epithelial cadherins and associated molecules in invasive lobular breast cancer].
+AIM  to estimate the expression of cell adhesion molecules E- and P-cadherin, as well as that of cadherin-catenin complexes in invasive lobular breast cancer (BC) cells.
+MATERIAL AND METHODS
+250 cases of postoperative material from patients diagnosed with invasive lobular BC were studied.
+The expressions of cell adhesion molecules E-cadherin, P-cadherin, β-catenin, p120 catenin, and vimentin were determined by immunohistochemical assay in all cases.
+The examined cases were divided into molecular biological subtypes, based on the evaluation of estrogen receptors (ER), progesterone receptors (PR), HER-2/neu, and Ki-67 proliferative index.
+RESULTS
+The membrane expression of E-cadherin on the tumor cells was found to be preserved in 93%; the cytoplasmic expression of β-catenin and p120-catenin appeared in 60 and 72% of cases, respectively.
+The expression of P-cadherin was detected in 82% of cases.
+The coexpression of E- and P-cadherin was noted in 90% of all the examined cases.
+There was a correlation between the expression of E- and P-cadherins (V=0.34; p<0.05).
+CONCLUSION
+The BC cells showed the coexpression of E- and P-cadherins, as well as release of the molecules β- and p120-catenins into the cytoplasm of tumor cells, which leads to the activation of intracellular mechanisms for changing the structure of the cytoskeleton and the level of proliferation.
+The above-mentioned mechanisms are accompanied by the activation of epithelial-mesenchymal transition.
+The intracellular mechanisms resulted in progressive cancer and its metastasis.

@@ -1,0 +1,11 @@
+[Attention system functions and their relationship with self-reported health in patients with brain damage due to tumor].
+AIM  To compare parameters of attention in healthy people and patients with neoplasms in different regions of the cerebral cortex and to evaluate quality of life (QoL) indices with regard to impairment of different attention systems.
+MATERIAL AND METHODS  Twenty patients with oncological lesions of the brain (mean age 56.5±8.8 years) who did not undergo surgery were studied.
+Tumor localization was confirmed using contrast-enhanced computed tomography, the tumor type was histologically verified.
+A control group included 18 healthy people matched for age, sex and education level.  To determine attention system functions, we developed a computed version of the Attention Network Test.
+Error rate and reaction time for correct responses to the target stimulus, displayed along with neutral, congruent and incongruent signals, were the indicators of the efficacy of selective processes.  QoL indices were assessed using SF-36 health survey questionnaire.
+RESULTS AND CONCLUSION  The readiness to respond to incoming stimuli was mostly impaired in patients with brain tumors.
+Efficacy of executive attention, assessed as the increase in the number of errors in selection of visual stimuli, was decreased while temporary parameters of the functions of this system were not changed in patients compared to controls.
+The SF-36 total score was stable in patients with marked reduction in scores on the Role and Emotional Functioning scales.
+The most severe health impairment measured on the SF-36 scales of role/social emotional functioning and viability was recorded in patients with the lesions of frontal cortical areas compared to temporal/parietal areas.
+The relationship between SF-36 Health self-rating and attention systems was found.  This finding puts the question of the importance of attention characteristics and QoL for survival prognosis of patients with brain tumors.

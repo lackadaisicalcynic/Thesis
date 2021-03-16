@@ -1,0 +1,13 @@
+[Methods to assess competence of indirect cerebral revascularization in children].  The use of catheterization cerebral angiography (CCA) to assess collateral blood flow through an indirect anastomosis is traumatic for children, uses a high radiation dose, and requires anesthetic care in most cases.
+AIM  we aimed to compare the capabilities of triplex ultrasound (TU) of vessels, magnetic resonance angiography (MRA), computed tomography angiography (CTA), and CCA in assessing the competence of indirect cerebral revascularization (ICR) in children.
+MATERIAL AND METHODS
+ICR was performed in 18 children in 24 hemispheres (24 operations).
+The results were evaluated by Matsushima classification-based comparison of the data of preoperative and postoperative clinical examinations, TU of the superficial temporal artery, magnetic resonance imaging (MRI) and computed tomography (CT) of vessels, and selective cerebral angiography.
+RESULTS
+After surgery, improvements in the neurological and neuropsychological status were assessed.
+Matsushima grade A collaterals were found in 12 (50%) cases, grade B collaterals were present in 3 (13%) cases, grade C collaterals were present in 7 (29%) cases, and grade D collaterals were detected in 1 (4%) case; in 1 (4%) case, the superficial temporal artery was not enhanced.
+MR angiography visualized 18 (75%) indirect anastomoses, CT angiography revealed 4 indirect anastomoses, and TU visualized 4 indirect anastomoses.
+Comparison of preoperative and postoperative TU data for the superficial temporal artery revealed significant changes in blood flow in the form of increased rate indices and a decreased resistance index; mean values of indices for each angiographic class of revascularization and significant differences in pre- and postoperative observations were calculated.
+CONCLUSION
+Examination of ICR competence using CCA is necessary in the presence of persistent clinical signs of chronic cerebral circulatory insufficiency, absence of increased blood flow and decreased peripheral resistance in the superficial temporal artery, and lack of anastomosis according to MRA.
+The most optimal techniques for postoperative examination are MRA with perfusion and diffusion maps and TU.

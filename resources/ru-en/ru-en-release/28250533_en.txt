@@ -1,0 +1,13 @@
+Hepatitis B vaccination timing: results from demographic health surveys in 47 countries.
+OBJECTIVE
+To examine the impact of hepatitis B vaccination schedules and types of vaccines on hepatitis B vaccination timing.
+METHODS  We used data for 211 643 children from demographic and health surveys in 47 low- and middle-income countries (median study year 2012).
+Data were from vaccination cards and maternal interviews.  We grouped countries according to the vaccination schedule and type of vaccine used (monovalent or combination).
+For each country, we calculated hepatitis B vaccination coverage and timely receipt of vaccine doses.  We used multivariable logistic regression models to study the effect of vaccination schedules and types on vaccination delay.
+FINDINGS
+Substantial delays in vaccination were observed even in countries with fairly high coverage of all doses.
+Median delay was 1.0 week (interquartile range, IQR: 0.3 to 3.6) for the first dose (n = 108 626 children) and 3.7 weeks (IQR: 1.4 to 9.3) for the third dose (n = 101  542).
+We observed a tendency of lower odds of delays in vaccination schedules starting at 6 and at 9 weeks of age.
+For the first vaccine dose, we recorded lower odds of delays for combination vaccines than for monovalent vaccines (adjusted odds ratio, aOR: 0.76, 95% confidence interval, CI: 0.71 to 0.81).  CONCLUSION
+Wide variations in hepatitis B vaccination coverage and adherence to vaccination schedules across countries underscore the continued need to strengthen national immunization systems.
+Timely initiation of the vaccination process might lead to timely receipt of successive doses and improved overall coverage.  We suggest incorporating vaccination timing as a performance indicator of vaccination programmes to complement coverage metrics.

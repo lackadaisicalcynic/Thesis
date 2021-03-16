@@ -1,0 +1,10 @@
+[Clinical and neuroimaging signs of cardioembolic stroke in children].
+AIM  To study clinical and neuroimaging signs of cardioembolic stroke (CES) in children.
+MATERIAL AND METHODS
+A group of 100 patients with arterial ischemic stroke (AIS), aged from 1 month to 15 years, was stratified into the main group (10 patients with CES) and the comparison group (90 patients with other subtypes of AIS).
+CT and MRI, MR-angiography, ultrasound study as well as assessment of clinical symptoms on PedNIHSS were performed.  The duration of follow-up was from 2 month to 14 years.  The follow-up allowed the assessment of occurrence of secondary strokes, severity of residual neurological symptoms on the PSOM and fatal outcomes.
+Special attention was drawn to the use of CASSADE criteria for CES.
+RESULTS AND CONCLUSION
+Clinical features that help to diagnose CES, even in the absence of adequate neuroimaging, in patients with heart disease, which is a potential high risk factor for cardioembolia, were established.
+These factors include early disease onset, acute development and progression of neurological deficit to the maximal level in the first 5 min., marked severity of the acute period (PedNIHSS > 15), early recovery of neurological functions, significant residual neurological symptoms (PSOM > 2).
+These symptoms should be used in addition to the CASCADE criteria in the diagnosis of CES of AIS type in children.

@@ -1,0 +1,17 @@
+[Short-term outcomes of complete mesocolic excision for right colon cancer].  PURPOSE  Complete mesocolic excision (CME) appears to be a relatively new concept for colon cancer.  The purpose is to evaluate the results of CME with high vascular ligation (D3 lymph node dissection) for right colon cancer.
+The presented study identifies possible risks and advantages of the proposed method, as well as the role of the laparoscopic approach.
+MATERIAL AND METHODS
+The article included data from 39 patients with right colon cancer, TNM stage I-III, operated on between November 2015 and December 2016 in the oncoproctology Department of the Blokhin Cancer Research Center.
+The analysis of main intraoperative parameters, morbidity and mortality was carried out.  RESULTS
+There was no postoperative mortality.
+17 (43.6%) of operations were performed by open and 22 - by laparoscopic approach.
+The conversion for laparoscopic approach was 1 (4.5%) in 22.
+The median duration of the operation was 180 (130-260) minutes for laparoscopic approach and 120 (90-280) minutes for open approach, р=0.0056. Median intraoperative blood loss was 30 (30-300) ml for laparoscopic approach, and 300 (30-500) ml for open approach (р=0.0001).
+The duration of lymphorrhoea, time to first bowel movement, time to start liquid and solid food intake were 5.1±2.4, 1.3±0.5, 1.26±0.4 and 3.2±0.7 days, respectively.
+The median number of removed lymph nodes was 35.7 (6-68), the median number of metastatic lymph nodes was 1.9 (0-16).
+The median number of removed apical lymph nodes was 10.3 (0-24).
+Metastases did not affect any of the lymph nodes of the apical group.
+CONCLUSION
+Right mesocolic excision with D3 lymphadenectomy for right colon cancer is technically safe, and the laparoscopic approach provides all the benefits of minimally invasive surgery and excellent early treatment outcomes.
+Preliminary data shows no metastasis in apical lymphnodes for right colon cancer.
+Nonetheless, it is necessary to study the long-term results for the evaluation of oncological outcomes.

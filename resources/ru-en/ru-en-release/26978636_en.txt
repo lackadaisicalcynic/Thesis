@@ -1,0 +1,16 @@
+[Associations between quality of life and lifestyle peculiarities in stroke survivors: the results of the EROS study].  OBJECTIVE
+To determine relations between quality of life and characteristics of lifestyle in stroke patients and control groups.  MATERIAL AND METHODS
+The case group consisted of 508 Kaunas citizens, aged 25-84, who had survived their first stroke.
+The control group consisted of 508 randomly chosen healthy Kaunas citizens age- and sex-matched to the cases.
+SF-12 questionnaire on the quality of life has been used for the study.
+The characteristics of lifestyle (alcohol use, smoking, nutrition) were studied.
+RESULTS
+The effect size of alcohol use in the stroke patients was not large (Cohen's d=0.41) compared to the control group (Cohen's d=0.87).
+Patients who did not use alcohol had lower estimations in the physical health domain of quality of life compared to those who used alcohol.
+The number of smoking men was significantly higher (p=0.0005) in the stroke patients (29.0%) than in the control group (19.6%).
+The physical health was best assessed by men belonging to the control group who never smoked compared to men who had quit smoking (p=0.0005) and in the stroke group - by smoking men compared to men who had quit smoking (p=0.049).
+Nutrition status had significant effect only on the physical health in the control group: the estimate of physical health of obese individuals was lower when compared to the rest participants (p<0.001).
+CONCLUSION
+The number of men who used excessive amounts of alcohol and smoked or had quit smoking was higher in the stroke patients group than in the control group.
+In the stroke patient group, the effect size of alcohol use was not large.
+Men who had quit smoking prior to stroke presented poorer evaluations of the quality of life in the general health and mental health domains than did those who had smoked before stroke onset.

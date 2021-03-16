@@ -1,0 +1,14 @@
+[Chemical microanalysis of mineral deposits on explanted hydrophilic acrylic intraocular lenses].
+AIM
+to perform chemical microanalysis of mineral deposits on the surface of explanted hydrophilic acrylic intraocular lenses (IOL).  MATERIAL AND METHODS
+Two soft IOLs made of hydrophilic acryl (one, however, hydrophobic surface coated) and explanted 3 and 6 years after implantation were examined by scanning electron microscopy (EVO LS10, "Karl Zeiss", Germany).
+Chemical composition of the lens surface was studied using an energy-dispersive spectrometer (EDS X-Max50, Oxford, Great Britain).
+RESULTS
+Chemical microanalysis allowed identification of the deposits, which turned out to be non-stoichiometric hydroxylapatite (also, hydroxyapatite (HA)) crystals with zinc impurity (up to 1.4%weight).
+CONCLUSION
+The two samples represent two stages of a single process.
+The early stage is associated with newly formed HA crystals that are unable to cause any significant changes to the lens surface.
+However, as spherocrystals grow, they exert a crystallization effort that moves their growth centers apart with subsequent lens rupture and deformation.
+Crystal morphology undergoes dynamic changes: while primary (newly formed) crystals are sheaf-like, mature are spheres.  A growing HA is non-stoichiometric.
+Zinc abundance accounts for appearance of its separate mineral phase.  Hydrophilic properties of acrylic polymer determine its high affinity for HA crystals.
+Hydrophobic coating (sample no.1) does not completely prevent lens opacification due to mineral deposits on its surface.

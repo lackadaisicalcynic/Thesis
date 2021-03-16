@@ -1,0 +1,11 @@
+[Prediction of activity and severity of endocrine ophthalmopathy by multidimensional linear regression modeling].  Endocrine ophthalmopathy (EOP) is a severe chronic autoimmune disease associated with autoimmune thyroid pathology that leads to loss of sight, cosmetic defects and quality of life decrease.
+EOP is difficult to give prognosis for due to various factors affecting its course and outcome.
+PURPOSE  To develop a reliable and precise prognosis method for EOP activity and severity based on personalized combination of risk factors in specific patients by multidimensional linear regression modeling.
+MATERIAL AND METHODS
+A group of 139 patients (278 orbits) with newly diagnosed EOP associated with toxic diffuse goiter was observed during 1 year by an ophthalmologist and an endocrinologist; patient examination interval was 6 months.  More than 250 indices were dynamically analyzed in the course of the study.
+Linear regression analysis was chosen as the research method; it allowed detection of linear dependencies between dependent and explanatory variables.
+RESULTS  More than 600 various linear regression equations were derived that enabled prediction of EOP onset risk and development timeline, estimation of activity and/or severity of the disease, duration of active period in specific patients for the immediate and long-term outcome.
+From the derived models, the most reliable and safest for practical application were picked out.
+The present study introduces nine optimized models that can be used for patient follow-up since day one.
+CONCLUSION
+The onset risk, progression and outcome of the disease can be determined by a combination of factors revealed in the study.

@@ -1,0 +1,20 @@
+An observational study of adults seeking emergency care in Cambodia.
+OBJECTIVE  To describe the characteristics and chief complaints of adults seeking emergency care at two Cambodian provincial referral hospitals.
+METHODS
+Adults aged 18 years or older who presented without an appointment at two public referral hospitals were enrolled in an observational study.
+Clinical and demographic data were collected and factors associated with hospital admission were identified.
+Patients were followed up 48 hours and 14 days after presentation.
+FINDINGS
+In total, 1295 hospital presentations were documented.
+We were able to follow up 85% (1098) of patients at 48 hours and 77% (993) at 14 days.
+The patients' mean age was 42 years and 64% (823) were females.
+Most arrived by motorbike (722) or taxi or tuk-tuk (312).
+Most common chief complaints were abdominal pain (36%; 468), respiratory problems (15%; 196) and headache (13%; 174).
+Of the 1050 patients with recorded vital signs, 280 had abnormal values, excluding temperature, on arrival.
+Performed diagnostic tests were recorded for 539 patients: 1.2% (15) of patients had electrocardiography and 14% (175) had diagnostic imaging.
+Subsequently, 783 (60%) patients were admitted and 166 of these underwent surgery.
+Significant predictors of admission included symptom onset within 3 days before presentation, abnormal vital signs and fever.
+By 14-day follow-up, 3.9% (39/993) of patients had died and 19% (192/993) remained functionally impaired.
+CONCLUSION
+In emergency admissions in two public hospitals in Cambodia, there is high admission-to-death ratio and limited application of diagnostic techniques.
+We identified ways to improve procedures, including better documentation of vital signs and increased use of diagnostic techniques.

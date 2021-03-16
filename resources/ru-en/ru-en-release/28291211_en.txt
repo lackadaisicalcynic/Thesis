@@ -1,0 +1,12 @@
+AIM  To study the peri-insular association tract anatomy and define the permissible anatomical boundaries for resection of glial insular tumors with allowance for the surgical anatomy of the peri-insular association tracts.
+MATERIAL AND METHODS
+In an anatomic study of the superior longitudinal fascicle system (SLF I, SLF II, SLF III, arcuate fascicle), we used 12 anatomical specimens (6 left and 6 right hemispheres) prepared according to the Klingler's fiber dissection technique.
+To confirm the dissection data, we used MR tractography (HARDI-CSD-tractography) of the conduction tracts, which was performed in two healthy volunteers.
+RESULTS
+Except the SLF I (identified in 7 hemispheres by fiber dissection), all fascicles of the SLF system were found in all investigated hemispheres by both fiber dissection and MR tractography.
+The transcortical approach to the insula through the frontal and (or) parietal operculum is associated with a significant risk of transverse transection of the SLF III fibers passing in the frontal and parietal opercula.
+The most optimal area for the transcortical approach to the insula is the anterior third of the superior temporal gyrus that lacks important association tracts and, consequently, a risk of their injury.
+The superior peri-insular sulcus is an intraoperative landmark for the transsylvian approach, which enables identification of the SLF II and arcuate fascicle in the surgical wound.
+CONCLUSION
+Detailed knowledge of the peri-insular association tract anatomy is the prerequisite for neurosurgery in the insular region.
+Our findings facilitate correct identification of both the site for cerebral operculum dissection upon the transcortical approach and the intraoperative landmarks for locating the association tracts in the surgical wound upon the transsylvian approach to the insula.

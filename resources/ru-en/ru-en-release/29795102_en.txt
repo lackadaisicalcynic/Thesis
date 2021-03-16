@@ -1,0 +1,5 @@
+[Differential diagnosis of dental enamel focal demineralization and fluorosis by means of spectrophotometry].  The article presents the results of spectrophotometric tooth enamel scanning for differential diagnosis of focal enamel demineralization and fluorosis.
+Research was conducted in vivo on teeth affected by these diseases.
+VITA EasyShade spectrophotometer measurements were made on the affected area and on the visually healthy part of enamel.
+The lightness appeared as the only one differential significant optical characteristics of tooth enamel.
+Lightness metrics were higher in the case of initial caries than on the healthy part of enamel when these metrics were lower in the case of fluorosis than on the healthy part of enamel.

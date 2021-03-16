@@ -1,0 +1,11 @@
+The impact of the roll-out of rapid molecular diagnostic testing for tuberculosis on empirical treatment in Cape Town, South Africa.
+OBJECTIVE
+To investigate the impact of introducing a rapid test as the first-line diagnostic test for drug-sensitive tuberculosis in Cape Town, South Africa.  METHODS
+Xpert® MTB/RIF (Xpert®), an automated polymerase-chain-reaction-based assay, was rolled out between 2011 and 2013.  Data were available on 102 007 adults treated for pulmonary tuberculosis between 2010 and 2014.
+Tuberculosis notification rates per 100 000 population were calculated for each calendar year and for each year relative to the test roll-out locally, overall and by bacteriological confirmation.  Empirical treatment was defined as treatment given without bacteriological confirmation by Xpert®, sputum smear microscopy or sputum culture.
+FINDINGS  Between 2010 and 2014, the proportion of human immunodeficiency virus (HIV)-negative patients treated empirically for tuberculosis declined from 23% (2445/10 643) to 11% (1149/10 089); in HIV-positive patients, it declined from 42% (4229/9985) to 27% (2364/8823).
+The overall tuberculosis notification rate decreased by 12% and 19% among HIV-negative and HIV-positive patients, respectively; the rate of bacteriologically confirmed cases increased by 1% and 3%, respectively; and the rate of empirical treatment decreased by 56% and 49%, respectively.
+These changes occurred gradually following the test's introduction and stabilized after 3 years.
+CONCLUSION
+Roll-out of the rapid test in a setting with a high prevalence of pulmonary tuberculosis and HIV infection was associated with a halving of empirical treatment that occurred gradually after the test's introduction, possibly reflecting the time needed for full implementation.
+More than a quarter of HIV-positive patients with tuberculosis were still treated empirically, highlighting the diagnostic challenge in these patients.

@@ -1,0 +1,10 @@
+[Developmental changes of neurotransmitter properties in sympathetic neurons].  Sympathetic ganglia consist of neurochemically and functionally distinct populations of neurons, characterized by a specific projection pattern and a set of neutransmitters including classical mediators (catecholamines and acetylcholine), neuropeptides and small molecules such as NO, H2S, CO.
+The majority of the principal ganglionic sympathetic neurons is noradrenergic and expresses tyrosine hydroxylase (TH), i.e., a key enzyme in catecholamine synthesis.
+In mammals, two third of catecholaminergic neurons also co-localizes neuropeptide Y.
+A small number of ganglionic sympathetic neurons contains enzyme of acetylcholine synthesis and some neuropeptides, such as somatostatin, vasoactive intestinal (poly)peptide (VIP), calcitonin gene-related peptide (CGRP).
+Acetylcholine-containing sympathetic neurons in most cases colocalize VIP and/or CGRP.
+Phenotype of autonomic neurons is regulated by both target-independent and target-dependent mechanisms.  The most of transmitters are expressed during embryogenesis.
+TH appears during embryonic development and the percentage of TH-positive neurons remains virtually identical during ontogenesis.
+After birth, cholinergic neurons exhibit a noradrenergic phenotype.  Expression of different neuropeptides changes in pre- and postnatal development.
+Neurotransmitter expression in sympathetic neurons is influenced by growth factor signaling via innervated target tissues.
+Multiple growth factors including bone morphogenetic proteins, neurotrophins, glial cell line-derived neurotrophic factor family ligands and neuropoietic cytokines play instructive role at different stages of neurotransmitter development.

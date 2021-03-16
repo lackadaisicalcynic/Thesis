@@ -1,0 +1,8 @@
+[Analysis of the effectiveness and long-term results of formation of adaptive immunity in the use of various medications and vaccination schemes against pneumococcal infection in patients with chronic obstructive pulmonary disease].
+AIM
+To assess the long-term clinical results of vaccination with pneumococcal polysaccharide and conjugated polysaccharide vaccines in the separate and sequential use, by determining the optimal vaccination schedule in adult patients with chronic obstructive pulmonary disease (COPD) and to investigate adaptive immunity levels.
+SUBJECTS AND METHODS
+The clinical effects of vaccination were evaluated in patients with COPD within 1 and 4 years after immunization against pneumococcal infection using various schemes, as well as the time course of changes in adaptive immunity indicators was examined.  RESULTS
+Four years after vaccination, the 13-valent pneumococcal conjugate vaccine (PCV13)/23-valent pneumococcal polysaccharide vaccine (PPV23) group showed a decline in the number of patients with COPD exacerbations by 50% (p<0.001) and reductions in the number of antimicrobial chemotherapy cycles by 47.8% (p<0.001) and in that of hospitalizations by 87.5% (p<0.001).  At 1 year after vaccination versus at baseline, the COPD patients vaccinated against pneumococcal disease, regardless of the drug and schedule of vaccination, displayed elevated levels of IgG antibodies to the mixture of capsular polysaccharides included in PPV23 and PCV13.
+CONCLUSION
+It has been indicated that a complex of basic therapy for patients with COPD should include initial vaccination with PCV13, followed by administration of a booster dose of PPV23.

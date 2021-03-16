@@ -1,0 +1,12 @@
+[Use of a regional registry of chronic hepatitis patients to optimize antiviral therapy].
+AIM  To determine the general characteristics of patients with chronic viral hepatitis C (CVHC) from the data of a registry of patients with viral hepatitis (VH) in the Stavropol Territory and to estimate possible predictors for the inefficiency of antiviral therapy (AVT) for treatment optimization.
+SUBJECTS AND METHODS
+The results of examining and treating patients with CVHC were retrospectively analyzed from the data of the registry of HV patients in the Stavropol Territory in 2008-2013.
+RESULTS
+The chronic hepatitis registry includes 1811 patients with CVHC; out of them there are 64% who have its virus genotype 1.
+According to the registry, there is cirrhosis in 244 (13.5%) patients, fibrosis  (METAVIR F2-F3 in 724 (39.97%), and fibrosis (METAVIR F0-F1) in the remaining 843.
+Carbohydrate and fat metabolic disturbances (obesity, insulin resistance (IR), and diabetes mellitus (DM)) have been found in 615 (34%) patients; every three patients have gastrointestinal diseases and comorbidity is absent in 24% of the patients.
+The results of AVT were analyzed in 493 patients with CHC virus genotype 1.
+The analysis showed the most important predictors for the inefficiency of AVT; these included HOMA-IR >2, the presence of IR (HOMA-IR >2.77), and type 2 DM, as well as patient age over 45 years, male sex, a viral load of ≥6 log10 IU/ml, and liver fibrosis (METAVIR ≥F3).
+CONCLUSION
+The analysis of VH morbidity in the Stavropol Territory, the making of a registry of patients with chronic VH, its columns of IR, body mass index, virologic response changes during therapy could clarify the actual need in AVT and improve activities in the prophylactic medical examination and treatment optimization in this patient group in the areas of this region.

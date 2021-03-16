@@ -1,0 +1,5 @@
+[Markers of angiogenesis in tumor growth].  Angiogenesis is a process of new blood vessels formation.
+The role of angiogenesis in growth, invasion and metastasis of malignant tumours is nowdays universally recognized.
+Though, investigation of mechanisms of blood vessels formation and elaboration methods for assessment of tumour angiogenesis are still up-dated.  Another important concern are different aspects of usage of immunohistochemical markers of blood vessels endothelium (CD31 and CD34) for assessment of tumour aggressiveness and prognosis.
+The problems of malignant lymphangiogenesis are also up-to-date.
+The focus is on methods of immunohistochemical visualization of forming lymphatic vessels, role of podoplanin, the most reliable marker of lymphatic vessels, in their identification, and formulization of the main criteria for lymphangiogenesis estimation, its correlation with metastatic activity and prognostic potential.  Studying of angiogenesis and lymph angiogenesis in malignant tumors is important and challenging direction for researching tumour progression and invention of antiangiogenic therapy.

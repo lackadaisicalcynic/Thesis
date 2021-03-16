@@ -1,0 +1,13 @@
+Ensuring accurate testing for human immunodeficiency virus in Myanmar.
+PROBLEM  Until 2005, the quality of rapid diagnostic human immunodeficiency virus (HIV) testing was not monitored and no regular technical support was provided to hospital laboratories in Myanmar.
+APPROACH
+The national reference laboratory introduced a national external quality assessment scheme.
+The scheme involved (i) training laboratory technicians in HIV testing and in the requirements of the quality assessment system; (ii) implementing a biannual proficiency panel testing programme; (iii) on-site assessments of poorly-performing laboratories to improve testing procedures; and (iv) development of national guidelines.
+LOCAL SETTING  In 2011, a total of 422 public hospitals in Myanmar had laboratories providing HIV tests.
+In addition, private laboratories supported by nongovernmental organizations (NGOs) conducted HIV testing.  RELEVANT CHANGES
+The scheme was started in 65 public laboratories in 2005.  In 2012, it had expanded nationwide to 347 laboratories, including 33 NGO laboratories.
+During the expansion of the scheme, laboratory response rates were greater than 90% and the proportion of laboratories reporting at least one aberrant result improved from 9.2% (6/65) in 2005 to 5.4% (17/316) in 2012.
+LESSONS LEARNT
+National testing guidelines and a reference laboratory are needed to successfully implement quality assurance of HIV testing services.
+On-site assessments are crucial for all participating laboratories and the only source for insight on the causes of aberrant results; lessons that the reference laboratory can share nationally.
+Proficiency testing helps laboratory technicians to maintain HIV testing skills by ensuring that they regularly encountered HIV-positive samples.

@@ -1,0 +1,20 @@
+[Efficacy of Kolofort for the treatment of patients with irritable bowel syndrome].
+AIM  to determine the efficacy and safety of Kolofort in the treatment of patients with irritable bowel syndrome (IBS).
+SUBJECTS AND METHODS
+52 patients (16 men and 36 women) aged 26 to 59 years were examined over 4 months to rule out organic disease.
+The diagnosis of IBS was established on the basis of the Rome III diagnostic criteria (2006).
+Seven patients were diagnosed as having IBS with a preponderance of constipation; 3 had IBS with a preponderance of diarrhea, and 42 had mixed IBS.
+Thereafter they were given Kolofort, a combination release-active antibody drug having anxiolytic, anti-inflammatory, and spasmolytic effects.
+Kolofort affects the ligand-receptor interactions of the brain-specific protein S-100 with serotonin receptors and σ1-receptors in the central nervous system and that of histamine with histamine H4 receptors in the gastrointestinal tract and modifies (regulates) the functional activity of tumor necrosis factor-α (TNF-α).
+The regulatory action of the drug at the level of the central and autonomic nervous system and the immune system manifests itself as spasmolytic, anti-inflammatory, and sedative effects, which as a whole effectively normalizes gastrointestinal motility.
+For 3 months, the patients took sublingual Kolofort in a dose of 2 tablets thrice daily for 2 weeks, then 2 tablets twice daily for 2.5 months.
+Control was made 2 weeks, 1, 2, and 3 months after treatment initiation.
+The investigators assessed abdominal pain syndrome, defecation disorders, abdominal distension, and flatulence by the visual analogue scale (VAS-IBS questionnaire), visceral sensitivity index (VSI questionnaire), quality of life (QL) in patients with IBS (IBS-QoL questionnaire), and stool form according to the Bristol Stool Chart and measured the levels of TNF-α and interleukin (IL)-1β and IL-10 before and after treatment.
+RESULTS
+The efficacy of Kolofort showed itself within 2 weeks of its administration against all the study functional parameters (pain, defecation disorder, and flatulence).
+After one month of therapy, the efficacy of Kolofort achieved meaningful statistical significance against abdominal pain, complaints of flatulence, visceral sensitivity index, and QL.
+The statistically significant restoration of a stool form was achieved 2 months after treatment and 3-month Kolofort treatment showed a clear-cut positive clinical effect that appeared as reductions in pain syndrome (214±0.22; р < 0.001) and visceral hypersensitivity symptoms (from 30.33±2.9 to 67.76±6.5; р < 0.001), improvements in subjective sensations associated with defecation disorders (from 6.95±0.71 to 2.74±0.28; р < 0.001), stool form, and QL indicators (from 103.48±9.06 to 44.95±5.4; р < 0.001), and a decrease in blood TNF-α levels after treatment termination (from 9.16 to 7.02 pg/ml; р < 0.026).
+A Kolofort treatment cycle for IBS produced no clinically relevant side effects.
+CONCLUSION
+Kolofort was highly effective in relieving symptoms, in normalizing the psychological status, and in lowering the levels of TNF-α in the treatment of IBS.
+The efficacy of the drug was achieved because of its combined effect on the main components of the pathogenesis of IBS.

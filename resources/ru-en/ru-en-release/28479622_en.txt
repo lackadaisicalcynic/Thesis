@@ -1,0 +1,13 @@
+A randomized controlled study of socioeconomic support to enhance tuberculosis prevention and treatment, Peru.
+OBJECTIVE
+To evaluate the impact of socioeconomic support on tuberculosis preventive therapy initiation in household contacts of tuberculosis patients and on treatment success in patients.
+METHODS  A non-blinded, household-randomized, controlled study was performed between February 2014 and June 2015 in 32 shanty towns in Peru.
+It included patients being treated for tuberculosis and their household contacts.
+Households were randomly assigned to either the standard of care provided by Peru's national tuberculosis programme (control arm) or the same standard of care plus socioeconomic support (intervention arm).  Socioeconomic support comprised conditional cash transfers up to 230 United States dollars per household, community meetings and household visits.
+Rates of tuberculosis preventive therapy initiation and treatment success (i.e. cure or treatment completion) were compared in intervention and control arms.  FINDINGS
+Overall, 282 of 312 (90%) households agreed to participate: 135 in the intervention arm and 147 in the control arm.
+There were 410 contacts younger than 20 years: 43% in the intervention arm initiated tuberculosis preventive therapy versus 25% in the control arm (adjusted odds ratio, aOR: 2.2; 95% confidence interval, CI: 1.1-4.1).
+An intention-to-treat analysis showed that treatment was successful in 64% (87/135) of patients in the intervention arm versus 53% (78/147) in the control arm (unadjusted OR: 1.6; 95% CI: 1.0-2.6).
+These improvements were equitable, being independent of household poverty.
+CONCLUSION
+A tuberculosis-specific, socioeconomic support intervention increased uptake of tuberculosis preventive therapy and tuberculosis treatment success and is being evaluated in the Community Randomized Evaluation of a Socioeconomic Intervention to Prevent TB (CRESIPT) project.

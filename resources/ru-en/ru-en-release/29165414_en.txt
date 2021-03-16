@@ -1,0 +1,4 @@
+[Torpedo macu-lopathy (clinical case)].  The article presents a clinical case of torpedo maculopathy.
+This congenital disorder is most likely to be caused by changes in the retinal pigment epithelium (RPE) during retinal fissure closure.  Visual function is usually unaffected and the condition is revealed at routine ophthalmic examination in children and teens.
+Optical coherence tomography showed the absence of RPE, photoreceptor damage, and massive thinning of the outer nuclear layer at the diseased site without a significant change in the total retinal thickness.
+RPE involvement was also evidenced by changes in fundus autofluorescence.

@@ -1,0 +1,5 @@
+[The determination of pyrovaleron in the urine by gas chromatography in the combination with the method of extractive chilling-out and centrifugation].  The express-method for the determination of pyrovaleron in the urine based on the combination with the method of extractive freezing-out and centrifugation of the samples as the preliminary stage of the preparation of a biological object for the analysis.
+The identification and quantitative determination of the substance of interest were performed using gas chromatography with nitrogen-selective detection.
+The preparation of the samples was carried out as a single-step procedure no longer than 30 min in duration.
+The limit of alpha-pyrovaleron detection in the urine was estimated at 1 mcg/ml.
+Its concentration after extraction from the urine increased by a factor of more than nine.

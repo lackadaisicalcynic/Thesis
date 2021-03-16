@@ -1,0 +1,11 @@
+[The efficacy of the exoskeleton ExoAtlet to restore walking in patients with multiple sclerosis].  AIM
+To investigate the efficacy and safety of the exoskeleton ExoAtlet in complex therapy of patients with multiple sclerosis (MS).
+MATERIAL AND METHODS
+A pilot study within the prospective open controlled program was conducted.
+Eighteen patients with relapsing-remitting MS (RRMS) in remission and secondary progressive MS (SPMS) with the level of neurological deficit on the EDSS from 3 to 7 points have completed the study.
+EDSS, MSFC, HADS, MoCA scales were administered and the force measuring insoles F-Scan Tekscan (USA) were used to study the biomechanics of walking.
+RESULTS AND CONCLUSION
+Good tolerability of workload within 30-40 min. was observed.
+The improvement in the EDSS was detected in 9 patients, in whole, a significant positive trend (p<0.01) was shown.
+The study of the biomechanics of the walk showed its significant impairment compared to healthy individuals: reduction of parameters of rate, speed and step length, significant instability, pronounced asymmetry, the decrease in support and shock lower limb function, high coefficient of variability of the parameters, the phenomenon of recurrence of the vertical component of support reactions.  After a course of exercise of walking in the exoskeleton, the walking speed and stability increased, oscillation of the body decreased, support function increased, the phenomenon of cyclical changes of the vertical component of support reactions reduced.
+The results of the pilot study showed promising future research opportunities for robotic-assisted walking and maintenance of the vertical posture with the help of the exoskeleton ExoAtlet to restore the abilities of movement in MS patients with locomotor disorders.

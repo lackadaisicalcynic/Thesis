@@ -1,0 +1,11 @@
+Age-specific prevalence of hepatitis B virus infection in young pregnant women, Hong Kong Special Administrative Region of China.  OBJECTIVE
+To investigate the age-specific prevalence of hepatitis B virus (HBV) infection in young pregnant women in Hong Kong Special Administrative Region (SAR), China, and to determine whether an increase in prevalence occurs during adolescence.
+METHODS
+HBV prevalence was quantified using data from routine antenatal screening for hepatitis B surface antigen (HBsAg) in 10 808 women aged 25 years or younger born in Hong Kong SAR and managed at a single hospital between 1998 and 2011.
+The effect on prevalence of maternal age, parity and birth before or after HBV vaccine availability in 1984 was assessed, using Spearman's correlation and multiple logistic regression analysis.
+FINDINGS
+Overall, 7.5% of women were HBsAg-positive.  The prevalence ranged from 2.3% to 8.4% in those aged ≤ 16 and 23 years, respectively.
+Women born in or after 1984 and those younger than 18 years of age were less likely to be HBsAg-positive (odds ratio, OR: 0.679; 95% confidence interval, CI: 0.578-0.797) and (OR: 0.311; 95% CI: 0.160-0.604), respectively.
+For women born before 1984, there was no association between HBsAg carriage and being younger than 18 years of age (OR: 0.60; 95% CI: 0.262-1.370) Logistic regression analysis showed that the prevalence of HBsAg carriage was influenced more by the woman being 18 years old or older (adjusted OR, aOR: 2.80; 95% CI: 1.46-5.47) than being born before 1984 (aOR: 1.42; 95% CI: 1.21-1.67).
+CONCLUSION
+Immunity to HBV in young pregnant women who had been vaccinated as neonates decreased in late adolescence.

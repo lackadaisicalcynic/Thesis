@@ -1,0 +1,11 @@
+[Current approaches to the morphologic diagnosis of different types of congenital epidermolysis bullosa].  Congenital epidermolysis bullosa (CEB) is an extensive group of hereditary skin diseases, the differential diagnosis of which is a challenge due to the rarity of this pathology and the diversity of its clinical manifestations.
+The determination of the type of CEB makes it possible to estimate its prognosis and to facilitate a prenatal diagnosis.
+AIM  to optimize the morphological diagnosis of different types of CEB.
+MATERIAL AND METHODS
+28 skin biopsies from 14 patients with different types of CEB were investigated.
+The investigators performed routine histological examination of skin fragments taken from a bullous area and immunofluorescence antigen mapping using the indirect immunofluorescence test (IIFT) with antibodies against structural proteins of the dermal-epidermal junction (laminin α3, β3, and γ2 chains, keratins 5 and 14, types VII and XVII collagen, α6 and β4 integrin subunits, desmoplakin, plectin, kindlin-1, and plakophillin) of the apparently unaffected skin.
+The intact skin of healthy individuals, which had been obtained during cosmetic operations, was used as controls in IIFT.
+RESULTS
+Immunofluorescence antigen mapping could determine the type of CEB in all cases and in 86% of cases identify the protein, the impaired production of which was responsible for the development of the disease.
+CONCLUSION
+Immunofluorescence antigen mapping is an integral part of the comprehensive morphological diagnosis of CEB, acting as an intermediate between the morphological verification of CEB diagnosis and the targeted search for mutations by a molecular genetic method.

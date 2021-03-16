@@ -1,0 +1,11 @@
+[Clinical associations between photoreceptor status and visual outcomes in diabetic macular edema].  AIM
+to investigate morphological changes and visual acuity response to ranibizumab therapy in patients with different OCT-types of diabetic macular edema (DME) as well as different state of the inner and outer photoreceptor segments (IS and OS) and the outer limiting membrane (OLM); to study relationships between functional and morphological parameters before and after the treatment; to study the effect of glycated hemoglobin levels on morphological parameters and ME duration.  MATERIAL AND METHODS
+The study included 113 patients (113 eyes) with DME, who underwent 3 once-monthly intravitreal injections of ranibizumab (the mean patient age, 63.5±2.2 years; men, 51.3%; type 2 diabetes, 81.4%).
+Basing on the results of OCT, 3 groups were formed: group 1 (40 patients) - intact IS and OS; group 2 (32 patients) - disturbed photoreceptor segments integrity, but intact OLM; group 3 (41 patients) - destruction of both layers.
+RESULTS
+Visual acuity at baseline and after the treatment was the highest in group 1 (p<0.05).
+In all groups, most parameters that indicated the state of photoreceptor segments and the OLM improved.
+Correlation analysis revealed a statistically significant negative correlation between visual acuity at baseline and after the treatment and morphological parameters (p<0.05).  There was also a direct correlation between the morphometric parameters at baseline and after the treatment (p<0.05).
+The most favorable type of DME in terms of preserving the integrity of photoreceptor segments and the OLM was sponge-like edema, while DME with neuroepithelial detachment and mixed-type DME were prognostically unfavorable.
+Moreover, the state of photoreceptors and the OLM depended on the duration of ME and the level of glycated hemoglobin.
+Thus, the integrity of the inner and outer photoreceptor segments as well as the outer limiting membrane can contribute to prognosis for functional outcomes in DME patients that receive antiangiogenic therapy.

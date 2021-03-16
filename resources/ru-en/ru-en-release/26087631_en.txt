@@ -1,0 +1,12 @@
+[Specific features of hypertension in patients with systemic lupus erythematosus].
+AIM  To study the specific features of the development and course of hypertension in patients with systemic lupus erythematosus (SLE).
+SUBJECTS AND METHODS
+A total of 106 age- and sex-matched patients, including 47 with SLE and 55 with hypertensive disease (HD), were examined.
+In all the patients, plasma renin levels were determined; serum von Willebrand factor antigen concentrations were estimated; desquamated endothelial cell counts were calculated; and 24-hour blood pressure (BP) monitoring (BPM) and Doppler ultrasound of carotid arteries performed.
+RESULTS
+In the patients with SLE and hypertension compared to those with HD, the mean diastolic BP (DBP) was 86.5 (79.5-93.5) mm Hg versus 80.5 (77-90) mm Hg (daytime) and 78 (69-91.5) mm Hg versus 72.5 (64-78) mm Hg (nighttime) (p < 0.05), and there was also a decrease in daily DBP index (5 [0.5-15]% versus 11 [7.5-18]% (p < 0.02)).
+The plasma renin levels were 1.67 (0.78-2.47) and 0.49 (0.25-0.81) ng/ml/h in the patients with SLE and in those with HD, respectively, p = 0.04 and 0.42 (0.36-0.47) ng/ml/h in the control group (p = 0.0001).
+An atherosclerotic vascular lesion was found in 52 and 32% of the patients with SLE and those with HD, respectively.
+The von Willebrand factor antigen levels were 1.63 (0.81-3.36) and 0.29 (0.23-2.8) IU/ml in these patients, respectively (p = 0.04).  The plasma circulating endothelial cell counts were also significantly higher in the patients with SLE and hypertension than in those with HD  (8 [7-10] x 10(4)/l and 5 [3-8] x 10(4)/l (p < 0.01).
+CONCLUSION
+The patients with SLE and hypertension show a high rate of its hyper-renin states, a propensity for nocturnal hypertension, an increase in DBP, and obvious vascular endothelial regulatory dysfunction.

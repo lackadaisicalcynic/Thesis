@@ -1,0 +1,9 @@
+[Sleep and its' disturbanses in chronic obstructive pulmonary disease].
+Physiology of breathing during sleep predisposes to the development or worsening of the respiratory disorders in patients with chronic obstructive pulmonary disease (COPD) even if waking respiratory function remains relatively normal.
+Physicians, who assess patient's state only during the day, in some cases can underestimate this problem.  Respiratory abnormalities can provoke insomnia, which additionally affects patient's quality of life.
+Supplemental oxygen and pressure support ventilation improve blood gases during sleep, but in many cases, insomnia persists.
+In many cases, such patients need the treatment with hypnotics.
+Widely used drugs in insomnia are benzodiazepines.  They are rather effective but can cause respiratory depression and respiratory failure in patients with COPD.
+Z-hypnotics are comparable to classical benzodiazepines but much more safe and rarely worsen respiratory parameters.
+Melatonin and melatonin receptor agonists, antihistamines, antidepressants and neuroleptics can be effective in some patients with insomnia, but insufficient data about their safety in case of respiratory pathology restrict the use of these drugs in patients with COPD.
+The orexin receptor antagonist suvorexant is a novel hypnotic with the potential benefits for patients with COPD because it strongly improves sleep but does not depress respiration and has a minimal negative impact on daytime cognitive function.

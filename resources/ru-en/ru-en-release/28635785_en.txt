@@ -1,0 +1,4 @@
+[Event-related potentials in Parkinson's disease].  Cognitive deterioration is not an initial symptom of Parkinson's disease but occurs over the course of the disease with the incidence of dementia.
+The P300 component of event-related potentials appears to be sensitive to cognitive impairment, and has been used to examine cognitive functions in Parkinson's disease.
+Although many studies have shown that P300 latency and amplitude are correlated with cognitive functions, there is a sufficient amount of controversial results.
+The authors have reviewed the results and suggested that the method should be used only in the combination with clinical and neuropsychological examinations.  Further studies are needed.

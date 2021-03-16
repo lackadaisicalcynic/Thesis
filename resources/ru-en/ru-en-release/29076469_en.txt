@@ -1,0 +1,17 @@
+[Use of the IntelliVent-ASV mode for maintaining the target EtCO2 range in patients with severe TBI].  PURPOSE  the study purpose was to evaluate the efficacy of the IntelliVent-ASV mode in maintaining the target range of PaCO2 in patients with severe TBI.
+MATERIAL AND METHODS
+The study included 12 severe TBI patients with the wakefulness level scored 4-9 (GCS).
+This was a crossover design study.
+Two ventilation modes were consecutively used: IntelliVent-ASV and P-CMV, for 12 h each.
+When using the P-CMV mode, the ventilation parameters were set to maintain PaCO2 in a range of 35-38 mm Hg.  The IntelliVent-ASV mode involved the Brain Injury ventilation algorithm.
+The target range of EtCO2 was set in accordance with the delta PaCO2-EtCO2 to maintain PaCO2 in a range of 35-38.  At the beginning of each ventilation period and every 3 hours, the arterial blood gas composition was analyzed.
+When PaCO2 occurred out of the 35-38 range, appropriate adjustments were made to the ventilation parameters.
+In the P-CMV mode, the Pinsp and RR parameters were adjusted to achieve the target PaCO2 range.
+In IntelliVent mode, a shift of the target EtCO2 range was adjusted in accordance with a changed PaCO2-EtCO2 difference.
+In all patients, ICP, blood pressure, and EtCO2 were monitored; the arterial blood gas composition was analyzed every 3 h; the frequency of manual settings of ventilation parameters was recorded.
+RESULTS
+The EtCO2 and PaCO2 parameters were found not to be significantly different in the P-CMV and IntelliVent modes, but the spread in these parameters was significantly lower in the IntelliVent ventilation mode.
+The PaCO2 parameter occurred out of the target range significantly less often in the IntelliVent mode than in the P-CMV mode.
+The mean frequency of manual respirator settings needed to maintain the target EtCO2 range was significantly lower in the IntelliVent-ASV mode than in the P-CMV mode.
+CONCLUSION
+The IntelliVent-ASV mode provides more efficient maintenance of PaCO2 in the target range compared to traditional artificial ventilation using fewer manual settings of the ventilation parameters.

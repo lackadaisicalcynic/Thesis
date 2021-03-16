@@ -1,0 +1,14 @@
+Challenges encountered using standard vector control measures for dengue in Boa Vista, Brazil.  PROBLEM
+In 2010, dengue virus (DENV) serotype-4 was detected during a dengue outbreak in the Amazonian city of Boa Vista.
+At that time Brazil was already endemic for DENV-1, DENV-2 and DENV-3.  This was the first time DENV-4 was observed in the country after it was initially detected and eliminated in 1981.
+APPROACH
+To hinder the spread of DENV-4 throughout Brazil, standard vector control measures were intensified.  Vector control professionals visited 56 837 households in 22 out of 31 districts of Boa Vista, to eliminate mosquito-breeding sites.
+Water storage containers were treated with the larvicide diflubenzuron, and deltamethrin was sprayed for adult Aedes aegypti mosquitoes.  Fifteen days later, a second larvae survey and additional deltamethrin applications were performed.
+LOCAL SETTING
+In Brazil, dengue vector control is managed at all three government levels.
+Regular surveillance of Aedes aegypti is done four to six times a year to strengthen mosquito control activities in areas with high-vector density.  Educational dengue control campaigns in communities are scarce, especially between outbreaks.
+RELEVANT CHANGES  In spite of extensive implementation of all standard control actions recommended by the Brazilian dengue control programme, only a slight decrease in mosquito density was detected.
+LESSONS LEARNT
+There is a need to redesign all levels of dengue control.
+Public consultation and engagement, behaviour change and actions that go beyond technical impositions are required.
+Vector control programme managers need to reflect on what constitutes good practices and whether intermittent information campaigns are effective measures for dengue prevention and control.

@@ -1,0 +1,15 @@
+[Prognostic models of the severity of acute dynamic pain on the first postoperative day and the likelihood of chronic postoperative pain in spine surgery].  The risk factors for acute pain as well as chronic pain syndrome (CPS) in spine surgery have not been defined to date.
+PURPOSE  To define the prognostic parameters of acute pain severity and the risk of CPS in patients operated on for spinal diseases and injuries.
+MATERIAL AND METHODS
+The study included 291 patients operated on for degenerative diseases and injuries of the spine at the Sklifosovsky Research Institute of Emergency Medicine in 2010-2016.
+Sociodemographic and clinical data and the psychological status of patients were evaluated.
+A mechanical algometer was used to measure the pain threshold (PT) and pain tolerance.
+The movement pain intensity was assessed by using a visual analog scale (VAS) on the day of surgery.
+Pain was considered minor at a median score of 0-4 cm and severe at a median score of 5-10 cm.
+The presence of CPS was assessed during a telephone survey 5-7 months after surgery.
+RESULTS
+The gender, PT, dynamic pain intensity before surgery, and expectation of postoperative pain are risk factors for severe acute postoperative pain.
+A multinomial logit regression model (Hosmer-Lemeshow test - 4.322; p=0.827) predicts minor dynamic pain on the 1st postoperative day with an accuracy of 70% (95% CI 63-76).
+The age and dynamic pain intensity on the 1st postoperative are the risk factors for CPS; the multinomial logit regression model (Hosmer-Lemeshow test - 3.1; p=0.928) predicts CPS with an accuracy of 65% (95% CI 59-71) 5-7 months after surgery.
+CONCLUSION
+The developed software in the form of MS Excel calculators provides a particular patient with preoperative assessment of the risk for minor acute dynamic pain on the 1st postoperative day and CPS 5-7 months after surgery.

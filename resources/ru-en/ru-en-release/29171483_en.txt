@@ -1,0 +1,7 @@
+[Intermittent hypoxia due to sleep apnea syndrome in patients with type 2 diabetes mellitus].
+OBJECTIVES
+To evaluate the possible association between intermittent hypoxia (IH) and HbA1c in patients with insufficient control type of 2 diabetes mellitus (T2DM).  MATERIAL AND METHODS
+In this cross-sectional study 183 patients with HbAc1≥7% underwent three-channel overnight monitoring (ApneaLink) and completed Berlin Questionnaire, Epworth Sleepiness Scale and Pittsburgh Sleep Quality Index.  Patients were divided in two groups, based on the cut-off value of oxygen desaturation index≥15.
+RESULTS AND CONCLUSION
+There were 79 (43%) patients with intermittent hypoxia, which was associated with poorer glycaemic control, defined as HbA1c>8.7% (sample median) in the univariate analysis and after adjustment for body mass index OR 2,40 (CI 1.21-4.95, p=0.021).
+Neither of three questionnaires yielded satisfactory results as a screening method in patients with T2DM.  There is a need to implement instrumental screening of sleep-disordered breathing in this population and to study the effects of CPAP-therapy on glycaemic control and carbohydrate metabolism.

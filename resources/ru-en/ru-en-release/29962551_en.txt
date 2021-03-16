@@ -1,0 +1,11 @@
+Long-term impact of infant immunization on hepatitis B prevalence: a systematic review and meta-analysis.
+Objective
+To conduct a systematic review and meta-analysis of the long-term impact of infant vaccination on the prevalence of hepatitis B virus (HBV) infection at the population level.  Methods
+We searched online databases for articles reporting comparisons between population cohorts aged ≥ 15 years who were exposed or unexposed to infant HBV immunization programmes.  We categorized programmes as universal or targeted to infants whose mothers were positive for hepatitis B surface antigen (HBsAg).
+We included studies reporting prevalence of hepatitis B core antibody (HBcAb), HBsAg, or both.  We evaluated the quality of the study methods and estimated the relative reduction in the prevalence of infection.
+Findings
+Of 26 studies that met the inclusion criteria, most were from China (20 studies).
+The prevalence of HBV infection in unvaccinated and universally vaccinated cohorts ranged from 0.6% (116 of 20 305 people) to 16.3% (60/367) and from 0.3% (1/300) to 8.5% (73/857), respectively.
+Comparing cohorts with universal vaccination to those without vaccination, relative prevalences were 0.24 (95% confidence interval, CI: 0.16-0.35) for HBsAg and 0.23 (95% CI: 0.17-0.32) for HBcAb.  For populations with targeted vaccination, relative prevalences were 0.32 (95% CI: 0.24-0.43) and 0.33 (95% CI: 0.23-0.45), respectively.
+Conclusion  The residual burden of infection in cohorts offered vaccination suggests that longer-term evaluations of vaccination coverage, timeliness and other aspects of programme quality are needed.
+As HBV-vaccinated infant cohorts reach adulthood, ongoing analysis of prevalence in adolescents and young adults will ensure that elimination efforts are on track.

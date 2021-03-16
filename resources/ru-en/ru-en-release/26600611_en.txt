@@ -1,0 +1,15 @@
+Evaluating the quality and use of economic data in decisions about essential medicines.
+OBJECTIVE
+To evaluate the quality of economic data provided in applications to the World Health Organization (WHO) Model List of Essential Medicines and to evaluate the role of these data in decision-making by the expert committee that considers the applications.
+METHODS  We analysed applications submitted to the WHO Expert Committee on the Selection and Use of Essential Medicines between 2002 and 2013.
+The completeness of data on the price and cost-effectiveness of medicines was extracted from application documents and coded using a four-point scale.  We recorded whether or not the expert committee discussed economic information and the outcomes of each application.
+Associations between the completeness of economic data and application outcomes were assessed using χ tests.
+FINDINGS
+The expert committee received 134 applications.
+Only eight applications (6%) included complete price data and economic evaluation data.
+Many applicants omitted or misinterpreted the economic evaluation section of the application form.
+Despite the lack of economic data, all applications were reviewed by the committee.
+There was no significant association between the completeness of economic information and application outcomes.
+The expert committee tried to address information gaps in applications by further review and analysis of data related to the application.
+CONCLUSION
+The World Health Organization should revise the instructions to applicants on economic data requirements; develop new mechanisms to assist applicants in completing the application process; and define methods for the use of economic data in decision-making.

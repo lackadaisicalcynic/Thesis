@@ -1,0 +1,8 @@
+[The association of hemostasis system genes with the development of ischemic stroke in patients under the age of 50 years].  AIM
+To study an influence of polymorphic variants of hemostasis system genes on the risk of ischemic stroke (IS) in patients of the Slavic population under the age of 50 years.
+MATERIAL AND METHODS
+Ninety-two patients (19 women and 73 men), aged 18-50 years, were examined.  The diagnosis of stroke was confirmed by neuroimaging (CT or MRI) in all patients.
+Polymorphic alleles of GP1BA, F2, F5 were studied by a real-time polymerase chain reaction using the TaqMan technology.
+RESULTS AND CONCLUSION
+An analysis of the GP1BA -5T/C polymorphism showed that it was associated with IS in young men, lacunar stroke and stroke due to thrombosis of the brachiocephalic arteries.  This association was not found in young women.
+The F5 G1691A polymorphism was associated with lacunar stroke.  The F2 G20210A polymorphism was associated with stroke due to thrombosis of the brachiocephalic arteries.

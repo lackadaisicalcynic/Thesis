@@ -1,0 +1,13 @@
+Neonatal cause-of-death estimates for the early and late neonatal periods for 194 countries: 2000-2013.
+OBJECTIVE  To estimate cause-of-death distributions in the early (0-6 days of age) and late (7-27 days of age) neonatal periods, for 194 countries between 2000 and 2013.
+METHODS
+For 65 countries with high-quality vital registration, we used each country's observed early and late neonatal proportional cause distributions.  For the remaining 129 countries, we used multinomial logistic models to estimate these distributions.
+For countries with low child mortality we used vital registration data as inputs and for countries with high child mortality we used neonatal cause-of-death distribution data from studies in similar settings.
+We applied cause-specific proportions to neonatal death estimates from the United Nations Inter-agency Group for Child Mortality Estimation, by country and year, to estimate cause-specific risks and numbers of deaths.
+FINDINGS
+Over time, neonatal deaths decreased for most causes.
+Of the 2.8 million neonatal deaths in 2013, 0.99 million deaths (uncertainty range: 0.70-1.31) were estimated to be caused by preterm birth complications, 0.64 million (uncertainty range: 0.46-0.84) by intrapartum complications and 0.43 million (uncertainty range: 0.22-0.66) by sepsis and other severe infections.
+Preterm birth (40.8%) and intrapartum complications (27.0%) accounted for most early neonatal deaths while infections caused nearly half of late neonatal deaths.  Preterm birth complications were the leading cause of death in all regions of the world.
+CONCLUSION
+The neonatal cause-of-death distribution differs between the early and late periods and varies with neonatal mortality rate level.
+To reduce neonatal deaths, effective interventions to address these causes must be incorporated into policy decisions.

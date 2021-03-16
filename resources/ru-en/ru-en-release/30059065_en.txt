@@ -1,0 +1,13 @@
+[Human papillomavirus and Epstein-Barr virus in the pathogenesis of inverted papilloma and associated sinonasal carcinoma].  OBJECTIVE  To determine whether Epstein-Barr virus and human papillomavirus (HPV) types 6, 11, 16, 18, 35, and 43 DNA can be present in inverted papilloma (IP) and associated sinonasal carcinoma.
+MATERIAL AND METHODS
+The investigation was carried out using tissue samples obtained during surgery from 76 cases of IP and 4 cases of sinonasal carcinoma that had developed in the presence of IP.
+PCR was performed in 41 cases of IP and in 4 cases of sinonasal carcinoma; immunohistochemistry was done in 15 cases of IP to identify HPV L1 capsid protein.
+RESULTS
+HPV6 DNA was detected in 20 cases; three of them were simultaneously found to have also HPV11; 1 case had only HPV11.
+HPV types 16, 18, 35, and 45 and Epstein-Barr virus were not detected.
+PCR revealed HPV types 16 and 35 in one of the 4 cases of sinonasal carcinoma associated with IP.
+Immunohistochemical study identified HPV L1 capsid protein in the epitheliocytes and stromal infiltrating lymphocytes and macrophages in two cases of IP with the highest concentration of HPV DNA as evidenced by PCR, as well as in one case of sinonasal carcinoma.
+CONCLUSION
+Taking into account the low HPV DNA concentration detected only for types 6 and 11, as well as the immunohistochemical detection of HPV L1 in the tumor stromal lymphocytes and macrophages and some basal epitheliocytes in individual cases, it can be assumed that HPV does not play a crucial role as an etiological factor for IP.
+PCR revealed oncogenic HPV types 16 and 35 in sinonasal carcinoma associated with IP only in one case, which makes it untimely to claim that this virus plays a very special role in the etiology of this carcinoma.
+Epstein-Barr virus was not found in any case.

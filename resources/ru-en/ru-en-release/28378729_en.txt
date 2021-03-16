@@ -1,0 +1,13 @@
+[Role of negative regulators of SOCS1, SOCS3, and SOCS5 gene transcription in the negative cell signaling regulation system in asthma].
+AIM
+To conduct a comprehensive study of the components of negative cell signaling regulation in different types of asthma.  SUBJECTS AND METHODS
+A total of 171 people, including 80 patients with allergic asthma (AA), 60 patients with non-allergic asthma (NAA), and 31 apparently healthy individuals, were examined.
+SOCS5 mRNA expression was assessed by reverse-transcription polymerase chain reaction.
+The expression of SOCS1 and SOCS3 proteins was investigated by immunoblotting.  The concentration of total serum IgE was determined by enzyme immunoassay; the level of cytokines was measured according to the standard protocol using a Bio-Plex fluorometer.
+RESULTS
+The findings show that the patients with AA generally display more marked changes in the expression of all three investigated SOCSes (SOCS1, SOCS3, and SOCS5) at baseline and when interleukin 4 (IL-4) acts.
+In NAA, there are pronounced changes in the expression of SOCS3 only and, to a lesser extent, SOCS5.
+The results of investigating the concentrations of IL-4 in the examined groups demonstrate its significant decrease in the AA group, whereas in the NAA group, it is similar to those in healthy individuals.
+On the contrary, IL-10 concentrations in AA tend towards those in the control group, but much exceed in NAA.
+CONCLUSION
+The findings allow one to consider the complexity of regulatory disorders arising at various levels of cell signaling in the context of the multifunctional nature of the molecules from the family of negative regulators of transcription of the SOCS1, SOCS3, and SOCS5 genes, which provide the comprehensive control of cytokine signaling simultaneously in different signal pathways.

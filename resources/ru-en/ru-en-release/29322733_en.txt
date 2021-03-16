@@ -1,0 +1,6 @@
+[Blue death of nematodes.]
+This paper shows that the aging and death of nematodes, accompanied by the ignition of a blue glow under fluorescent microscopy, are not directly linked to any lipofuscin (aging pigment), nor with the anthranilic acid (a product of degradation of tryptophan residues of proteins).
+The main contribution in the blue flash of the dying nematodes belongs to parasitic light, scattered on the cuticle and bodies of the worm.  The main contribution in the blue region at spectrofluorometry of homogenates, obtained from nematodes, really gives anthranilic acid.
+However, the content of anthranilic acid, measured by spectrofluorimetry, in adult nematodes is lower than that in the young ones.
+Artificial aging of nematodes by moderate heating revealed no accumulation of anthranilate and no loss of tryptophan, from which it must be formed.  Thus, it is hardly lipofuscin or anthranilic acid.
+The cause of aging and death of nematodes is the formation of strong cross-links between proteins.  This is supported by data on tryptophan fluorescence and light scattering of homogenates: the old worms show a large number of denaturated proteins and large protein particles with a strong cross-links, which are not destroyed be detergent.

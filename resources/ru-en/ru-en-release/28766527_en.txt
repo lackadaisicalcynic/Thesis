@@ -1,0 +1,6 @@
+[The determination of 2,4-di-tret-butyl hydroxybenzene for the purpose of the chemical toxicological study of the biological materials].
+The objective of this work was to study peculiarities of identification of 2,4-di-tert-butyl hydroxybenzene (2,4-DTBHOB) in blood and the tissues of various organs with the use TLC, UR- and UV-spectrophotometry.
+The results of the study suggest the expediency of the application of ethylacetate as the extractive agent for the isolation of 2,4-DTBHOB from the biological materials.
+The optimal conditions for 2,4-DTBHOB extraction by this method were developed based on the decontamination of the analyte by means of removal of the organic substances of biological matrices using the L 40/100 mcm sorbent columns with the hexan/dioxane mixture (8.5:1.5) as the mobile phase.
+The method for the determination of 2,4-di-tert-butyl hydroxybenzene in the tissues of various organs (namely, liver) and blood has been developed.
+The proposed method allows to determine the minimal quantities of 2,4-DTBHOB present in the biological objects equivalent to 0.36 mg and 0.28 mg in the hepatic tissue and blood respectively.

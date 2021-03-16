@@ -1,0 +1,12 @@
+AIM  to conduct a comparative experimental study of the effect of the use of intracorneal implants during femtosecond laser-assisted intrastromal pocket (IP) and intrastromal tunnel (IT) formation on the strength properties of the cornea.
+MATERIAL AND METHODS
+The experimental study was performed on 24 corneas of 12 rabbit eyes enucleated 1 month after slaughtering.
+All eyes were divided into 6 groups according to the method of operation.
+IP and IT were created with IntraLase FS 60 kHz femtolaser.
+Group 1 (control group) consisted of rabbit eyes with intact corneas.
+In group 2 corneas, intrastromal tunnels were formed, in group 3 - intrastromal pockets, and in group 4 - intrastromal tunnels with 2 intracorneal segments (ICS).
+In groups 5 and 6, intrastromal pockets, each supplemented with an intrastromal ring, were created at the depth of 62-72% and 80% of pachymetry readings from the 5.0-mm optical zone, respectively.
+RESULTS
+Higher voltage had to be applied to stretch the samples from group 2 as compared to those from groups 3 and 6.  Distribution of the Young's modulus of the test corneas agreed with voltage distribution in the study groups.
+IP was associated with greater reduction in corneal biomechanical stability as compared with IT.  Ring implantation into an IP yielded a more pronounced increase in the strength properties of the cornea than ICS implantation into an IT.
+The result was also more favorable at greater depths of intrastromal ring implantation.

@@ -1,0 +1,13 @@
+AIM  to estimate the effect of decompressive stented drainage of biliary anastomosis on incidence of biliary complications.
+MATERIAL AND METHODS
+294 patients aged from 5 months to 61 years (mean 13.8±0.81) were enrolled.
+They underwent liver fragments transplantation in the Department of Liver Transplantation of Petrovsky Russian Research Center of Surgery for the period from March 1997 to January 2016.  Decompressive stented drainage tubes were used in 28 (9.5%) patients.
+Reconstruction without drainage was applied in 266 (90.5%) cases.
+In the group of biliobiliary reconstruction drainage was used in 18 out of 89 cases (20.2%), in the group of biliodigestive reconstruction - in 10 out of 202 cases (4.9%).  Incidence of specific biliary complications was assessed.
+RESULTS
+There was significant direct correlation of stented drainage of biliodigestive anastomosis with various biliary complications including bile leakage (r= -0,1253; p=0.06), obturation of anastomosis (r=0.045; p=0.501), stricture of anastomosis (r= -0.0665; p=0.320), other strictures of intrahepatic bile ducts (r= -0.0291; p=0.664), hepatolithiasis (r=0.0857; p=0.199).
+However significant direct correation was observed between stented drainage and incidence of intrahepatic bile ducts strictures (r=0.2117; p=0.046) and anastomosis obturation (r=0.2330; p=0.028) in case of biliobiliary reconstruction.
+Significant correation with other biliary complications was absent (p>0.05).
+CONCLUSION
+Unconstrained stented drainage during primary biliary reconstruction is associated with increased incidence of biliary complications and should not be indicated routinely.
+Clear need for drainage should be determined in further investigations.

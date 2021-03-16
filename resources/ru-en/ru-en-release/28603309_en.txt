@@ -1,0 +1,10 @@
+Records of medical malpractice litigation: a potential indicator of health-care quality in China.
+OBJECTIVE
+To assess the characteristics and incidence of medical litigation in China and the potential usefulness of the records of such litigation as an indicator of health-care quality.  METHODS
+We investigated 13 620 cases of medical malpractice litigation that ended between 2010 and 2015 and were reported to China's Supreme Court.  We categorized each case according to location of the court, the year the litigation ended, the medical specialization involved, the severity of the reported injury, the type of allegation raised by the plaintiff - including any alleged shortcomings in the health care received - and the outcome of the litigation.
+FINDINGS
+The annual incidence of medical malpractice litigation increased from 75 in 2010 to 6947 in 2014.  Most cases related to general surgery (1350 litigations), internal medicine (3500 litigations), obstetrics and gynaecology (1251 litigations) and orthopaedics (1283 litigations).
+Most of the reported injuries were either minor (1358 injuries) or fatal (4111 deaths).  The most frequent allegation was of lack of consent or notification (1356 litigations), followed by misdiagnosis (1172 litigations), delay in treatment (1145 litigations) and alteration or forgery of medical records (975 litigations).
+Of the 11 014 plaintiffs with known litigation outcomes, 7482 (67.9%) received monetary compensation.
+CONCLUSION
+Over our study period, the incidence of litigation over potential medical malpractice increased in China.  As many of the cases related to alleged inadequacies in the quality of health care, records of medical malpractice litigation in China may be worth exploring as an indicator of health-care quality.

@@ -1,0 +1,6 @@
+[Complex assessment of the contribution of genetic factors to the risk of ischemic stroke].
+AIM  To develop a method of the complex assessment of genetic risk for ischemic stroke (IS) and evaluate its effectiveness.
+MATERIAL AND METHODS
+Genotyping of 182 patients with atherothrombotic and cardioembolic subtypes of IS and 360 healthy individuals of 48 single nucleotide polymorphic loci (SNP) associated with the risk of II and its subtypes was performed.
+RESULTS AND CONCLUSION  In each group of SNPs, composite indicators of genetic risk of IS in groups of patients and healthy controls were identified.
+Differences between the calculated values of the genetic risk in these groups were significant (p <0,05).  The quality of the binary classification validated by ROC-analysis confirmed the predictive potential of the proposed method of risk calculation for determining the genetic predisposition to the development of IS.

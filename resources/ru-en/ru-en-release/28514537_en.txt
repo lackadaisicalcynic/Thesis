@@ -1,0 +1,5 @@
+[Suppression of alternative telomere lengthening in cancer cells with reverse transcriptase inhibitors].
+Telomerase is a ribonucleoprotein enzyme that elongates telomeres and therefore maintains chromosomal stability in germline, and in the majority of cancer cells, during cell doubling.
+However, up to 30 % of human tumors of different types do not express telomerase, but instead use an alternative lengthening of telomeres (ALT).
+Here authors show that human tumor-derived ALT cell lines express a LINE-1 (L1) retrotransposon, which suggests its participation in telomere maintenance, possibly by a «slippage» mechanism of telomeric DNA synthesis.  Moreover, suppression of the L1 encoded reverse transcriptase activity using an antisense strategy, or treatment of the ALT cells with the reverse transcriptase inhibitor 3'-azido-2',3'-dideoxythymidine (AZT), induces progressive telomere loss, arrest in G2-phase of the cell cycle, and, eventually, in cancer cell death.
+This finding suggests an exciting opportunity for the cure of up to 30 % of cancer cases.

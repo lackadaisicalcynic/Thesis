@@ -1,0 +1,14 @@
+A multimedia consent tool for research participants in the Gambia: a randomized controlled trial.
+OBJECTIVE
+To assess the effectiveness of a multimedia informed consent tool for adults participating in a clinical trial in the Gambia.
+METHODS
+Adults eligible for inclusion in a malaria treatment trial (n = 311) were randomized to receive information needed for informed consent using either a multimedia tool (intervention arm) or a standard procedure (control arm).
+A computerized, audio questionnaire was used to assess participants' comprehension of informed consent.
+This was done immediately after consent had been obtained (at day 0) and at subsequent follow-up visits (days 7, 14, 21 and 28).  The acceptability and ease of use of the multimedia tool were assessed in focus groups.
+FINDINGS  On day 0, the median comprehension score in the intervention arm was 64% compared with 40% in the control arm (P = 0.042).
+The difference remained significant at all follow-up visits.  Poorer comprehension was independently associated with female sex (odds ratio, OR: 0.29; 95% confidence interval, CI: 0.12-0.70) and residing in Jahaly rather than Basse province (OR: 0.33; 95% CI: 0.13-0.82).
+There was no significant independent association with educational level.
+The risk that a participant's comprehension score would drop to half of the initial value was lower in the intervention arm (hazard ratio 0.22, 95% CI: 0.16-0.31).
+Overall, 70% (42/60) of focus group participants from the intervention arm found the multimedia tool clear and easy to understand.
+CONCLUSION
+A multimedia informed consent tool significantly improved comprehension and retention of consent information by research participants with low levels of literacy.

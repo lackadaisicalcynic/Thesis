@@ -1,0 +1,11 @@
+Drought, conflict and children's undernutrition in Ethiopia 2000-2013: a meta-analysis.
+OBJECTIVE
+To estimate the prevalence of childhood wasting and to investigate the effects of drought and conflict on wasting in crisis-affected areas within Ethiopia.
+METHODS
+We searched the Complex Emergency Database for nutrition surveys carried out in Ethiopia over the period 2000-2013.  We extracted data on the prevalence of wasting (weight-for-height z-scores below -2) among children aged 6-59 months for areas of Ethiopia that had sufficient data available.
+Data on any conflict events (irrespective of magnitude or impact) and episodes of seasonal drought affecting the survey areas were extracted from publicly available data sources.  Random-effects Bayesian meta-analysis was used to synthesize the evidence from 231 small-scale surveys.
+FINDINGS  From the total sample of 175 607 children analysed, the pooled number of children wasted was 21 709.
+The posterior median prevalence of wasting was 11.0% (95% credible interval, CrI: 10.3-11.7) over the 14-year period.  Compared with areas unaffected by drought, the estimated prevalence of wasting was higher in areas affected by moderate levels of drought (posterior odds ratio, OR: 1.34; 95% CrI: 1.05-1.72) but similar in severe drought-affected areas (OR: 0.96; 95% CrI: 0.68-1.35).
+Although the pooled prevalence of wasting was higher in conflict-affected than unaffected areas, the difference was not plausible (OR: 1.02; 95% CrI: 0.82-1.26).
+CONCLUSION  Despite an overall declining trend, a wasting problem persists among children in Ethiopia.
+Conflict events did not have a major impact on childhood wasting.  Nutrition interventions should go beyond severe drought-prone areas to incorporate areas where moderate droughts occur.

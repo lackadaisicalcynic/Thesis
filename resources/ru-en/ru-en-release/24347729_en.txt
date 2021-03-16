@@ -1,0 +1,13 @@
+Frequent exposure to suboptimal temperatures in vaccine cold-chain system in India: results of temperature monitoring in 10 states.
+OBJECTIVE  To estimate the proportion of time the vaccines in the cold-chain system in India are exposed to temperatures of < 0 or > 8 °C.
+METHODS
+In each of 10 states, the largest district and the one most distant from the state capital were selected for study.
+Four boxes, each containing an electronic temperature recorder and two vials of diphtheria, pertussis and tetanus vaccine, were placed in the state or regional vaccine store for each study state.
+Two of these boxes were then shipped - one per facility - towards the two most peripheral health facilities where vaccine was stored in each study district.  The boxes were shipped, handled and stored as if they were routine vaccine supplies.
+FINDINGS
+In state, regional and district vaccine stores and peripheral health facilities, respectively, the temperatures in the boxes exceeded 8 °C for 14.3%, 13.2%, 8.3% and 14.7% of their combined storage times and fell below 0 °C for 1.5%, 0.2%, 0.6% and 10.5% of these times.
+The boxes also spent about 18% and 7% of their combined times in transit at < 0 and > 8 °C, respectively.
+In shake tests conducted at the end of the study, two thirds of the vaccine vials in the boxes showed evidence of freezing.
+CONCLUSION
+While exposure to temperatures above 8 °C occurred at every level of vaccine storage, exposure to subzero temperatures was only frequent during vaccine storage at peripheral facilities and vaccine transportation.
+Systematic efforts are needed to improve temperature monitoring in the cold-chain system in India.

@@ -1,0 +1,18 @@
+[Drainage-associated meningitis in neurocritical care patients.  The results of a five-year prospective study].
+to determine the incidence rate and risk factors for drainage-associated meningitis in neurocritical care patients.  MATERIAL AND METHODS
+The prospective study included 539 patients who spent more than 48 h at the Department of Neurocritical Care and underwent external ventricular drainage.
+The incidence rate and risk factors for drainage-associated meningitis were evaluated.
+RESULTS
+Over a 5-year period, 2140 patients have been hospitalized to the Department of Critical and Intensive Care (DCIC) for more than 48 h; of these, 539 patients underwent external ventricular drainage (EVD).
+Drainage-associated meningitis developed in 99 patients, which amounted to 19.8 (CI 16.3-23.3) per 100 patients with drainage and 18.3 (CI 14.3-22.2) per 1000 days of drainage.
+The incidence rate of drainage-associated meningitis did not significantly correlate with different neurosurgical diseases, but there was a tendency for meningitis to predominate in EVD patients with vascular pathology of the central nervous system (CNS).
+The rate of artery catheterization for direct measurement of systemic BP and the use of vasopressor agents were significantly higher in the group of patients with drainage-associated meningitis (p<0.05).
+ALV was used in 98 (99%) of 99 patients with drainage-associated meningitis; respiratory support was used in 325 (80.8%) patients without meningitis (p<0.01).
+An analysis of the ventricular drainage duration revealed a significantly (p<0.05) larger number of days of using EVD in the group of patients with drainage-associated meningitis.
+In most critical care patients (57.6%), meningitis developed during the first week of drainage.
+Cerebrospinal fluid leakage occurred significantly more frequently in patients with drainage-associated meningitis than in patients with EVD and without meningitis (p<0.01).
+Based on a microbiological examination, the etiology of drainage-associated meningitis was established in 57.1% of cases.
+The leading pathogens were coagulase-negative staphylococci (48.3%) and Acinetobacter baumannii (18.3%).
+CONCLUSION
+The incidence rate of drainage-associated meningitis was 19.8 per 100 patients and 18.3 per 1000 days of drainage.
+The risk factors significantly predominating in patients with drainage-associated meningitis include the duration of drainage, association with external CSF leakage, as well as factors associated with indicators of the overall severity of the condition.

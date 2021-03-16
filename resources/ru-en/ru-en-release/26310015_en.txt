@@ -1,0 +1,11 @@
+[Optogenetics and prosthetic treatment of retinal degeneration].  This is a review of the current state of optogenetics-based research in the field of ophthalmology and physiology of vision.
+Optogenetics employs an interdisciplinary approach that amalgamates gene engineering, optics, and physiology.
+It involves exogenous expression of a light-activated protein in a very particular retinal cell enabling regulation (stimulation vs. inhibition) of its physiological activity.
+The experience with gene therapy came in very useful for optogenetics.
+However, unlike gene therapy, which is aimed at repairing damaged genes or replacing them with healthy ones, optogenetics is focused on protein genes delivery for further molecular control of the cell.
+In retina, the loss of photoreceptors is not necessarily followed by neuronal loss (at least ganglion cells remain intact), which determines the practicability of prosthetic treatment.
+Clinical trials can now be considered, owing to the first successful conversion of ganglion cells of mouse degenerative retinas into artificial photoreceptive cells with ON and OFF receptive fields, which is crucial for spatial vision.
+The following issues are reviewed here in detail: 1.  Choice of cell targets within the degenerative retina.
+2. Strategy of utilizing the existing light-sensitive agents and development of new optogenetic tools.
+3. Gene delivery and expression in retinal cells.  4. Methods of evaluating the treatment success.
+5. Selection criteria for optogenetic prosthetics.  The conclusion discusses currently unsolved problems and prospects for optogenetic approaches to retinal prosthetics.

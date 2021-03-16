@@ -1,0 +1,8 @@
+[The HIF1a polymorphism is a diagnostic marker of ischemic stroke].
+AIM  To study a variant of the C1772T polymorphism of the hypoxia inducible factor-1a (HIF1a) gene as a molecular genetic predictor of increased risk of ischemic stroke.
+MATERIAL AND METHODS
+The study included patients with ischemic stroke which was confirmed clinically and by MRI (n=1200), the control group consisted of 500 patients without cardiovascular disease.  DNA was extracted from the venous blood using the phenol-chloroform method.
+Determination of alleles was performed using allele-specific RealTime PCR as well as PCR/RFLP diagnosis.  RESULTS
+The carriage of one or two copies of the allele T significantly increases the risk of ischemic stroke (OR=1.603, p=0.01).  At the same time, the minor allele was not associated with the prognosis of the disease outcome.
+CONCLUSION
+The results allow us to consider the HIF1 C1772T polymorphism as a new molecular genetic predictor of ischemic stroke.

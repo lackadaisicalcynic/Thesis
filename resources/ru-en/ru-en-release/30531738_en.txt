@@ -1,0 +1,11 @@
+[Effectiveness of various approaches for acute malignant colonic obstruction].
+AIM
+To determine optimal treatment strategy for acute malignant colonic obstruction.  MATERIAL AND METHODS
+349 patients with acute malignant colonic obstruction were retrospectively analyzed for the period 2005-2017.
+All patients were divided into two groups depending on surgical approach.  Surgical group comprised 259 patients, endoscopic group - 90 patients.
+Both groups were comparable by gender, age, level of intestinal obstruction and duration of the disease.  However, morbidity and mortality rate were significantly different.
+RESULTS
+In surgical group incidence of complications was 63.3%, mortality - 19.7%.  In group of endoscopic stenting the same values were 8.9% and 6.7%, respectively.
+Significant differences of morbidity and mortality were observed between groups (p<0.05).
+CONCLUSION
+Endoscopic stenting should be preferred over surgery to eliminate colonic obstruction in patients with acute malignant ileus.

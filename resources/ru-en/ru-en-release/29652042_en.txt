@@ -1,0 +1,12 @@
+[Motor learning of the post-stroke patients presenting with upper limb paresis on the mechanotherapeutic system].  BACKGROUND
+the relevance of this study arises from the high prevalence of upper limb motor impairment and pathological synergy in the post-stroke patients; these conditions are very difficult to correct with the use of the traditional rehabilitation methods.
+A promising but insufficiently studied approaches are the virtual reality (VR) technology as well as its combination with other techniques.  AIM
+The objective of the present study was to evaluate the influence of the training making use of the mechanotherapeutic system on the motor function of the paretic hand.
+MATERIAL AND METHODS
+A total of 30 patients were enrolled in this study.
+The main group comprised 20 of them who completed the training course on the mechanotherapeutic system allowing for separate adjustment of weight support for the shoulder and the forearm, VR feedback with individual setting of the active working space, and augmented functional exercises.  The control group consisted of the patients (n=10) who performed the task-oriented motor training course of an equal duration with arm weight support and visual feedback.
+RESULTS AND DISCUSSION  The assessment based on the Fugl-Meyer scale (FMA) showed the statistically significant changes in the passive motion range in the patients of both groups, but only those comprising the main group were found to experience the improvement of the major movements of the arm, wrist, and hand as well as movements outside synergy (p<0.005).
+Fine motor skills estimated from the results of the Action Research Arm test (ARAT) improved only in the main group due to the cylindrical and pinch grip (p<0.005).
+Also, only patients of the main group, improved daily living skills evaluated based on the Frenchay Arm test (FAT) (p<0.005).
+CONCLUSION
+The results of the present study give evidence that the use of combined training with arm weight support and VR feedback contributes to a more complete recovery of motor and daily living skills in the upper limb of post-stroke patients, compared to the classical task-oriented training with visual feedback.

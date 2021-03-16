@@ -1,0 +1,10 @@
+Estimating mortality using data from civil registration: a cross-sectional study in India.
+OBJECTIVE
+To analyse the design and operational status of India's civil registration and vital statistics system and facilitate the system's development into an accurate and reliable source of mortality data.
+METHODS
+We assessed the national civil registration and vital statistics system's legal framework, administrative structure and design through document review.  We did a cross-sectional study for the year 2013 at national level and in Punjab state to assess the quality of the system's mortality data through analyses of life tables and investigation of the completeness of death registration and the proportion of deaths assigned ill-defined causes.
+We interviewed registrars, medical officers and coders in Punjab state to assess their knowledge and practice.  FINDINGS
+Although we found the legal framework and system design to be appropriate, data collection was based on complex intersectoral collaborations at state and local level and the collected data were found to be of poor quality.
+The registration data were inadequate for a robust estimate of mortality at national level.  A medically certified cause of death was only recorded for 965,992 (16.8%) of the 5,735,082 deaths registered.
+CONCLUSION  The data recorded by India's civil registration and vital statistics system in 2011 were incomplete.
+If improved, the system could be used to reliably estimate mortality.  We recommend improving political support and intersectoral coordination, capacity building, computerization and state-level initiatives to ensure that every death is registered and that reliable causes of death are recorded - at least within an adequate sample of registration units within each state.

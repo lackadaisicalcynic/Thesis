@@ -1,0 +1,11 @@
+[Expression of genes for neurotransmitter transporters in astrocytes in different brain regions in experiment].
+AIM  To investigate the expression of transporters of different neurotransmitters (glutamate, aspartate, lactate, choline) in the culture of astrocytes isolated from different regions of the brain (cortex, hippocampus and brainstem) in 3- and 11-day rats.
+MATERIAL AND METHODS
+An experimental study was performed on 24 3- (n=12) and 11-days (n=12) old rats (Rattus norvegicus).
+The results of high-performance sequencing were analyzed.
+RESULTS
+The expression of glutamate and aspartate transporters in the brainstem of 3-day rats was higher than in other regions, however, an opposite effect was observed in 11-day rats.
+The expression of lactate transporters with age became identical to those of the cortex.
+CONCLUSION
+The data demonstrate the particular qualities of neuro-astrocytic connections and the important role of astrocytes in signal transmission.
+Results of the study performed by using genetic methods developed by the authors for the study of neurotransmitter transporters make it possible to recommend these methods to control the neurogenesis and neurohomeostasis, including in cerebrovascular and neurodegenerative diseases.

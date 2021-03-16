@@ -1,0 +1,4 @@
+[MR tractography in diagnosis and choice of a neurosurgical approach to basal ganglia tumors].
+We describe two cases of surgical treatment of well-circumscribed basal ganglia tumors.  The choice of a neurosurgical approach to a deep tumor was based on the MR tractography data and depended on the course and dislocation extent of the corticospinal tract.
+MR tractography provides information on the course and dislocation or destruction extent of the corticospinal tract running in the internal capsule and brainstem and clarifies the exact location of a tumor within the basal ganglia.
+This information promotes the choice of an optimal approach for radical resection of well-circumscribed tumor, leading to improvement in neurological symptoms and patient's quality of life.

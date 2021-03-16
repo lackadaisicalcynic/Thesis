@@ -1,0 +1,20 @@
+[Implantation of VPS in the early postoperative period following removal of posterior cranial fossa tumors in children].  One of the main manifestations of posterior cranial fossa (PCF) tumors is the development of hydrocephalus (HC) symptoms that in most cases are the reason for examination and diagnosis [1, 2].
+According to the literature, the rate of shunt surgery after removal of PCF tumors in the children's population is 18-40% [3-9].
+Hydrocephalus remaining after removal of PCF tumor and requiring further treatment is called persistent hydrocephalus.
+The above figures are based on the treatment outcomes in children, which were obtained as early as in the 1990s.
+Given these facts, we conducted a modern study to assess the risk of persistence/development of persistent hydrocephalus in children after removal of posterior cranial fossa tumors and to explore factors affecting this risk.
+MATERIAL AND METHODS
+We performed a retrospective analysis of the treatment outcomes in 155 children operated on at the Burdenko Neurosurgical Institute between 2012 and 2014.
+All children were operated on by a single surgeon.
+Factors, such as the patient age, histological pattern of tumor, and primary/repeated surgery, were analyzed.
+RESULTS
+A total of 13 (8.4%) patients needed shunt surgery.
+An analysis demonstrated no need for shunt surgery in children with piloid astrocytomas.
+In children with medulloblastoma, the need for a permanent shunt occurred in 5 (9.1%) cases; all these children were older than 3 years.
+A group of anaplastic ependymoma included 23 children; of these, 13 children were older than 3 years, and 10 children were under the age of 3 years.  Five (21.7%) patients required shunt surgery.
+Shunting was needed in 3 children from group 4.  In one case, a child younger than 3 years of age who was operated on for a dermoid cyst of the PCF, and in 2 children older than 3 years of age who were operated on for ganglioastroscytoma and atypical teratoid-rhabdoid tumor (ATRT).
+CONCLUSION
+At present, the risk of persistent hydrocephalus in children after removal of PCF tumors is lower than that reported in the literature.
+In our study, it was 8.4%.
+The age of children under 3 years and repeated operations do not statistically significantly increase the risk of persistent hydrocephalus.
+Only tumor histology is statistically significant: the highest risk of the need for implantation of VPS was found in the group with anaplastic ependymomas, and the minimal risk was in the group of piloid astrocytomas.

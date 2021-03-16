@@ -1,0 +1,16 @@
+[Impact of anemia correction on the production of the circulating morphogenetic protein α-Klotho in patients with Stages 3B-4 chronic kidney disease: A new direction of cardionephroprotection].
+AIM
+To investigate the impact of anemia correction with erythropoiesis stimulants on the serum level of the circulating morphogenetic protein α-Klotho in patients with Stages 3B--4 chronic kidney disease (CKD).  SUBJECTS AND METHODS
+64 patients aged 42±8 years with Stages 3B--4 nondiabetic CKD were examined and divided into 2 groups: 1) 32 patients with anemia  (the target hemoglobin levels could be achieved and kept with erythropoietin and iron saccharate in 20 patients (Group A) and those could not be done in 12 patients (Group 1B).
+A control group (Group 2) consisted of 32 non-anemic patients matched for gender, age, and degree of a glomerular filtration rate (GFR) reduction.  Along with iron exchange indicators, the time course of changes in serum Klotho levels were examined in all the 64 patients during screening and one year after the end of the study.
+For correction of anemia, 32 patients with this condition (Groups 1A and 1B) took short-acting epoetin (hypodermic recormon 2,000 IU thrice per week + iron (intravenous venofer 5 ml of 100 mg once per week)) under control of hemoglobin levels and serum transferrin iron and ferritin saturation.  After achieving the target hemoglobin level of 110-120 g/l, for its keeping, all the patients received, instead of short-acting epoetin, long-acting hypodermic darbepoetin-α 1.5 µg once every 2 months and intravenous iron saccharate 100 mg once every 2 weeks.
+RESULTS
+Among the 32 anemic patients in Group 1, 20 (63%) (Group 1 A) could achieve the target hemoglobin level (110--120 g/l) and maintain it within this range, by performing therapy with epoitin-β + iron saccharate; anemia (the hemoglobin level of <110 g/l) persisted in 12 (37%) patients (Group 1B) despite the fact that epoetin and iron saccharate had been administered.
+Group 1A was noted to have an increase in α-Klotho concentrations by an average of 100±11.6-pg/ml as compared to Group 1B (by only 72±4.2 pg/ml).
+At the same time, the α-Klotho levels in the control group by the end of the follow-up decreased by an average of 210±12.9 pg/ml as compared to the prescreening value.
+There was a direct correlation between hemoglobin and serum ferritin concentrations and iron ferritin saturation percentage and α-Klotho levels.
+It was ascertained that the hemoglobin concentration of ≥110 g/l with a sensitivity of 89% and a specificity of 75% could predict higher serum α-Klotho levels in CKD.
+The same patients were found to have an inverse relationship between the serum level of α-Klotho and the risk of cardiovascular events.
+CONCLUSION
+The serum level of the protein Klotho is not only a marker for the severity of CKD and its complications (anemia, left ventricular hypertrophy, and heart failure), but also a pathogenetic factor of CKD progression.
+Anemia correction with erythropoiesis stimulants has been shown to enhance the renal and extrarenal production of α-Klotho.

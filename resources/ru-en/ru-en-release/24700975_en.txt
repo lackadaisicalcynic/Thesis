@@ -1,0 +1,10 @@
+The incremental cost of switching from Option B to Option B+ for the prevention of mother-to-child transmission of HIV.
+OBJECTIVE  To estimate the incremental cost over 5 years of a policy switch from the Option B to the Option B+ protocol for the prevention of mother-to-child transmission (PMTCT) of the human immunodeficiency virus (HIV).
+METHODS
+Data from cost studies and other published sources were used to determine the cost, per woman and per cohort (1000 breastfeeding and 1000 non-breastfeeding women), of switching from Option B (maternal triple antiretroviral [ARV] regimen during pregnancy and breastfeeding plus daily nevirapine for the infant for 6 weeks) to Option B+ (maternal triple ARV regimen initiated during pregnancy and continued for life).
+The variables used to model the different scenarios were maternal CD4+ T lymphocyte (CD4+ cell) count (350-500 versus > 500 cells/µl), rate of decline in CD4+ cells (average, rapid, slow), breastfeeding status (yes, no) and breastfeeding duration (12, 18 or 24 months).
+FINDINGS
+For women with CD4+ cell counts of 350-500 cells/µl, the incremental cost per 1000 women was 157,345 United States dollars (US$) for breastfeeding women and US$ 92,813 for non-breastfeeding women.
+For women with CD4+ cell counts > 500 cells/µl, the incremental cost per 1000 women ranged from US$ 363,443 to US$ 484,591 for breastfeeding women and was US$ 605,739 for non-breastfeeding women.
+CONCLUSION
+From a cost perspective, a policy switch from Option B to Option B+ is feasible in PMTCT programme settings where resources are currently being allocated to Option B.

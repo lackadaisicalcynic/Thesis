@@ -1,0 +1,9 @@
+[The influence of STAT4 rs7574865 (G/T) polymorphism on the risk of clinical and immunological phenotypes of systemic sclerosis in a Russian patient population: Results of a pilot study].  AIM
+To examine the association of signal transducer and activator transcription 4 (STAT4) rs7574865 G/T polymorphism with a predisposition to systemic sclerosis (SSC) and associated clinical and autoimmune phenotypes in a Russian population.
+SUBJECTS AND METHODS
+A total of 102 patients with SSC and 103 healthy individuals as controls were examined.
+STAT4 rs7574865 polymorphism was investigated by real-time polymerase chain reaction.
+RESULTS
+The carriers of the T allele showed a statistically significant association with SSC, a diffuse form (DF), the presence of interstitial lung disease (ILD), cardiac injury (CI), and seropositivity for anti-topoisomerase I antibodies (ATA).
+CONCLUSION
+The findings results confirm the important role of STAT4 gene in the predisposition to SSC and its phenotypes, such as DF, ILD, CI, and ATA in the Russian population.

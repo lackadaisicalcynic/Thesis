@@ -1,0 +1,14 @@
+[Predictors of the efficiency of short-term interferon-containing therapy using direct-acting antiviral drugs in patients with chronic hepatitis C virus genotype 1].
+AIM  To identify predictors for the high efficiency of short-term interferon-containing antiviral therapy (AVT) using direct-acting antivirals (DAAs) in patients with chronic hepatitis C (CHC) virus (HCV) type 1 (CHC-1).
+MATERIAL AND METHODS
+A total of 2,798 case histories of patients aged 18 to 60 years who received AVT using peginterferon, ribavirin in combination with DAAs for CHC-1, which was stopped at 10 to 14 weeks, were selected from the archives of the healthcare facilities of the Moscow Region.
+The inclusion criteria were aviremia achieved when AVT was discontinued; therapy using the dose recommended in compliance with the international standards; and adherence during treatment.
+RESULTS
+The analysis included 179 case histories, including 158 cases of discontinuation of triple AVT using a protease inhibitor (telaprevir) and 22 cases of that of quadruple treatment (QT) with asunaprevir and daclatasvir.
+There were two main factors predicting a high probability of achieving a sustained virological response (SVR) in patients with HCV-1 during short-term triple AVT: viremia at 28 days of AVT, which was registered by a highly sensitive polymerase chain reaction (PCR) assay (its analytical sensitivity was 12 IU/ml), and the genotype CC of interleukin-28B (IL-28B) rs12979860.
+With a combination of these two factors, recovery was observed in 100% of cases.
+SVR was observed in all cases of QT discontinuation, regardless of the stage of fibrosis and the subtype of CHC genotype.
+However, the resulting sample was unrepresentative.
+CONCLUSION
+Triple AVT using a protease inhibitor may be reduced in patients with CHC-1 and the CC allelic variant in IL-28B if viremia is achieved at 28 days of AVT, as evidenced by highly sensitive PCR assay.
+Short-term QT needs further investigation.

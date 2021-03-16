@@ -1,0 +1,9 @@
+[Is it personalized treatment of dementia based on the CYP2D6 gene polymorphism possible?]
+Treatment of dementia is an urgent problem of modern neurology.  Currently, four drugs are recommended to treat dementia, two of which (donepezil and galantamine) are metabolized with participation of the CYP2D6 enzyme.
+Genetic heterogeneity of CYP2D6 is associated with different enzyme activity, which affects the concentration of its substrates in blood and, accordingly, the clinical effect and the risk of side-effects of drugs.
+AIM
+To genotype the single nucleotide polymorphism 1846G>A in the CYP2D6 gene and evaluate its effect on the efficacy and safety of donepezyl in the treatment of Alzheimer's disease (AD).
+MATERIAL AND METHODS
+Twenty-one patients with AD were genotyped for the CYP2D6 1846G>A polymorphism, which corresponds to the most common in Caucasians allele CYP2D6*4.  An effect of this polymorphism on the efficacy and safety of donepezyl was assessed.
+RESULTS AND CONCLUSION
+There was no association between the CYP2D6 genotype and the efficacy of antidementia therapy (OR=0,44, 95% CI -3.0-1,38; p=0,46).

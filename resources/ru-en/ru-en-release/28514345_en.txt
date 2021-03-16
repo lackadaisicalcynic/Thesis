@@ -1,0 +1,3 @@
+[Immunohistochemical criteria for differential diagnostics of squamous epithelium changes in pyogenic granuloma and squamous cell carcinoma of the oral mucosa].  The paper presents an example of differential diagnostic studies for pyogenic granuloma and oral squamous cell carcinoma (SCC).
+In the described case immunohistochemistry with antibodies to Ki-67 and Gli1 was used as conventional histological procedure proved to be inconvenient for adequate diagnostics.
+The immunohistochemical study established increased proliferative activity of epithelial cells specific both pyogenic granuloma and oral SCC, but intensive Gli1 protein expression in membranes and cytoplasm of epithelial cells with malignant transformation allowed differentiation of these neoplasms.

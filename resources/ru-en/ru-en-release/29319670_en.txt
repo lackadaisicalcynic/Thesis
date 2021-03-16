@@ -1,0 +1,13 @@
+AIM  to study the dynamics of recovery of electrophysiological parameters of the retina after surgical treatment of idiopathic macular hole (IMH) and to assess their relevance to functional prognosis of the operation.
+MATERIAL AND METHODS
+The study included 118 patients (120 eyes) examined before and after successful IMH surgery.
+The patients underwent electroretinography (Ganzfeld and multifocal), static computed perimetry, and optical coherence tomography.  They were also tested for the electrical sensitivity of the retina, lability of the visual analyzer, and critical fusion frequency.
+Postoperative functional parameters of the retina (electrophysiological included) were followed up at 1-2, 5-6, and 12-plus months and then compared to those obtained before surgery.  Parameter dynamics, relationships, and the prognostic value of particular indicators were of interest.
+RESULTS
+It was found that after successful restoration of retinal anatomy, functional parameters of the retina gradually improve and reach their maximum at 3 to 12 months, however, remain below the normal range in all cases.
+In 58 cases, postoperative visual acuity was 0.5 or higher (regarded as 'high postoperative visual acuity' - the HPVA group) and was accompanied by high density of foveal biopotential and foveal light sensitivity.
+In the HPVA group, the majority (62%) were patients with preoperative 'shift phenomenon' (a shift of the maximum of bioelectric potential from the fovea to parafovea and perifovea, its amplitude and density being supernormal for these retinal regions).
+CONCLUSION
+Changes in electrophysiological and other functional parameters of the retina can be detected within 3-12 months after successful IMH surgery.
+Their recovery is not full and goes with a delay relative to restoration of retinal structure.
+The probability of high functional result of the operation, which includes an increase in visual acuity, foveal light sensitivity, and amplitude and density of foveal biopotential, is higher in patients with biopotential shift at baseline.

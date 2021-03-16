@@ -1,0 +1,13 @@
+Schistosomiasis in school-age children in Burkina Faso after a decade of preventive chemotherapy.
+OBJECTIVE  To assess the impact of a decade of biennial mass administration of praziquantel on schistosomiasis in school-age children in Burkina Faso.
+METHODS
+In 2013, in a national assessment based on 22 sentinel sites, 3514 school children aged 7-11 years were checked for Schistosoma haematobium and Schistosoma mansoni infection by the examination of urine and stool samples, respectively.
+We analysed the observed prevalence and intensity of infections and compared these with the relevant results of earlier surveys in Burkina Faso.
+FINDINGS
+S. haematobium was detected in 287/3514 school children (adjusted prevalence: 8.76%, range across sentinel sites: 0.0-56.3%; median: 2.5%).
+The prevalence of S. haematobium infection was higher in the children from the Centre-Est, Est and Sahel regions than in those from Burkina Faso's other eight regions with sentinel sites (P < 0.001).
+The adjusted arithmetic mean intensity of S. haematobium infection, among all children, was 6.0 eggs per 10 ml urine.
+Less than 1% of the children in six regions had heavy S. haematobium infections - i.e. at least 50 eggs per 10 ml urine - but such infections were detected in 8.75% (28/320) and 11.56% (37/320) of the children from the Centre-Est and Sahel regions, respectively.
+Schistosoma mansoni was only detected in two regions and 43 children - i.e. 1 (0.31%) of the 320 from Centre-Sud and 42 (8.75%) of the 480 from Hauts Bassins.
+CONCLUSION
+By mass use of preventive chemotherapy, Burkina Faso may have eliminated schistosomiasis as a public health problem in eight regions and controlled schistosome-related morbidity in another three regions.

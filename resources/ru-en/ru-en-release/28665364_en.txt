@@ -1,0 +1,12 @@
+[Clinical and neuroimaging signs of cardioembolic stroke laboratory in children].
+AIM  To study clinical and neuroimaging signs of cardioembolic stroke (CES) in children.
+MATERIAL AND METHODS
+Ten children (mean age 3.5±3.5 years) were examined.  Eight children met the diagnostic criteria of CES CASCADE, two children were diagnosed with CES based on the complex of symptoms.  A comparison group consisted of 90 children with other subtypes of ischemic stroke (IS).
+The diagnosis was confirmed by MRI and magnetic-resonance angiography; symptom severity was assessed with PedNIHSS and PSOM.
+RESULTS AND CONCLUSION
+The PedNIHSS score in the acute stage of CES was higher (18.4±9.34) compared to patients with other subtypes of IS (12.6±6.2; p=0.0065).
+Six patients had large cerebral infarctions with the involvement of basal ganglia, internal capsule, white matter and cerebral cortex.  In two patients, the infarction affected the cerebral cortex and underlying white matter, in one patient it affected the cortex from one side and the basal ganglia from the other.  A damage of the cortex was noted in one patient.
+The frequency of recurrent CES was 30%, of fatal cases 20%.
+Recurrent IS and severe residual neurological deficit were more frequent in CES.
+CONCLUSION
+Early disease onset, acute development and progression of neurological deficit up to the maximal level in the first 5 min, marked severity of the acute stage (PedNIHSS score >15), early onset of neurological function recovery, marked residual neurological deficit (PSOM score >2) are the additional signs of CES.

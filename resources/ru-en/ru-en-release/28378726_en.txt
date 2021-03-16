@@ -1,0 +1,11 @@
+[Impact of vaccination on the course of bronchial and systemic inflammation in patients with COPD and CHD].
+AIM  To investigate the effect of 13-valent pneumococcal conjugate vaccine (PCV-13) on the clinical and functional manifestations of systemic inflammation in patients with chronic obstructive pulmonary disease (COPD) and coronary heart disease (CHD).
+SUBJECTS AND METHODS
+The protocol included 36 patients with COPD and 36 patients with COPD concurrent with CHD.
+The number of COPD exacerbations, hospital admissions, pneumonia cases, degree of dyspnea, and functional indicators were analyzed.
+The levels of markers for inflammation, such as C-reactive protein (CRP), fibrinogen, and procalcitonin (PCT), were investigated.
+RESULTS
+A year after vaccination, the COPD group showed decreases in the level of CRP, fibrinogen, and PCT by 11, 6, and 2%, respectively; the COPD + CHD group did by 12, 24, and 19%.
+PCT levels demonstrated the closest correlation with clinical and functional parameters; the other indicators showed moderate (CRP) and low (fibrinogen) correlations.
+CONCLUSION
+PCV-13 vaccination can reduce systemic inflammation just a year later.

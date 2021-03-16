@@ -1,0 +1,12 @@
+[The activity of complement system in children with autistic spectrum disorders].
+AIM  To evaluate the state of complement system (CS) activity in children with autistic spectrum disorders (ASD) and children with schizophrenia on the basis of development and implementation of a new method of CS determination.
+MATERIAL AND METHODS
+A study included 249 patients, aged from 3 to 14 years.
+The control group consisted of 279 age-matched children.
+The authors developed a method for integral evaluation of CS activity based on the changes in the death of free swimming ciliata Tetrahymena pyriformis measured with the apparatus BioLat (Moscow, Russia).
+The integral CS activity (T50) was estimated as the time of death of 50% of ciliata in the blood serum (serum concentration was 5%).
+RESULTS AND CONCLUSION
+A comparative analysis of CS activity showed statistical differences in median T50 values between patients and controls (p<0.005).
+Based on CS activity levels, three groups of patients were determined: 1) with the levels lower than the lowest value of the control group (n=112 (39%)); 2) higher than the highest level of the control group (n=103 (36%)); intermittent between low and high values of the control group (n=72 (25%)).
+Significant differences in T50 between the psychotic autism group and children schizophrenia group were identified (p<0.005).
+The CS activity was lower in patients with ASD compared to children with schizophrenia.

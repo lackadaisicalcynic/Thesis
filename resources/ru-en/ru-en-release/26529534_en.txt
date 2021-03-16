@@ -1,0 +1,14 @@
+[Features of the course of nosocomial meningitis in patients of neurosurgical intensive care unit].
+OBJECTIVE
+To determine the incidence rate and risk factors of nosocomial meningitis in patients with complicated postoperative period.  MATERIAL AND METHODS
+We report the results of prospective observation of the course of bacterial meningitis in patients with complicated postoperative period at neurosurgical intensive care unit in 2010-2014.
+RESULTS
+Nosocomial meningitis (NM) developed in 146 patients, which accounted for 12.6±1.0% (CI, 10.74-14.66).
+Patients with meningitis were characterized by longer stay at ICU, prolonged mechanical ventilation, need for central venous access and invasive hemodynamic monitoring, as well as longer course of antibacterial therapy.  Frequency of invasive monitoring of intracranial pressure was similar in these two groups of patients.
+Bloodstream infections (14.8% vs. 4.9%; p<0.000), respiratory tract infections (55% vs. 35.6%; p<0.000), and urinary tract infections (56.4% vs. 30.9%; p<0.000) were more frequently observed in patients with NM.
+The following significant differences were observed between the group of NM patients and the control group: more frequent use of external ventricular drain (72.5% vs. 26.1%; p<0.000), number of reoperations (64.7% vs. 36.3%; p<0.000), and the total operating room time (417.3 min vs. 337.5 min; p<0.000).
+Etiology was ascertained in 61.0±4.0% of cases of nosocomial meningitis.
+CoNS (33.0%) and Acinetobacter baumannii (21.3%) were the main pathogens isolated from cerebrospinal fluid.
+The mortality in patients with meningitis was 31.5±3.8%.
+CONCLUSION
+External ventricular drain, repeated surgery, long-term stay in the operating room, as well as other types of infections may be considered as risk factors for developing nosocomial meningitis in neurosurgical patients at ICU.

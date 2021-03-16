@@ -1,0 +1,5 @@
+[Unified requirements for the structure of the diagnosis to improving national morbidity ststistics and causes of death].
+The overall structure of the diagnosis should be presented underlying disease; complications of underlying disease and coexistent disease.  If patient has other significant conditions contributing to the death (comorbidity), they should be included in the diagnosis after underlying disease as concurrent disease, polypathia or background diseases (condition).
+The category «underlying disease» should include only the disease (condition), which by itself or through the complications can lead to death and should be recorded in Part I of the medical certificate of cause of death.
+Other significant conditions contributing to the death (comorbidity) and defined as concurrent disease, polypathia or background diseases (condition), should be recorded in Part II of the medical certificate of cause of death.
+Coexistent diseases shall not be taken into account of the statistics of causes of death, and therefore they should not stand in a medical certificate of cause of death.

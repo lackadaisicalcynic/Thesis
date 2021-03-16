@@ -1,0 +1,10 @@
+[Ischemic stroke in the patients with comorbid pathology].
+AIM  To study an effect of comorbidity on the course and outcome of ischemic stroke (IS).
+MATERIAL AND METHODS
+Results of a unicenter, retrospective, cohort study of 190 patients with ischemic stroke (IS) were analyzed.
+Severity of stroke, dependence in the daily activities, comorbidity were assessed using NIHSS, the Rankin scale,CCI, CIRS.
+RESULTS AND CONCLUSION
+The correlation of IS severity and outcome with the severity of comorbid pathology assessed by CCI and CIRS was identified.
+Severity of comorbid pathology increased with the age of patients.
+Comorbidity (CCI) and stroke severity (NIHSS) were predictors of IS outcome (the Rankin scale) (R=0.72210324; R2=0.52143308; p=0.0026). The effect of comorbidity on survivability of stroke was shown.
+The results can be useful for the management of the patient with acute IS in a specialized inpatient setting.

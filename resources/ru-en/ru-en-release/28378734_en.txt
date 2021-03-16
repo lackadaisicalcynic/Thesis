@@ -1,0 +1,18 @@
+[Pharmacoeconomic aspects of macitentan in the therapy of pulmonary arterial hypertension].
+AIM  To provide a pharmacoeconomic estimate of macitentan versus bosentan in therapy for pulmonary arterial hypertension (PAH).
+SUBJECT AND METHODS
+An analysis was carried out on the basis of a social perspective for patients, whose mean age was 50 years.
+A budget impact analysis was performed without discounting; with the time horizon of the study being 5 years.
+Assessing the cost- effectiveness of endothelin receptor antagonists used a Markov model based on the meta-analysis of clinical trials.
+The cost of bosentan was calculated from the 2016 registered prices with VAT.
+That of macitentan was estimated from the expected price of 170,000 rubles per 10-mg dose pack #28 if the drug is included in the List of Essential Medicines with VAT.
+The cost of sildenafil and iloprost was consistent with the January-to-November 2016 auctio.  RESULTS
+At cost-effectiveness assessment costs and outcomes were both discounted at an annual rate of 3,5%.
+RESULTS
+After 5 years of therapy with macitentan in patients with baseline Functional Class (FC) II PAH, the proportion of patients with FC I-II was shown to be 2.6% more than that during therapy with bosentan (20.1 and 17.5%, respectively), and that of the died patients was 1.5% lower (69.5 and 71%, respectively).
+In baseline FC III PAH following 5 years, the proportion of patients with FC III PAH on initial macitentan treatment was 1% more than that on bosentan therapy (8.1 and 7.1%, respectively), and that of the died patients was 0.5% lower (87.2, and 87.7%, respectively).
+The cost-effectiveness analysis shows that therapy with macitentan versus bosentan not only causes some increase in life expectancy in terms of quality of life (by 0.414 and 0.230 QALYs in FC II and III PAH, respectively), but also results in a small cost decrease in FC II and III PAH (by 11,000 and 16,000 rubles per patient, respectively).
+Thus, macitentan is a dominant alternative versus bosentan.
+The budget impact analysis indicates that when bosentan is replaced with macitentan, the reduction in health care costs in the Russian Federation will amount to 1.9 million rubles over 5 years, and in all budgetary costs will be 14.7 million rubles.
+CONCLUSION
+Treatment with macitentan in patients with FC II-III PAH is more cost-effective than that with bosentan and does not require an increase in budget costs.

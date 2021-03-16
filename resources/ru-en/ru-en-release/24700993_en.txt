@@ -1,0 +1,15 @@
+Global methylmercury exposure from seafood consumption and risk of developmental neurotoxicity: a systematic review.  OBJECTIVE
+To examine biomarkers of methylmercury (MeHg) intake in women and infants from seafood-consuming populations globally and characterize the comparative risk of fetal developmental neurotoxicity.
+METHODS
+A search was conducted of the published literature reporting total mercury (Hg) in hair and blood in women and infants.
+These biomarkers are validated proxy measures of MeHg, a neurotoxin found primarily in seafood.
+Average and high-end biomarkers were extracted, stratified by seafood consumption context, and pooled by category.
+Medians for average and high-end pooled distributions were compared with the reference level established by a joint expert committee of the Food and Agriculture Organization (FAO) and the World Health Organization (WHO).
+FINDINGS
+Selection criteria were met by 164 studies of women and infants from 43 countries.
+Pooled average biomarkers suggest an intake of MeHg several times over the FAO/WHO reference in fish-consuming riparians living near small-scale gold mining and well over the reference in consumers of marine mammals in Arctic regions.
+In coastal regions of south-eastern Asia, the western Pacific and the Mediterranean, average biomarkers approach the reference.
+Although the two former groups have a higher risk of neurotoxicity than the latter, coastal regions are home to the largest number at risk.
+High-end biomarkers across all categories indicate MeHg intake is in excess of the reference value.
+CONCLUSION
+There is a need for policies to reduce Hg exposure among women and infants and for surveillance in high-risk populations, the majority of which live in low-and middle-income countries.

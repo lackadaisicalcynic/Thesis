@@ -1,0 +1,11 @@
+International travel between global urban centres vulnerable to yellow fever transmission.
+Objective
+To examine the potential for international travel to spread yellow fever virus to cities around the world.
+Methods  We obtained data on the international flight itineraries of travellers who departed yellow fever-endemic areas of the world in 2016 for cities either where yellow fever was endemic or which were suitable for viral transmission.
+Using a global ecological model of dengue virus transmission, we predicted the suitability of cities in non-endemic areas for yellow fever transmission.  We obtained information on national entry requirements for yellow fever vaccination at travellers' destination cities.
+Findings
+In 2016, 45.2 million international air travellers departed from yellow fever-endemic areas of the world.  Of 11.7 million travellers with destinations in 472 cities where yellow fever was not endemic but which were suitable for virus transmission, 7.7 million (65.7%) were not required to provide proof of vaccination upon arrival.
+Brazil, China, India, Mexico, Peru and the United States of America had the highest volumes of travellers arriving from yellow fever-endemic areas and the largest populations living in cities suitable for yellow fever transmission.
+Conclusion
+Each year millions of travellers depart from yellow fever-endemic areas of the world for cities in non-endemic areas that appear suitable for viral transmission without having to provide proof of vaccination.
+Rapid global changes in human mobility and urbanization make it vital for countries to re-examine their vaccination policies and practices to prevent urban yellow fever epidemics.

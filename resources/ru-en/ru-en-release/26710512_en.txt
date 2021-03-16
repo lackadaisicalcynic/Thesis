@@ -1,0 +1,5 @@
+[The chemical toxicological study of cyclomed].  The objective of the present study was to develop the methods for the chemical and toxicological analysis of cyclopentolate contained in the material evidence for the purpose of forensic chemical and forensic toxicological expertises.
+The optimal conditions for the isolation of cyclopentolate from the cyclomed preparation and biological fluids were created using a chloroform-2-ptropanol mixture at pH of the medium 10.0.
+The substance of interest was identified with the use of the color and flocculation reactions, UV spectroscopy, thin layer chromatography and gas chromatography with the use of a mass-selective detector.
+HPLC and GCh/MS were employed for the quantitative determination.
+The results of the two methods are in excellent agreement.

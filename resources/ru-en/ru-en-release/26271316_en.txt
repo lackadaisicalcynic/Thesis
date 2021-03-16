@@ -1,0 +1,5 @@
+[Cardiopulmonary bypass duration as predictor of immediate results after cardiac surgery].
+It was analyzed the results of treatment of 152 patients who underwent heart valve surgery.  Depending on cardiopulmonary bypass (CPB) duration patients were divided into 4 groups: the 1st--up to 90 min, the 2nd--90-120 min, the 3rd--120-180 min, the 4th--more than 180 min. Severity of initial comorbidities was comparable in all groups.
+It was revealed that CPB duration effects on intraoperative blood loss, incidence of acute renal failure, encephalopathy, use of inotropic and angiotonic support (p<0.05).
+Accession of CPB duration was associated with increased number of postoperative complications in all groups (p<0.05).
+"Critical periods" of CPB for every type of postoperative complications are defined.

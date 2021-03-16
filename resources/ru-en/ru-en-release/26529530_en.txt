@@ -1,0 +1,9 @@
+[Blood-brain barrier permeability in healthy rats and rats with experimental C6 glioma after fractionated radiotherapy of the brain].  OBJECTIVE
+To evaluate the effect of fractionated radiotherapy on permeability of the blood-brain barrier in healthy rats and rats with C6 glioma in vivo.
+MATERIAL AND METHODS
+An increase in BBB permeability in C6 glioma was assessed by dynamic MRI monitoring (glioma size before and after radiation therapy in combination with immunotherapy, n=30) and confocal microscopy (fluorescence imaging of tumor invasion boundaries in a dose-dependent experiment for the amount of injected antibodies).
+In healthy rats, BBB permeability to macromolecular substances (MMS) was assessed by ELISA (n=23, 192 plasma samples) and confocal microscopy (n=7).
+RESULTS
+It was shown that BBB permeability to biological macromolecules in blood-brain and brain-blood directions was increased after fractionated radiotherapy.
+CONCLUSION
+Drug delivery to the brain can be improved using therapeutic doses of radiation treatment that affects the BBB and minimizes the risk of serious side effects that are often associated with the drug dose.

@@ -1,0 +1,11 @@
+Systematic review of statistics on causes of deaths in hospitals: strengthening the evidence for policy-makers.
+OBJECTIVE
+To systematically review the reliability of hospital data on cause of death and encourage periodic reviews of these data using a standard method.
+METHODS
+We searched Google Scholar, Pubmed and Biblioteca Virtual de la Salud for articles in English, Spanish and Portuguese that reported validation studies of data on cause of death.  We analysed the results of 199 studies that had used medical record reviews to validate the cause of death reported on death certificates or by the vital registration system.
+FINDINGS
+The screened studies had been published between 1983 and 2013 and their results had been reported in English (n = 124), Portuguese (n = 25) or Spanish (n = 50).  Only 29 of the studies met our inclusion criteria.
+Of these, 13 had examined cause of death patterns at the population level - with a view to correcting cause-specific mortality fractions - while the other 16 had been undertaken to identify discrepancies in the diagnosis for specific diseases before and after medical record review.  Most of the selected studies reported substantial misdiagnosis of causes of death in hospitals.
+There was wide variation in study methodologies.
+Many studies did not describe the methods used in sufficient detail to be able to assess the reproducibility or comparability of their results.  CONCLUSION
+The assumption that causes of death are being accurately reported in hospitals is unfounded.  To improve the reliability and usefulness of reported causes of death, national governments should do periodic medical record reviews to validate the quality of their hospital cause of death data, using a standard.

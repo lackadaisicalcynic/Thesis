@@ -1,0 +1,3 @@
+[Diagnostic possibilities of methods for the evaluation of liver fibrosis in chronic viral hepatitis].  The paper reviews the diagnostic possibilities of different methods for the evaluation of liver fibrosis in chronic viral hepatitis from the point of view of their clinical application.
+Histological examination retains its value as the gold standard method in evaluating the liver.
+Transient elastography is a rather effective tool for identifying severe liver fibrosis.

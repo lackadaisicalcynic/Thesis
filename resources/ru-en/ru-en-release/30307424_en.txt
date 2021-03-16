@@ -1,0 +1,8 @@
+[Classification of surgical complications].  AIM
+To develop classification of surgical complications.  MATERIAL AND METHODS
+The most common and recently proposed classifications of surgical complications (Clavien-Dindo, Occordion, R. Satava, et al., A. Kazaryan, et al.) were analyzed.  Postoperative complications in 25 556 patients were retrospectively assessed.
+Incidence and severity of complications, methods of their correction, effect of complications on length of hospital-stay were analyzed.  RESULTS
+As a result of comprehensive analysis, new classification of surgical complications was proposed.  5 grades of complications were identified.
+Classification is based on anatomical features, type of complications (within surgical access, organ or cavity), correction depending on this type, severity of complications.  Causal relationship of complication with type of repair and increased length of hospital-stay was considered.
+CONCLUSION
+Classification proposed is anatomically justified, considers causal relationship of complications and their repair, as well as length of hospital-stay.

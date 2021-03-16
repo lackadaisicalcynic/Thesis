@@ -1,0 +1,10 @@
+AIM  to evaluate the accuracy of different modified methods for axial length (AL) measurement in silicone-filled eyes.
+MATERIAL AND METHODS
+The study was conducted in a group of 60 patients (60 eyes) with silicone oil tamponade (Oxane 1300 cst).
+Axial length measurements were taken using IOL Master optical coherence biometry ('silicone-filled eye' mode) and modified A-scan ultrasound biometry (velocity of ultrasound passing through the vitreous body set at 980 m/s and 1000 m/s).
+After phacoemulsification and silicone oil removal, AL measurements were repeated on same devices switched to standard pseudophakia modes.
+The results were then compared to those obtained in modified modes before the surgery.
+RESULTS
+Preoperative axial lengths measured by A-scan at 980 m/s tended to be 0-1.5 mm (the median of 0.52 mm) shorter than those obtained after silicone oil removal.
+With 1000 m/s ultrasound velocity the error was much less--from 0 to 0.5 mm (the median of 0.15 mm).  As for preoperative ALs by IOL Master in the 'silicone-filled eye' mode, they were 0-1.2 mm (the median of 0.3 mm) longer than postoperative ones.
+In cases of impossibility or inaccessibility of optical biometry, measurements taken with an A-scan device set at 1000 m/s are sufficient.  The true AL of an eye with silicone oil tamponade falls somewhere between the values obtained with 1000 m/s ultrasound and IOL Master in the 'silicone-filled eye' mode.

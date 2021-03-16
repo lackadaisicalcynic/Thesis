@@ -1,0 +1,14 @@
+[Infective endocarditis: Importance of molecular biological techniques in etiological diagnosis].
+AIM  To investigate the specific features of conventional bacteriological methods and current molecular biological techniques for the etiological diagnosis of infective endocarditis (IE).
+SUBJECTS AND METHODS
+Examinations were made in 53 patients treated at City Clinical Hospital Sixty-Four, Moscow Healthcare Department, in 2012-2015 who underwent simultaneous bacteriological and molecular biological (polymerase chain reaction (PCR) or PCR with further sequencing) examinations of blood or resected cardiac valve tissues.
+RESULTS
+The investigation included 53 patients (31 men; median age, 62 years) with IE (Duke 2009); its primary form was observed in 32 (60.4%) patients.
+Blood bacteriological tests and PCR assays were positive in 28 (52.8%) and 34 (64.2%) patients, respectively.
+There were concordant results in 21 of the 28 positive blood culture cases and discordant results in 7 (25%); at the same time 3 cases showed a compete discordance in the detected causative agents (the growth of Enterococcus spp. was revealed by bacteriological examination and that of Staphylococcus spp., Streptococcus spp., and Escherichia coli by DNA PCR) and a pathogen could not be identified by DNA PCR in 4 patients who had positive blood bacteriological results.
+The positive PCR results for cocci and fungi were obtained in 10 of the 25 (47.2%) examinees with culture-negative IE.
+Rare causative agents were not revealed.
+The tissues obtained from 8 resected damaged heart valves displayed a wider spectrum of pathogens than did blood samples, which was associated with the formation of bacterial films.
+CONCLUSION
+The etiological agent of IE was revealed in venous blood by bacteriological examination in 52.8% of the examinees, by PCR in 64.2%, and by either in 71.7%.
+There were concordant and discordant results in 67.9 and 32.1% of the patients, respectively; among whom 18.9% were found to have pathogen DNA revealed by PCR in culture-negative IE.

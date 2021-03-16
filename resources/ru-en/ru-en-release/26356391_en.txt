@@ -1,0 +1,12 @@
+[Identification of people at the latent stage of Parkinson's disease (the PARKINLAR study): first results and an optimization of the algorithm].  AIM
+To work out an optimal algorithm to identify people at the latent stage of neurodegenerative process of «parkinsonian» type in the Russian population.  MATERIAL AND METHODS
+Authors launched a two-step study aimed at identifying people at the latent stage of Parkinson's disease (PD) in the Russian population - the PARKINLAR (PARKINsonism, LAtent stage, Russia).
+As the first step, we formed a group of «primary risk» by the identification in neurologically healthy people of at least one of the following confirmed PD risk factors: a) the substantia nigra hyperechogenicity (ultrasound screening was performed in 193 people); b) mutations in «parkinsonian» genes (genetic screening was performed in 29 relatives of PD patients from families with LRRK2, PARK2 and GBA mutations).
+Thereby, 37 people comprised the «primary risk» group, of whom 23 agreed to continue further examination (44±10.2 years).
+A matched group of people without the aforementioned primary biomarkers of PD served as control.
+As the second step, we undertook in the prescreened groups a complex of investigations assessing the presence of secondary («minor») biomarkers of PD: Sniffin' Sticks olfactory testing; color visual evoked potentials; analysis of goal-directed eye-head-hand movements with the use of a special neuro-cybernetic system; assessment of motor and non-motor symptoms with the use of UPDRS and NMSS scales.
+RESULTS
+When comparing the «primary risk» group with controls, maximal differences in the occurrence of symptoms were seen for goal-directed eye movements (43.5% vs. 20.0%) and color vision (39.1% vs. 26.7%).
+Among these individuals, we found two people with 4 secondary biomarkers and one with 3, and no such observations in controls.
+People with the combination of a primary biomarker with several secondary biomarkers of PD comprised a group of «high risk» in our study.
+CONCLUSION  Optimization of this algorithm of population screening of people predisposed to the development of PD may be done by expanding the spectrum of biomarkers and assessing their validity in a long-term prospective observational study.

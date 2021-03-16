@@ -1,0 +1,12 @@
+[Associations between metabolic syndrome and reduced lung function in young people].
+AIM  To reveal possible associations between metabolic syndrome (MS) and reduced lung function.
+SUBJECTS AND METHODS
+In 2013-016, a cross-sectional survey was conducted in 908 Novosibirsk dwellers, which included spirometry to evaluate external respiratory function (ERF).
+For the detection of MS, the investigators used the 2009 All-Russian Research Society of Cardiologists criteria: waist circumference (WC) > 80 cm for women and >94 cm for men in combination with two of the following criteria: blood pressure (BP) ≥130/85 mm Hg, triglycerides (TG) ≥1.7 mmol/l, high-density lipoproteins (HDL) cholesterol <1.0 mmol/l for men and <1.2 mmol/l for women, low-density lipoprotein (LDL) cholesterol >3.0 mmol/l, and glucose ≥6.1 mmol/l.
+RESULTS
+The mean values of WC were significantly greater with a forced expiratory volume in one second (FEV1) <80% than those with a FEV1 of ≥80% in both men (p=0.002) and women (p=0.050); in women, the mean values of WS were higher than those with a FEV1/forced vital capacity (FVC) <70% than those with a FEV1/FVC of ≥70% (p=0.047); the mean systolic and diastolic BP levels were significantly more with reductions in FEV1 and FVC, and the level of HDL cholesterol was significantly lower than that with a FEV1 of < 80% in men only.
+Significant correlations were found between FEV1 and all components of MS in men, between the majority of components of MS and FVC in men, between WC, BP, and FEV1/FVC in men and women, between plasma glucose levels and FEV1/FVC in women.
+Linear regression analysis revealed significant inverse correlations of FEV1 with TG, glucose, BP; those of FVC with TG, glucose; at the same time a positive association with HDL cholesterol in men, and only a negative correlation of FEV1/FVC with WC.
+CONCLUSION
+The revealed associations between MS and reduced lung function can most likely be explained by the greater prevalence of both MS and its components (hypertension, hypertriglyceridemia, hyperglycemia, LDL hypercholesterolemia) among Novosibirsk men.
+This is consistent with the assertion that the decline in ERF, particularly FEV1, may be a marker of future cardiovascular disease morbidity and mortality.

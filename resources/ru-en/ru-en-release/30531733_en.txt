@@ -1,0 +1,5 @@
+To evaluate long-term outcomes of spinal neurostimulation (SNS) in patients with critical lower limb ischemia (CLI).  MATERIAL AND METHODS
+Long-term outcomes of SNS were assessed in 52 CLI patients.
+Changes of clinical status were considered by using of Rutherford R.B. et al. scale.  Before and in 12 months after SNS percutaneous oxygen partial pressure (TO2, mm Hg) was measured at the affected lower limb at rest and in orthostatic test.
+SNS improved clinical status in most cases through following effects: 1) reduced pain syndrome and increased motor activity; 2) skin ulcers healing due to increased TO2 and improved functional state of microcirculation.  No augmentation of TO2 during orthostatic test at TO2 <10 mm Hg was associated with negative clinical dynamics after SNS (OR 3.2, CI 2.2-54.1, p=0.002).
+Coronary artery disease with supra-aortic vessels lesion was associated with reduced ABI after SNS (OR 2.1, CI 1.4-3.8, p=0.001).

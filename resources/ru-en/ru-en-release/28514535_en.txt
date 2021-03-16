@@ -1,0 +1,9 @@
+Analysis of mortality in individuals over 60 years of age in inner Mongolia between 2008 and 2012.  Our study was designed to determine the cause of death in people over 60 years of age in Inner Mongolia.  We performed quantitative analysis of mortality rate, with a special focus on the population characteristics in the Inner Mongolia region of China to provide a reference for future studies.
+Data were obtained from the Centers for Disease Control from six monitoring points of Death Registry System (DRS) in Inner Mongolia, covering the period 2008-2012 years.
+We calculated the crude mortality rate over five years, as well as the causes of death and potential-years of life lost (PYLL) by gender over the same time period.  We also calculated the crude mortality across different age-specific groups, and analyzed cause of death across these groups.
+Between 2008 and 2012, the crude mortality rate of individuals in Inner Mongolia aged 60 years or older was 3366,73 /100 000.
+The crude mortality rate was higher among males (4158,68/100 000) than among females (2633,22/100 000), resulting in a male-female mortality ratio of 1,58 and a total PYLL of 48 968 person-years for males and females combined.
+Diseases of the circulatory system were the greatest contributor to mortality (1978,50/100 000) and PYLL (25 700 person-years).The frequency of deaths due to diseases of the circulatory and respiratory systems increased with age, while the proportion of neoplasms declined with age.
+The mortality of individuals in Inner Mongolia over 60 years of age is moderate compared with studies of other Chinese populations.
+Diseases of the circulatory system, neoplasms, and diseases of the respiratory system were the leading causes of death.
+We therefore recommend that healthy lifestyle choices be advocated among the elderly to reduce the incidence of chronic, non-communicable diseases.

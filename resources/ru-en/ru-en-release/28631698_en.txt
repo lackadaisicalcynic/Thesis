@@ -1,0 +1,20 @@
+[Hepatitis C virus-associated cryoglobulinemic vasculitis: A 20-year experience with treatment].
+AIM  To summarize the experience of a multidisciplinary therapy hospital in treating patients with hepatitis C virus (HCV)-associated cryoglobulinemic vasculitis (CV).
+SUBJECTS AND METHODS
+Seventy-two patients (mean age, 49.4±10.3 years) with HCV-associated CV were examined and followed up for an average period of 2.8±3.6 years.
+The efficiency of traditional (corticosteroids ± cyclophosphamide) and selective (rituximab) immunosuppressive therapy (IST) was estimated in 31 and 15 observations, respectively, and that of antiviral therapy (AVT) in 25.
+Vasculitis activity was assessed using the Birmingham vasculitis activity score (BVAS).
+The patients' survival was studied; multivariate logistic regression analysis was carried out.
+RESULTS
+24 (33.4%) of the 72 patients had a stage of liver cirrhosis (LC).
+The pretreatment mean BVAS was 11.9±7.2 (range 2 to 36).
+Severe CV (BVAS ≥15) was present in 30.6% of the patients.
+AVT was accompanied by achievement of sustained virologic response in 48% of the patients, clinical remission in 68% and had an advantage over IST in relation to long-term treatment results.
+Rituximab was significantly more effective than traditional immunosuppressants (remission rates of 73 and 13%, respectively).
+Combined therapy (rituximab and AVT) was most effective in patients with severe forms of vasculitis.
+Sixteen patients died from complications of vasculitis (37.5%), infection (37.5%), and LC (25%).
+The factors adversely affecting prognosis were age >55 years (odds ratio (OR), 4.49), the presence of LC (OR, 3.68), renal failure (OR, 4.66) and the use of glucocorticosteroids (OR, 3.91).
+CONCLUSION
+HCV-associated CV can determine the prognosis of chronic HСV infection.
+AVT is the treatment of choice in all patients with HСV-associated CV.
+AVT must be combined with rituximab therapy in patients with severe forms of vasculitis.

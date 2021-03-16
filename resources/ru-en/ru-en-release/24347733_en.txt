@@ -1,0 +1,11 @@
+The impact of rural health system reform on hospitalization rates in the Islamic Republic of Iran: an interrupted time series.
+OBJECTIVE  To assess the effects on hospital utilization rates of a major health system reform - a family physician programme and a social protection scheme - undertaken in rural areas of the Islamic Republic of Iran in 2005.
+METHODS
+A "tracer" province that was not a patient referral hub was selected for the collection of monthly hospitalization data over a period of about 10 years, beginning two years before the rural health system reform (the "intervention") began.
+An interrupted time series analysis was conducted and segmented regression analysis was used to assess the immediate and gradual effects of the intervention on hospitalization rates in an intervention group composed of rural residents and a comparison group composed of urban residents primarily.  FINDINGS
+Before the intervention, the hospitalization rate in the rural population was significantly lower than in the comparison group.  Although there was no significant increase or decline in hospitalization rates in the intervention or comparison group before the intervention, after the intervention a significant increase in the hospitalization rate - of 4.6 hospitalizations per 100 000 insured persons per month on average - was noted in the intervention group (P < 0.001).
+The monthly increase in the hospitalization rate continued for over a year and stabilized thereafter.
+No increase in the hospitalization rate was observed in the comparison group.
+CONCLUSION
+The primary health-care programme instituted as part of the health system reform process has increased access to hospital care in a population that formerly underutilized hospital services.
+It has not reduced hospitalizations or hospitalization-related expenditure.

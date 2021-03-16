@@ -1,0 +1,10 @@
+Poisoning deaths in China, 2006-2016.
+Objective  To provide a comprehensive overview of poisoning mortality patterns in China.
+Methods
+Using mortality data from the Chinese national disease surveillance points system, we examined trends in poisoning mortality by intent and substance from 2006 to 2016.
+Differences over time between urban and rural residents among different age groups and across external causes of poisoning were quantified using negative binomial models for males and females separately.  Results
+In 2016, there were 4936 poisoning deaths in a sample of 84 060 559 people (5.9 per 100 000 people; 95% confidence interval: 5.6-6.2).
+Age-adjusted poisoning mortality dropped from 9.2 to 5.4 per 100 000 people between 2006 and 2016.  Males, rural residents and older adults consistently had higher poisoning mortality than females, urban residents and children or young adults.
+Most pesticide-related deaths (34 996 out of 39 813) were suicides among persons older than 15 years, although such suicides decreased between 2006 and 2016 (from 6.1 per 100 000 people to 3.6 for males and from 5.8 to 3.0 for females).  In 2016, alcohol caused 29.3% (600/2050) of unintentional poisoning deaths in men aged 25-64 years.
+During the study period, unintentional fatal drug poisoning by narcotics and psychodysleptics in individuals aged 25-44 years increased from 0.4 per 100 000 people to 0.7 for males and from 0.05 to 0.13 for females.  Conclusion
+Despite substantial decreases in mortality, poisoning is still a public health threat in China.  This warrants further research to explore causative factors and to develop and implement interventions targeting at-risk populations.

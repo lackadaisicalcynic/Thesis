@@ -1,0 +1,12 @@
+[Clinical and laboratory parameters in assessing the risk of exacerbations in chronic obstructive pulmonary disease].
+AIM  To estimate the significance of measuring the concentrations of cytokines and immunoglobulins and the relative counts of lymphocyte subpopulations in peripheral blood, as well as clinical parameters in patients with chronic obstructive pulmonary disease (COPD) in order to assess the risk of exacerbations.
+SUBJECTS AND METHODS
+Thirty-seven patients with COPD were examined.
+A study group consisted of 31 patients.
+Patients with rare exacerbations were assigned to those who had no or one case; patients with frequent exacerbations were those who had two or more cases a year after examination.
+A prognostic model was created using the binary logistic regression analysis.
+RESULTS
+A significant statistical model was developed as a regression equation involving 4 indicators (vascular endothelial growth factor, C-reactive protein, CAT scores, and number of exacerbations in the previous year).
+This mathematical model can predict frequent exacerbations in next year with a sensitivity of 94.1% and a specificity of 80%.
+CONCLUSION
+The mathematical model created to estimate the risk of frequent exacerbations may be used to elaborate adequate individual treatment regimens for both smoking and non-smoking patients with COPD.

@@ -1,0 +1,13 @@
+AIM  to provide the morphological characteristics of experimental Hantavirus infection under heat stress conditions to identify the possibilities of its modeling in resistant laboratory animals.
+MATERIAL AND METHODS
+Experiments were carried out on outbred albino mice that were divided into 4 groups: 1) intact mice unexposed to heating; 2) those exposed to heating; 3) Hantavirus-infected animals unexposed to preheating; 4) those exposed to preheating.
+The animals in Groups 2-4 were long exposed to heat stress at a temperature of 30 °C for 3 hours during 3 days.
+Strain Aa 60343 (PM-79-95) of the Far East genovariant of Hantaan virus (the genus Hantavirus, family Bunyaviridae) from the collection of the G.P. Somov Research Institute of Epidemiology and Microbiology was used to induce infection.
+The animals in Groups 3 and 4 were intraperitoneally injected with 700 FFU of Hantavirus per mouse.
+Materials (lung, liver, kidney, and spleen) taken from Groups 2-4 animals were collected for histological examination on days 1, 3, 7 and 14 of observation.
+RESULTS
+The intact albino mice in Group 1 showed no histopathological changes in the organs.
+After heat exposure, Group 2 animals were found to have an immunomorphological response in the interstitial tissues of the lung, liver and kidney in partial lymphoid hypoplasia of the spleen.
+There were no signs of inapparent infection in the presence of marked immunomorphological changes in the organs in Group 3 of hantavirus-infected animals unexposed to preheating.
+In Group 4, those exposed to preheating exhibited dystrophic and destructive changes in the target organs (lungs, kidneys) in the presence of immunodeficiency manifestations of manifestations that were more pronounced in dead animals.  CONCLUSION
+In an unresponsive model (adult albino mice), Hantavirus infection caused only obvious immunomorphological changes in the organs.  Prolonged preheat stress in the hantavirus-infected animals promoted inapparent infection and morphological manifestations of induced secondary immunodeficiency that was responsible for the manifestation of an infectious process in some animals.

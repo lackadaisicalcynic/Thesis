@@ -1,0 +1,13 @@
+[Cytokine profile changes in children with juvenile idiopathic arthritis-associated uveitis].  AIM
+to identify the differences between serum cytokine profiles in juvenile idiopathic arthritis (JIA) with or without uveal tract inflammation.  MATERIAL AND METHODS
+Serum cytokine profiles were studied in two groups of patients: 20 children with JIA and JIA-associated uveitis and 33 children, who had no signs of uveitis under basic therapy for their JIA.
+All the patients showed drug remission of articular syndrome.  Inflammation of the choroid took the form of chronic anterior uveitis.
+The process was active in 95% of cases.  The control group consisted of 35 children without rheumatic disease or other acute condition at the time of examination.
+Groups were comparable in terms of age and sex.
+Serum levels of TNF-α, IFN-γ, IL-17, IL-10 were measured by the enzyme multiplied immunoassay technique.
+RESULTS
+A statistically significant increase in TNF-α, IFN-γ, IL-17, and IL-10 levels was found in all patients as compared to the control group.
+A comparison drawn between serum cytokine levels of JIA patients and those, who also suffered from JIA-associated uveitis, revealed a decrease in IFN-γ and an increase in IL-10 in the latter group.
+There was also a statistically significant positive correlation between TNF-α and IFN-γ serum levels in patients with JIA-associated uveitis.
+CONCLUSION
+Development of uveitis in patients with drug remission of JIA occurs on the background of cytokine imbalance in the serum, in particular, increased concentrations of proinflammatory TNF-α and IL-17 cytokines along with reduced IFN-γ and increased IL-10 levels.  This may be regarded as risk factors for ocular inflammation and should be taken into account when making treatment decisions.

@@ -1,0 +1,10 @@
+[Predictors of hepatic insufficiency in obstructive jaundice].
+AIM
+To develop predictive model for hepatic insufficiency in obstructive jaundice.
+MATERIAL AND METHODS
+Obstructive jaundice was modeled by the author's method on 48 mini pigs, while morpho-functional features of erythrocytes were studied by using of INTEGRA Aura atomic force microscope (NT-MDT, Zelenograd, Russia).  Histological specimens were stained with hematoxylin and eosin.
+Discriminant analysis was used to create predictive model for hepatic insufficiency.
+RESULTS  Mathematical model of hepatic insufficiency prediction has been developed.
+Sensitivity and specificity of this model were 94.1% and 74.2% respectively.  Total percentage of correct predictions was 81.3%.
+CONCLUSION  Severe obstructive jaundice contributes erythrocyte's transformation from biconcave to dome-shaped followed by changes of its physical properties.
+Erythrocyte's volume and activity of cytolysis enzymes are the most informative to predict hepatic insufficiency.  Our model allows us to diagnose this complication at early stages and to correct pre-, intra- and postoperative therapy.

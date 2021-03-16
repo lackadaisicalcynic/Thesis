@@ -1,0 +1,3 @@
+[The comprehensive approach to ensure the quality of forensic medical examination of a cadaver].  The objective of the present work was to estimate the effectiveness of the comprehensive monitoring system designed to enhance the quality of forensic medical expertise for determining the cause of death in the hanging cases.
+It was shown that the practical application of the algorithmization and automated quality control system improves the effectiveness of forensic medical examination of the cadavers in the hanging cases.
+The system performs the control, directing, and teaching functions.  Moreover, it allows to estimate the completeness of the examination of the cadaver.

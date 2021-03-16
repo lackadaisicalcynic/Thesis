@@ -1,0 +1,18 @@
+[Size-based classification of choroidal melanoma and its role in treatment decision-making].  AIM
+To specify indications for brachytherapy (BT) in large choroidal melanoma (CM) so that tumor size and vital prognosis were considered.
+MATERIAL AND METHODS  We retrospectively analyzed data from 161 CM patients who were treated with BT and followed-up at either the Ophthalmological Clinical Hospital or some other Moscow medical facility and also registered by the City Cancer Registry.
+RESULTS
+Patient age at the time of starting the treatment lied within the range of 17 to 84 years and averaged 56.89±1.93 years.
+During the follow-up period (12-275 months, 95.65±8.4 months on average) hematogenous metastases were found in 23 (14.29%) patients.
+Liver involvement was diagnosed in 8 patients within the average of 23.13 months after treatment.
+Their average survival time was 11 months.
+A total of 142 patients were followed up for more than 36 months (104.87 months on average).  Of them, 15 patients were diagnosed with metastatic CM within 37-167 months after BT (80.27 months on average).
+Despite metastatic disease they generally survived 2.8 time longer than the aforementioned patients (30.8 months).
+The cases were then divided into 3 groups according to J. Shields classification of CM.
+Small melanoma patients did not develop metastases within 99.96±12.47 months of follow-up.
+In medium melanomas, as many as 13.35% of cases were metastatic (with the average survival time of 20.66 months); in large melanomas - 19.51% (with the average survival time of 13.5 months).
+CONCLUSION
+Treatment modality and follow-up periods being the same (7-8 years after BT), larger choroidal melanomas has been shown to be associated with higher risk of hematogenous metastases.
+For local treatment to be successive, the maximal diameter of the tumor should not exceed 10 mm.
+Every fifth patient of those with CM larger than 15 mm is likely to develop hematogenous metastases.
+The results obtained indicate the necessity of decreasing the size thresholds for choroidal melanomas, small and medium in the first place.

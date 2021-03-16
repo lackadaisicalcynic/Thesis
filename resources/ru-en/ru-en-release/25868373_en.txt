@@ -1,0 +1,5 @@
+[Epithelial-mesenchymal transition in health and disease].
+The paper gives general information about the epithelial-mesenchymal transition (EMT), its morphological manifestations, altered expression of a number of proteins, types of EMT, and its role in embryogenesis and human diseases, including that about EMT as a mechanism by which the tumor cell acquires prometastatic potential.
+EMT is a process that is essential in health for gastrulation and the formation of neural crest cells; however, it is also important for the development of abnormalities, among other processes, organ fibrosis and tumor metastases.
+An understanding of the role of EMT in cancer spread has led to active studies of the process in the past decades.  Despite the fact that there are sufficiently many publications on different aspects of EMT, the exact mechanisms regulating the process and the possibility for its therapeutic exposure remain unclear.
+There is also evidence on the possible association of EMT with the generation of cancer stem cells in tumors.

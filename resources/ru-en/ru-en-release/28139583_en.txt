@@ -1,0 +1,4 @@
+[Modeling shifts and correlation of hematological and immunological parameters in chronic generalized periodontitis].
+Simulation of shifts and correlations of hematological and immunological parameters of the T-cell immunity in 106 patients with chronic periodontal disease and 65 individuals of the control group allowed us to identify leading diagnostic parameters with the quantitative evaluation and enhanced contingency of intersystem communications in peripheral blood and cellular immunity.
+Mathematical modelling of systemic immunity revealed the most significant shift in absolute number of T-helpers and T-lymphocytes in peripheral blood.  Less significant shifts were seen in relative numbers of T-helpers and T-suppressors as well as neutrophilic activity.
+The revealed changes may play an important role in both diagnosis and therapy of periodontal disease.

@@ -1,0 +1,15 @@
+[Factors influencing recovery in patients with hemoblastoses and candidemia].
+UNLABELLED  aim: To study the factors influencing the results of treatment for candidemia (CE) in patients with blood system tumors.
+SUBJECTS AND METHODS
+The investigation enrolled patients with hemoblastoses and CE.
+30-day all-cause mortality was analyzed.
+RESULTS
+In an 8-year period (2006-2013), CE was diagnosed in 55 patients (median age, 50 years); there was a preponderance of patients with lymphomas (47%) and acute leukemias (27%).
+The causative agents of CE were C. albicans (38%), C. parapsilosis (17%), C. krusei (11%), C. guilliermondii (11%), C. lusitaniae (6%), C. tropicalis (6%), C. glabrata (3%), C. famata (3%), C. pelliculosa (3%), and C. kefyr (2%).
+30-day all-cause mortality was 43.6%.
+Recovery was statistically significantly more frequently seen following removal of a central venous catheter (67% versus 13%; p=0.004; odds ratio (OR), 14); after use of an antifungal drug on day 1 of isolation of Candida spp. from blood cultures (62% versus 13%; p=0.01; OR, 12); and that of echocandin as a first-line agent (86% versus 42%; p=0.005; OR, 8.4).
+The poor predictors were septic shock (5% recovery rate versus 86% in the patients without this factor; p<0.0001; OR, 0.01), granulocytopenia (42% versus 88%; p=0.001; OR, 0.1); use of amphotericin B as a first-line drug (26% versus 71%; p=0.002; OR, 0.15); hemoblastosis recurrence or resistance (39% versus 73%; p=0.01; OR, 0.24).
+Multivariate analysis showed the positive impact of antifungal administration on day 1 of isolation of Candida spp. from blood cultures on treatment results (p=0.03; OR, 27).
+CONCLUSION
+High mortality rates were noted in the patients with hemoblastoses and CE.
+The recovery rates were statistically significantly higher after use of echinocandin as a first-line agent, after that of an antifungal agent on day 1 of positive blood cultures, after removal of a central venous catheter, and hemoblastosis remission.

@@ -1,0 +1,13 @@
+[The cellular factors of innate immunity in nonpsychotic patients at high risk for schizophrenia].
+AIM  Changes in the parameters of innate immunity in patients with schizophrenia are observed already in the first episode.
+The study was performed to find out whether these changes take place prior to disease manifestation, and what role do they play in the pathogenesis of schizophrenia.
+MATERIAL AND METHODS
+Thirty-five male nonpsychotic patients at high risk of psychosis, aged between 17 to 23 years, were examined.  Phagocyte activity (PA) of neutrophils in the blood serum was evaluated by the number of active neutrophils, i.e. phagocytic index (PhI), and phagocytic number (PhN), which was determined by counting latex particles absorbed with a single phagocytic cell.
+Cytotoxic activity of natural killer lymphocytes (NK CA) was evaluated by the number of cell targets K-562, which remained non-degraded after the contact with natural killer cells.
+The influence of monocytes on NKCA was determined as well.
+RESULTS AND CONCLUSION  Compared to controls, patients had the lower PhI level (p<0.001) which was compensated by the increase in PhN levels, and the lower NK CA level which was increased due to the influence of monocytes.
+Negative correlations between PhI and PhN (r= -0.83, p<0.01) and between the level of NKCA and PhI (r= -0.83, p<0.05) as well as the positive correlation between PhN and SOPS scores (r=0.69, p<0.01) were found.
+After treatment, there was the decreasein the severity of mental disorders (p<0.001).
+The level of PhAN was normalized in 61.9% of patients compared to 36.7% before treatment.
+After treatment, the proportion of patients with normal levels of NK CA was the same as before treatment (40 and 35%, respectively).
+The immune disturbances revealed in the study may play a role in the pathogenesis of the disease and have predictive value for schizophrenia.

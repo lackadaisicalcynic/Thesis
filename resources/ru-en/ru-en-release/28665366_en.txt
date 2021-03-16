@@ -1,0 +1,8 @@
+[Clinical and laboratory predictors of outcome in acute period of atherothrombotic ischemic stroke].
+AIM  To clarify clinical and pathogenetic predictors of outcome in acute period of atherothrombotic stroke (ATS).
+MATERIAL AND METHODS
+One hundred and nineteen patients with ATS were examined.  Characteristics of the clinical picture, a number of white blood cells in peripheral blood in the stage of apoptosis, necrosis as well as the state of intracellular antioxidant protective system were studied.
+RESULTS
+Among the clinical factors that can worsen the course of acute period of ATS, the most important are the size of the focus, consciousness disorders in the first day, basal systolic blood pressure, age of the patient (r=0.496; p=0.01 on the 1st day, r=0.739; p<0.0001 on the 7th day and r=0.620, p<0.0001on the 14th day).
+A direct influence of mitochondrial dysfunction and mitochondrial-induced apoptosis on the course of ATS in the acute period was shown.
+There was a direct correlation between the severity of ATS and quantity of Mito + cells on the 1st (r=0.742; p=0.009) and on the 7th day (r=0.717; p=0.002).  The correlation was revealed between the severity of ATS and content of ANV+-white blood cells on the 7th day (r=0.595; p=0.015) and on the 14th day (r=0.670; p=0.007).  Negative correlation was found between the activity of total SOD and Mn-SOD on the 1st day and the severity of ATS on the 7th day (r=0.628; p=0.010) and (r=0.675; p=0.008), respectively.  The last finding indicates the prognostic value of these parameters.

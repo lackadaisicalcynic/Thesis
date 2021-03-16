@@ -1,0 +1,14 @@
+Methadone maintenance treatment and mortality in HIV-positive people who inject opioids in China.
+OBJECTIVE  To examine the effect of methadone maintenance treatment (MMT) on mortality in people injecting opioids who receive antiretroviral therapy (ART) for the treatment of human immunodeficiency virus (HIV) infection in China.
+METHODS
+The study involved a nationwide cohort of 23 813 HIV-positive (HIV+) people injecting opioids who received ART between 31 December 2002 and 31 December 2011.
+Mortality rates and demographic, disease and treatment characteristics were compared in patients who received either ART and MMT or ART only.
+Factors associated with mortality were identified by univariate and multivariate analysis.
+FINDINGS
+Overall, 3057 deaths occurred during 41 959 person-years of follow-up (mortality: 7.3 per 100 person-years; 95% confidence interval, CI: 7.0-7.5).
+Mortality 6 months after starting ART was significantly lower with ART and MMT than with ART only (6.6 versus 16.9 per 100 person-years, respectively; P < 0.001).
+After 12 months, mortality was 3.7 and 7.4 per 100 person-years in the two groups, respectively (P < 0.001).
+Not having received MMT was an independent predictor of death (adjusted hazard ratio: 1.4; 95% CI: 1.3-1.6).
+Other predictors were a low haemoglobin level and a low CD4+ T-lymphocyte count at ART initiation and treatment at facilities other than infectious disease hospitals.
+CONCLUSION
+Patients would benefit more from both MMT and HIV treatment programmes and would face fewer barriers to care if cross-referrals between programmes were promoted and ART and MMT services were located together.

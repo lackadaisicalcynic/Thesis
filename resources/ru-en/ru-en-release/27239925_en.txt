@@ -1,0 +1,18 @@
+[Bone mineral density in patients with scleroderma systematica].
+AIM  To study the frequency and magnitude of a reduction in bone mineral density (BMD) and its association with clinical parameters in patients with scleroderma systematica (SDS).
+SUBJECTS AND METHODS
+Fifty-six postmenopausal women aged 45-71 years (58.1±7.1 years) with a valid diagnosis of SDS and 44 age-matched healthy women were examined.
+Dual-energy X-ray absorptiometry (Hologic QDR 4500, Waltham, MA) was performed in all the included patients to measure BMD in the lumbar spine (L(I)-L(IV)), femoral neck, and proximal femur.
+RESULTS
+The patients with SDS and the healthy women showed no differences in body mass index (BMI) (24.7±4.6 and 25.7±3.5 kg/m(2), respectively) and postmenopause duration (9.6±6.4 and 9.5±7.0 years, respectively); menopause occurred earlier in the patients with SDS than in the healthy women  (46.9±3.6 and 49.7±3.0 years, respectively (p<0.001).
+The patients with SDS versus the controls had a significantly lower BMD in the lumbar spine (0.821±0.121 and 0.861±0.092 g/cm(2); р<0.05), femoral neck (0.620±0.129 and 0.736±0.112 g/cm(2); p<0.0001), and proximal femur (0.736±0.148 and 0.884±0.124 g/cm(2); р<0.0001).
+Osteoporosis (OP) was detected in 29 (52%) of the 56 patients and in only 5 (11%) of the 44 control women (р<0.0001).
+The patients with diffuse SDS displayed a much greater reduction in BMD in all the regions than those with circumscribed SDS.
+BMD was significantly lower in the patients treated with glucocorticosteroids (GCS) than in the untreated ones.
+In the control group, BMD was associated with age, duration of menopause, and BMI.
+In the patients with SDS, BMD was correlated with BMI and inversely correlated with duration of menopause, and the magnitude of a BMD reduction was closely related to disease duration.
+The patients also showed an inverse correlation of BMD with the daily dose of GCS.
+CONCLUSION
+The postmenopausal women with SDS were found to have a lower BMD in 80% of cases.
+In this category of women, the reduction in BMD was significantly commoner and more pronounced than in the age-matched healthy women.
+Low BMI, diffuse SDS, disease duration, and GCS use are risk factors for reduced BMD and OP.

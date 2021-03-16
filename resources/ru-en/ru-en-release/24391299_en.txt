@@ -1,0 +1,9 @@
+Time intervals in the treatment of fractured femurs as indicators of the quality of trauma systems.
+OBJECTIVE
+To investigate the use of time intervals in the treatment of fractured femurs as indicators of the quality of trauma systems.
+METHODS
+Time intervals from injury to admission, admission to surgery and surgery to discharge for patients with isolated femur fractures in four low- and middle-income countries were compared with the corresponding values from one German hospital, an Israeli hospital and the National Trauma Data Bank of the United States of America by means of Student's t-tests.  The correlations between the time intervals recorded in a country and that country's expenditure on health and gross domestic product (GDP) were also evaluated using Pearson's product moment correlation coefficient.
+Relative to patients from high-income countries, those from low- and middle-income countries were significantly more likely to be male and to have been treated by open femoral nailing, and their intervals from injury to admission, admission to surgery and surgery to discharge were significantly longer.  Strong negative correlations were detected between the interval from injury to admission and government expenditure on health, and between the interval from admission to surgery and the per capita values for total expenditure on health, government expenditure on health and GDP.
+Strong positive correlations were detected between the interval from surgery to discharge and general government expenditure on health.
+CONCLUSION
+The time intervals for the treatment of femur fractures are relatively long in low- and middle-income countries, can easily be measured, and are highly correlated with accessible and quantifiable country data on health and economics.

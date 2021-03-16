@@ -1,0 +1,3 @@
+[The method for the simultaneous registration of several frequency-specific short latency auditory brain-stem responses].  The present article was designed to describe the newly proposed method for the simultaneous registration of several frequency-specific short latency auditory evoked potentials based on the use of the sequences of the maximum length.
+The mutual masking between he sequences of different frequency bands was investigated.
+The possibility for the simultaneous registration of five responses to the stimuli with the central frequency of 0.5, 1, 2, 4, and 8 kHz has ben demonstrated.

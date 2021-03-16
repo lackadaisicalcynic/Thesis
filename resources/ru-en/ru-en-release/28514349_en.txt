@@ -1,0 +1,3 @@
+[Elastic properties and porosity of dental blocks made from non-metal materials used for chairside CAD/CAM crowns].  Elastic properties and internal structure of glass-ceramic, feldspatic ceramic, PMMA and hybrid blocks for chairside CAD/CAM dental crowns were assessed by pulsed acoustic microscopy.
+Elastic modulus of hybrid ceramic was 1.5 times inferior to feldspatic ceramic and glass-ceramic but almost 10 times higher than those of polymer samples.
+We found the presence of pores from a few to hundreds of microns in the bulk of inorganic materials samples, isolated point defects were revealed in polymer materials while in hybrid material defects were not found.

@@ -1,0 +1,16 @@
+PURPOSE  To study the effectiveness of intravitreal aflibercept in high pigment epithelium detachment (PED) in eyes with age-related macular degeneration (AMD).
+MATERIAL AND METHODS
+This study included 16 eyes of 16 patients (10 female and 6 male) aged 52 to 82 years (mean age 68.56±2.31 years).
+Examination of patients included determination of best-corrected visual acuity (BCVA), biomicroscopy with Goldmann lens, photographic recording of the ocular fundus, optical coherence tomography (OCT) and OCT-angiography.
+Results of the treatment were evaluated 1 month after the third injection of aflibercept.
+Among the analyzed parameters were: BCVA, maximum PED height, resorption of perifocal neuroepithelium detachment (NED), expressiveness of hyperreflective content of PED.
+RESULTS
+One months into the treatment, after the third injection, mean BCVA improved by 0.09 to 0.36±0.04, height of PED decreased in average by 225.3±44.6 µm to 326.88±25.13 µm.
+Complete resolution of PED was not achieved in any of the cases.
+Resulting mean height of perifocal PED was 61.25±12.87 µm.
+Full resorption of PED was achieved in 4 eyes.
+Expressiveness of hyperreflective content of PED higher than 50% was observed in 13 eyes (81.25%).
+CONCLUSION
+The results of intravitreal aflibercept in AMD patients with high PED have proved its effectiveness in reducing maximum PED height, improving resorption of perifocal NED and BCVA.
+Optically 'empty' PEDs had higher sensitivity to intravitreal aflibercept than hyperreflective PEDs.
+Statistically significant dependence of BCVA on the height and content of PED was absent.

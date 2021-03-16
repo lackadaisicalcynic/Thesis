@@ -1,0 +1,5 @@
+Discontinuity of the annuity curves.
+III. Two types of vital variability in Drosophila melanogaster.  We confirm five-phased construction of Drosophila annuity curves established earlier.
+Annuity curves were composed of stable five-phase component and variable one.  Variable component was due to differences in phase durations.
+As stable, so variable components were apparent for 60 generations.  Stochastic component was described as well.
+Viability variance which characterize «reaction norm» was apparent for all generation as well.  Thus, both types of variability seem to be inherited.

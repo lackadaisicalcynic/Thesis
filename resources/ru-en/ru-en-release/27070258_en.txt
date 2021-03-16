@@ -1,0 +1,12 @@
+PURPOSE  The article analyzes results of surgical revascularization in patients with symptoms of chronic cerebral ischemia caused by occlusion of the carotid arteries.
+MATERIAL AND METHODS
+We analyzed 404 surgeries for placement of extra-intracranial microvascular anastomoses (EICMAs) performed in 376 patients between 2000 and 2015.
+All patients underwent detailed neurological and neuropsychological examinations before surgery and throughout the follow-up period using the neurological deficit scale (NIHSS).
+Additionally, the medical history data, technical features of surgery, and results of instrumental tests were recorded.
+For a more detailed study of the cerebral circulation, a SCT perfusion examination was conducted in 58 patients before and after placement of EICMA.
+RESULTS
+All patients were divided into 3 groups, depending on the surgical treatment outcomes: improvement (53%), without significant changes (43%), and worsening of clinical symptoms (4%).
+A statistical analysis revealed that the efficacy of EICMA surgery ranged from 22 to 79% and was reliably confirmed by hemodynamic and anamnestic factors as well as by technical details of surgery.
+CONCLUSION
+When determining the indications for surgical revascularization in patients with ischemic stroke consequences, the patient's age, occlusion duration, location and size of ischemic lesions should be considered.
+Also, the choice of the acceptor artery and blood flow through the created anastomosis are of great importance.

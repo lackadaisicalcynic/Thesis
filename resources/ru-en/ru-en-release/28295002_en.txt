@@ -1,0 +1,13 @@
+[Ultrastructural characteristics of gap junctions in human glial brain tumors].
+AIM  to conduct an electron microscopic study of intercellular communication in the samples of gemistocytic astrocytoma, oligodendroglioma, and glioblastoma.
+MATERIAL AND METHODS
+Surgically resected tumor tissue fragments were fixed in 2.5% glutaraldehyde solution, afterfixed in 1% OsO4 solution, dehydrated, and embedded in epoxy resin.
+Ultrathin sections were examined using a Jem 1011 electron microscope (Jeol, Japan).
+RESULTS
+Solitary and closely spaced gap junctions (GJs) formed by the thin processes that have the ultrastructure of an astroglial processes were identified in the astrocytoma samples.
+In this case, chemical synapses were noted to be completely absent in gemistocytic astrocytoma and glioblastoma.
+The identified GJs had a small length and deformed nexuses.
+The oligodendroglioma samples exhibited intact astroglial processes around the chemical synapses; however, interglial GJs were not found.
+CONCLUSION
+The investigation showed the presence of intercellular GJs with some ultrastructural differences in the samples of low- and high-grade astroglial tumors.  According to current data, astrocytomic GJs are able to create a stable self-sustaining network that promotes tumor progression and provides resistance to a therapeutic intervention.
+At the same time, the noticeable reduction in the number of GJs, which is most pronounced in the oligodendroglioma sample, can accelerate tumor cell migration into the surrounding parenchyma.  The investigation of GJs should be, of course, continued using a group of a larger number of glial tumors to confirm the intercellular communication features revealed in this study.

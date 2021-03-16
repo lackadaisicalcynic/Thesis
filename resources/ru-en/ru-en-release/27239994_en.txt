@@ -1,0 +1,8 @@
+[Salivation in children during anticancer chemotherapy].  The study aimed to assess the needs and options for salivation management in children treated with antileukemic chemotherapy.
+In a preliminary cross-sectional study the saliva flow rate and viscosity were evaluated in 75 leukemic children that received chemotherapy with methotrexate in low dose (44 people, 44 episode, group 1), or in high-dose (31 people, 42 episode, group 2), and in 25 healthy children (group 3).
+Then, 26 children were randomly divided into two groups in the 70 episodes course of high-dosed chemotherapy, and received acetylcysteine (A) or only standard oral management (S) for 1-10 day of treatment.  Parameters of salivation and children performance (Lansky et al.) were evaluated.
+Mann-Whitney U-test was used for analysis.
+In group 1, 2 and 3 the flow rate (Me [LQ/HQ]) was 0.5 [0.3; 0.8]; 0.9 [0.6; 1.2] and 0.5 [0.3; 0.6] ml/min respectively (p1-3>0.05; p<0.01; p1-2<0.05).  Viscosity levels in group 1, 2 and 3 were 2.75 [3.67; 3.67], 10.05 [5.3; 26.0] and 3.9 [2.7; 6.5] unites respectively (p1-3>0.05; p2, 3<0.01; p1, 2<0.01).
+In group A and S the flow rate was 2.7 [0.5; 4.1] and 0.4 [0.1; 2.2] ml/min (р<0.05); viscosity was 1.5 [1.2; 4.1] and 6.4 [5.3; 8.1] unites (р<0.001), performance Lansky index was 80 [65; 90] and 70 [60; 80] (р<0.01) respectively.
+Salivation dysfunction complicates the chemotherapy with high-dosed methotrexate in children: it is indicated by high viscosity combined with elevated flow rate.
+Acetylcysteine normalizes saliva viscosity and improves children's performance.

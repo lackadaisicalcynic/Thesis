@@ -1,0 +1,9 @@
+PROBLEM  The World Health Organization has produced clear guidelines for the prevention of mother-to-child transmission (PMTCT) of the human immunodeficiency virus (HIV).
+However, ensuring that all PMTCT programme components are implemented to a high quality in all facilities presents challenges.  APPROACH
+Although South Africa initiated its PMTCT programme in 2002, later than most other countries, political support has increased since 2008.  Operational research has received more attention and objective data have been used more effectively.
+LOCAL SETTING  In 2010, around 30% of all pregnant women in South Africa were HIV-positive and half of all deaths in children younger than 5 years were associated with the virus.
+RELEVANT CHANGES  Between 2008 and 2011, the estimated proportion of HIV-exposed infants younger than 2 months who underwent routine polymerase chain reaction (PCR) tests to detect early HIV transmission increased from 36.6% to 70.4%.
+The estimated HIV transmission rate decreased from 9.6% to 2.8%.
+Population-based surveys in 2010 and 2011 reported transmission rates of 3.5% and 2.7%, respectively.
+LESSONS LEARNT  CRITICAL ACTIONS FOR IMPROVING PROGRAMME OUTCOMES INCLUDED: ensuring rapid implementation of changes in PMTCT policy at the field level through training and guideline dissemination; ensuring good coordination with technical partners, such as international health agencies and international and local nongovernmental organizations; and making use of data and indicators on all aspects of the PMTCT programme.
+Enabling health-care staff at primary care facilities to initiate antiretroviral therapy and expanding laboratory services for measuring CD4+ T-cell counts and for PCR testing were also helpful.

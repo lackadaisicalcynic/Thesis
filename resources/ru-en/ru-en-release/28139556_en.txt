@@ -1,0 +1,7 @@
+[Estimation of poor prognostic factors in patients with pulmonary artery thromboembolism].
+AIM  To identify predictors of fatal outcome in hospitalized patients with risk factors (RF) for pulmonary artery thromboembolism (PATE) during its occurrence.
+SUBJECTS AND METHODS
+To determine predictors of fatal outcome in patients with PATE, the data of a 10-year city hospital pulmonary embolism registry were used to analyze RF for PATE (according to European and Russian guidelines), complaints, medical histories, and laboratory and instrumental data, which can be identified at general surgery or general therapy hospital, as well as a nosological entity existing in the patients.  RESULTS
+According to the existing idea on thrombogenesis, RF for PATE and its fatal outcome, information about used treatment, and autopsy data, 137 parameters were selected in patients with PATE.  For estimating the risk of death in patients with PATE, a logistic regression analysis was employed to make a mathematical model encompassing 10 indicators: bed rest; the presence/absence of lung diseases; chronic venous insufficiency; obesity; the symptom complex of cor pulmonale; postinfarction cardiosclerosis of the left ventricle, pericardial effusion; right atrial dilatation; right ventricular dilation; right ventricular systolic pressure >36 mm Hg as evidenced by echocardiography.
+CONCLUSION
+The mathematical model built during the study allows the calculation of a risk for fatal outcome in the development of PATE for a specific patient in terms of its individual characteristics.

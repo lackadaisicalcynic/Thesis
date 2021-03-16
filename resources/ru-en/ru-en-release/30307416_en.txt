@@ -1,0 +1,23 @@
+[Comparison of standard and fast track rehabilitation in patients with acute appendicitis.  Intermediate results of multicenter prospective randomized trial].
+AIM
+To analyze outcomes of fast track rehabilitation in patients with acute appendicitis.  MATERIAL AND METHODS
+Prospective, randomized multi-center trial including 86 patients was conducted.  There were 38 patients in the main group and 48 in the control group.
+All patients underwent laparoscopic appendectomy under endotracheal anesthesia.  Protocol included informing, no premedication, glucose infusion prior to surgery, antibiotics administration, mesoappendix excision, limited deployment of drainage tubes, intraabdominal prolonged anesthesia, minimal pneumoperitoneum, limited irrigation, minimum power monopolar electrocautery, antiemetics, early activation and eating (2 and 6 hours after surgery).
+Pain was evaluated by visual-analogue scale.
+Auscultative peristalsis was considered every 2 hours after surgery.  Cortisol level was assessed preoperatively, in 6 and 12-24 hours after surgery in 11 (29%) and 15 (31%) patients of the main and control groups respectively.
+Discharge criteria: no leukocytosis, fever and pain syndrome requiring anesthesia, no signs of complications and patient's consent.  RESULTS
+Terms of disease, gender, age and comorbidities were similar in all patients.  Duration of surgery under minimal pneumoperitoneum and standard pressure was also similar: 69.2±3.98 and 70.9±3.89 min (p=0.762).
+Pain syndrome grade and need for analgesics were significantly lower in the main group within entire follow-up.  Pain syndrome was absent at the 1st postoperative day in 16 (42%) and 2 (4.1%) patients of both groups, respectively (score 0-1).
+Phrenic nerve syndrome was observed in 36.8% of the main group and 60.4% of the control group (p=0.05).
+Incidence of dyspepsia and terms of peristalsis onset were similar.
+Length of hospital-stay was 1.45 days in the main group and 3.15 days in the control group (p=0.002).
+In the main group 18 (47%) patients were discharged on the first day after surgery.  There were only 4 (8.3%) patients with similar hospital-stay in the control group (p<0.001).
+There were no repeated hospitalizations.
+Postoperative cortisol concentration was similar in both groups as well as in complicated and uneventful postoperative period.
+In the main group postoperative intestinal paresis (Clavien-Dindo grade 2) occurred in 1 patient.
+In the control group 7 patients had postoperative infiltrate and 1 patient - intestinal paresis (Clavien-Dindo grade 2).
+Postoperative drainage tube was deployed in 3 out of 7 patients with postoperative infiltrates and 6 of them received antibiotic therapy.
+Medication was successfully applied in all patients with complications.
+CONCLUSION
+There are some advantages of FTR for AA including reduced pain syndrome, morbidity and less length of hospital-stay.
+Issue of cortisol concentration requires further trials.

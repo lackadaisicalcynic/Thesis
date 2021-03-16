@@ -1,0 +1,10 @@
+Cost of a human papillomavirus vaccination project, Zimbabwe.
+Objective  To determine the cost of Zimbabwe's human papillomavirus (HPV) vaccination demonstration project.
+Methods
+The government of Zimbabwe conducted the project from 2014-2015, delivering two doses of HPV vaccine to 10-year-old girls in two districts.  School delivery was the primary vaccination strategy, with health facilities and outreach as secondary strategies.
+A retrospective cost analysis was conducted from the provider perspective.  Financial costs (government expenditure) and economic costs (financial plus the value of existing or donated resources including vaccines) were calculated by activity, per dose and per fully immunized girl.
+Results
+The project delivered 11 599 vaccine doses, resulting in 5724 fully immunized girls (5540 at schools, 168 at health facilities and 16 at outreach points).  The financial cost for service delivery per fully immunized girl was United States dollars (US$) 5.34 in schools, US$ 34.90 at health facilities and US$ 288.63 at outreach; the economic costs were US$ 17.39, US$ 41.25 and US$ 635.84, respectively.
+The mean financial cost per dose was US$ 19.76 and per fully immunized girl was US$ 40.03 (economic costs were US$ 45.00 and US$ 91.19, respectively).  The largest number of doses delivered (5788) occurred during the second vaccination round (the second group's first dose concurrently delivered with the first group's second dose), resulting in the lowest financial and economic service delivery costs per dose: US$ 1.97 and US$ 6.79, respectively.
+Conclusion
+The mean service delivery cost was lower in schools (primary strategy) and when more girls were vaccinated in each round, demonstrating scale efficiency.

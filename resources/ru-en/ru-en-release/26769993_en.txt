@@ -1,0 +1,10 @@
+Prevention of neural tube defects by the fortification of flour with folic acid: a population-based retrospective study in Brazil.
+OBJECTIVE  To determine if the fortification of wheat and maize flours with iron and folic acid - which became mandatory in Brazil from June 2004 - is effective in the prevention of neural tube defects.
+METHODS
+Using data from national information systems on births in central, south-eastern and southern Brazil, we determined the prevalence of neural tube defects among live births and stillbirths in a pre-fortification period - i.e. 2001-2004 - and in a post-fortification period - i.e. 2005-2014.  We distinguished between anencephaly, encephalocele, meningocele, myelomeningocele and other forms of spina bifida.
+There were 8554 neural tube defects for 17,925,729 live births notified between 2001 and 2014.  For the same period, 2673 neural tube defects were reported for 194,858 stillbirths.
+The overall prevalence of neural tube defects fell from 0.79 per 1000 pre-fortification to 0.55 per 1000 post-fortification (prevalence ratio, PR: 1.43; 95% confidence interval, CI: 1.38-1.50).
+For stillbirths, prevalence fell from 17.74 per 1000 stillbirths pre-fortification to 11.70 per 1000 stillbirths post-fortification.
+The corresponding values among live births were 0.57 and 0.44, respectively.
+CONCLUSION
+The introduction of the mandatory fortification of flour with iron and folic acid in Brazil was followed by a significant reduction in the prevalence of neural tube defects in our study area.

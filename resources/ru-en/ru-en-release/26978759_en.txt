@@ -1,0 +1,15 @@
+[Abdominal sepsis and oxidative stress].
+INTRODUCTION  Oxidative stress deserves special attention in the pathogenesis of sepsis.
+MATERIAL AND METHODS
+The study included 96 patients with abdominal sepsis caused by advanced suppurative peritonitis and destructive pancreatitis.
+All patients were divided into 3 groups depending on the severity of sepsis.
+Level of malondialdehyde (MDA) was determined to evaluate the intensity of lipid peroxidation (LPO).
+Proteins oxidative modification was assessed according to level of sulfhydryl groups (SH-groups) and carbonyls in proteins.
+State of anti-oxidant system (AOS) was defined based on activity of catalase, peroxidase, superoxide dismutase and glutathione peroxidase in erythrocytes.
+RESULTS AND DISCUSSION
+There was no relationship between severity of multiple organ failure, MDA concentration, SH-groups and anti-oxidant enzymes levels.
+At the same time positive correlation between severity of multiple organ failure and carbonyls content in proteins was revealed.
+CONCLUSION
+In surgical patients sepsis develops on background of oxidative stress.
+Significant reduction of SH-groups in proteins by the moment of sepsis diagnosis is an unfavorable factor for outcome.
+The degree of multiple organ failure in patients with abdominal sepsis correlates with oxidative injury of proteinic structures.

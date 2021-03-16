@@ -1,0 +1,12 @@
+[Comparative evaluation of clinical and economic efficiency of paliperidone in various dosage forms used in patients with schizophrenia].
+AIM
+To evaluate clinical and economic efficacy of schizophrenia treatment with three forms of paliperidone (peroral form, intramuscular injections once a month and once in three month).  MATERIAL AND METHODS
+Pharmacoeconomic analysis based on the results of earlier foreign randomized clinical studies on paliperidone in treatment of schizophrenia was carried out.
+Indirect comparison of different medication forms of paliperidone compared to placebo was performed.
+The analysis of costs was based on a Markov model built for the study.  Two categories of costs: costs of pharmacological treatment with paliperidone and costs of disease exacerbation due to the violation of treatment regimen were considered.
+To assess pharmacoeconomic efficacy of paliperidone, a cost-benefit analysis with calculation of cost utility ratio (CUR) and incremental cost utility ratio (ICUR) was used.
+RESULTS AND CONCLUSION
+In view of the influence on the budget, all forms of paliperidone have similar pharmacoeconomic efficacy with the advantage of prolonged release injectable (depot) forms that increase patient's adherence to treatment.
+As a result, CUR of injectable forms was lower compared to that of the peroral form by 11,1 and 46,3% of month and 3-month forms, respectively.
+ICUR for paliperidone used once in 3 month (trevicta) was more effective compared to paliperidone used monthly (xeplion).
+It has been concluded that paliperidone for prolonged release injections used once in 3 month is most pharmacoeconomically effective.

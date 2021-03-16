@@ -1,0 +1,11 @@
+Activity-based costing of health-care delivery, Haiti.
+Objective  To evaluate the implementation of a time-driven activity-based costing analysis at five community health facilities in Haiti.
+Methods
+Together with stakeholders, the project team decided that health-care providers should enter start and end times of the patient encounter in every fifth patient's medical dossier.
+We trained one data collector per facility, who manually entered the time recordings and patient characteristics in a database and submitted the data to a cloud-based data warehouse each week.  We calculated the capacity cost per minute for each resource used.
+An automated web-based platform multiplied reported time with capacity cost rate and provided the information to health-facilities administrators.
+Findings
+Between March 2014 and June 2015, the project tracked the clinical services for 7162 outpatients.
+The cost of care for specific conditions varied widely across the five facilities, due to heterogeneity in staffing and resources.  For example, the average cost of a first antenatal-care visit ranged from 6.87 United States dollars (US$) at a low-level facility to US$ 25.06 at a high-level facility.
+Within facilities, we observed similarly variation in costs, due to factors such as patient comorbidities, patient arrival time, stocking of supplies at facilities and type of visit.  Conclusion
+Time-driven activity-based costing can be implemented in low-resource settings to guide resource allocation decisions.  However, the extent to which this information will drive observable changes at patient, provider and institutional levels depends on several contextual factors, including budget constraints, management, policies and the political economy in which the health system is situated.

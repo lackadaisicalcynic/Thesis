@@ -1,0 +1,16 @@
+[Features of a necrotic and inflammatory process in different forms of nonalcoholic fatty liver disease].
+AIM  To identify the features of development of a necrotic and inflammatory process in different forms of nonalcoholic fatty liver disease (NAFLD), by comparatively analyzing a full set of clinical and laboratory parameters, including the cytokine status and the expression level of enzyme genes controlling the apoptosis of peripheral leukocytes.
+SUBJECTS AND METHODS
+86 patients with NAFLD, including 8 (9.3%) with hepatic steatosis (HS), 70 (81.4%) with nonalcoholic steatohepatitis (NASH), 40, 19, and 11 with mild, moderate, and high disease activity, respectively, and 8 (9.3%) with liver cirrhosis (LC), were examined.
+A control group consisted of 34 healthy donors.
+Clinical and biochemical blood indices, cytokine profile, and the level of caspase gene transcripts in the peripheral blood leukocytes (PBL) were estimated.
+RESULTS
+As compared to the controls, the patients with HS had higher tumor necrosis factor-α (TNF-α) and interleukin 6 (IL-6) levels and lower caspase 3, 6, and 8 mRNA in PBL.
+The concentration of IL-10 in NASH was higher than that in steatosis and positively correlated with the level of proinflammatory cytokines.
+The levels of TNF-α and IL6 were higher in the patients with NASH than in the controls.
+Those of C-reactive protein, γ-globulin, IL-6, and cytokeratin-18 fragment increased with the progression of NASH.
+In the latter, the transcriptional activity of caspase-3 gene decreased relative to the reference value and negatively correlated with the level of proinflammatory cytokines.
+In the patients with LC, the gene expression profile of caspases in PBL was similar to that in the control group; the level of IL-6 was higher than that in steatosis and NASH, that of IL-1β was higher than in HS and positively correlated the concentration of IL-6 and the activity of alanine aminotransferase and aspartate aminotransferase.
+CONCLUSION
+The features of a necrotic and inflammatory process were identified in different forms of NAFLD.
+When the latter progressed, the cytokine profile and gene expression levels of caspases in PBL altered along with a change in the general clinical picture.

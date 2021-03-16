@@ -1,0 +1,12 @@
+Prevalences of dementia and cognitive impairment among older people in sub-Saharan Africa: a systematic review.
+OBJECTIVE
+To perform a systematic review of the literature on the prevalence of cognitive impairment and dementia in sub-Saharan Africa.
+METHODS
+Five electronic databases were searched for relevant abstracts and to identify papers eligible for full-text review.  A study was included if two authors agreed that it had a cohort, case-control or cross-sectional design and reported population-level data; was limited to black African adults older than 50 years or described as "elderly" or "old"; reported data for individuals residing in sub-Saharan Africa; and reported at least one measure of cognitive impairment or clinical outcomes relevant to cognitive decline.
+References of papers included in our study were searched to identify additional candidate publications.  Disagreements about inclusion were adjudicated during discussions involving all authors.
+Data were extracted independently by two authors, using a form developed by the authors and tested on a sample of papers.  FINDINGS
+A total of 2320 unique papers was found; the full text of 87 was reviewed.  Nineteen papers featuring 11 cross-sectional studies were included; all were published during 1995-2011.
+Studies occurred in Benin, Botswana, the Central African Republic, the Congo and Nigeria and enrolled approximately 10,500 participants.
+The prevalence of dementia ranged from 0%, in Nigeria, to 10.1% (95% confidence interval, CI: 8.6-11.8), also in Nigeria.  The prevalence of cognitive impairment ranged from 6.3%, in Nigeria, to 25% (95% CI: 21.2-29.0), in the Central African Republic.
+CONCLUSION
+Prevalences of dementia and cognitive impairment in sub-Saharan Africa varied widely, with few published studies revealed by the literature search.

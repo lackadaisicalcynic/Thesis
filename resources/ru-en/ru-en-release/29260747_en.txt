@@ -1,0 +1,15 @@
+[Identification of Shiga toxin in patients with acute intestinal infections in the presence of mono- and mixed-O-antigens of pathogens].  AIM
+To investigate the time course of changes in the detection rates and levels of Shiga toxin antigen (STA) in their stool and middle-molecule circulating immune complexes (CICs) containing IgG (IgG CIC) in patients with acute intestinal infections (AIIs) in the presence of the body's circulation of mono- and mixed-LPS/O-antigens of intestinal pathogens.
+SUBJECTS AND METHODS
+A total of 147 patients aged 15 to 55 years who had been hospitalized with AIIs were examined.
+The diagnosis was bacteriologically verified in 19% of the patients; in the others, it was confirmed by the detection of LPS/O-antigens of Shigella, Salmonella, Yersinia, and Campylobacter in their stool by means of the reaction of coagglutination (RCA) on glass slides.
+Plates for RCA displayed STA in the fecal and IgG CIC samples.
+RESULTS
+Mono- and mixed infections were detected in 32 and 68%, respectively.
+The RCA plates exhibited STA in 25.2% of the fecal samples and in 90.5% of the IgG CIC ones from patients with AIIs and did not in those from donors.
+In monoinfection, the detection rates and levels of STA in the feces became lower in the course of the disease and remained unchanged in IgG CIC and the levels of STA also decreased in the feces, but increased in IgG CIC in mixed infection.
+CONCLUSION
+In 25.2% of the patients with early AIIs, their stools show free STA; its detection rate and levels are significantly higher in mixed infections than those in monoinfection.
+The level of STA in serum IgG CIC was significantly higher in mixed infection, suggesting an active immune response to the pathogen.
+Given that the Shiga toxin-producing strains are present in patients with AIIs, caution should be exercised in the choice of an antibacterial drug to prevent horizontal gene transfer and to enhance toxin production and the body's intoxication.
+One of the advantages of RCA is the possibility of rapidly changing the spectrum of test systems, depending on the region of their application and the epidemiological situation.

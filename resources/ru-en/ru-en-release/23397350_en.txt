@@ -1,0 +1,9 @@
+Integrating antiretroviral therapy into antenatal care and maternal and child health settings: a systematic review and meta-analysis.  OBJECTIVE  To determine whether integrating antiretroviral therapy (ART) into antenatal care (ANC) and maternal and child health (MCH) clinics could improve programmatic and patient outcomes.  METHODS
+The authors systematically searched PubMed, Embase, African Index Medicus and LiLACS for randomized controlled trials, prospective cohort studies, or retrospective cohort studies comparing outcomes in ANC or MCH clinics that had and had not integrated ART.
+The outcomes of interest were ART coverage, ART enrolment, ART retention, mortality and transmission of human immunodeficiency virus (HIV).
+FINDINGS  Four studies met the inclusion criteria.
+All were conducted in ANC clinics.  Increased enrolment of pregnant women in ART was observed in ANC clinics that had integrated ART (relative risk, RR: 2.09; 95% confidence interval, CI; 1.78-2.46; I(2): 15%).
+Increased ART coverage was also noted in such clinics (RR: 1.37; 95% CI: 1.05-1.79; I(2): 83%).
+Sensitivity analyses revealed a trend for the national prevalence of HIV infection to explain the heterogeneity in the size of the effect of ART integration on ART coverage (P = 0.13).  Retention in ART was similar in ANC clinics with and without ART integration.
+CONCLUSION  Although few data were available, ART integration in ANC clinics appears to lead to higher rates of ART enrolment and ART coverage.
+Rates of retention in ART remain similar to those observed in referral-based models.

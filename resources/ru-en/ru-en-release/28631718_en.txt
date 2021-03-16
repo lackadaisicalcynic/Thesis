@@ -1,0 +1,9 @@
+[Current prerequisites for a molecular genetic classification of endometrial cancer].  The review analyzes current investigators' data on the introduction of an additional endometrial cancer classification based on the results of molecular and genetic studies.
+This necessity is dictated by clinical observations, according to which the genetic profile of the tumors may not correspond to their morphological structure, which considerably changes patient management tactics.
+The existing dualistic model of carcinogenesis makes it possible to identify and describe the characteristic molecular features of the tumors in terms of their histological structure.
+The review also analyzes the concept of 4 new endometrial cancer subgroups: ultramutated, hypermutated, copy-number low, and copy-number high (serous-like).
+It gives the results of investigations of the molecular and genetic characteristics of each subgroup.
+Particular attention is paid to the role of POLE gene mutations in the ultramutated subgroup.
+Different theories justifying a good prognosis in these patients are considered.
+The molecular characteristics of endometrial cancer versus tumors of other organs are compared.
+The potential benefits of introducing the new classification, which allow one to change approaches to stratifying the risk for this disease, are presented.

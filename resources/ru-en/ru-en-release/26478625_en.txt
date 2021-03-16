@@ -1,0 +1,13 @@
+Eliminating artificial trans fatty acids in Argentina: estimated effects on the burden of coronary heart disease and costs.
+OBJECTIVE  To estimate the impact of Argentine policies to reduce trans fatty acids (TFA) on coronary heart disease (CHD), disability-adjusted life years (DALYs) and associated health-care costs.
+METHODS
+We estimated the baseline intake of TFA before 2004 to be 1.5% of total energy intake.
+We built a policy model including baseline intake of TFA, the oils and fats used to replace artificial TFAs, the clinical effect of reducing artificial TFAs and the costs and DALYs saved due to averted CHD events.
+To calculate the percentage of reduction of CHD, we calculated CHD risks on a population-based sample before and after implementation.
+The effect of the policies was modelled in three ways, based on projected changes: (i) in plasma lipid profiles; (ii) in lipid and inflammatory biomarkers; and (iii) the results of prospective cohort studies.
+We also estimated the present economic value of DALYs and associated health-care costs of coronary heart disease averted.
+FINDINGS
+We estimated that projected changes in lipid profile would avert 301 deaths, 1066 acute CHD events, 5237 DALYs and 17 million United States dollars (US$) in health-care costs annually.  Based on the adverse effects of TFA intake reported in prospective cohort studies, 1517 deaths, 5373 acute CHD events, 26 394 DALYs and US$ 87 million would be averted annually.
+CONCLUSION
+Even under the most conservative scenario, reduction of TFA intake had a substantial effect on public health.
+These findings will help inform decision-makers in Argentina and other countries on the potential public health and economic impact of this policy.

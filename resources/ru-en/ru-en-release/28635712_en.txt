@@ -1,0 +1,16 @@
+[A prospective, open, non-randomized study on the safety and efficacy of natalizumab (tisabri) in the Russian population of patients with relapsing-remitting multiple sclerosis].  AIM  To evaluate safety and efficacy of natalizumab (tisabri) in the RUSTYS study of patients with relapsing-remitting multiple sclerosis (RRMS) during one year.
+MATERIAL AND METHODS
+This prospective, open, non-randomized clinical study included 100 RRMS patients treated with natalizumab in dose 300 mg intravenously every 4 weeks during 48 weeks.
+The safety was assessed by the percentage of patients with infusion reactions as well as by the distribution of undesirable effects (UE).
+Before treatment and after 48 weeks, antibodies to JC virus (JCV) were determined.
+The efficacy was evaluated by the frequency of relapses, progression of disability, MRI results and quality of life indices.
+RESULTS
+After treatment, 87% of the patients had no relapses, disease progression assessed by EDSS was not observed in 96% .
+To 48th week, 71% of patients had no MRI changes in T2 lesions and 79.6% - in T1 hypointense lesions.
+Quality of life has been improved.
+At least one UE, including the development of tuberculosis in one patient, was noted.
+Infections (upper respiratory tract infection, nasopharyngitis, flu) were recorded in 25% of the patients.
+Three out of 28 (10.7%) of the patients with negative results of JCV analysis at baseline had the seroconversion with the change of the negative status to the 48th week.
+No cases of progressive multifocal leukoencephalopathy related to natalizumab were found.
+CONCLUSION
+The results are in line with those of earlier studies in patients with RRMS with high disease activity.

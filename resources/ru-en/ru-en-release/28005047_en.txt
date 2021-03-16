@@ -1,0 +1,8 @@
+[The diagnosis of idiopathic epilepsy in children based on the algorithm of molecular-genetic studies].
+AIM  To study mutations and polymorphisms in the sodium channels genes, determining the development of idiopathic epilepsy (IE).
+MATERIAL AND METHODS
+The study of SCN1A gene by direct Sanger sequencing in 53 patients and targeted resequencing of the regions of 34 genes in 40 patients with different clinical forms of IE was performed.
+RESULTS
+Seven mutations (c.3022G>T, c.3637C>T, c.1144G>T, c.80G>C, c.1603C>T, c.2427G>A and c.1131A>C) were detected among 53 patients by direct Sanger sequencing of SCN1A gene.  The mutations of SCN1A gene (2 - nonsense mutation, 5 - missense mutation) were identified in 7/40 (17.5%) patients with epilepsy using high-performance sequencing, Mutations in sodium channel genes encoding other subunits: SCN1B, SCN2A, SCN9A were identified in 6 patients.
+CONCLUSION
+As epileptic encephalopathy is polygenic, it is important to conduct genetic testing of more genes (primarily sodium channel genes - SCN1B, SCN2A, SCN9A etc.) using special gene panels to find the molecular defect in DNA.

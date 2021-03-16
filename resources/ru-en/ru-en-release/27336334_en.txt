@@ -1,0 +1,8 @@
+[Surgical safety cheklist at the management of the hybrid operating room].  An essential aspect of the work of the operating room is the provision of safety of both the patient and staff.
+The organization of the activity of the surgical service requires serious elaboration of each of its stage, as well as standardization in using various validated instruments.
+When speaking of a hybrid operating room with the use of intraoperative magnetic resonance tomography, such an approach becomes not merely a recommendation but rather forced and justified necessity.  Simultaneous use of various technologies of imaging and treatment with the engagement of physicians of various specialties requires especially thorough control.
+A generally accepted international standard of the work of the operating block is the use of checklists, and since 2008 the initiative of the World Health Organization "Safe Surgery Saves Lives" has globally been working to promote implementation of the WHO Surgical Safety Checklists (SSCL) to the real clinical practice.
+The intraoperative MR-diagnostic stage dictates rigid requirements for proper inventory of ferromagnetic and nonmagnetic surgical tools, verified logistics, and routing of the patient in the conditions of high and extremely high (1.5-3.0 T) magnetic field.
+A separate and not less important problem is anaesthesiological support during MRT.
+In order to optimise the patient's movements and adequate monitoring of his/her safety inside the operating department, the authors have modified the standard WHO Surgical Safety Checklist.
+Implementation of the modified checklist for the MRT-equipped hybrid operating room should improve the control over the processes, as well as increase safety of both the patient and personnel.

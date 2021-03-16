@@ -1,0 +1,18 @@
+[Correlation of intracranial pressure and diameter of the sheath of the optic nerve by computed tomography in severe traumatic brain injury].  BACKGROUND
+Noninvasive techniques to evaluate intracranial pressure (ICP) are important for everyday practice in intensive care and neurosurgery departments.
+CT data can be used to evaluate the optic nerve sheath diameter (ONSD) and, indirectly, the ICP value.  The ONSD value is an additional criterion in deciding on invasive monitoring of ICP.
+AIM  To analyze a correlation between CT-based ONSD and the results of invasive measurements of ICP in patients with severe traumatic brain injury.
+MATERIAL AND METHODS
+The study evaluated 41 patients with severe traumatic brain injury within the first 48 h after injury.
+Invasive monitoring of ICP (Codman & Shurtlett, MA, USA) was performed during 7±1.7 days.
+ONSD was measured using axial CT scans (CereTom, Neurologica Danvers, MA, USA) with a slice thickness of 2.5 mm.
+The ONSD value was measured at a distance of 3 mm from the posterior eyeball contour.
+The patients were allocated in a group with normal ICP (10 patients) and a group with high ICP (31 patients).
+ONSD served as an ICP classifier.
+The data were processed using ROC analysis.
+RESULTS
+According to the CT data, the optimal threshold ONSD value was 6.35 mm in patients in the acute TBI period.
+The sensitivity was 0.93 (95% СI 0.84-1.00), the specificity was 0.80 (95% СI 0.50-1.00), and AUC was 0.87 (95% СI 0.69-1.00).
+CONCLUSION
+We found a correlation between the CT-based ONSD and the median ICP (R=0.32, p<0.05).
+An ONSD value of 6.35 mm and more is one of the signs of previous or existing ICP.

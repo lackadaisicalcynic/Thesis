@@ -1,0 +1,11 @@
+[The interaction effect of ANKK1/DRD2 TaqIA and HTR2C Cys23Ser on approach motivation in schizophrenic patients and normals].  AIM
+To evaluate the association of the DRD2 gene and DRD2 x HTR2C interaction with hedonic and activational aspects of approach motivation in schizophrenia.
+MATERIAL AND METHODS
+Genotypes at polymorphic loci DRD2 rs1800497 and HTR2C rs6318 (Cys23Ser) were identified in a sample that included 174 patients with schizophrenic spectrum disorders and 268 healthy subjects without a family history of psychoses.
+The participants completed the BIS/BAS and Temporal Experience of Pleasure Scale (TEPS).
+RESULTS AND CONCLUSION  A MANCOVA with sex and age as covariates revealed the effect of the 'DRD2 x HTR2C x diagnosis' interaction on the BAS scores (p=0.033).  The effect was significant for the Fun-Seeking and Drive scales.
+Among patients, the carriers of the DRD2 TT/CT x HTR2C GG/G genotype showed the highest scores on the both scales, and those with the minor alleles in the two loci had the lowest ones.
+Differences between these groups were nominally significant for both the Fun-Seeking and Drive, but did not survive the correction for multiple comparisons.  Among controls, subjects without minor alleles demonstrated the highest scores on these two scales.
+They differed significantly from the carriers of the DRD2 TT/CT+HTR2C GG/G genotype on the Fun-Seeking (p=0.008).  No effects of DRD2 and HTR2C on TEPS scores were found.
+In general, the results of the study can be interpreted in favor of the hypothesis about the role of the HTR2C and DRD2 genes interaction in the variability of the activational aspects of approach motivation in schizophrenia and healthy subjects.
+However, the lack of differences survived correction for multiple comparisons makes it difficult to interpret the revealed effects.

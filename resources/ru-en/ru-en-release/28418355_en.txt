@@ -1,0 +1,11 @@
+[Morphometric features of cardiomyocytes in the ventricular septum of patients with hypertrophic cardiomyopathy].
+AIM
+to determine the diameter and length of cardiomyocytes (CMC) in the ventricular septum (VS) of patients with hypertrophic cardiomyopathy (HCM) and to analyze correlations of a change in CMC sizes with the anatomical features of the heart in the patients.  MATERIAL AND METHODS
+Longitudinal sections of intraoperative myocardial biopsy specimens taken from 23 patients aged 15-59 years with HCM were treated using immunohistochemical detection of connexin 43; the sizes of 50 CMCs were measured; a 4-point scale was used to assess the degree of myofibril loss (MFL) in these cells.
+The change in the diameter and length of the cells during their rearrangement as MFL gradually increased, as well as the correlations of CMC sizes with the anatomical parameters of the heart were analyzed.
+RESULTS  VS CMCs from the patients with HCM were hypertrophic and were in the early stages of rearrangement accompanied by MFL.
+During this rearrangement, CMCs in some patients grew in length and, less frequently, diameter.
+The average diameter of CMCs was directly correlated with VS thickness.  The average length of the cells in the CMC population with a considerable degree of MFL also directly correlated with VS thickness.
+CONCLUSION
+The findings could suggest that the factor raising VS thickness in HCM may be an increase in not only diameter of CMCs, but also in length of CMCs, which had impaired orientation in the VS - which are oriented perpendicular to their normal tangential position.
+The presence of such CMCs in the VS myocardium in patients with HCM can be discussed due to the typical large number of myocardial areas with the impaired parallel arrangement of CMCs.

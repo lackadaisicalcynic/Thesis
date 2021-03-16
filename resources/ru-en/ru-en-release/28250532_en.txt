@@ -1,0 +1,11 @@
+Risk of microcephaly after Zika virus infection in Brazil, 2015 to 2016.
+OBJECTIVE  To estimate the risk of microcephaly in babies born to women infected by the Zika virus during pregnancy in Brazil in an epidemic between 2015 and 2016.
+METHODS
+We obtained data on the number of notified and confirmed microcephaly cases in each Brazilian state between November 2015 and October 2016 from the health ministry.  For Pernambuco State, one of the hardest hit, weekly data were available from August 2015 to October 2016 for different definitions of microcephaly.
+The absolute risk of microcephaly was calculated using the average number of live births reported in each state in the corresponding time period between 2012 and 2014 and assuming two infection rates: 10% and 50%.  The relative risk was estimated using the reported background frequency of microcephaly in Brazil of 1.98 per 10 000 live births.
+FINDINGS
+The estimated absolute risk of a notified microcephaly case varied from 0.03 to 17.1% according to geographical area, the definition of microcephaly used and the infection rate.  Assuming a 50% infection rate, there was an 18-127 fold higher probability of microcephaly in children born to mothers with infection during pregnancy compared with children born to mothers without infection during pregnancy in Pernambuco State.
+For a 10% infection rate, the probability was 88-635 folds higher.
+CONCLUSION
+A large variation in the estimated risk of microcephaly was found in Brazil.
+Research is needed into possible effect modifiers, reliable measures of Zika virus infection and clear endpoints for congenital malformations.

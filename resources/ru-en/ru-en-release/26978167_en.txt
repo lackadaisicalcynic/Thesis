@@ -1,0 +1,3 @@
+[The metabolic memory phenomenon in predicting a risk for vascular complications in diabetes mellitus].  The paper presents data on positive and negative metabolic memory phenomena in patients with type 1 and type 2 diabetes mellitus (DM) as exemplified by the long-term randomized trials DCCT, UKPDS, ACCORD, VADT, and ADVANCE.
+It discusses the role of metabolic memory in predicting a risk for vascular complications in DM.
+Ideas on the mechanisms of this phenomenon, which are based on the activation of oxidative stress, the production of irreversible glycation products, and epigenetic disorders, are given.

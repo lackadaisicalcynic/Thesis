@@ -1,0 +1,15 @@
+Breastfeeding rates in central and western China in 2010: implications for child and population health.
+OBJECTIVE  To describe breastfeeding practices in rural China using globally recommended indicators and to compare them with practices in neighbouring countries and large emerging economies.
+METHODS
+A community-based, cross-sectional survey of 2354 children younger than 2 years in 26 poor, rural counties in 12 central and western provinces was conducted.
+Associations between indicators of infant and young child feeding and socioeconomic, demographic and health service variables were explored and rates were compared with the most recent data from China and other nations.
+FINDINGS
+Overall, 98.3% of infants had been breastfed.
+However, only 59.4% had initiated breastfeeding early (i.e. within 1 hour of birth); only 55.5% and 9.4% had continued breastfeeding for 1 and 2 years, respectively, and only 28.7% of infants younger than 6 months had been exclusively breastfed.
+Early initiation of breastfeeding was positively associated with at least five antenatal clinic visits (adjusted odds ratio, aOR: 3.48; P < 0.001) and negatively associated with delivery by Caesarean (aOR: 0.53; P < 0.001) or in a referral-level facility (aOR: 0.6; P = 0.014).
+Exclusive breastfeeding among children younger than 6 months was positively associated with delivery in a referral-level facility (aOR: 2.22; P < 0.05).
+Breastfeeding was not associated with maternal age or education, ethnicity or household wealth.
+Surveyed rates of exclusive and continued breastfeeding were mostly lower than in other nations.
+CONCLUSION
+Despite efforts to promote breastfeeding in China, rates are very low.
+A commitment to improve infant and young child feeding is needed to reduce mortality and morbidity.

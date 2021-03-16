@@ -1,0 +1,17 @@
+The cost of type 1 diabetes: a nationwide multicentre study in Brazil.  OBJECTIVE
+To determine the direct medical costs of type 1 diabetes mellitus (T1DM) to the National Brazilian Health-Care System (NBHCS) and quantify the contribution of each individual component to the total cost.
+METHODS
+A retrospective, cross-sectional, nationwide multicentre study was conducted between 2008 and 2010 in 28 public clinics in 20 Brazilian cities.
+The study included 3180 patients with T1DM (mean age 22 years ± 11.8) who were surveyed while receiving health care from the NBHCS.
+The mean duration of their diabetes was 10.3 years (± 8.0).
+The costs of tests and medical procedures, insulin pumps, and supplies for administration, and supplies for self-monitoring of blood glucose (SMBG) were obtained from national and local health system sources for 2010-2011.
+Annual direct medical costs were derived by adding the costs of medications, supplies, tests, medical consultations, procedures and hospitalizations over the year preceding the interview.
+FINDINGS
+The average annual direct medical cost per capita was 1319.15 United States dollars (US$).
+Treatment-related expenditure - US$ 1216.33 per patient per year - represented 92.20% of total direct medical costs.
+Insulin administration supplies and SMBG (US$ 696.78 per patient per year) accounted for 52.82% of these total costs.
+Together, medical procedures and haemodialysis accounted for 5.73% (US$ 75.64 per patient per year) of direct medical costs.
+Consultations accounted for 1.94% of direct medical costs (US$ 25.62 per patient per year).
+CONCLUSION
+Health technologies accounted for most direct medical costs of T1DM.
+These data can serve to reassess the distribution of resources for managing T1DM in Brazil's public health-care system.

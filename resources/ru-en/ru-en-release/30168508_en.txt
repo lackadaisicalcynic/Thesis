@@ -1,0 +1,13 @@
+[The influence of hyperbaric oxygenation on the elastic properties of platelet membrane during spontaneous platelet aggregation in the patients presenting with cardiac co-morbidity].
+BACKGROUND  The authors present evidence of the significance and role of the disturbances in platelet hemostasis in pathogenesis of co-morbid cardiac pathology and the absence of the unambiguous opinion as regards the expediency of the application of hyperbaric oxygenation (HBO) for their correction which implies the necessity of searching for new pathogenetically substantiated approaches to the treatment of the patients presenting with this condition.
+AIM  The objective of the present study was to evaluate the influence of hyperbaric oxygenation on the elastic properties of platelet membrane during spontaneous platelet aggregation in the patients presenting with cardiac co-morbidity.
+MATERIAL AND METHODS
+Thrombocyte hemostasis was investigated in 24 patients at the age of 52.9±11.5 years (67% of men, 33% of women) presenting with functional class II angina of effort concomitant with arterial hypertension (AH).
+All the patients were given, in addition to the conventional treatment of the main diseases, the courses of daily (No. 5) 30-minute sessions of hyperbaric oxygenation in the 1,2ATA regime in the BLKS 301M and 303MK barochambers (Russia).
+Before and after HBO, spontaneous aggregation of thrombocytes (light agglomeration method) was determined with the use of a two-channel Biol LA-230-2 laser analyzer (Russia).  The elastic properties of the platelet cell membrane were elucidated by atomic-force microscopy in the contact mode using the cantilever type PNP-DB on the Solver P47-PRO scanning probe microscope (Nt-MDT, Russia).
+RESULTS
+The co-morbid cardiac pathology was accompanied by hyperaggregation and hypoaggregation of the platelets (33.3% and 25% respectively).
+The high levels of spontaneous aggregation in men (1.46±0.47) and the dependence of platelet plate stiffness on the aggregation state were documented.
+HBO sessions were accompanied by a reduction of spontaneous platelet aggregation in men (0.84±0.19) and a two-fold decrease in the modulus of elasticity in comparison with its initial value in the patients with platelet hyperaggregation (0.42±0.16, p<0.05).
+CONCLUSION
+The membrane-modifying effect of HBO on the platelets is characterized by an increase in the elasticity of their membranes concurrent with a reduction of spontaneous aggregation of platelets, predominantly in men.

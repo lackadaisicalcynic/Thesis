@@ -1,0 +1,12 @@
+[Thrombodynamic parameters of hypercoagulability in patients with affective disorder and schizophrenia in a state of exacerbation].
+AIM  To detect coagulability impairment of blood plasma in patients with schizophrenia or affective disease in a state of exacerbation using a thrombodynamics test.
+MATERIAL AND METHODS
+The study included 46 women, 32 with attack-like/shift-like/or continuous schizophrenia (ICD-10: F20.00, F20.01, F20.02), 7 with schizotypal disorder (ICD-10: F21.3-21.4) and 7 with affective disorder (ICD-10: F32.00, F32.3).
+Thrombodynamics tests were performed on T-2 thrombodynamics analyzer ('Hemacore LLC', Moscow, Russia).
+RESULTS
+For the first time, it was shown that in the patient population (n=46), the thrombodynamic parameters of the blood clot growth rate [initial velocity (Vi), steady-state velocity (Vst) and spontaneous clots adjusted velocity (V)] and clot size at 30 minute of thrombodynamics (Clot Size, CS) were significantly higher than normal values.  The mean appearance of spontaneous clots (Tsp) was significantly lower than 30 minutes (p<0.0001) which indicated a rapid, spontaneous clots formation.
+The mean value of clot lag time (Tlag) and clot density (Density, D) did not differ significantly from normal values.  The number of changed thrombodynamic parameters decreased in the following sequence: schizophrenia with different types of courses > schizotypal disorder>affective disorder.
+This is in good agreement with the fact that the course of affective disorders is more favorable than that in schizophrenia.
+CONCLUSION
+The thrombodynamics test has a good potential for introduction into medicine to detect hypercoagulability and increased risks of thrombotic complications in patients, as well as to control for normalization of hemostasis with antiaggregant or anticoagulant drugs.
+Thrombodynamics makes it possible to identify a tendency to hypercoagulable states at an early stage, when other methods are still not sensitive enough.  The study identified the hypercoagulability in patients with schizophrenia and affective disorders.

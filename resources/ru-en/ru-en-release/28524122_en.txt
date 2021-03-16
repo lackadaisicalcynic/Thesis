@@ -1,0 +1,12 @@
+[A plasminogen regulation system in brain tumors].  INTRODUCTION
+Tumor progression and neovascularization during malignant processes are believed to be associated with plasminogen activators and the PAI-1 inhibitor, but their role and interactions in various types of brain tumors have been studied insufficiently.
+AIM  To conduct a comparative study of plasminogen regulation in optic nerve sheath meningiomas, glioblastomas, and brain metastases of breast cancer, as well as in perifocal tissues surrounding the tumors.
+MATERIAL AND METHODS
+Tumors and perifocal areas of 19 breast cancer (BC) metastases, 24 glioblastomas, and 13 meningiomas without perifocal edema were investigated by ELISA in 56 patients aged 35-72 years.
+Histological control was carried out in each case.
+RESULTS
+Significant differences were found in the levels of urokinase (uPA), tissue plasminogen activator (tPA), and PAI-1 inhibitor between glioblastomas and breast cancer metastases and the histologically unaltered (relatively intact) tissue around meningioma lesions (p≤0.05 in all cases).
+The levels of uPA-AG and uPA-act in meningioma were higher than those in the relatively intact tissue, while the levels of both tPA forms were reduced.
+The levels of uPA-AG and uPA-act in both malignant tumors and their perifocal areas were elevated compared to those in the relatively intact tissue.  The levels of both tPA forms were reduced in all other tissues, except for glioblastoma.
+The level of PAI-1 inhibitor in malignant tissues was higher (being predominant in tumors) compared to that in the intact tissue surrounding meningioma, as well as relative to that in meningioma.
+The study proves that uPA and its inhibitor PAI-1 are directly involved in the metabolism of malignant gliomas and brain metastases of breast cancer.  The role of tPA is to protect meningiomas; tPA activation in malignant brain tumors is suppressed.

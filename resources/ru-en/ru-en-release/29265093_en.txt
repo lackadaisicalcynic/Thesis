@@ -1,0 +1,13 @@
+[Risk assessment of thrombotic events in patients with schizophrenia and schizoaffective disorder in the acute state: the 'fibrinodynamics' technology].
+AIM
+To assess the risk of thrombotic events in patients with schizophrenia and schizoaffective disorder based on 'fibrinodynamics' technology.  MATERIAL AND METHODS
+A group of 76 women, including 38 with paranoid schizophrenia (F20.0), 18 with schizoaffective disorder (F25.1) in the acute stage, and 20 healthy controls, participated in the study.
+The technology includes the study of coagulation and fibrinolysis, Karmin author software, and calculation of peak time and hemostasis potential of spontaneous clots.  Growth and lysis of fibrin clots were studied in plasma purified from platelets.
+All preanalytic procedures were conducted within 30 minutes after blood sampling.  Blood serum was studied separately using the neuroimmunological test.
+Dynamic of brightness profiles of the clots was determined and a number of parameters (peak time and hemostasis potential of spontaneous clots) were calculated using the Karmin software.  RESULTS
+In patients with schizophrenia, the dynamic brightness profile of the clots has two peaks: the first peak is formed as a result of the growth and lysis of the clot initiated by the activator, the second peak is due to the growth and lysis of spontaneous clots in the volume of the measuring cuvette far from the activator.  In healthy donors, the second peak under experimental conditions is absent.
+In the group of schizophrenic patients, a strong negative correlation is observed between the peak time of the second peak and the activity of leukocyte elastase (Spearman R = -0.75, p<0.0001), i.e. the greater the activity of elastase, the earlier the maximum of the second peak is formed and vice versa.
+In the control group, there is no such correlation.
+Evaluation of the potential of hemostasis of spontaneous clots showed that in 42% of schizophrenic patients this parameter is shifted above the norm, which indicates an increased risk of thrombosis of small brain arteries in these patients.
+CONCLUSION
+The developed technology of 'fibrinodynamics' has a good potential for introduction into personalized medicine to identify increased risks of thrombosis of small cerebral vessels in patients with acute schizophrenia leading to the development of cognitive disorders and to control the normalization of hemostasis with antiplatelet or anticoagulant drugs.

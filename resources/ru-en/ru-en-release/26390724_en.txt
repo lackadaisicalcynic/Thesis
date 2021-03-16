@@ -1,0 +1,12 @@
+[Age-related characteristics of the efficacy of different glucocorticosteroids in the therapy of acute lymphoblastic leukemia].
+AIM  To determine predictors for decision-making on a differential approach to choosing glucocorticosteroids (GCS) for children and adolescents with acute lymphoblastic leukemia (ALL).
+SUBJECTS AND METHODS
+The analysis covered 1064 primary patients aged to 1 to 18 years with ALL who had been registered at the clinics of Russia and Belorussia in April 2002 to November 2006.
+Before induction therapy, the patients were randomized into a dexamethasone (DEXA) 6 mg/m2 group (n=539) and a methylprednisolone (MePRED) 60 mg/m2 one (n=525).
+RESULTS
+The entire group showed no statistically significant differences in survival rates between the patients receiving DEXA or MePRED.
+However, an analysis of age groups revealed the benefits of DEXA in children younger than 14 years
+(the event-free survival (EFS) was 76±2 and 71±2%, respectively (p=0.048); the overall survival (OS) was 81±2 and 77±2%, respectively (p=0.046); therapy-induced mortality was 6.4% (DEXA) andl 1.1% (MePRED) (p=0.01 4); the rate of isolated extramedullary relapses was 1.5% (DEXA) and 4.4% (MePRED) (p=0.009). At the same time, EFS and OS in 14-to-18-year-old adolescents were statistically significantly higher than in those who used MePRED  (EFS, 65±6 and 52±6%, respectively (p=0.087); OS, 72±6 and 61±6%, respectively; (p=0.l 7).
+CONCLUSION
+The findings suggest that it is possible that the choice of a GCS for ALL therapy must be also based on a patient's age.
+There is a need for further studies of this matter in prospective randomized multicenter trials in children and adolescents.

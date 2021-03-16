@@ -1,0 +1,16 @@
+[Causal relationships in stroke and kidney injury].
+AIM  To assess the frequency, severity, and causes of acute kidney injury (AKI) in patients with stroke.
+SUBJECTS AND METHODS
+272 patients (143 men and 129 women) (mean age, 66.7±11.6 years) with stroke were examined.
+The 2008 European Stroke Organization (ESO) guidelines were used to diagnose stroke, to determine indications for and contraindications to thrombolytic therapy, and to evaluate its efficiency.
+Hemorrhagic and ischemic strokes (HS and IS) were diagnosed in 52 (19%) and 220 (81%) patients, respectively.
+AKI was diagnosed and classified according to the 2012 Kidney Disease: Improving Global Outcomes (KDIGO) guidelines.
+RESULTS
+AKI was diagnosed in 89 (33%) patients: 19 (36.5%) with HS and 70 (31.8%) with IS.
+The relative risk of death in patients with AKI-associated stroke was 2.6 (95% confidence interval (CI) 1.6-4.0).
+A poor outcome (the combined endpoint of death or Rankin scale scores of 4-5) was noted in 56 (62.9%) patients with AKI and in 70  (38.2 %) without AKI (χ2=14.6; p=0.0002).
+The relative risk of a poor outcome in patients with AKI-associated with stroke was 1.64 (95% CI 1.3-2.0).
+Forty-five (50.6%) patients with stroke developed AKI in the prehospital period.
+CONCLUSION
+AKI complicates stroke in every three patients and increases death rates.
+50% of cases develop AKI in the prehospital period due to the common causes of stroke and AKI.

@@ -1,0 +1,10 @@
+[Assessing resveratrol effect on ocular blood flow in experiment].  AIM  To study the effect of resveratrol on ocular blood flow in vivo in healthy rats and those that underwent retinal ischemia/reperfusion.
+MATERIAL AND METHODS
+The experimental study was performed on 40 Wistar rats (40 eyes).
+For ocular blood flow evaluation, color Doppler imaging (CDI), power Doppler (PD), and pulsed-wave spectral Doppler ultrasonography were performed using the Voluson E8 Expert ultrasonic diagnostic system (GE Healthcare).
+All rats were given resveratrol per os for 2 months of the study.  Retinal ischemia/reperfusion injury was induced by a subconjunctival injection of endothelin-1.
+The control group included 10 intact animals.
+RESULTS
+Signs of ischemic damage of the anterior and posterior eye segments were less pronounced in rats that were given resveratrol during both pre-ischemic (30 days) and post-ischemic (30 days) periods of follow-up.  There was also a statistically significant increase in the peak systolic and end diastolic velocity of blood flow as well as a decrease in the resistive index of retrobulbar arteries in those rats that underwent ischemia/reperfusion as compared to the controls.
+CONCLUSION
+Long-term resveratrol use (2 months) has proved effective in improving ocular blood flow in a rat model of retinal ischemia/reperfusion injury.

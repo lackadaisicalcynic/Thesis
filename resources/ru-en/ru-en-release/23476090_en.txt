@@ -1,0 +1,9 @@
+Identifying high-risk areas for sporadic measles outbreaks: lessons from South Africa.
+OBJECTIVE  To develop a model for identifying areas at high risk for sporadic measles outbreaks based on an analysis of factors associated with a national outbreak in South Africa between 2009 and 2011.
+METHODS
+Data on cases occurring before and during the national outbreak were obtained from the South African measles surveillance programme, and data on measles immunization and population size, from the District Health Information System.
+A Bayesian hierarchical Poisson model was used to investigate the association between the risk of measles in infants in a district and first-dose vaccination coverage, population density, background prevalence of human immunodeficiency virus (HIV) infection and expected failure of seroconversion.  Model projections were used to identify emerging high-risk areas in 2012.
+FINDINGS  A clear spatial pattern of high-risk areas was noted, with many interconnected (i.e. neighbouring) areas.
+An increased risk of measles outbreak was significantly associated with both the preceding build-up of a susceptible population and population density.  The risk was also elevated when more than 20% of infants in a populous area had missed a first vaccine dose.
+The model was able to identify areas at high risk of experiencing a measles outbreak in 2012 and where additional preventive measures could be undertaken.  CONCLUSION
+The South African measles outbreak was associated with the build-up of a susceptible population (owing to poor vaccine coverage), high prevalence of HIV infection and high population density.  The predictive model developed could be applied to other settings susceptible to sporadic outbreaks of measles and other vaccine-preventable diseases.

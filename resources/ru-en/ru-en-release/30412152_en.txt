@@ -1,0 +1,24 @@
+[Intraoperative mapping of long association fibers in surgery of gliomas of the speech-dominant frontal lobe].
+Surgery of intracerebral tumors involving long association fibers is a challenge.  In this study, we analyze the results of intraoperative mapping of the superior longitudinal, arcuate, and frontal aslant tracts in surgery of brain gliomas.
+PURPOSE  The study purpose was to compare the results of intraoperative mapping and the postoperative speech function in patients with gliomas of the premotor area of the speech-dominant frontal lobe, which involved the superior longitudinal, arcuate, and frontal aslant tracts, who were operated on using awake craniotomy.
+MATERIAL AND METHODS
+Twelve patients with left frontal lobe gliomas were operated on: 11 patients were right-handed, and one patient was a left-hander retrained at an early age.
+Histological types of tumors were represented by Grade II diffuse astrocytomas (6 patients), Grade III anaplastic astrocytomas (1 patient), Grade IV glioblastoma (1 patient), Grade II oligodendroglioma (1 patient), and Grade III anaplastic oligodendrogliomas (3 patients).  The mean age of patients was 45 (29-67) years; there were 6 males and 6 females.
+All patients underwent preoperative and postoperative MRI with reconstruction of the long association fibers and determination of the topographic anatomical relationships between the fibers and the tumor.  Surgery was performed using the asleep-awake-asleep protocol with intraoperative awakening of patients.
+All patients underwent cortical and subcortical electrophysiological stimulation to control the localization of eloquent structures and to clarify the safe limits of resection.
+For intraoperative speech monitoring, a computerized naming test was used with naming of nouns or verbs, and automatic speech was evaluated (counting from 1 to 10, enumeration of months and days of the week), which was complemented by a talk with the patient.
+Speech disorders before, during, and after surgery were evaluated by a neuropsychologist.
+The mean current strength during direct electrical stimulation was 3 (1.9-6.5) mA.
+RESULTS
+The association fibers were intraoperatively identified in all patients (SLF/AF in 11 patients; FAT in one patient).
+In 4 patients, the cortical motor speech area was intraoperatively mapped; in three cases, tumor resection was accompanied by speech disturbances outside the stimulation.
+During direct electrical stimulation, speech disturbances developed in 7 of 12 cases.
+All patients underwent control MRI within the first 48-72 h: total resection (more than 90% of the tumor) was performed in 7 cases; subtotal resection was achieved in two patients; partial resection was performed in two cases.
+According to postoperative MR tractography, the resected tumor bed was adjacent to the SLF/AF complex in 7 cases, located near the SLF/AF complex in three cases, and adjacent to the FAT in two cases.
+Postoperatively, 11 out of 12 patients had worsening of neurological symptoms in the form of various speech disturbances.
+In one patient, speech disturbances developed 2 days after surgery, which was associated with an increase in edema.
+On examination 3 months after surgery, severe speech disturbances remained in 1 patient.
+CONCLUSION
+Resection of frontal lobe tumors in the speech-dominant hemisphere using early postoperative awakening is associated with a high rate of complex speech disorders due to injury to the SLF/AF complex and FAT.
+In these cases, intraoperative speech mapping with allowance for the course of long association fibers is an essential procedure.
+Preoperative tractography in combination with intraoperative speech mapping enables identification of association fibers of the SLF/AF complex and FAT, which may help to avoid severe conduction aphasia with poor speech recovery after tumor resection.

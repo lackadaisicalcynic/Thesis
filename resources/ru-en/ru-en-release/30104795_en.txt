@@ -1,0 +1,12 @@
+Prior caesarean section and likelihood of vaginal birth, 2012-2016, China.
+Objective
+To examine the trends and safety of vaginal birth after caesarean section around the period of the one-child policy relaxation in China.  Methods
+We used data from China's National Maternal Near Miss Surveillance System between 2012 and 2016.  To examine trends in vaginal birth after caesarean section, we used Poisson regression with a robust variance estimator.
+We also assessed the association between vaginal birth after caesarean section and maternal and perinatal outcomes.
+Findings
+We analysed 871 636 deliveries by women with a previous caesarean section.  Both in 2012 and 2016, the rate of vaginal birth after caesarean section was 9.8%.
+After adjusting for institutional, sociodemographic and obstetric characteristics, the rate increased by 14% between 2012 and 2016 (adjusted relative risk, aRR: 1.14; 95% confidence interval, CI: 1.07-1.21).
+Compared to women with a repeat caesarean section, women with a vaginal birth after caesarean section experienced lower incidence of uterine rupture (aRR: 0.26, 95% CI: 0.16-0.42), blood transfusion (aRR: 0.68, 95% CI: 0.53-0.87) and admission to the intensive care unit (aRR: 0.36, 95% CI: 0.25-0.52), but higher incidence of intrapartum stillbirths, (aRR: 7.20, 95% CI: 6.09-8.51), newborns with a 5-minute Apgar score less than 7 (aRR: 1.75, 95% CI: 1.54-1.99) and neonatal death before discharge (aRR: 1.90, 95% CI: 1.61-2.24).
+Conclusion
+Promotion of vaginal birth after caesarean section could increase the rate even further in China.
+To ensure the safety of mothers and their newborns, national policies and guidelines on vaginal birth after caesarean section are needed.

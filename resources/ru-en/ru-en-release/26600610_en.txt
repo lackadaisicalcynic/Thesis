@@ -1,0 +1,16 @@
+Betel quid use and mortality in Bangladesh: a cohort study.  OBJECTIVE
+To evaluate the potential effects of betel quid chewing on mortality.  (A quid consists of betel nut, wrapped in betel leaves; tobacco is added to the quid by some users).
+METHODS
+Prospective data were available on 20 033 individuals aged 18-75 years, living in Araihazar, Bangladesh.
+Demographic and exposure data were collected at baseline using a standardized questionnaire.
+Cause of death was defined by verbal autopsy questionnaires administered to next of kin.
+We estimated hazard ratios (HR) and their 95% confidence intervals (CI) for associations between betel use and mortality from all causes and from specific causes, using Cox proportional hazards models.
+We adjusted for age, sex, body mass index, educational attainment and tobacco smoking history.
+FINDINGS
+There were 1072 deaths during an average of 10 years of follow-up.
+Participants who had ever used betel were significantly more likely to die from all causes (HR: 1.26; 95% CI: 1.09-1.44) and cancer (HR: 1.55; 95% CI: 1.09-2.22); but not cardiovascular disease (HR: 1.16; 95% CI: 0.93-1.43).
+These findings were robust to adjustment for potential confounders.
+There was a dose-response relationship between mortality from all causes and both the duration and the intensity of betel use.
+The population attributable fraction for betel use was 14.1% for deaths from all causes and 24.2% for cancer.
+CONCLUSION
+Betel quid use was associated with mortality from all causes and from cancer in this cohort.

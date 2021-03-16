@@ -1,0 +1,10 @@
+Hospital payment systems based on diagnosis-related groups: experiences in low- and middle-income countries.  OBJECTIVE
+This paper provides a comprehensive overview of hospital payment systems based on diagnosis-related groups (DRGs) in low- and middle-income countries.  It also explores design and implementation issues and the related challenges countries face.
+METHODS
+A literature research for papers on DRG-based payment systems in low- and middle-income countries was conducted in English, French and Spanish through Pubmed, the Pan American Health Organization's Regional Library of Medicine and Google.  FINDINGS
+Twelve low- and middle-income countries have DRG-based payment systems and another 17 are in the piloting or exploratory stage.  Countries have chosen from a wide range of imported and self-developed DRG models and most have adapted such models to their specific contexts.
+All countries have set expenditure ceilings.
+In general, systems were piloted before being implemented.  The need to meet certain requirements in terms of coding standardization, data availability and information technology made implementation difficult.
+Private sector providers have not been fully integrated, but most countries have managed to delink hospital financing from public finance budgeting.
+CONCLUSION
+Although more evidence on the impact of DRG-based payment systems is needed, our findings suggest that (i) the greater portion of health-care financing should be public rather than private; (ii) it is advisable to pilot systems first and to establish expenditure ceilings; (iii) countries that import an existing variant of a DRG-based system should be mindful of the need for adaptation; and (iv) countries should promote the cooperation of providers for appropriate data generation and claims management.

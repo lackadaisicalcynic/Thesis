@@ -1,0 +1,12 @@
+[Comparative analysis of the value of information provided by anterior segment optical coherence tomography and confocal laser scanning microscopy for identifying the palisades of Vogt in normal limbus].
+AIM
+to conduct a comparative analysis of the value of information provided by anterior segment optical coherence tomography (AS-OCT) and in vivo confocal laser scanning microscopy (CLSM) for identifying the palisades of Vogt (POV) in normal limbus.
+MATERIAL AND METHODS  POV were studied in 15 healthy participants (30 eyes) without any anterior segment disease.
+Two examination methods were used: AS-OCT En Face imaging (RTVue XR Avanti, 3D Cornea protocol) and CLSM (HRT3).  Concordance of the results was then analyzed.
+RESULTS  Structural features of POV were distinguishable by both methods.
+CLSM was able to visualize POV in both the superior and inferior limbi of all the 15 patients (30 eyes).  Within the inferior corneal hemisphere, POV had the appearance of well-differentiated hyperreflective double-contoured structures organized in parallel lines at the level of basal epithelium.
+The structure of the superior limbus, as judged from CLSM data, varied significantly: «classic» palisades were seen in only 13 eyes (43%), while in the other 17 cases (57%) POV were atypical.
+On OCT, POV structure was seen in detail in 29 eyes.  By comparing the abilities of CLSM and OCT to visualize POV, a strong positive correlation (rS=0.99, p<0.05) was revealed between the results obtained in both the superior and inferior limbi.
+CONCLUSION
+OCT data provide a detailed understanding of POV structure and strongly correlate with CLSM results.
+Taking into consideration the noninvasiveness, demonstrativeness, and repeatability of AS-OCT En Face imaging as well as the high value of provided information, the method cay be recommended as an alternative in POV diagnostics.

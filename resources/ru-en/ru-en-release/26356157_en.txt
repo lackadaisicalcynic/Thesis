@@ -1,0 +1,9 @@
+[The multicenter non-interventional, prospective observational program on the study of practical use of teraligen in patients diagnosed with autonomic disorder (START2): a local Russian experience with the use of the Russian version of The Four-Dimensional Symptom Questionnaire (4DSQ).  An intermediate analysis].
+AIM  To develop a new instrument able to identify pathological states and assess their changes during medication treatment.
+We aimed to study the typical practice of using alimemazine (teraligen) in patients with the diagnosis of autonomic nervous system disorder and to test the Russian version of @The Four-Dimensional Symptom Questionnaire@ (4DSQ) for measuring distress, depression, anxiety and somatization.
+MATERIAL AND METHODS
+We examined 3053 patients (mean age 42.09 ± 11.71 years) who received teraligen in doses gradually increasing from 5 to 15 mg per day.  The observational program was carried out in over 600 outpatient clinics of the Russian Federation.
+The 4DSQ was administered before treatment and 4 weeks after treatment.
+The Clinical Global Impression (CGI) scale was used before, during (after 2 weeks) and after (4 weeks) treatment with teraligen.
+RESULTS AND CONCLUSION  There was a significant improvement of patient's state assessed both by physicians (CGI scale) and by patients (96 and 98%, respectively).
+The 4DSQ was sensitive to the parameters of response to treatment with teraligen: parameters obtained at baseline and 4 weeks after the beginning of treatment differed significantly demonstrating a significant decrease in distress, anxiety and somatization.

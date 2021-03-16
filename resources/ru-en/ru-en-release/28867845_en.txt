@@ -1,0 +1,16 @@
+A data platform to improve rabies prevention, Sri Lanka.
+PROBLEM
+In Sri Lanka, rabies prevention initiatives are hindered by fragmented and delayed information-sharing that limits clinicians' ability to follow patients and impedes public health surveillance.
+APPROACH  In a project led by the health ministry, we adapted existing technologies to create an electronic platform for rabies surveillance.
+Information is entered by trained clinical staff, and both aggregate and individual patient data are visualized in real time.  An automated short message system (SMS) alerts patients for vaccination follow-up appointments and informs public health inspectors about incidents of animal bites.
+LOCAL SETTING
+The platform was rolled out in June 2016 in four districts of Sri Lanka, linking six rabies clinics, three laboratories and the public health inspectorate.
+RELEVANT CHANGES
+Over a 9-month period, 12 121 animal bites were reported to clinics and entered in the registry.
+Via secure portals, clinicians and public health teams accessed live information on treatment and outcomes of patients started on post-exposure prophylaxis (9507) or receiving deferred treatment (2614).
+Laboratories rapidly communicated the results of rabies virus tests on dead mammals (328/907 positive).
+In two pilot districts SMS reminders were sent to 1376 (71.2%) of 1933 patients whose contact details were available.  Daily SMS reports alerted 17 public health inspectors to bite incidents in their area for investigation.
+LESSONS LEARNT
+Existing technologies in low-resource countries can be harnessed to improve public health surveillance.
+Investment is needed in platform development and training and support for front-line staff.
+Greater public engagement is needed to improve completeness of surveillance and treatment.

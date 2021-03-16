@@ -1,0 +1,10 @@
+Varicella and herpes zoster hospitalizations before and after implementation of one-dose varicella vaccination in Australia: an ecological study.
+OBJECTIVE
+To examine trends in varicella and herpes zoster (HZ) hospitalization following the availability and subsequent National Immunization Programme funding of one-dose varicella vaccination in Australia.  METHODS
+Varicella vaccination coverage for children born between 2001 and 2009 was obtained from the Australian Childhood Immunization Register.  Principal or any coded varicella or HZ hospitalizations were retrieved from the national hospital morbidity database from 1998 to 2010.
+Trends in hospitalization rates in different age groups and indigenous status were assessed.  Incidence rate ratios (IRR) were calculated between periods before and after implementation of immunization programme funding.
+FINDINGS  In the first year of the funded immunization programme, varicella vaccine coverage reached 75% in children aged 24 months and more than 80% in children aged 60 months.
+Compared with the pre-vaccine period, varicella hospitalization rates during the funded programme were significantly lower for age groups younger than 40 years; with the greatest reduction in children aged 18-59 months (IRR: 0.25; 95% confidence interval, CI: 0.22-0.29).
+Indigenous children had a higher varicella hospitalization rate compared with non-indigenous children before vaccine implementation (IRR: 1.9; 95% CI: 1.4-2.7), but afterwards reached equivalence (IRR: 1.1; 95% CI: 0.7-1.6).  The age-standardized HZ hospitalization rate declined between the periods (IRR: 0.95; 95% CI: 0.92-0.97).
+CONCLUSION  Rapid attainment of high coverage reduced varicella hospitalizations in the targeted age group, particularly for indigenous children, but also in non-targeted age groups, with no increase in HZ hospitalizations.
+This suggests high one-dose varicella vaccine coverage can have a substantial impact on severe disease.

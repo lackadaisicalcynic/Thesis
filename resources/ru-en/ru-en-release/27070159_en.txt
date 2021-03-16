@@ -1,0 +1,11 @@
+[Role of assessment of arterial wall stiffness in predicting carotid artery atherosclerosis in patients with abdominal obesity].
+AIM  To estimate the possibility of using arterial wall stiffness (AWS) parameters as predictors for carotid artery atherosclerotic plaques (CAAPs) in patients with abdominal obesity (AO).
+MATERIALS AND METHODS
+A total of 132 patients (72% men; mean age, 45.0±5.3 years) with normal blood pressure (BP) and AO, and no cardiovascular diseases (CVD) at a SCORE risk of <5% were examined.
+The investigators analyzed lipid composition of blood, its levels of glucose, uric acid, and creatinine, by calculating glomerular filtration rate and performed 24-hour BP monitoring, by estimating AWS parameters, and triplex scanning of the brachiocephalic arteries.
+RESULTS
+CAAPs were detected in 20 (15.2%) patients.
+A subgroup of persons with an aortic pulse wave velocity (PWV) of ≥75th percentile (8.0 m/sec for persons aged 31-45 years; 8.3 m/sec for those aged 46-55 years) showed higher rates of carotid atherosclerosis (CA) (44.1% versus 15.2%; p<0.01). The predictors of CAAPs were aortic PWV, average daily aortic systolic BP, and the blood levels of glucose on an empty stomach and uric acid.
+CONCLUSION
+The analysis of AWS parameters in patients with AO and no CVD at a low SCORE risk may become a potential tool to estimate the likelihood of CAAPs.
+When the aortic PWV equal or greater than 8.0 m/sec for persons aged 31-45 years and 8.3 m/sec for those aged 46-55 years, CA screening is appropriate for possible further risk reclassification.

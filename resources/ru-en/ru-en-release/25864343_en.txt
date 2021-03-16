@@ -1,0 +1,17 @@
+[Small intestinal bacterial overgrowth as a cause of lactase deficiency].
+AIM  To establish the rate of lactase deficiency (LD) in patients with post-infectious irritable bowel syndrome (PI-IBS), to define a role of enteric bacteria in the pathogenesis of hypolactasia, and to evaluate the efficiency of probiotic therapy.
+SUBJECTS AND METHODS
+Examinations were made in 386 patients with PI-IBS, including 112 (79.4%) women; mean age 33.9 ± 9.1 years; disease duration 2.6 ± 1.4 years.
+Rapid tests of small intestinal mucosa (SIM) biopsy specimens obtained from the duodenal retrobulbar segment were used to diagnose LD.
+Bacterial growth was estimated by a hydrogen breath test using a H2 MICRO gas analyzer.
+RESULTS
+The patients with PI-IBS were revealed to have moderate and severe LD in 25.6 and 10.9%, respectively.
+All the patients with LD were detected to have small intestinal (SI) bacterial overgrowth (BOG).
+An inverse correlation was found between LD and the degree of SI BOG (r = -0.53; p < 0.001).
+73.7% of the patients with moderate LD showed a positive effect of probiotic therapy as regression of clinical symptoms of LD, a decrease of hydrogen levels in expired air from 72.4 ± 25.1 to 16.41 ± 3.2 ppm (p < 0.05), an increase of lactate activity in the SIM biopsy specimens and an improvement of quality of life from 2.69 ± 0.53 to 5.53 ± 0.64 scores according to the GCI scale.
+No improvement occurred in 73.8% of the patients with severe LD.
+CONCLUSION
+LD was identified in 36.5% of the patients with PI-IBS.
+There was an inverse correlation between the degree of LD and SI BOG.
+The good therapeutic effect of probiotics in LD suggests that the symbiotic gut microflora positively affects the activity of lactase in the human SIM.
+No therapeutic effect of probiotics in patients with severe LN serves as the basis for a search for more active probiotic therapy.

@@ -1,0 +1,13 @@
+AIM  The purpose of the study was to work out a method of preventive diagnosis of venous thromboses by means of ultrasonographic duplex scanning (USDS).
+PATIENTS AND METHODS
+A total of 306 people were examined.  Of these, 146 patients presented with acute venous thrombosis, 108 subjects suffered from varicose veins, and 52 were apparently healthy people composing the control group.
+All those enrolled into the study were examined by means of USDS, with the D-dimer level determined.
+RESULTS
+The obtained findings made it possible to discover and duly describe an ultrasonographic phenomenon of the presence of echo-positive inclusions in the zone of valvular sinuses, which was called the phenomenon of spontaneous echo contrast (SEC).
+This was followed by working out a classification of this phenomenon, describing two degrees thereof.
+Degree 1 SEC reflects the fact that the area of valvular sinuses is the most thrombogenic zone.
+Degree 2 SEC is characterised as a pathological, being simultaneously pre-thrombotic, condition and may serve as one of the earliest predictors of the development of venous thrombosis.
+A close correlation was established between the degree 2 SEC phenomenon, the presence of venous thrombosis and the values of the D-dimer level (r=0.89, p<0.01).
+CONCLUSION
+Ultrasonographic examination of valvular sinuses is a simple, readily available and reproducible method of screening and may thus be used for preventive diagnosis of acute venous thromboses.
+The findings of this study make it possible to form risk groups by the development of deep vein thrombosis, as well as to initiate timely measures on prevention of the pathology concerned.

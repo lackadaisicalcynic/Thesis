@@ -1,0 +1,11 @@
+[An experience of neurophysiological monitoring in neurosurgery].
+AIM  To evaluate the efficacy of neuromonitoring methods in prevention of postoperative neurological complications and estimation of predictive power of intraoperative changes in monitored characteristics.
+MATERIAL AND METHODS
+Retrospective study examined 240 patients, operated in the years 2014-2015 using intraoperative neurophysiological monitoring.  One hundred and seventy-three patients suffered from hemispheric lesions and 67 had lesions located in or near the brainstem.
+Somatosensory evoked potentials (SSEP) were monitored in 152 cases, visual in 32, brainstem acoustic in 22, transcranial motor in 36; stimulation mapping of motor cortex was performed in 69 surgeries, and cranial nerves identification in 27.  EEG was recorded in 7 patients, and 3 of them were woke up during the surgery for speech mapping.
+RESULTS
+The sensitivity of the SSEP in motor dysfunction detection was low (33%), while the specificity was relatively high (82%).
+These characteristics for visual and motor evoked potentials were close to 100% provided that the parameters of anesthesia met the corresponding requirements.
+The most effective methods in respect of prevention of postoperative dysfunctions were the stimulation mapping of functionally significant areas (motor and speech) and motor pathways mapping.  CONCLUSION
+Intraoperative neuromonitoring reduces a number of neurological complications after neurosurgical operations.  The SSEP method is not sensitive enough in surgeries that could affect motor centers and/or pathways, and multimodal monitoring combining SSEP and motor responses recording during transcranial and/or direct electrical brain stimulation.
+Successful monitoring requires highly coordinated actions between neurophysiologists, neurosurgeons and anesthesiologists.

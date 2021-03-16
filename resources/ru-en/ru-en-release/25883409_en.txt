@@ -1,0 +1,14 @@
+Assessing the potential for improvement of primary care in 34 countries: a cross-sectional survey.
+OBJECTIVE
+To investigate patients' perceptions of improvement potential in primary care in 34 countries.
+METHODS
+We did a cross-sectional survey of 69 201 patients who had just visited general practitioners at primary-care facilities.
+Patients rated five features of person-focused primary care - accessibility/availability, continuity, comprehensiveness, patient involvement and doctor-patient communication.  One tenth of the patients ranked the importance of each feature on a scale of one to four, and nine tenths of patients scored their experiences of care received.
+We calculated the potential for improvement by multiplying the proportion of negative patient experiences with the mean importance score in each country.  Scores were divided into low, medium and high improvement potential.
+Pair-wise correlations were made between improvement scores and three dimensions of the structure of primary care - governance, economic conditions and workforce development.
+FINDINGS  In 26 countries, one or more features of primary care had medium or high improvement potentials.
+Comprehensiveness of care had medium to high improvement potential in 23 of 34 countries.  In all countries, doctor-patient communication had low improvement potential.
+An overall stronger structure of primary care was correlated with a lower potential for improvement of continuity and comprehensiveness of care.
+In countries with stronger primary care governance patients perceived less potential to improve the continuity of care.  Countries with better economic conditions for primary care had less potential for improvement of all features of person-focused care.
+CONCLUSION
+In countries with a stronger primary care structure, patients perceived that primary care had less potential for improvement.

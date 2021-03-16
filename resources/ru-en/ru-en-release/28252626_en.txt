@@ -1,0 +1,15 @@
+[Numbers of early CD34+ progenitors of bone marrow hematopoiesis in patients with diffuse large B-cell lymphoma].
+AIM  To estimate the number of early progenitors of bone marrow (BM) hematopoiesis in patients with diffuse large B-cell lymphoma (DLBCL) in the late period after high-dose chemotherapy (HDCT) according to the mNHL-BFM-90 program.
+SUBJECTS AND METHODS
+The investigators analyzed the results of BM immunophenotypic and histological studies in 40 patients (median age, 57 years) with DLBCL who received HDCT according to the mNHL-BFM-90 program at the Hematology Research Center (HRC), Ministry of Health of the Russian Federation (MHRF), in the period 2002 to 2009.
+A comparison group consisted of 19 patients (median age, 70 years) treated according to the CHOP/R-CHOP program at HRC, MHRF, in the same period.  The median follow-up period was 6 years.
+The results of BM examination were analyzed before and 5-10 years after the end of HDCT.
+Immunophenotypic study determined the number of early CD34+ hematopoietic progenitors.
+BM cellularity, the size of erythroid, granulocytic and megakaryocytic lineages, their ratio, the presence of dysplasia signs, and secondary stromal changes were histologically determined.
+The BM toxic injury signs found for the first time were evaluated as manifestations of late myelotoxicity.
+RESULTS
+At 5-to-10-year follow-ups after the end of HDCT according to the mNHL-BFM-90 program, the patients showed a smaller number of early CD34+ progenitors of BM hematopoiesis in 31 (78%) cases than those treated according to the CHOP/R-CHOP-21 program (n=8 (2%)) (p=0.005). Myelopoiesis with decreased CD34+ cell count was characterized by hypocellularity in 8 (26%) patients (p=0.07), the narrowing of megakaryocytic lineage in 14 (45%) (p=0.006), erythroid one in 7 (23%) (p=0.01), and granulocytic one in 8 (26%) (p=0.92), pronounced secondary stromal changes in 15 (48%) (p=0.03), and grade 1 thrombocytopenia in 13 (42%); p=0.02).
+CONCLUSION
+There is evidence that the number of early CD34+ progenitors of BM hematopoiesis decreased in patients with DLBCL in the late period after HDCT.
+The investigation shows the relationship of the reduction in the number of early CD34+ progenitors of BM hematopoiesis in the late follow-up period to the presence of pronounced secondary changes in the BM stroma (p=0.02).
+There was no statistically significant relationship of the decreased number of CD34+ cells to the age younger or older than 60 years, to the period after the end of chemotherapy, to gender or presence of specific BM injury.

@@ -1,0 +1,11 @@
+Proactive community case-finding to facilitate treatment seeking for mental disorders, Nepal.
+PROBLEM
+Underutilization of mental health services is a major barrier to reducing the burden of disease attributable to mental, neurological and substance-use disorders.
+Primary care-based screening to detect people with mental disorders misses people not frequently visiting health-care facilities or who lack access to services.  APPROACH
+In two districts in Nepal, we trained lay community informants to use a tool to detect people with mental, neurological and substance-use disorders during routine community service.  The community informant detection tool consists of vignettes, which are sensitive to the context, and pictures that are easy to understand for low literacy populations.
+Informants referred people they identified using the tool to health-care facilities.  Three weeks after detection, people were interviewed by trained research assistants to assess their help-seeking behaviour and whether they received any treatment.
+LOCAL SETTING
+Decentralized mental health services are scarce in Nepal and few people with mental disorders are seeking care.  RELEVANT CHANGES
+Out of the 509 people identified through the community informant detection tool, two-thirds (67%; 341) accessed health services and 77% (264) of those individuals initiated mental health treatment.
+People in the rural Pyuthan district (208 out of 268) were more likely to access health care than those living in Chitwan district (133 out of 241).  LESSONS LEARNT
+The introduction of the tool increased the utilization of mental health services in a low-income country with few health resources.  The tool seems beneficial in rural settings, where communities are close-knit and community informants are familiar with those in need of mental health services.

@@ -1,0 +1,11 @@
+Accuracy of diabetes screening methods used for people with tuberculosis, Indonesia, Peru, Romania, South Africa.
+Objective  To evaluate the performance of diagnostic tools for diabetes mellitus, including laboratory methods and clinical risk scores, in newly-diagnosed pulmonary tuberculosis patients from four middle-income countries.
+Methods
+In a multicentre, prospective study, we recruited 2185 patients with pulmonary tuberculosis from sites in Indonesia, Peru, Romania and South Africa from January 2014 to September 2016.
+Using laboratory-measured glycated haemoglobin (HbA1c) as the gold standard, we measured the diagnostic accuracy of random plasma glucose, point-of-care HbA1c, fasting blood glucose, urine dipstick, published and newly derived diabetes mellitus risk scores and anthropometric measurements.  We also analysed combinations of tests, including a two-step test using point-of-care HbA1cwhen initial random plasma glucose was ≥ 6.1 mmol/L.
+Findings
+The overall crude prevalence of diabetes mellitus among newly diagnosed tuberculosis patients was 283/2185 (13.0%; 95% confidence interval, CI: 11.6-14.4).
+The marker with the best diagnostic accuracy was point-of-care HbA1c (area under receiver operating characteristic curve: 0.81; 95% CI: 0.75-0.86).
+A risk score derived using age, point-of-care HbA1c and random plasma glucose had the best overall diagnostic accuracy (area under curve: 0.85; 95% CI: 0.81-0.90).  There was substantial heterogeneity between sites for all markers, but the two-step combination test performed well in Indonesia and Peru.
+Conclusion  Random plasma glucose followed by point-of-care HbA1c testing can accurately diagnose diabetes in tuberculosis patients, particularly those with substantial hyperglycaemia, while reducing the need for more expensive point-of-care HbA1c testing.
+Risk scores with or without biochemical data may be useful but require validation.

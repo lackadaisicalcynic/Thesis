@@ -1,0 +1,12 @@
+[Bandwidth measurement technique for spatial frequency channels in human visual system].
+AIM
+to determine the number of measurements required to obtain stable bandwidth values for spatial frequency channels (SFCs) in the human visual system.
+MATERIAL AND METHODS  Ten untrained, normal vision subjects 18-22 years old were presented with light pulses (flickers) with initial frequency of 10 Hz and then with a higher-than-initial and lower-than-initial frequency alternately at 1-sec intervals.
+The difference between flickers frequencies was gradually increased until the test subject determined his/her discrimination threshold.  This threshold was assumed to represent the SFC bandwidth.
+Measured values were plotted on a coordinate system «SFC bandwidth - the number of measurement».
+The described procedure was repeated and a graph resulted showing SFC bandwidth as a function of Ni, where Ni is the number of i-th measurement and i = 1, 2, ..., k (k - the sequence number of measurement at which the transition process was completed and a quasi-stationary state achieved): ΔF=f(Ni).
+The number of measurements required to obtain stable SFC bandwidth values was determined from the number of measurements made during the transition process.
+RESULTS
+It has been found that to obtain stable bandwidth values for SFCs of the human visual system, 2 to 8 measurements are required (point estimate of the median for the given sample equaled 5).
+CONCLUSION
+The duration of a transition process to stable SFC bandwidth values is individual and this should be taken into account when assessing the visual system.

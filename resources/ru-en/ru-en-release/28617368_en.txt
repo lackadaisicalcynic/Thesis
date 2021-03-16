@@ -1,0 +1,9 @@
+[A comparative placebo-controlled clinical study on the efficacy and safety of interferon beta-1a for subcutaneous injections in patients with remitting multiple sclerosis: results of the first year of observations].
+AIM
+To prove the equivalent efficacy of teberif (BCD-033, interferon beta-1) and rebif (interferon beta-1a) in patients with remitting multiple sclerosis (RMS).  MATERIAL AND METHODS
+A multicenter double blind placebo-controlled comparative randomized III phase study included 163 patients with RMS.  Patients were randomized into three equal groups (teberif, rebif or placebo).
+RESULTS AND CONCLUSION
+After 52 weeks, the equivalent efficacy of teberif and the brand drug rebif was shown.
+The result of assessment of the primary endpoint, which was combined unique active (CUA) lesion (the total of MRI T1-weighted lesions and new or newly enlarging T2-weighted lesions, without double counting of lesions with both activities), showed no significant differences
+(0.727±1.042 and 0.652±1.059 (p=0.7354, t-Student test) in the teberif and rebif groups, respectively.  No between-group differences were found for other MRI indices and clinical parameters related with relapses.
+Teberif was shown to have a favorable safety and tolerability profile comparable to that of rebif.  The results suggest the therapeutic equivalency of the drugs and form the basis for using the bioanalogue of interferon-beta 1 in patients with RMS.

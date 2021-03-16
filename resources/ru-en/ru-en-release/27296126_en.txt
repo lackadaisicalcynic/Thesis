@@ -1,0 +1,27 @@
+[Surgical Site Infections after Open Appendectomy and Effectiveness of Complex Approach to Their Prevention].
+AIM
+To assess an incidence rate of surgical site infections (SSI) after open appendectomy and effectiveness of combined preventive measures (CPM).  MATERIAL AND METHODS
+This study was performed at three surgical departments of Smolensk hospitals.  A total of 150 consecutive patients (50 at each department) hospitalized since January 2012 were included into the retrospective observation (period I).
+In order to perform prospective evaluation of CPM, a total of 66 consecutive patients (randomized 1:1) hospitalized since December 2012 (period II) were followed up at each of the departments.
+Antibiotic prophylaxis (AP) with IV amoxicillin/clavulanate (1.2 g) was planned for all patients from period II.
+The study group (group 1) included patients with surgical wound closure with triclosan-coated polyglactin 910 and additionally with a skin 2-octylcyanoacrylate-based adhesive.
+The control group (group 2) included patients with surgical wound closure with non-triclosan-coated polyglactin 910.  Each patient from the period II was assigned to an "Individual SSI Prevention Package" (IPP), which included an antibiotic, sutures, skin adhesive (only in a package for CPM) and label "AP" for patients' medical records.
+Patients' medical records were reviewed by one expert.
+Exclusion criteria were: age <14 years; transition to midline laparotomy; drainage of the abdominal cavity through the surgical wound; simultaneous interventions; secondary appendicitis; refusal to use of sutures from the IPP.  In order to determine signs of SSI presence/absence within 30 days after surgery, attempts to contact with patients by phone were made.
+The data obtained was recorded into case report forms and then entered into the study database.
+RESULTS
+A total of 322 patients were included into the final analysis (mean age: 34.8±17.1 years).
+The mean length of hospital stay was 8.2±2.5 days.
+The mean duration of hospital stay with or without SSI was 7.9±1.8 and 14.2±4.0 days, respectively (p<0.001).
+The AP during the periods I and II was performed in 56.1% (83/148) and 97.7% (170/174) of patients, respectively (p<0.00001).
+Cephalosporins I-IV were the most frequently used antibiotics during the period I (85.6%).
+During the period II, amoxicillin/clavulanate from IPP was used in 98.2% of patients.
+Percentage of IV antibiotic administration in different time periods was 57.3% and 98.2%, respectively (p<0.0001); frequency of the first administration before skin incision was 53.6% and 97.1%, respectively (p<0.0001).
+The telephone contact with patient was successful in 74.8% (both periods), 56.8% (period I) and 90.2% (period II) of cases, respectively.
+SSI was recorded only once per patient with the following priority: SSI was documented in the patient's medical record; patient developed SSI that was not documented (in the expert's opinion) in the patient's medical record; SSI signs were determined during the telephone contact or reported by the patient.
+The incidence of SSI in both study periods, period I and period II was 14.9%, 15.5% and 14.4%, respectively (p>0.05 for all comparisons).
+In the patient subgroup with successful telephone contact, the incidence of SSI in both study periods, period I and period II was 17.4%, 21.4% and 15.3%, respectively; the incidence of SSI in group 1 and group 2 of the period II was 12.0% and 18.9%, respectively (p>0.05 for all comparisons).
+CONCLUSION
+SSI after an open appendectomy remains an important problem.  In order to determine a true incidence of SSI, it is necessary to improve the national nosocomial infection surveillance system.
+The CMP used in the study have showed a trend to significant SSI risk reduction and may be recommended to maximize patient protection.
+Further large studies are needed to confirm effectiveness of the proposed CMP.

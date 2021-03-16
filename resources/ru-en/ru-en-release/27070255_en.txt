@@ -1,0 +1,9 @@
+[The algorithm for surgical treatment of skull base tumors invading the craniovertebral junction].
+UNLABELLED  Surgical treatment of skull base tumors invading the craniovertebral junction is a complex medical problem due to a high rate of adverse postoperative outcomes in these patients.
+AIM  The study aim was to optimize surgical treatment in patients with skull base tumors invading the craniovertebral junction.
+MATERIAL AND METHODS
+A comparative analysis of 2 groups of patients was performed.  The study group included 28 patients with skull base and craniovertebral junction chordomas who underwent single-stage surgery, including posterior occipitospondylodesis and tumour resection using the transoral and combined transoral and transnasal approaches, in the period between 2000 and 2015.
+The control group included 21 patients with the same pathology who underwent microsurgery using the transoral approach without occipitospondylodesis in the period between 1990 and 2009.  RESULTS
+Most of the patients in both groups were operated on at late disease stages when they presented with gross clinical signs.  The use of single-stage occipitospondylodesis and transoral skull base tumor removal significantly (compared to the control group) extends indications for surgical treatment of skull base tumors, which were previously considered unresectable, and provides better results.
+CONCLUSION
+New surgical techniques significantly increase the completeness of tumor resection, decrease the rate of postoperative complications, accelerate the rehabilitation process, and improve the patient's quality of life.

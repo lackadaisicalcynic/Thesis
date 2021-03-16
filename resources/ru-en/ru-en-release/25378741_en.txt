@@ -1,0 +1,13 @@
+Drug resistance of Mycobacterium tuberculosis in Malawi: a cross-sectional survey.
+OBJECTIVE
+To document the prevalence of multidrug resistance among people newly diagnosed with - and those retreated for - tuberculosis in Malawi.
+METHODS
+We conducted a nationally representative survey of people with sputum-smear-positive tuberculosis between 2010 and 2011.  For all consenting participants, we collected demographic and clinical data, two sputum samples and tested for human immunodeficiency virus (HIV).The samples underwent resistance testing at the Central Reference Laboratory in Lilongwe, Malawi.
+All Mycobacterium tuberculosis isolates found to be multidrug-resistant were retested for resistance to first-line drugs - and tested for resistance to second-line drugs - at a Supranational Tuberculosis Reference Laboratory in South Africa.  FINDINGS
+Overall, M. tuberculosis was isolated from 1777 (83.8%) of the 2120 smear-positive tuberculosis patients.  Multidrug resistance was identified in five (0.4%) of 1196 isolates from new cases and 28 (4.8%) of 581 isolates from people undergoing retreatment.
+Of the 31 isolates from retreatment cases who had previously failed treatment, nine (29.0%) showed multidrug resistance.
+Although resistance to second-line drugs was found, no cases of extensive drug-resistant tuberculosis were detected.
+HIV testing of people from whom M. tuberculosis isolates were obtained showed that 577 (48.2%) of people newly diagnosed and 386 (66.4%) of people undergoing retreatment were positive.
+CONCLUSION
+The prevalence of multidrug resistance among people with smear-positive tuberculosis was low for sub-Saharan Africa - probably reflecting the strength of Malawi's tuberculosis control programme.
+The relatively high prevalence of such resistance observed among those with previous treatment failure may highlight a need for a change in the national policy for retreating this subgroup of people with tuberculosis.

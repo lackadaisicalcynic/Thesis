@@ -1,0 +1,16 @@
+[Systemic inflammatory markers in age-associated cognitive impairment and Alzheimer's disease].
+AIM  To determine a complex of immune markers reflecting various links of multicomponent inflammatory reactions in amnestic type of mild cognitive impairment (aMCI) in comparison with Alzheimer's disease (AD).
+MATERIAL AND METHODS
+Sixty-seven patients with aMCI, aged 72 [63; 77] years, and 91 patients with Alzheimer's disease at the age of 74 [68; 79] years were examined.
+The aMCI was diagnosed according to the criteria of R.S. Petersen et al. (1999) and B. Dubois et al.
+(2014).
+The diagnosis of AD was established in accordance with the ICD-10 and NINCDS-ADRDA criteria.
+The degree of dementia severity was determined by clinical signs using the CDR (Clinical Dementia Rating) and the Mini Mental State Examination (MMSE) total score.  The control group included 38 age- and sex-matched individuals.
+Immune and biochemical parameters were determined in blood plasma.  The activity of LE and α1-PI was determined by spectrophotometric method.
+Concentrations of IL-6 and CRP were measured by enzyme immunoassay.
+RESULTS
+AD was characterized by the significant decrease in LE activity (p<0.0001) and increase in the activity/levels of α1-PI, CRP and IL-6 (p<0.001; p<0.05; p<0.01, respectively) compared to controls.
+CDR and MMSE scores were correlated with the LE activity (r=-0.38, r=0.31, p<0.05), i.e. cognitive decline was associated with decreased activity of LE. aMCI was characterized by the significant increase in the activity/level of α1-PI and IL-6 (p<0.0001; p<0.01).
+In 30% of patients with aMCI, a spectrum of inflammatory markers, typical for patients with AD, was determined.
+CONCLUSION
+Based on the results of comparative analysis of aMCI and AD, one can suggest that one third of patients with aMCI represents a group of ultra-high risk of AD.  These patients need a dynamic follow-up with a regular assessment of the state of cognitive functions and possibly preventive therapy.

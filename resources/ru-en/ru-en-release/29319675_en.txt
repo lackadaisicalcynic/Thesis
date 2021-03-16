@@ -1,0 +1,6 @@
+[Use of infrared thermography in ophthalmology].  Thermoregulation disorders are associated with Body temperature fluctuation.
+Both hyper- and hypothermia are evidence of an ongoing pathological process.
+Contralateral symmetry in the Body heat spread is considered normal, while asymmetry, if above a certain level, implies an underlying pathology.
+Infrared thermography (IRT) is employed in many medical fields including ophthalmology.
+The earliest attempts of eye surface temperature evaluation were made in the 19th century.
+Over the last 50 years, different authors have been using this method to assess ocular adnexa, however, the technique remains insufficiently studied.  The reported IRT data is often contradictory, which may be due to heterogeneity (in terms of severity) of patient groups and disparities between research parameters.

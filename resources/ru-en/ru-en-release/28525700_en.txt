@@ -1,0 +1,7 @@
+[The age-related changes of the heart rate variability measurements: the role of the inflammation, oxidative stress and telomeres biology].
+The autonomic and central nervous system, a number of humoral and reflex effects regulate the heart rate.
+The main role in the heart rate regulation belongs to the autonomic nervous system.
+A common method for studying the autonomic influences on the heart rate is the analysis of heart rate variability (HRV), which allows to evaluate the neuro-vegetative status of the organism, determine its adaptive capacity, to evaluate the level of stress and the degree of tension of regulatory systems.  An age-related decrease of HRV measurements in healthy people reflects the weakening of the autonomic regulation of cardiac activity.
+The most pronounced changes are found in patients older than 60 years.
+The HRV depression is preceded by hemodynamic and metabolic disorders is associated with high cardiovascular risk and is a predictor of life-threatening arrhythmias and sudden death in the elderly.  The reasons for HRV changes with age stay unclear.
+In the light of modern ideas about the mechanisms of aging, several complementary theories proposed.  Telomere shortening, the role of oxidative stress and inflammation as possible mechanisms of age-related changes in the autonomic regulation of the heart rhythm, will be discussed in this article.

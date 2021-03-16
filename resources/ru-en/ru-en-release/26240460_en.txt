@@ -1,0 +1,13 @@
+Tobacco smoking and tuberculosis treatment outcomes: a prospective cohort study in Georgia.
+OBJECTIVE
+To assess the effect of tobacco smoking on the outcome of tuberculosis treatment in Tbilisi, Georgia.  METHODS
+We conducted a prospective cohort study of adults with laboratory-confirmed tuberculosis from May 2011 to November 2013.  History of tobacco smoking was collected using a standardized questionnaire adapted from the global adult tobacco survey.
+We considered tuberculosis therapy to have a poor outcome if participants defaulted, failed treatment or died.
+We used multivariable regressions to estimate the risk of a poor treatment outcome.  FINDINGS
+Of the 591 tuberculosis patients enrolled, 188 (31.8%) were past smokers and 271 (45.9%) were current smokers.
+Ninety (33.2%) of the current smokers and 24 (18.2%) of the participants who had never smoked had previously been treated for tuberculosis (P < 0.01).
+Treatment outcome data were available for 524 of the participants, of whom 128 (24.4%) - including 80 (32.9%) of the 243 current smokers and 21 (17.2%) of the 122 individuals who had never smoked - had a poor treatment outcome.
+Compared with those who had never smoked, current smokers had an increased risk of poor treatment outcome (adjusted relative risk, aRR: 1.70; 95% confidence interval, CI: 1.00-2.90).
+Those who had ceased smoking more than two months before enrolment did not have such an increased risk (aRR: 1.01; 95% CI: 0.51-1.99).
+CONCLUSION
+There is a high prevalence of smoking among patients with tuberculosis in Georgia and smoking increases the risk of a poor treatment outcome.

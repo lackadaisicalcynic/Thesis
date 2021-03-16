@@ -1,0 +1,9 @@
+[Clinical variations of chronic generalized periodontitis, genetic polymorphism and systemic production of inflammatory cytokines].
+Carriage of polymorphic alleles of genes of cytokines-interleukines IL-1β, IL-1RN, TNFα, IL-4 can be a specific feature of chronic periodontitis patients.
+Genetic tests can be used to predict the course of the disease at its early manifestations.
+Objective: To establish the relationship of clinical manifestations of periodontal disease, inflammatory cytokines gene polymorphism and systemic levels of cytokine production.
+Periodontal tissue assessment and cone-beam computed tomography (CBCT) were performed in 150 periodontitis patients.
+A molecular--genetic testing for the presence of polymorphic alleles of genes IL-1β -511 C>T and +3953 C>T, IL-1RN (VNTR intron 2), IL-4 (VNTR intron 3), TNFα-308 G>A; content determined IL-1β, TNFα, IL-4 in peripheral blood was carried out in 150 patients with periodontitis and 150 healthy donors.
+Based on the analysis of the speed and nature of the supporting bone resorption and clinical manifestations patients are divided in "aggressive", "moderately progressive" and "slowly progressive" periodontits course groups.
+Disease severity was associated with distribution of genotypes and alleles of polymorphic genes cytokine IL-1RN (VNTR intron 2), TNFα-308 G>A and IL-4 (VNTR intron 3); haplotype IL-1β-511 TIL-1β +3953 T/IL-1RN 2R.
+There was no statistically significant difference in systemic level of IL-1β, TNFα and IL-4 between periodontitis groups but the donor level of cytokines was 2-4 times less.

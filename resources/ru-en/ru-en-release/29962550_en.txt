@@ -1,0 +1,13 @@
+Cash interventions to improve clinical outcomes for pulmonary tuberculosis: systematic review and meta-analysis.
+Objective
+To assess cash transfer interventions for improving treatment outcomes of active pulmonary tuberculosis in low- and middle-income countries.  Methods
+We searched PubMed®, Embase®, Cochrane Library and ClinicalTrials.gov for studies published until 4 August 2017 that reported on cash transfer interventions during the treatment of active pulmonary tuberculosis in low- and middle-income countries.  Our primary outcome was a positive clinical outcome, defined as treatment success, treatment completion or microbiologic cure.
+Using the purchasing power parity conversion factor, we converted the amount of cash received per patient within each study into international dollars (Int$).
+We calculated odds ratio (OR) for the primary outcome using a random effects meta-analysis.  Findings
+Eight studies met eligibility criteria for review inclusion.
+Seven studies assessed a tuberculosis-specific intervention, with average amount of cash ranging from Int$ 193-858.
+One study assessed a tuberculosis-sensitive intervention, with average amount of Int$ 101.  Four studies included non-cash co-interventions.
+All studies showed better primary outcome for the intervention group than the control group.  After excluding three studies with high risk of bias, patients receiving tuberculosis-specific cash transfer were more likely to have a positive clinical outcome than patients in the control groups (OR: 1.77; 95% confidence interval: 1.57-2.01).
+Conclusion
+The evidence available suggests that patients in low- and middle-income countries receiving cash during treatment for active pulmonary tuberculosis are more likely to have a positive clinical outcome.
+These findings support the incorporation of cash transfer interventions into social protection schemes within tuberculosis treatment programmes.

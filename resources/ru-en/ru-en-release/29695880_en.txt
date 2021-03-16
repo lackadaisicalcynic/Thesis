@@ -1,0 +1,12 @@
+Multicontaminant air pollution in Chinese cities.
+Objective  To investigate multicontaminant air pollution in Chinese cities, to quantify the urban population affected and to explore the relationship between air pollution and urban population size.
+Methods
+We obtained data for 155 cities with 276 million inhabitants for 2014 from China's air quality monitoring network on concentrations of fine particulate matter measuring under 2.5 μm (PM2.5), coarse particulate matter measuring 2.5 to 10 μm (PM10), nitrogen dioxide (NO2), sulfur dioxide (SO2) and ozone (O3).
+Concentrations were considered as high, if they exceeded World Health Organization (WHO) guideline limits.
+Findings
+Overall, 51% (142 million) of the study population was exposed to mean annual multicontaminant concentrations above WHO limits - east China and the megacities were worst affected.
+High daily levels of four-contaminant mixtures of PM2.5, PM10, SO2 and O3 and PM2.5, PM10, SO2 and NO2 occurred on up to 110 days in 2014 in many cities, mainly in Shandong and Hebei Provinces.
+High daily levels of PM2.5, PM10 and SO2 occurred on over  146 days in 110 cities, mainly in east and central China.  High daily levels of mixtures of PM2.5 and PM10, PM2.5 and SO2, and PM10 and SO2 occurred on over  146 days in 145 cities, mainly in east China.
+Surprisingly, multicontaminant air pollution was less frequent in cities with populations over 10 million than in smaller cities.  Conclusion
+Multicontaminant air pollution was common in Chinese cities.  A shift from single-contaminant to multicontaminant evaluations of the health effects of air pollution is needed.
+China should implement protective measures during future urbanization.

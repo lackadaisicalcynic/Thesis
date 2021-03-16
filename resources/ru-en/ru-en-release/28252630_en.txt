@@ -1,0 +1,20 @@
+[Pharmacoepidemiological study of the course of influenza and other acute respiratory viral infections in risk groups].
+AIM  To identify risk factors (RFs) for the development of bacterial complications and the prolonged course of influenza and other acute respiratory viral infections (ARVIs) among inpatients treated in Russian healthcare facilities in the post-pandemic period; to determine the clinical presentation of the disease (flu-like syndrome) in risk-group people and to evaluate the efficacy of antiviral therapy with arbidol (umifenovir).
+MATERIAL AND METHODS
+The investigators retrospectively analyzed randomly selected medical records of inpatients with influenza and other ARVI in 88 hospitals from 50 regions of the Russian Federation: those of 3532 and 1755 patients in the 2010-2011 and 2014-2015 seasons, respectively, by applying parametric and nonparametric statistical methods.
+RESULTS
+The built database of patients with influenza-like syndrome contained data from the histories of 2072 men and 2537 women, of whom there were 317 (12.49%) pregnant women; gender evidence was not given in the medical records for 678 patients. 382 (7.2%) were vaccinated against influenza. 1528 (28.9%) people were admitted to hospital with various complications.
+Information on laboratory tests was available in 1691 (31.98%) patients; of these, 1291 (76.4%) were detected to have influenza and other respiratory viruses.
+Influenza viruses were found in 1026 (60.7%) examinees; influenza A viruses in 712 (42.1%) people while pandemic strain of swine influenza A/H1N1 and A/H3N2 viruses was detected in 487 (28.8%) and 107 (6.3%) patients, respectively; influenza A subtype was indicated in 118 (7%) persons with laboratory-confirmed influenza virus.
+Influenza B viruses were found in 314 (18.6%) examinees.
+Other types of respiratory viruses were detected in 265 (15.7%) patients.
+The body mass index exceeded 30 kg/m2 in 227 (4.3%) patients.
+Single-factor analysis of variance revealed factors influencing the course of flu-like syndrome and identified risk groups: children younger than 2 years old and adults over 65, pregnant women, and people with chronic somatic diseases and obesity.
+The high-risk groups exhibited a more severe course of flu-like syndrome than did the patients outside the risk groups.
+The incidence of complications was higher, especially in the under 2-year-year-old children and in patients with endocrine, metabolic, or respiratory diseases, with a large proportion of complications being pneumonia.
+The efficacy of antiviral therapy was higher in the elderly, patients with chronic diseases, and pregnant women than in patients not at risk.
+In patients treated with umifenovir (provided that it was administered in the first 48 hours after disease onset), the duration of fever and frequency of complications proved to be lower than those in patients who did not receive antiviral therapy.
+CONCLUSION
+The FRs for influenza and ARVI complications are patient's age (children under 3 years of age and adults older than 65 years), the presence of chronic somatic diseases, and pregnancy.
+Patients with endocrine, eating, metabolic (including obesity), circulatory, and respiratory disorders are at high risk for influenza and ARVI complications.
+Umifenovir therapy substantially reduces the duration of fever and risk of complications, especially in patients with laboratory-confirmed influenza infection.

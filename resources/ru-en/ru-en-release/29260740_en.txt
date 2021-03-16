@@ -1,0 +1,9 @@
+[Hepatitis C can be cured: will hepatitis B become next?]  Chronic hepatitis B (CHB) and C (CHC) are one of the leading causes of cirrhosis and liver cancer with over a million of people dying annually from their consequences.
+In Russia CHB and CHC morbidity and related mortality show an upward trend.
+As a result of recent breakthroughs in antiviral therapeutics CHC became a curable disease.  Modern therapeutics effectively suppress viral replication in CHB patients, but withdrawal of antivirals usually results in disease relapse.
+Loss of HBsAg required for the so called 'functional cure' is a very rare event.  Moreover, 'complete cure' when the virus is entirely eliminated from the body is not possible due to a persistent form of covalently closed circular DNA (cccDNA) of hepatitis B virus (HBV) in hepatocytes refractory to modern antivirals.
+Today, there is a plethora of new promising medications being at different stages of development that target different steps of viral life cycle, including inhibitors of interaction between HBV and its entry receptor NTCP, inhibitors of HBV cccDNA, inhibitors of nucleocapsid assembly, technologies of genome editing (TALENs, CRISPR/Cas etc) and RNA-interference.
+In addition to direct acting antivirals, there is a number of approaches aimed at enhancement of the innate and adaptive immune responses.
+In experimental conditions, some of these approaches or their combinations help to achieve functional cure.  However, complete elimination of the virus is possible only using technologies of genome editing, capable of specific cccDNA degradation.
+Nuclease systems are currently at their early stages of development, and there is a long way to prove their efficacy and safety.
+Nevertheless, highly promising results of the recent years leave no doubt that CRISPR/Cas systems and similar technologies can become the basis of CHB therapy.

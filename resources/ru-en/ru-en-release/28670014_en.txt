@@ -1,0 +1,9 @@
+Implementation research to improve quality of maternal and newborn health care, Malawi.
+OBJECTIVE
+To evaluate the impact of a performance-based financing scheme on maternal and neonatal health service quality in Malawi.  METHODS
+We conducted a non-randomized controlled before and after study to evaluate the effects of district- and facility-level performance incentives for health workers and management teams.  We assessed changes in the facilities' essential drug stocks, equipment maintenance and clinical obstetric care processes.
+Difference-in-difference regression models were used to analyse effects of the scheme on adherence to obstetric care treatment protocols and provision of essential drugs, supplies and equipment.  FINDINGS
+We observed 33 health facilities, 23 intervention facilities and 10 control facilities and 401 pregnant women across four districts.  The scheme improved the availability of both functional equipment and essential drug stocks in the intervention facilities.
+We observed positive effects in respect to drug procurement and clinical care activities at non-intervention facilities, likely in response to improved district management performance.  Birth assistants' adherence to clinical protocols improved across all studied facilities as district health managers supervised and coached clinical staff more actively.
+CONCLUSION  Despite nation-wide stock-outs and extreme health worker shortages, facilities in the study districts managed to improve maternal and neonatal health service quality by overcoming bottlenecks related to supply procurement, equipment maintenance and clinical performance.
+To strengthen and reform health management structures, performance-based financing may be a promising approach to sustainable improvements in quality of health care.

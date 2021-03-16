@@ -1,0 +1,12 @@
+[The use of intraoperative Doppler ultrasound in endoscopic transsphenoidal surgery].  INTRODUCTION
+Doppler ultrasound (DUS) has been widely used in neurosurgical practice to diagnose various cerebrovascular diseases.  This technique is used in transsphenoidal surgery to identify the localization of intracranial arteries when making an approach or during tumor resection.
+MATERIAL AND METHODS
+To identify the cavernous segment of the internal carotid artery (ICA) and/or basilar artery during endoscopic transsphenoidal surgery, we used a combined device on the basis of a click line curette («Karl Storz») and a 16 MHz Doppler probe (Lassamed).
+The technique was used in 51 patients during both standard transsphenoidal surgery (23 cases) and transsphenoidal tumor resection through an extended approach (28 cases).
+RESULTS AND DISCUSSION
+Doppler ultrasound was used in different situations: to determine a trajectory of the endonasal transsphenoidal approach in the absence of the normal anatomical landmarks (16 cases), to define the limits of safe resection of a tumor located in the laterosellar region (7), and to implement an extended transsphenoidal endoscopic approach (28).
+Intraoperative Doppler ultrasound enabled identification of the cavernous segment of the internal carotid artery in 45 cases and the basilar artery in 2 cases; a blood vessel was not found in 4 cases.
+Injury to the cavernous segment of the internal carotid artery was observed only in 1 case.
+CONCLUSION
+The use of the described combined device in transsphenoidal surgery turned Doppler ultrasound into an important and useful technique for visualization of the ICA within the tumor stroma as well as in the case of the changed skull base anatomy.
+Its use facilitates manipulations in a deep and narrow wound and enables inspection of the entire surface of the operative field in various planes, thereby surgery becomes safer due to the possibility of maximum investigation of the operative field.

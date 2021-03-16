@@ -1,0 +1,9 @@
+[Immunological parameters in assessing the risk of decompensation in children with mental retardation].
+AIM  To analyze the correlation between clinical and immunological parameters in children with mental retardation (MR) in order to explore the possibilities of using immunological data in assessing the severity of patient's condition and predicting a risk of decompensation, exacerbation of mental disorders comorbid to MR.
+MATERIAL AND METHODS
+Seventy-three school children, aged 8-17 years, mean age 12,6±2,4 years, with MR of different genesis and 64 physically and mentally healthy children (control group) of the same age and sex were studied clinically and immunologically.
+The degree of clinical severity of MR was evaluated by CGI-S scale (the Clinical global impression-severity), the level of intellectual disabilities was evaluated by the Wechsler Intelligence Scale.
+Enzymatic activity of leukocyte elastase; functional activity of α1-proteinase inhibitor; levels of autoantibodies to neurospecific antigens - S-100b and myelin basic protein were analyzed in the serum of patients and healthy children.
+RESULTS AND CONCLUSION
+The activation of the immune system was associated with comorbid to MR current psychopathological disturbances that were more severe, persistent and required long-term maintenance treatment.
+Analysis of immunological parameters can be used in children with MR treated in outpatient network as an additional test for the detection of mental state decompensation.

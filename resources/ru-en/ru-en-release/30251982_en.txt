@@ -1,0 +1,9 @@
+[The processes of α-synuclein amyloid protein complexes involved in the pathogenesis of Parkinson's disease].  AIM
+To analyze interactions between α-synuclein (αS) protein and lipids using biophysical methods.
+MATERIAL AND METHODS
+Recombinant α-synuclein synthesized in prokaryotic cells was used.
+To characterize the interaction of αS with negatively charged vesicles of DOPS (1,2-dioleoyl-sn-glycero-3-phospho-L-serine, sodium salt) and DOPG (1,2-dioleoyl-sn-glycero-3-phospho-(1'-rac-glycerol), sodium salt) and the consequences of such interactions on αS amyloid formation, combined circular dichroism, fluorescence and imaging methods in vitro were applied.
+RESULTS AND CONCLUSION
+Lipid head-group chemistry modulates αS interactions and also affects amyloid fiber formation.
+Pre-formed αS oligomers, typically present in a small amount in the αS starting material, acted as templates for linear growth of anomalous amyloid fibers in the presence of vesicles.  At the same time, the remaining αS monomers were restricted from vesicle-mediated nucleation of amyloid fibers.
+Although not a dominant process in bulk experiments, this hidden αS aggregation pathway may be of importance in vivo.

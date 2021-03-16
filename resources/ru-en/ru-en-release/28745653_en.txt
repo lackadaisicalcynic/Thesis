@@ -1,0 +1,12 @@
+[Electrophysiological studies of the retina in antiphospholipid syndrome].
+AIM
+to evaluate the functional state of the retina in patients with antiphospholipid syndrome (APS) through different types of electroretinography (ERG).
+MATERIAL AND METHODS
+The total ERG (t-ERG), local macular ERG (m-ERG), and oscillatory potentials (OP) were recorded in 56 patients with verified APS.
+RESULTS  In most patients with APS, ERG was of abnormal appearance, particularly, t-ERG was notable for reliably lower a- and b-wave amplitudes (70% of cases), m-ERG - for lower amplitudes and shorter latency (64% of cases).
+Pathological changes of t-ERG and m-ERG components were equally common in patients with and without retinal vascular occlusions.
+Linear dependence was established between the decrease in b-wave amplitude of subnormal t-ERG and the Vs value in the central retinal artery.
+A decrease in the OP index and OP configuration distortion were found in 82% of patients.  At that, OP indices tended to be lower in patients from the retinal vascular occlusions group.
+CONCLUSION  The use of different types of ERG enable detection of not only local, but also generalized retinal changes in APS.
+Regardless of the presence of retinal occlusion, APS patients show suppression of biopotential in most of cellular elements of the retina due to ischemia.  Despite high visual acuity, the local macular potential gets significantly reduced in more than half of APS patients.
+Oscillatory potentials recording is a highly sensitive method for diagnosis of retinal ischmia in APS.

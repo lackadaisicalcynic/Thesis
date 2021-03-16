@@ -1,0 +1,8 @@
+[Validation of the Russian version of the modified Addenbrooke's cognitive examination for Alzheimer's disease diagnosis].
+AIM
+To evaluate the validity of the Russian version of the modified Addenbrooke's cognitive examination (ACE-m) for Alzheimer's disease (AD) diagnosis.
+MATERIAL AND METHODS
+ACE-m and MMSE, as a comparison scale, were administered to 78 patients including 49 patients with AD and 29 healthy people.
+RESULTS AND CONCLUSION
+ACE-m demonstrated the high validity in the diagnosis of dementia in AD.  Cronbach's alpha was 0.89. ACE-m is a brief and simple in use test that measures a wide spectrum of cognitive functions, gives a general impression about cognitive deficit and diagnoses dementia in AD with the greater validity compared to MMSE.
+This scale is useful not only in diagnosis of AD but also in differentiation with other causes of dementia.

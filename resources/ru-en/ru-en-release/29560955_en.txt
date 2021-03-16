@@ -1,0 +1,11 @@
+[Optimal time of surgery for acute adhesive small bowel obstruction].  AIM
+To define optimal terms of surgery for acute adhesive non-strangulatory small bowel obstruction.  MATERIAL AND METHODS
+The analysis included 703 publications from e-LIBRARI.RU (342 works) and NCBI (361 works) databases for acute adhesive intestinal obstruction.  The vast majority of articles presented retrospective analysis of single-center experience.
+RESULTS
+It has been established that short course of medication is predominantly used for acute adhesive intestinal obstruction in the Russian Federation.
+International studies point 2-5 days for conservative treatment.  The advantages and disadvantages of short and long courses of medication were analyzed.
+Therefore, multicenter, prospective, randomized trial 'Comparison of early operative treatment (12-hour medication) and long-term conservative treatment (48 hours) for acute adhesive small bowel obstruction' (COTACSO) was planned and registered (Unique Protocol ID: 14121729).
+The study protocol involves clinical, laboratory and instrumental exclusion of strangulation, randomization and conservative treatment of 2 groups of patients for 12 and 48 hours.
+Patients will undergo surgical interventions if obstruction will be present by that date.
+The main endpoint is mortality rate in both groups.
+The end of the study is December 2020.

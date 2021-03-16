@@ -1,0 +1,13 @@
+Arsenic exposure in drinking water: an unrecognized health threat in Peru.
+OBJECTIVE  To assess the extent of arsenic contamination of groundwater and surface water in Peru and, to evaluate the accuracy of the Arsenic Econo-Quick(™) (EQ) kit for measuring water arsenic concentrations in the field.
+METHODS
+Water samples were collected from 151 water sources in 12 districts of Peru, and arsenic concentrations were measured in the laboratory using inductively-coupled plasma mass spectrometry.
+The EQ field kit was validated by comparing a subset of 139 water samples analysed by laboratory measurements and the EQ kit.
+FINDINGS
+In 86% (96/111) of the groundwater samples, arsenic exceeded the 10 µg/l arsenic concentration guideline given by the World Health Organization (WHO) for drinking water.  In 56% (62/111) of the samples, it exceeded the Bangladeshi threshold of 50 µg/l; the mean concentration being 54.5 µg/l (range: 0.1-93.1).
+In the Juliaca and Caracoto districts, in 96% (27/28) of groundwater samples arsenic was above the WHO guideline; and in water samples collected from the section of the Rímac river running through Lima, all had arsenic concentrations exceeding the WHO limit.
+When validated against laboratory values, the EQ kit correctly identified arsenic contamination relative to the guideline in 95% (106/111) of groundwater and in 68% (19/28) of surface water samples.
+CONCLUSION
+In several districts of Peru, drinking water shows widespread arsenic contamination, exceeding the WHO arsenic guideline.
+This poses a public health threat requiring further investigation and action.
+For groundwater samples, the EQ kit performed well relative to the WHO arsenic limit and therefore could provide a vital tool for water arsenic surveillance.

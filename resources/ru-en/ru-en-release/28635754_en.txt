@@ -1,0 +1,5 @@
+[Cerebral plasticity and connectopathies: mechanisms of comorbidity of neurological diseases and depression].  In this theoretical study, the concept of connectome and connectopathy was used for the analysis of the data related to molecular mechanisms of the pathogenesis and comorbidities of neurological and psychiatric diseases (in particular, depression), as well as approaches to their pharmacotherapy.
+A scheme of main network levels underlying connectome is provided, including subcellular and molecular levels.
+Neuronal networks forming connectome are based on several 'lower' network levels, the state and interactions of these levels stipulating the state and functioning of the connectome as well as its dynamic changes.
+Similarly, network levels are demonstrated for connectopathies.
+Common network mechanisms of connectopathies, particularly depressive disorders and neurodegenerative diseases, are not only underlying the comorbidity, but also suggest common potential pharmacotherapeutic approaches.

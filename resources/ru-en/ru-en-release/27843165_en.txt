@@ -1,0 +1,14 @@
+Neonatal mortality within 24 hours of birth in six low- and lower-middle-income countries.
+OBJECTIVE  To estimate neonatal mortality, particularly within 24 hours of birth, in six low- and lower-middle-income countries.
+METHODS
+We analysed epidemiological data on a total of 149 570 live births collected between 2007 and 2013 in six prospective randomized trials and a cohort study from predominantly rural areas of Bangladesh, Ghana, India, Pakistan, the United Republic of Tanzania and Zambia.
+The neonatal mortality rate and mortality within 24 hours of birth were estimated for all countries and mortality within 6 hours was estimated for four countries with available data.
+The findings were compared with published model-based estimates of neonatal mortality.
+FINDINGS
+Overall, the neonatal mortality rate observed at study sites in the six countries was 30.5 per 1000 live births (range: 13.6 in Zambia to 47.4 in Pakistan).
+Mortality within 24 hours was 14.1 per 1000 live births overall (range: 5.1 in Zambia to 20.1 in India) and 46.3% of all neonatal deaths occurred within 24 hours (range: 36.2% in Pakistan to 65.5% in the United Republic of Tanzania).
+Mortality in the first 6 hours was 8.3 per 1000 live births, i.e. 31.9% of neonatal mortality.
+CONCLUSION
+Neonatal mortality within 24 hours of birth in predominantly rural areas of six low- and lower-middle-income countries was higher than model-based estimates for these countries.
+A little under half of all neonatal deaths occurred within 24 hours of birth and around one third occurred within 6 hours.
+Implementation of high-quality, effective obstetric and early newborn care should be a priority in these settings.

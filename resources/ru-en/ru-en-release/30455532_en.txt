@@ -1,0 +1,10 @@
+Body mass index vs deuterium dilution method for establishing childhood obesity prevalence, Ghana, Kenya, Mauritius, Morocco, Namibia, Senegal, Tunisia and United Republic of Tanzania.
+Objective
+To compare the World Health Organization (WHO) body mass index (BMI)-for-age definition of obesity against measured body fatness in African children.  Methods
+In a prospective multicentre study over 2013 to 2017, we recruited 1516 participants aged 8 to 11 years old from urban areas of eight countries (Ghana, Kenya, Mauritius, Morocco, Namibia, Senegal, Tunisia and United Republic of Tanzania).
+We measured height and weight and calculated BMI-for-age using WHO standards.
+We measured body fatness using the deuterium dilution method and defined excessive body fat percentage as > 25% in boys and > 30% in girls.  We calculated the sensitivity and specificity of BMI z-score > +2.00 standard deviations (SD) and used receiver operating characteristic analysis and the Youden index to determine the optimal BMI z-score cut-off for classifying excessive fatness.
+Findings  The prevalence of excessive fatness was over three times higher than BMI-for-age-defined obesity: 29.1% (95% CI: 26.8 to 31.4; 441 children) versus 8.8% (95% CI: 7.5 to 10.4; 134 children).
+The sensitivity of BMI z-score > +2.00 SD was low (29.7%, 95% CI: 25.5 to 34.2) and specificity was high (99.7%, 95% CI: 99.2 to 99.9).  The receiver operating characteristic analysis found that a BMI z-score +0.58 SD would optimize sensitivity, and at this cut-off the area under the curve was 0.86, sensitivity 71.9% (95% CI: 67.4 to 76.0) and specificity 91.1% (95% CI: 89.2 to 92.7).
+Conclusion
+While BMI remains a practical tool for obesity surveillance, it underestimates excessive fatness and this should be considered when planning future African responses to the childhood obesity pandemic.

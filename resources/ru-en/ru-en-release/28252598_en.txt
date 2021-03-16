@@ -1,0 +1,10 @@
+[The correlation analysis of parameters of neurological deficit and quality-of-life in the patients after atherotrombotic stroke].
+AIM  To establish correlations between parameters of the neurological status of patients in the acute period and quality-of-life in the late recovery period of atherotrombotic stroke in carotid and vertebrobasilar areas.
+MATERIAL AND METHODS
+One hundred and sixty-two patients, including 124 with carotid stroke and 28 with vertebrobasilar stroke, were examined.
+Quantitative parameters of the neurologic status were estimated during the hospitalization of patients.
+Quality-of-life assessed with the «SF-36 Health Status Survey» with the calculation of two parameters (mental (MH) and physical (PH) wellbeing) was evaluated 10-14 months after stroke.
+RESULTS AND CONCLUSION
+Parameters of the neurologic status had an effect only on the PH domain of quality-of-life while MH was independent of the indicators studied.
+The initial NIHSS index and Rivermead Mobility Index had the greatest impact on PH in patients with carotid stroke.
+In patients with vertebrobasilar stroke, the strong correlation of PH with the age of patients and an index of independence, measured with the Rankin scale on the 14th day of hospitalization, was found.

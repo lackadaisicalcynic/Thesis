@@ -1,0 +1,6 @@
+[Identification of key markers of normal and pathogenic microbiota determining health of periodontium by NGS-sequencing 16S-rDNA libraries of periodontal swabs].  By using NGS-sequencing libraries of DNA from periodontal swabs with primers specific to V6 region of 16S rDNA prevalence of bacterial genera and species in periodontal microbiota of patients with aggressive periodontitis and healthy donors was analyzed.
+Six genera of putative periodontal protectors and eight periodontal pathogens were identified with respect to aggressive (but not chronic) periodontitis.
+Statistically relevant over-colonization by general Porphyromonas, Treponema, Synergistes, Tannerella, Filifactor, Ruminococcus, Parvimonas and Mycoplasma was found to be associated with the condition.  From these, only three genera Porphyromonas, Treponema and Tannerella are traditionally considered as periodontal pathogens.
+Statistically confidential over-colonization by genus Veillonella was found in healthy patients.  This genus should be considered as a relevant marker of a healthy periodontium.
+Genera Streptococcus, Bergeyella, Granulicatella, Kingella and Corynebacterium may be considered as putative periodontal protectors.
+Comparison of data of NGS-sequencing and real-time PCR demonstrated a good agreement if different PCR efficiency using independent primer pairs is taken into account.

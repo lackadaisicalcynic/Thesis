@@ -1,0 +1,14 @@
+[The role of chronic kidney disease in assessing the risk of the poor course of hospital ST-segment elevation myocardial infarction].
+AIM  To evaluate the prognostic impact of chronic kidney disease (CKD) during hospital stay in patients with ST-segment elevation myocardial infarction (STEMI) and to specify factors showing a negative impact of CKD.
+SUBJECTS AND METHODS
+954 patients with STEMI were examined.  The diagnosis of CKD was verified in 338 (35.4%).
+In all the patients, glomerular filtration rate (GFR) was calculated using the CKD-EPI formula with regard to serum creatinine levels on admission and before discharge (on days 10--12).
+In the patients who had undergone X-ray contrast intervention, serum creatinine levels were additionally determined on days 2--3 of this procedure in order to identify contrast-induced nephropathy (CIN).
+Cardiovascular events were assessed in the hospital period.
+RESULTS
+Endovascular interventions into the coronary vessels were made much more rarely in the patients with CHD; but CIN cases were twice more commonly recorded.
+Nonfatal cardiovascular events were 1.5 times more frequently observed in the CKD patients in the hospital period.
+The odds of fatal outcomes in both the total sample of STEMI patients and in those with CKD increased by 3.5 and 3.1 times, respectively, in the over 60 age group and by 7.9 and 5.8 times in the presence of Killip Classes II--IV clinically relevant acute heart failure (AHF).
+In the total sample, the independent predictors for a fatal outcome were a decreased admission GFR less than 60 ml/min/1.73 m(2), CIN, and Killip II--IV AHF.  The hospital nonfatal complications were also associated with a decreased admission GFR less than 60 ml/min/1.73 m(2).
+CONCLUSION
+The independent predictor of a poor hospital period of STEMI, including fatal outcomes, was a decreased admission GFR less than 60 ml/min/1.73 m(2); the presence of CKD was of no independent value.

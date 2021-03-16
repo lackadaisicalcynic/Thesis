@@ -1,0 +1,16 @@
+[Analysis of the efficiency of antimicrobial treatment for community-acquired pneumonia in clinical practice].
+AIM  To analyze actual drug consumption based on the defined daily dose (DDD analysis) and to analyze the utilization of drugs based on their proportion of the total defined daily doses (DU90% analysis) for the antimicrobial therapy of community-acquired pneumonia (CAP) in clinical practice at a hospital in Russia.
+MATERIAL AND METHODS
+The investigation materials were the data of 117 case histories of male (51.3%) and female (48.7%) patients hospitalized with CAP at Nizhny Novgorod City Clinical Hospital Five in 2015.
+The investigation enrolled all the patients admitted to the hospital over the analyzed period.
+DDD analysis and DU90% analysis were used as study methods.
+RESULTS
+DDD analysis and DU90% analysis of antimicrobial therapy for CAP were carried out at the hospital in clinical practice during a year.
+The annual number of defined daily doses (NDDD) for antimicrobial drugs, the number of defined daily doses per 100 bed-days (NDDD/100 bed-days), and a drug load (g) per 1000 CAP patients per day and per CAP patient per year were determined.
+The largest NDDD/year for CAP treatment with ceftriaxone was 376 g, or 43.43 NDDD/100 bed-days, which is much higher than that with other antimicrobial agents.
+The daily drug load of ceftriaxone per 1,000 CAP patients was 8.8 g, which exceeds that of moxifloxacin by 18.7 times, azithromycin and levofloxacin by 5 times, and ampicillin/sulbactam by 2.3 times.
+The daily drug load of ceftriaxone per CAP patient was 3.2 g, which exceeds that of of ampicillin/sulbactam by 2.3 times, levofloxacin and azithromycin by 5 times, and moxifloxacin by 19 times.
+CONCLUSION
+It may be recommended that the proportion of cephalosporins as drugs that promote the rise of resistance in microbes and their production of extended-spectrum β-lactamases should be further limited, the proportion of penicillins be extended, and the administered ampicillin/sulbactam be added, for example, by amoxicillin/clavulanate.
+Penicillins contribute to the rise of resistance to a lesser degree, and the use of two different penicillin molecules specified in the guidelines for the treatment of CAP will be able to slow the process further.
+By the same reasoning, it is also advisable to use cefuroxime (second-generation cephalosporins) along with ceftriaxone in patients in stable condition, without impairing vital functions.

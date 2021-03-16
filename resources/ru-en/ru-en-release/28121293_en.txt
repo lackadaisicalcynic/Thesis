@@ -1,0 +1,14 @@
+[Intraocular pressure measurement inside the anterior chamber: a new technical solution and results].
+AIM
+To develop a new manometric device for intravital measurement of intraocular pressure (IOP) in the anterior chamber and to assess tonometric data reliability, including post-radial keratotomy (RK) measurements.  MATERIAL AND METHODS
+The experiment was conducted in 2 isolated cadaver eyes, while the clinical study enrolled 20 patients (21 eyes) scheduled for cataract phacoemulsification surgery.
+Of them, 10 patients (10 eyes) with immature cataract and mild to moderate myopia constituted the control group.
+The study group consisted of the other 10 patients (11 eyes) with immature cataract, who had undergone RK more than 15 years earlier.
+The following tonometry methods were used: dynamic bi-directional corneal applanation (ORA, Reichert, USA), dynamic contour tonometry (Pascal tonometer, Zeimer, Switzerland), and rebound tonometry (ICare Pro, Tiolat, Finland).
+An original device was developed for intravital manometric measurements.
+RESULTS
+Manometric data obtained during the experiment matched the preset pressure in the anterior eye chamber.
+The median manometry results in the control and study groups were similar and equaled 21.5 and 21.0 mmHg, respectively.
+Preoperative tonometry readings ranged from 14.9 to 16.5 mmHg in the control group and from 19.7 to 23.3 mmHg - in the study group (with the exception of midperipheral rebound tonometry that showed 15.8 mmHg).  CONCLUSION
+The developed device can well be used in experimental research.  Midperipheral rebound tonometry was found to be the most informative method for post-RK IOP assessment.
+Manometry results in the study group mismatched tonometry readings in the controls, which might be due to the specifics of equipment calibration and requires further investigation.

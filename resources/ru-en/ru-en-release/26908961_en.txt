@@ -1,0 +1,10 @@
+Access to iodized salt in 11 low- and lower-middle-income countries: 2000 and 2010.
+OBJECTIVE
+To describe changes in household access to iodized salt in relation to socioeconomic factors.  METHODS
+We extracted data on iodized household salt from Multiple Indicator Cluster Surveys conducted in 2000 and 2010.  As part of the surveys, household salt samples were tested for iodization by standardized rapid-test kits that yield results to indicate whether salt is not iodized, inadequately iodized, (less than 15 parts per million, ppm), or adequately iodized (more than 15 ppm).
+We calculated indices of household salt iodization in 2000 and 2010, taking into account survey sampling weights.  We explored associations between these indices and socioeconomic variables, both within and between countries.
+FINDINGS  We analysed data from 105 162 households in 2000 and 144 018 households in 2010.
+Between 2000 and 2010, household coverage of adequately iodized salt increased by 6.1% (from 46.3% to 52.4%) on average, but with regional differences: coverage fell by 13.0% (from 77.5% to 64.5%) in the Central African Republic but improved by 40.4% (from 22.2% to 62.6%) in Sierra Leone.
+Improvements in coverage were higher in rural areas and among the poorest households, but within-country socioeconomic disparities remained.  There were weak associations between changes in salt iodization and national level socioeconomic indicators.
+CONCLUSION  Overall, the coverage of adequately iodized household salt increased over the last decade.
+However, the changes varied widely among countries.  The goal of universal salt iodization is still distant for many countries and requires renewed efforts by governments, bilateral and multilateral agencies and civil society.

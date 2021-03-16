@@ -1,0 +1,18 @@
+[Adult B-cell acute lymphoblastic leukemias: Conclusions of the Russian prospective multicenter study ALL-2009].
+AIM  To analyze the efficiency and reproducibility of the ALL-2009 protocol within the Russian prospective multicenter study based on different principles of cytostatic effects (non-intensive, but continuous cytotoxic treatment and a small number of allogeneic hematopoietic stem cells).
+SUBJECTS AND METHODS
+The ALL-2009 (NCT01193933) study conducted in April 2009 to December 2016 included 194 patients (95 males and 99 females) aged 15 to 55 years (median age 28 years) with Ph-negative B-cell acute lymphoblastic leukemia (ALL).
+There was early pre-B-cell ALL in 54 patients, common ALL in 101, pre-B ALL in 39, initial leukocytosis in 9.4·109/l (0.4-899.0), lactate dehydrogenase in 901 IU (31-13 059), an initial central nervous system lesion in 17 (8.7%), mediastinal injury in 3 (1.5%), and splenomegaly in 111 (57.2%).
+The results of standard cytogenetic analysis are known in 113 (60.4%) patients.
+Normal karyotypes were detected in 49 (54.5%) out of the patients; t(4;11) in 9 (5.4%), t(1;19) in 2 (1.2%), and other karyotypic abnormalities in 53 (46.9%).
+Thirteen (7.8%) patients underwent allogeneic hematopoietic stem cell transplantation in first complete remission (CR); their proportion did not differ in the federal and regional centers.
+RESULTS
+The frequency of CR achievement was the same in the federal and regional centers and generally amounted to 87.5%.
+Early (8.8%) and CR (9.6%) mortality rates remained high despite the low aggressiveness of cytotoxic action, necessitating the improvement of auxiliary treatment.
+The five-year overall survival (OS) rates vary considerably in the federal and regional centers (72.6 and 43.8%), the relapse-free survival (RFS) (70.2 and 53.4%) and recurrence risk (23.1 and 36.5%) are comparable.
+This suggests that the non-intensive, but continuous exposure principle built in the ALL-2009 protocol makes it possible to reproduce the envisaged treatment program and to achieve satisfactory results.
+CONCLUSION
+The ALL-2009 protocol allows both the federal and regional centers to obtain the long-term results comparable with those of current foreign studies: OS (54.2%), RFS (56.5%); and relapse risk (35.4%).
+Multivariate analysis has identified age (over 30 years), initial leukocytosis (30·109/l and more) and t(4;11) among the main clinical prognostic factors.
+Gene mutation detection evaluated in a small number of patients (8/36) is not a poor prognostic sign.
+There is a need for further investigations with centralized evaluation of the mutation status of leukemic cells and the clearance of minimal residual disease.

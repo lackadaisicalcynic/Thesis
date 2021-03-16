@@ -1,0 +1,11 @@
+AIM  to study the effect of topical treatment with Artelac Balance, a cyanocobalamin-containing lubricant, in patients with post-LASIK corneal neuropathy and LASIK-associated dry eye.
+MATERIAL AND METHODS
+Patients scheduled for LASIK were enrolled.  Inclusion criteria were contact lens wear for 5 years or longer and more than 6 diopters of myopia.
+The patients were divided into 3 groups.  Group 1 was prescribed the cyanocobalamin-containing topical lubricant for 3 months before and 1 month after surgery, group 2 - the same cyanocobalamin-containing lubricant, but only for the first month after surgery, and group 3 received a standard preservative-free lubricant for the first month after surgery.
+Tear osmolarity and production as well as corneal sensitivity were assessed 90±10 days before and 30±3 days after surgery.  The percentage of patients with dry eye symptoms and those who required prolonged use of lubricants were also estimated at day 30±3.
+RESULTS
+Preoperatively, there were no statistically significant differences in demographic characteristics, tear osmolarity, tear production, or corneal sensitivity between the three study groups.
+At day 30±3 after surgery, tear production and corneal sensitivity were both significantly higher in group 1 than in group 3 (16.8 mm vs. 13.2 mm, p=0.003 and 37.7±3.1 mm vs. 32.4±2.2 mm, p=0.023, respectively).  As to the percentage of patients with dry eye symptoms and those who required prolonged use of lubricants, it was lower in group 1 than in group 3 (51.3% vs. 76.3%, p=0.03 and 38.5% vs. 63.2%, p=0.03, respectively).
+Between the groups 2 and 3, none of the studied parameters differed significantly.
+CONCLUSION
+Combined pre- and postoperative use of Artelac Balance, a cyanocobalamin-containing lubricant, has been proved effective in restoring corneal sensitivity and reducing dry eye symptoms in patients at high risk for developing LASIK-associated dry eye.

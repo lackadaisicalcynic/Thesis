@@ -1,0 +1,9 @@
+Single episode of alcohol use resulting in injury: a cross-sectional study in 21 countries.
+Objective  To examine the empirical basis for including the diagnostic category of "a single episode of harmful substance use" in the 11th revision of the International statistical classification of diseases and related health problems (ICD-11).
+Methods
+We used data on patients admitted to emergency departments in 21 countries with alcohol-related injuries (i.e. with drinking within the preceding six hours) who had no sign of alcohol intoxication or withdrawal, no alcohol in blood and no sign of alcohol dependence or harmful drinking as described in the ICD-10.
+We obtained data on alcohol-related injuries, the patient's causal attribution of injury to drinking, the alcohol amount consumed, blood alcohol concentration and usual drinking pattern.
+Patients with and without alcohol dependence or harmful drinking were compared.  Findings
+We included a representative sample of 18 369 patients.
+After adjustment for unequal sampling, 18.8% reported drinking in the six hours before injury and 47.1% of these attributed their injury to drinking; 16.3% of those reporting drinking and 10.3% of those attributing their injury to drinking were not alcohol dependent or harmful drinkers.  The majority of these last two groups reported never having had five or more drinks on one occasion during the last year and had a blood alcohol concentration less than 0.05%.
+Some individuals attending emergency departments had alcohol-attributable injuries due to a single episode of drinking but had no history of harmful use or dependence.  These findings highlight the public health relevance of including the new diagnostic category in the ICD-11.

@@ -1,0 +1,15 @@
+Drowning deaths between 1861 and 2000 in Victoria, Australia.
+OBJECTIVE  To identify the long-term patterns of drowning mortality in the state of Victoria, Australia, and to describe the historical context in which the decrease occurred.
+METHODS
+We obtained data on drowning deaths and population statistics from the Australian Bureau of Statistics and its predecessors for the period 1861 to 2000.  From these data, we calculated drowning death rates per 100 000 population per year, by gender and age.
+We reviewed primary and secondary historical resources, such as government and newspaper archives, books and the Internet, to identify changes or events in the state that may have affected drowning mortality.
+FINDINGS
+From 1861 to 2000, at least 18 070 people drowned in Victoria.
+Male drowning rates were higher than those for females in all years and for all ages.
+Both sexes experienced the highest drowning rate in 1863 (79.5 male deaths per 100 000 population and 18.8 female death per 100 000 population).
+The lowest drowning rate was documented in 2000 (1.4 male deaths per 100 000 population and 0.3 female deaths per 100 000 population).
+The reduction patterns of drowning mortality occurred within a historical context of factors that directly affected drowning mortality, such as the improvement in people's water safety skills, or those that incidentally affected drowning mortality, like infrastructure development.
+CONCLUSION
+We identified patterns of reduction in drowning mortality, both in males and females and across age groups.
+These patterns could be linked to events and factors that happened in Victoria during this period.
+These findings may have relevance to current developing communities.

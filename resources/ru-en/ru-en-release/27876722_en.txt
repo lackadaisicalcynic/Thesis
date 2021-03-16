@@ -1,0 +1,11 @@
+[Comparative analysis of 3D data visibility of the prepared tooth finishing line on a synthetic jaw model, captured by international scanners in a laboratory conditions].  The aim of the study was to compare accuracy of digital impression's finishing line and the zone under it taken by different intraoral scanning systems.  Parameters of comparison were: different level of the finishing line to the gingiva and width of sulcus after retraction.
+For this purpose two synthetic jaw models with prepared teeth were scanned using intraoral scanning systems: 3D Progress (MHT S.P.A., IT - MHT Optic Research AG, CH); True Definition (3M ESPE, USA); Trios (3Shape A/S, DNK); CEREC AC Bluecam, CEREC Omnicam (Sirona Dental System GmbH, DE); Planscan (Planmeca, FIN) (each n=10). Reference-scanning was done by ATOS Core (GOM mbH, DE).
+The resulting digital impressions were superimposed with the master-scan.
+The lowest measured deviations (trueness) for intraoral scanners, where the finishing line was 0.5 mm above gingiva were with scanner True Definition - 18.8±6.63 (on the finishing line) and 51.0±14.33 µm (0.3 mm under the finishing line).
+In conditions where finishing line was on the same level with gingiva, scanner Trios showed the best results: 17.0±3.96 and 52.7±6.52 µm.
+When the finishing line was 0.5 mm under gingiva, none of the testing scanners could visualize the zone 0.3 mm lower the finishing line.
+The best results for accuracy o the finishing line in that circumstances showed Trios: 15.1±5.05 µm.
+The optimum visualization of the finishing line and the zone under it was reached when the sulcus was 0.3 mm after retraction.
+Thus, the best accuracy was obtained with Trios: 10.3±2.69 (on the finishing line) and 57.2±13.58 µm (0.3 mm under finishing line).
+The results show that intraoral scanners also provide enough accuracy for indicating finishing line and the zone under it in different conditions of preparation and gingiva retraction.
+However, not all of the testing scanners can properly indicate finishing line and the zone under it when shoulder is below gingiva and the width of sulcus is less than 0.2 mm.

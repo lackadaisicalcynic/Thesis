@@ -1,0 +1,10 @@
+Cervical and female breast cancers in the Americas: current situation and opportunities for action.
+OBJECTIVE
+To understand better the current regional situation and public health response to cervical cancer and female breast cancer in the Americas.
+METHODS  Data on cervical cancer and female breast cancers in 33 countries, for the period from 2000 to the last year with available data, were extracted from the Pan American Health Organization (PAHO) Regional Mortality Database and analysed.
+Changes in mortality rates over the study period - in all countries except those with small populations and large fluctuations in time-series mortality data - were calculated using Poisson regression models.  Information from the PAHO Country Capacity Survey on noncommunicable diseases was also analysed.
+FINDINGS  The Bahamas, Trinidad and Tobago and Uruguay showed relatively high rates of death from breast cancer, whereas the three highest rates of death from cervical cancer were observed in El Salvador, Nicaragua and Paraguay.
+Several countries - particularly Paraguay and Venezuela - have high rates of death from both types of cancer.  Although mortality from cervical cancer has generally been decreasing in the Americas, decreases in mortality from breast cancer have only been observed in a few countries in the Region of the Americas.
+All but one of the 25 countries in the Americas included in the PAHO Country Capacity Survey reported having public health services for the screening and treatment of breast and cervical cancers.
+CONCLUSION
+Most countries in the Americas have the public health capacity needed to screen for - and treat - breast and cervical cancers and, therefore, the potential to reduce the burden posed by these cancers.

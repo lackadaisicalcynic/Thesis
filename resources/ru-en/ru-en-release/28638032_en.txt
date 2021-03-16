@@ -1,0 +1,7 @@
+[Association of polymorphic variants of PIP5K2A and HTR2C genes with response to antidepressant therapy of patients with a current depressive episode].  AIM
+To study the association between polymorphisms of PIP5K2A and HTR2C genes and response to antidepressant therapy in patients with a current depressive episode.  MATERIAL AND METHODS
+The study included 222 patients (168 women and 54 men) with a current depressive episode.
+The assessment of the severity of the current depressive episode and the efficacy of treatment was performed using the Hamilton depression scale (HDRS-17) and the Clinical global impression scale (CGI-S, CGI-I).
+The association of treatment efficacy with PIP5K2A polymorphisms rs10430590, rs10828317 and HTR2C polymorphisms rs6318, rs569959, rs3813929, rs12858300 was studied.
+RESULTS AND CONCLUSION
+Polymorphisms rs10828317 and rs10430590 in the PIP5K2A gene were associated with the CGI-S total score at day 28 of therapy.  Polymorphism rs6318 in the HTR2C gene was associated with response to antidepressant therapy followed by clinical improvement of patients with current depressive episode on the 28th day of antidepressant therapy.

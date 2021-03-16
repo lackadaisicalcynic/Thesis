@@ -1,0 +1,10 @@
+Employment and health after retirement in Japanese men.
+Objective  To estimate the average treatment effect of working past the current retirement age on the health of Japanese men.
+Methods
+We used publicly available data from the National Survey of Japanese Elderly, extracting a sample of 1288 men who were 60 years or older.  Survey respondents were followed-up for at most 15 years for the onset of four health outcomes: death, cognitive decline, stroke and diabetes.
+By using the propensity score method, we adjusted for the healthy worker effect by incorporating economic, sociodemographic and health data in the form of independent variables.  By calculating the differences in times to a health outcome between those in employment and those not employed, we estimated the average treatment effects on health of being in paid work past retirement age.
+Findings
+Compared with those not employed, those in employment lived 1.91 years longer (95% confidence interval, CI: 0.70 to 3.11), had an additional 2.22 years (95% CI: 0.27 to 4.17) before experiencing cognitive decline, and had a longer period before the onset of diabetes and stroke of 6.05 years (95% CI: 4.44 to 7.65) and 3.35 years (95% CI: 1.42 to 5.28), respectively.  We also observed differences between employees and the self-employed: the self-employed had longer life expectancies than employees.
+In terms of years to onset of diabetes or stroke, however, we only observed significant benefits to health of being an employee but not self-employed.
+Conclusion
+Our study found that being in employment past the current age of retirement had a positive impact on health.

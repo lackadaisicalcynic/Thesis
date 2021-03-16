@@ -1,0 +1,14 @@
+[Catalase gene rs1001179 polymorphism and oxidative stress in patients with chronic hepatitis C and ulcerative colitis].
+AIM  To study the rs1001179 polymorphism of the catalase (CAT) gene and to estimate the serum levels of the enzymes catalase and glutathione peroxidase (GP) in patients with chronic hepatitis C (CHC) and in those with ulcerative colitis (UC) in the Perm Territory.
+SUBJECTS AND METHODS
+Ninety patients with reactivation-phase CHC and 50 patients with exacerbation-phase UC were examined.
+The serum levels of catalase and GP were determined and the polymorphic variants of the marker of CAT gene rs1001179 in the DNA isolated from whole blood were found in all the patients.
+RESULTS
+In the CHC and UC groups, the levels of catalase and GP were found to be lower than that in apparently healthy individuals.
+Furthermore, both groups showed a direct correlation between the activities of the enzymes.
+In the patients with CHC and in those with UC, the spread of genotypes and alleles generally failed to virtually differ from that in the control group.
+The G/G genotype was prevalent in all the groups.
+In the patients with CHC, the minor A allele demonstrated a significant inverse correlation with the enzyme catalase (r = -0.16; p = 0.02) and GP (r = -0.13; p = 0.047).
+CONCLUSION
+The lower serum levels of catalase and GP are indicative of oxidative stress in the patients with CHC or UC.
+In the patients with CHC, the significant correlation of the pathological rs1701179 A allele marker with the processes of synthesis of antioxidant enzymes may suggest that CAT gene polymorphism in the A/A homozygotes might affect the regulation mechanism involved in the antioxidant system in the liver.

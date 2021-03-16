@@ -1,0 +1,10 @@
+Hepatitis B immunization for indigenous adults, Australia.
+OBJECTIVE
+To quantify the disparity in incidence of hepatitis B between indigenous and non-indigenous people in Australia, and to estimate the potential impact of a hepatitis B immunization programme targeting non-immune indigenous adults.  METHODS
+Using national data on persons with newly acquired hepatitis B disease notified between 2005 and 2012, we estimated incident infection rates and rate ratios comparing indigenous and non-indigenous people, with adjustments for underreporting.  The potential impact of a hepatitis B immunization programme targeting non-immune indigenous adults was projected using a Markov chain Monte Carlo simulation model.
+FINDINGS
+Of the 54 522 persons with hepatitis B disease notified between 1 January 2005 and 31 December 2012, 1953  infections were newly acquired.  Acute hepatitis B infection notification rates were significantly higher for indigenous than non-indigenous Australians.
+The rates per 100 000 population for all ages were 3.6 (156/4 368 511) and 1.1 (1797/168 449 302) for indigenous and non-indigenous people respectively.
+The rate ratio of age-standardized notifications was 4.0 (95% confidence interval: 3.7-4.3).  If 50% of non-immune indigenous adults (20% of all indigenous adults) were vaccinated over a 10-year programme a projected 527-549 new cases of acute hepatitis B would be prevented.
+CONCLUSION  There continues to be significant health inequity between indigenous and non-indigenous Australians in relation to vaccine-preventable hepatitis B disease.
+An immunization programme targeting indigenous Australian adults could have considerable impact in terms of cases of acute hepatitis B prevented, with a relatively low number needed to vaccinate to prevent each case.

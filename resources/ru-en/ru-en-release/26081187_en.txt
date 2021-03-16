@@ -1,0 +1,4 @@
+[Actual cost of complex surgical treatment of patients with neuroischemic form of diabetic foot syndrome].  The results of calculation the average cost of complex surgical treatment of 52 patients with neuroischemic form of diabetic foot syndrome (Wagner 3, 4) are presented in the article.
+Calculation was performed in the program "Computer-aided system for calculation of patient's treatment cost" developed in A.V. Vishnevsky Institute of Surgery.
+This program permits you to analyze such components as hospital-stay duration, cost of surgery, pre- and postoperative management, pharmacotherapy, laboratory and instrumental research methods.
+Actual cost necessary to prevent high lower extremity amputations in patients with neuroischemic form of diabetic foot syndrome is 458 387.8 rubles per person that 10.02 times higher than amount allocated from the state budget.

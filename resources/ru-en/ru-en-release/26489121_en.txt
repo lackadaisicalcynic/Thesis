@@ -1,0 +1,9 @@
+[Central retinal changes after ranibizumab injection for wet age-related macular degeneration].  AIM
+to assess the dynamics of macular morphofunctional parameters in wet age-related macular degeneration after three injections of ranibizumab.  MATERIAL AND METHODS
+A total of 76 patients with classic choroidal neovascular membrane were examined.  The latter could be seen on optical coherence tomography scans before the treatment as an optically heterogeneous formation beneath the neurosensory epithelium.
+The point of fixation was located 2-10 degrees from the fovea according to microperimetry testing.  Wedge-like reduction of light sensitivity down to 0-2 dB corresponded to the area of neovascularization.
+RESULTS  Macular sensitivity improved from 7.24 ± 2.73 dB to 13.88 ± 1.94 dB (p < 0.05) after a course of three ranibizumab injections, the most significant changes taking place after the third one.
+The point of fixation moved somewhat back to the fovea after each injection.  Morphological parameters of neovascular membranes gradually decreased: after the first injection the height went down to 20.29 ± 17.84 µm and the width--down to 1200 ± 300 µm on average, after the second one the height was 14.39 ± 9.83 µm, width--1000 ± 175 µm, after the third one the height and the width were 13.31 ± 8.13 µm and 900 ± 100 µm correspondingly (p < 0.05).
+CONCLUSION
+Antivascular therapy reduces the pathological effect of neovascular membrane throughout the whole treatment period.
+The dynamics of studied parameters are characterized by an apparent response to the first injection, which indicates the advisability of further treatment.

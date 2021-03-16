@@ -1,0 +1,11 @@
+[Investigation of the association between the HindIII polymorphism of the LPL gene and the Taq1b polymorphism of the CETP gene with the risk of atherothrombotic stroke in the dwellers of Central Russia].  AIM
+To investigate the association between LPL HindIII (rs320) and CETP Taq1b (rs708272) polymorphisms with the risk of atherothrombotic stroke (ATS) in the population of Central Russia.
+MATERIAL AND METHODS
+A total of 832 DNA samples obtained from 417 patients with ATS and from 415 healthy individuals of the corresponding gender and age were investigated.
+The polymorphisms were genotyped by a real-time PCR assay using TaqMan probes.
+RESULTS
+The carriage of heterozygous LPL +495TG genotype was found to be associated with the lower risk of ATS (odds ratio (OR)=0.71; 95% CI: 0.53-0.94; p=0.02).
+A gender-stratified analysis showed that in the men the variant LPL +495TG genotype was associated with the increased risk of ATS (OR=2.06; 95% CI: 1.03-4.14; р=0.04) while the heterozygous +495GG genotype had a protective effect against the risk of stroke (OR=0.66; 95% CI: 0.45-0.97; р=0.04).
+Variance analysis established that this polymorphism was found to be associated with the increased prothrombin index in the men with ATS (p=0.01).
+CONCLUSION
+This study was the first to reveal the association of the LPL HindIII (rs320) polymorphism with the increased prothrombin index and the risk of ATS in the Russian male population.

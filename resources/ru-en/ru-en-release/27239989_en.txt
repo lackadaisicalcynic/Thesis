@@ -1,0 +1,4 @@
+[Immunomorphology of oral lichen planus].  The article is devoted to immunohistochemical study of reticular and erosive forms of oral lichen planus.
+Morphological examination of the reticular form revealed the increased number of Langerhans cells (CD1a), mast cells (CD25) and T lymphocytes (CD4, CD8, CD16) in the oral epithelium.
+Activation of these cells leads to the secretion of TNF-α and destruction of basal keratinocytes, which manifests as a focal reduction of intercellular protein expression of E-cadherin.  Destruction of basal keratinocytes in a reticular form of oral lichen planus is accompanied by a significant decrease in proliferative activity of the basal cell layer (21.7±10.2%) compared with normal mucosa (33.6±7.0%), p=0.0045.
+In erosive form along with the above changes IgG and C3d complement's elements are revealed, which confirms the activation of immune complex mechanisms in the erosion area.

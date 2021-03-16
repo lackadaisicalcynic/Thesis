@@ -1,0 +1,7 @@
+Routine feedback of test results to participants in clinic- and survey-based surveillance of HIV.
+Surveillance for human immunodeficiency virus (HIV) in low- and middle-income countries started in the 1980s.
+However, the questions of whether the results of HIV tests should be given to participants, and if so how, has still not been resolved.
+In the absence of effective treatment, it was considered acceptable to withhold results from HIV-positive participants.
+However, when antiretroviral treatment is available, some argue for beneficence - that it is the researcher's duty to return the test results to all those who provide samples for surveillance.  The corollary is that only participants who wish to receive their test results would be eligible to participate in surveys.
+Others argue for autonomy - that to obtain a more representative result for the general population, surveys should not exclude participants who do not wish to receive their test results.
+This round table discussion takes a closer look at those two arguments.  We believe that the global community should work towards routine feedback of HIV surveillance while ensuring that participants receive and understand their test results.

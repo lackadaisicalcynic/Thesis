@@ -1,0 +1,5 @@
+[What do we know about the pathology of gray matter in multiple sclerosis].  The emergence of modern methods of immunohistochemistry and further development of MRI has led to a deeper understanding of gray matter (GM) pathology in multiple sclerosis (MS).
+GM involvement can be extensive including both demyelination (cortical lesions) and neuroaxonal damage.
+The mechanisms of GM damage in MS remain insufficiently studied.
+There are two concepts: the lesion of GM is primary and is paralleled by changes in white matter (WM), or secondary, i.e. it is a consequence of the pathological process in WM.
+More research into GM pathology using the latest MRI techniques will contribute to the understanding of pathological changes in both cortical and subcortical GM.

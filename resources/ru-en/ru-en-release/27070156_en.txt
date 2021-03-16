@@ -1,0 +1,17 @@
+[Diagnostic value of the stimulating growth factor ST2 during hospitalization for myocardial infarction].
+AIM  To determine the concentration of the stimulating growth factor ST2 and its relationship to the clinical course of myocardial infarction (MI) over time during hospitalization.
+MATERIALS AND METHODS
+Eighty-eight MI patients whose mean age was 59±8.36 years were examined.
+On days 1 and 12 of MI, the serum levels of ST2 and N-terminal pro-brain natriuretic peptide (NT-proBNP) were determined by ELISA.
+A control group consisted of 30 people.
+RESULTS
+On day 1 of hospitalization for MI, the concentrations of ST2 and NT-proBNP were higher 2.4 and 4.5 times, respectively, than those in the controls; by day 12, there was a statistically significant decrease in the level of ST2 while that of NT-proBNP was unchanged.
+During hospitalization, the investigators recorded MI complications, according to which the patients were divided into favorable and unfavorable MI groups.
+On day 1 of hospitalization, the level of ST2 in the patients with unfavorable MI was twice higher than in those with favorable MI and 3.7 times higher than in the control group.
+On day 12, both favorable and unfavorable MI groups showed a reduction in the level of the marker.
+On day 1 of MI, the concentration of NT-proBNP in the patients with a poor prognosis was 6.8 times greater than in the controls and 1.8 times more than in the patients with a good prognosis.
+On day 12, NT-proBNP levels remained elevated in both groups.
+Logistic regression analysis revealed that the determination of ST2 in combination with NT-proBNP increased their diagnostic significance (odds ratio, 1.92; 95% CI, 1.7-3.2; area under characteristic curve, 0.89; p=0.004).
+CONCLUSION
+The level of ST2 was a more sensitive indicator of hospitalization for MI than that of NT-proBNP.
+The combined use of ST2 and NT-proBNP was found to have a high diagnostic sensitivity and specificity.

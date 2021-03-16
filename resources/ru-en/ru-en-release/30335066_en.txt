@@ -1,0 +1,14 @@
+[Evaluation of nephrocerebral risk with the use of cystatin C in patients with chronic kidney disease].
+AIM  To study a role of cystatin C in the nephrocerebral risk in chronic kidney disease at the initial stage of the disease.
+MATERIAL AND METHODS
+One hundred and twenty-eight patients (63 men and 65 women) with chronic kidney disease (CKD) were examined at the pre-dialysis stage of the disease.
+All patients underwent a complex clinical and laboratory examination with determination of the lipid spectrum, uric acid, fibrinogen, calcium and cystatin C, and subsequent calculation of the glomerular filtration rate (GFR).
+To assess structural changes in carotid arteries, ultrasound dopplerography was performed.
+Depending on the thickness of the intima-media (TIM), the entire sample is divided into CKD groups with no signs of carotid atherosclerosis (SC), n=70 and on CKD with SC, n=58.
+RESULTS
+Patients of the second group (CKD with SC), had higher body mass index (p<0.05), systolic (p<0.05) and central (p<0.05) arterial pressure (BP) and blood cystatin C (p<0.05).
+In the same group, there was a significant decrease in the concentration of high-density lipoprotein cholesterol (p<0.05) compared with those of the first group (CKD).
+The age of patients and the content of cystatin C (p<0.05) influenced the increase in TIM.
+Significant positive correlations between cystatin C content and TIM, systolic and diastolic blood pressure (p<0.05), and a negative correlation cystatin C content and GFR were noted in patients of the second group.
+CONCLUSION
+The increase in the level of cystatin C in blood plasma in CKD indicates the development of structural changes in the carotid arteries, the increase in the levels of systolic and central arterial pressure, the decrease in the concentration of HDL cholesterol, which is associated with significant inhibition of GFR.

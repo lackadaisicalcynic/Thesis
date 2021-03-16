@@ -1,0 +1,17 @@
+[Associations of lipoproteins with bone mass in postmenopausal women].
+AIM  To study an association between blood lipid composition and bone mass in Russian postmenopausal women.
+SUBJECTS AND METHODS
+The cross-sectional study included 373 postmenopausal women aged 45-80 years who were examined to diagnose osteoporosis in outpatient settings.
+Height, body weight, and waist and hip circumferences (WC and HC) were measured before densitometry.
+Quetelet's index was calculated as a ratio of weight (kg) to height (m2).
+The concentration of lipids and apolipoproteins (apo) AІ and B were measured by enzyme immunoassay.
+Bone mineral density (BMD) in the spine and proximal femur (PF) was estimated by dual-energy X-ray absorptiometry.
+RESULTS
+According to bone mass, the patients were divided into three groups: 1) osteoporosis (OP); 2) osteopenia; 3) normal BMD.
+The levels of total cholesterol and high-density lipoprotein (HDL) cholesterol were significantly higher in the postmenopausal women with OP than in those with normal bone mass.
+There was a negative correlation of cholesterol and HDL cholesterol levels with lumbar spine BMD and that of HDL levels with BMD in the femoral neck (FN) and entire PF.
+The level of lipoprotein (a) (LPa) was significantly lower in the group of patients with OP and positively correlated with BMD in FN and entire PF.
+After adjustment for age, the duration of menopause, Quetelet's index, and WC/HC association remained only between LPa and FN BMD.
+CONCLUSION
+Multivariate regression analysis failed to confirm a trend towards decreased BMD and increased HDL cholesterol.
+This suggests that the association of HDL cholesterol with bone mass is apparently mediated by other factors and, above all, with age, postmenopausal hormonal status and body weight.

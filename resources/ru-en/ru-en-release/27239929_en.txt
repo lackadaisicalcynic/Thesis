@@ -1,0 +1,9 @@
+[Choice of optimal vaccination tactics against pneumococcal infection from immunological and clinical standpoints in patients with chronic obstructive pulmonary disease].
+AIM
+To provide a rationale for choosing the optimal tactics of vaccination against pneumococcal infection in patients with chronic obstructive pulmonary disease (COPD) in the context of evidence-based medicine and on the basis of immunological and clinical data.  SUBJECTS AND METHODS
+Patients with COPD were examined during a year after vaccination with a 13-valent pneumococcal conjugate (Prevenar-13, PCV13) and a 23-valent pneumococcal polysaccharide (Pnemo-23, PPV23) vaccines.  The following vaccination schemes were used: PCV13 monovaccination, PPV23 monovaccination, sequential vaccination with PPV23/PCV13, and sequential vaccination with PCV13/PPV23.
+RESULTS
+Vaccination using all the analyzed schemes in the patients with COPD caused a statistically significant reduction in the frequency of exacerbations, the number of antibiotic cycles, and the number of hospital admissions, as shown by the results of analysis of short-term data.
+The use of PCV13 was followed by additional effects that were unobserved in the use of PPV23, namely: it promoted the formation of immunological memory to Streptococcus pneumoniae antigens, resulted in the enhanced activity of nonspecific resistance factors, and caused activation of antiviral defense factors.  CONCLUSION
+If patients with COPD need to be vaccinated against pneumococcal infection, preference should be given to PCV13 monovaccination.  Short-term observations have shown that the sequential use of pneumococcal conjugate and polysaccharide vaccines is redundant and gives no additional benefit to patients with COPD.
+However, the sequential application of both vaccines may have additional advantages in the long term.

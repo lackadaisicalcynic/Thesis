@@ -1,0 +1,12 @@
+Teenage smoking behaviour following a high-school smoking ban in Chile: interrupted time-series analysis.
+OBJECTIVE
+To evaluate the effect of a smoking ban in high schools on smoking behaviour among Chilean students.  METHODS
+We conducted an interrupted time-series analysis, using repeated cross-sectional data from Chile's school population survey (2000-2011) for high-school students aged 12-18 years and a control group of persons aged 19-24 years.  Poisson regression models were used to assess trends in smoking behaviour before and after the policy changes.
+The outcome measures were self-reported smoking prevalence (any smoking in the past month) and high frequency of smoking (smoking 15 days or more per month).
+FINDINGS  From 2005 to 2011, the prevalence of smoking declined among high-school students by 6.8% per year compared with 3.6% decline per year in the control group.
+The decline in the target group was 2.9% (95% confidence interval, CI: 0.18 to 5.00) greater.  We estimated that 5-6 years after enforcing the law, smoking prevalence among high-school students was 13.7% lower as a result of the ban.
+The impact of the smoking ban was primarily driven by declines in smoking prevalence among students in grades 8 to 10.
+The smoking ban did not significantly alter the frequency of smoking.
+CONCLUSION
+The 2005 school smoking ban reduced smoking prevalence among younger high-school students in Chile.
+Further interventions targeting older individuals and frequent smokers may be needed.

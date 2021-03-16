@@ -1,0 +1,8 @@
+The paper reviews the 2016 WHO classification of prostate tumors, notes the alterations made, and describes approaches to the diagnosis of cancer types and grades.  It also gives original photomicrographs from the authors' collection.
+The main alterations were as follows: - The types of prostate adenocarcinoma were added by pleomorphic giant-cell carcinoma; oncocytic (8290/3) and lymphoepithelial (8082/3) carcinomas were excluded.  - Grade III prostatic intraepithelial neoplasia (PIN) was substituted for high grade PIN (8148/2).
+- Carcinoids were referred to as low-grade neuroendocrine tumors according to the current terminology; large cell neuroendocrine cancer (8013/3) was added.  - Paraganglioma (8613/3) and neuroblastoma (9500/3) were excluded.
+Stromal tumors were grouped with mesenchymal neoplasms.  -Malignant fibrous histiocytoma, malignant peripheral nerve sheath tumor, chondroma, and hemangiopericytoma were excluded.
+- Synovial sarcoma (9040/3), inflammatory myofibroblastic tumor (8825/1), osteosarcoma (9180/3), undifferentiated pleomorphic sarcoma (8802/3), solitary fibrous tumor (8815/1), and malignant solitary fibrous tumor (8815/3) were added.
+The section of lymphoproliferative diseases was extended.
+The tumors of unknown origin included paraganglioma and neuroblastoma from a group of neuroendocrine tumors.
+The TNM staging was completely consistent with the 2010 AJCC version.

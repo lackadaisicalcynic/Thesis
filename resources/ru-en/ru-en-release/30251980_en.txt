@@ -1,0 +1,10 @@
+[Neurophysiological assessment of persistent idiopathic facial pain].
+AIM  To study neurophysiological characteristics of persistent idiopathic facial pain (PIFP) in comparison to trigeminal neuralgia.
+MATERIAL AND METHODS
+Forty-five patients with PIFP at the age from 25 to 74 years (42 women and 3 men), 25 patients with trigeminal neuralgia at the age from 25 to 84 (15 women and 10 men) and 20 healthy volunteers were examined.
+Multimodal evoked potentials (EP): brainstem auditory (BAEPs), trigeminal (TEPs) and sympathetic skin responses (SSRs) evoked potentials were recorded.
+EEG with functional tests (hyperventilation, rhythmical photic stimulation and test with eye opening) was recorded as well.
+RESULTS
+The neurophysiological pattern of PIFP includes: 1) shortening of the latent period (LP) and an increase in peak amplitudes of short-latent components of the BAEPs on both sides in combination with signs of brainstem structure dysfunction (fusion of II-III or III-IV peaks, bifurcation of peaks and lengthening of inter-peaks intervals); 2) normal parameters of the TEPs; 3) an increase in the amplitude of autonomic components (sympathetic and parasympathetic without signs of predominance of the tone of this or that system), intensification of the autonomic reaction; 4) disorganization and acuity of the alpha rhythm, smoothing of zonal differences, presence of bilateral tapering alpha-, theta- or alpha-theta waves on the EEG.
+CONCLUSION
+Patients with PIFP have significant changes in EP and EEG connected with brainstem structure dysfunction and irritation of subcortical structures and autonomic disorders.

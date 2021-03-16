@@ -1,0 +1,12 @@
+Improving the quality of hospital care for children by supportive supervision: a cluster randomized trial, Kyrgyzstan.
+OBJECTIVE
+To determine whether periodic supportive supervision after a training course improved the quality of paediatric hospital care in Kyrgyzstan, where inappropriate care was common but in-hospital postnatal mortality was low.
+METHODS  In a cluster, randomized, parallel-group trial, 10 public hospitals were allocated to a 4-day World Health Organization (WHO) course on hospital care for children followed by periodic supportive supervision by paediatricians for 1 year, while 10 hospitals had no intervention.
+We assessed prospectively 10 key indicators of inappropriate paediatric case management, as indicated by WHO guidelines.
+The primary indicator was the combination of the three indicators: unnecessary hospitalization, increased iatrogenic risk and unnecessary painful procedures.  An independent team evaluated the overall quality of care.
+We prospectively reviewed the medical records of 4626 hospitalized children aged 2 to 60 months.  In the intervention hospitals, the mean proportion of the primary indicator decreased from 46.9% (95% confidence interval, CI: 24.2 to 68.9) at baseline to 6.8% (95% CI: 1.1 to 12.1) at 1 year, but was unchanged in the control group (45.5%, 95% CI: 25.2 to 67.9, to 64.7%, 95% CI: 43.3 to 86.1).
+At 1 year, the risk ratio for the primary indicator in the intervention versus the control group was 0.09 (95% CI: 0.06 to 0.13).
+The proportions of the other nine indicators also decreased in the intervention group (P < 0.0001 for all).
+Overall quality of care improved significantly in intervention hospitals.
+CONCLUSION
+Periodic supportive supervision for 1 year after a training course improved both adherence to WHO guidelines on hospital care for children and the overall quality of paediatric care.

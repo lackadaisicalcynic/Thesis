@@ -1,0 +1,3 @@
+[Neurovisualisation predictors of malignant cerebral infarction and hemorrhagic transformation].
+Neuroimaging plays a central role in the assessment of patients with acute ischemic stroke.  Within a few minutes, modern multimodal imaging protocols can provide one with comprehensive information about prognosis, management, and outcome of the disease, and may detect changes in the intracranial structures reflecting severity of the ischemic injury depicted by four Ps: parenchyma (of the brain), pipes (i.e., the cerebral blood vessels), penumbra, and permeability (of the blood brain barrier).
+In this article, we have reviewed neuroradiological predictors of malignant middle cerebral artery infarction and hemorrhagic transformation in light of the aforementioned four Ps.

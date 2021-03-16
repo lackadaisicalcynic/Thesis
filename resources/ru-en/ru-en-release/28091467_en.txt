@@ -1,0 +1,6 @@
+[The history of cochlear implantation].
+The creation of cochlear implants has become possible owing to the collaboration in the field of neurophysiology, otorhinolaryngology, audiology, engineering, and psychoacoustics.  The experiments carried out in the 1930s were not directly associated with the electrical stimulation of the auditory nerve but had a significant influence on the development of cochlear implants.
+The first attempt at direct electrical stimulation of the auditory nerve was performed in 1957 using a device that consisted of an active electrode and an implantable induction coil.  A good discrimination of intensity but poor frequency discrimination of the acoustic stimuli in a deaf patient was achieved.
+In 1985, the cochlear implants were approved for the treatment of the adult patients and in 1990 for the children at the age under 2 years.
+Multi-channel cochlear implantation has been carried out in Russia since 1991 although the efforts to introduce singe-channel implantation were made in the 1980s.
+Nowadays, there are more than 8000 cochlear implant users in the Russian Federation.  Cochlear implantation is performed in a number of clinical centres in several regions of the country funded from the federal budget.

@@ -1,0 +1,8 @@
+[Prognostic values of the clinical, morphological and molecular biological characteristics of colon adenocarcinoma].  OBJECTIVE
+to estimate the predictive and prognostic factors using morphological studies in patients with colon cancer to increase survival rates.  SUBJECTS AND METHODS
+Immunohistochemical examination was made in 582 patients with colon adenocarcinoma, by determining 11 different indicators relating to the development of the tumor and its treatment.
+RESULTS
+The simultaneous determination of the chemokine receptor CXCR4 and proliferative activity (Ki-67 expression) can define disease prognosis in view of relapse-survival rates in patients with Stage II colon cancer after radical surgical treatment.
+CONCLUSION
+Thymidylate synthase and thymidine phosphorylase are of predictive value.
+The immunohistochemical examination of other markers, such as ALDH1, CCR10, ERCC-1, DYPD, topoisomerase II alpha, and class III beta-tubulin for the choice of treatment policy for patients with colon cancer has indicated that they are of no value.

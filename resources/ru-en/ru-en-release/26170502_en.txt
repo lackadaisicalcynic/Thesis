@@ -1,0 +1,15 @@
+Increased food energy supply as a major driver of the obesity epidemic: a global analysis.
+OBJECTIVE
+We investigated associations between changes in national food energy supply and in average population body weight.
+METHODS  We collected data from 24 high-, 27 middle- and 18 low-income countries on the average measured body weight from global databases, national health and nutrition survey reports and peer-reviewed papers.
+Changes in average body weight were derived from study pairs that were at least four years apart (various years, 1971-2010).
+Selected study pairs were considered to be representative of an adolescent or adult population, at national or subnational scale.
+Food energy supply data were retrieved from the Food and Agriculture Organization of the United Nations food balance sheets.
+We estimated the population energy requirements at survey time points using Institute of Medicine equations.  Finally, we estimated the change in energy intake that could theoretically account for the observed change in average body weight using an experimentally-validated model.
+FINDINGS
+In 56 countries, an increase in food energy supply was associated with an increase in average body weight.
+In 45 countries, the increase in food energy supply was higher than the model-predicted increase in energy intake.
+The association between change in food energy supply and change in body weight was statistically significant overall and for high-income countries (P < 0.001).
+CONCLUSION
+The findings suggest that increases in food energy supply are sufficient to explain increases in average population body weight, especially in high-income countries.
+Policy efforts are needed to improve the healthiness of food systems and environments to reduce global obesity.

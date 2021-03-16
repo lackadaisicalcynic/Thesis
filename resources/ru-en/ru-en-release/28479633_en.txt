@@ -1,0 +1,12 @@
+Equity trends in ownership of insecticide-treated nets in 19 sub-Saharan African countries.
+OBJECTIVE
+To examine the change in equity of insecticide-treated net (ITN) ownership among 19 malaria-endemic countries in sub-Saharan Africa before and after the launch of the Cover The Bed Net Gap initiative.  METHODS
+To assess change in equity in ownership of at least one ITN by households from different wealth quintiles, we used data from Demographic and Health Surveys and Malaria Indicator Surveys.
+We assigned surveys conducted before the launch (2003-2008) as baseline surveys and surveys conducted between 2009-2014 as endpoint surveys.  We did country-level and pooled multicountry analyses.
+Pooled analyses based on malaria transmission risk, were done by dividing geographical zones into either low- and intermediate-risk or high-risk.  To assess changes in equity, we calculated the Lorenz concentration curve and concentration index (C-index).
+FINDINGS
+Out of the 19 countries we assessed, 13 countries showed improved equity between baseline and endpoint surveys and two countries showed no changes.  Four countries displayed worsened equity, two favouring the poorer households and two favouring the richer.
+The multicountry pooled analysis showed an improvement in equity (baseline survey C-index: 0.11; 95% confidence interval, CI: 0.10 to 0.11; and endpoint survey C-index: 0.00; 95% CI: -0.01 to 0.00).
+Similar trends were seen in both low- and intermediate-risk and high-risk zones.
+CONCLUSION
+The mass ITN distribution campaigns to increase coverage, linked to the launch of the Cover The Bed Net Gap initiative, have led to improvement in coverage of ITN ownership across sub-Saharan Africa with significant reduction in inequity among wealth quintiles.

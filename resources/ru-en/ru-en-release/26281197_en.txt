@@ -1,0 +1,15 @@
+[Hemodynamic effects of succinate-containing dialyzing solution].
+AIM  To assess the results of using an acetate-free succinate-containing dialyzing solution (SDS) against natremia and blood pressure (BP) in patients on chronic hemodialysis (HD).
+SUBJECTS AND METHODS
+Ninety-two patients were transferred from 3 Saint Petersburg HD centers to 3-month HD treatment using SDS.
+The investigators measured blood biochemical indicators immediately before and 1 and 3 months after the investigation, BP before and after a successive HD session, and the patients' weight and its gain in the period between HD sessions.
+Hypotensive and hypertensive episodes were recorded during HD sessions throughout the investigation.
+RESULTS
+Following 3-month treatment using SDS, there were statistically significant decreases in blood sodium levels and systolic BP (SBP) prior to a HD session.
+At the same time, patients with a baseline pre-HD SBP of less than 100 mm Hg were observed to have a statistically significant increase in this indicator by the end of the investigation.
+Pre-dialysis diastolic BP (DBP) and post- dialysis SBP and DBP substantially unchanged.
+After 3 months of SDS use, there was a statistically significant reduction in weight gain in the period between HD sessions.
+When SDS was administered, the frequency of hypertensive episodes tended to decline after a HD session.
+CONCLUSION
+The use of SDS causes a drop in pre-dialysis blood sodium levels, ensuring adequate dehydration in patients and improving hypertension control.
+In doing so, SDS prevents hypotension during a HD session.

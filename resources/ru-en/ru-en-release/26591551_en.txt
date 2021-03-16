@@ -1,0 +1,12 @@
+[The levels of osteoprotegerin, transforming growth factor-β, and some cytokines in women with coronary heart disease concurrent with severe osteoporosis].
+AIM  To determine the serum level of cytokines in women with coronary heart disease (CHD) concurrent with osteoporosis (OP) and in those with isolated CHD; to assess a relationship of the levels of cytokines, osteoprotegerin (OPG), and transforming growth factor-β (TGF-β) to the ten-year absolute risk of osteoporotic fractures, the presence of fractures in the history, and that of CHD; and to establish the role of elevated cytokine levels in the development of future fractures.
+SUBJECTS AND METHODS
+A cross-sectional cohort study included 98 women (mean age, 71.2?8.6 years) with CHD.
+Forty-eight patients had CHD concurrent with severe OP.
+The Fracture Risk Assessment Tool (FRAX) was applied to estimate a ten-year absolute risk for fractures in all the patients.  The serum levels of OPG, TGF-β, interleukin (IL)-1β, IL-4, IL-6, IL-8, and IL-10, and tumor necrosis factor-a (TNF-α) were measured by enzyme immunoassay.
+RESULTS
+The women with comorbidity were found to have higher levels of OPG, TGF-β, IL-6, IL-8, IL-10, and TNF-α than those with isolated CHID.
+There was a direct correlation between fractures, CHID, and IL-10 and TNF-α levels and an inverse relationship between fractures, CHD, and IL-8; between CHD and OPG levels.
+Conclusion.
+The women with comorbidity were noted to have elevated levels of proinflammatory cytokines and OPG; a correlation was between cytokine levels and fractures and CHD.
+Increased OPG and IL-6 levels are independent predictors of fractures.

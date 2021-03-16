@@ -1,0 +1,12 @@
+[Sleep-disordered breathing syndrome in acute ischemic stroke].
+AIM  To evaluate the prevalence, structure and risk factors of sleep-disordered breathing in patients with acute ischemic stroke.
+MATERIAL AND METHODS
+This prospective study included 54 acute ischemic stroke patients aged 66 [57; 72] years, 32 men, 22 women.
+The diagnosis was confirmed by MRI.  The neurological state was assessed with the NIHSS and modified Rankin Scale (mRS).
+To verify the SDB, cardiorespiratory monitoring was performed on 2-5 day from stroke onset.
+Total number of SDB episodes, apnea/hypopnea index (AHI), the index of hypoxemia (IH) were registered.
+RESULTS AND CONCLUSION
+SDB was detected in 50 (92%) patients, including 44 (88%) with predominantly obstructive apneas (OA), 6 (12%) patients with central apnea (CA).
+It was found that the severity of respiratory disorders did not depend on the severity of the neurological state but is associated with a variety of somatic, hemodynamic and metabolic disorders (increased BMI, smoking, diabetes mellitus,atrial fibrillation - AF).  Cardioembolic stroke (СES) was accompanied by a more pronounced SDB and can be considered as a marker of respiratory disorders during sleep, especially in patients with AF.
+Involvement of the insula in the brain infarct zone is a significant factor in the development of SDB and increase of central apnea (CA).
+Multiple small deep (lacunar) infarcts of the brain, including asymptomatic infarcts, visualized by MRI also indicate a high risk of obstructive SDB.

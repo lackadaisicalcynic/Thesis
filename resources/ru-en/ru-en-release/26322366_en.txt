@@ -1,0 +1,10 @@
+[Pharmacogenetic-based risk assessment of antipsychotic-induced extrapyramidal symptoms].  "Typical" antipsychotics remain the wide-prescribed drugs in modern psychiatry.
+Preventive methods of EPS are actively developed and they concentrate on personalized approach.  The method of taking into account genetic characteristics of patient for prescribing of treatment was proven as effective in cardiology, oncology, HIV-medicine.
+In this review the modern state of pharmacogenetic research of antipsychotic-induced EPS are considered.  There are pharmacokinetic and pharmacodynamic factors which impact on adverse effects.
+Pharmacokinetic factors are the most well-studied to date, these include genetic polymorphisms of genes of cytochrome P450.  However, evidence base while does not allow to do the significant prognosis of development of EPS based on genetic testing of CYP2D6 and CYP7A2 polymorphisms.
+Genes of pharmacodynamics factors, which realize the EPS during antipsychotic treatment, are the wide field for research.  In separate part of review research of such systems as dopaminergic, serotonergic, adrenergic, glutamatergic, GABAergic, BDNF were analyzed.
+The role of oxidative stress factors in the pathogenesis of antipsychotic-induced EPS was enough detailed considered.  The system of those factors may be used for personalized risk assessment of antipsychotics' safety in the future.
+Although there were numerous studies, the pharmacogenetic-based prevention of EPS before prescribing of antipsychotics was not introduced.  However, it is possible to distinguish the most perspectives markers for further research.
+Furthermore, brief review of new candidate genes provides here, but only preliminary results were published.  The main problem of the field is the lack of high- quality studies.
+Moreover, the several results were not replicated in repeat studies.  The pharmacogenetic-based research must be standardized by ethnicity of patients.
+These facts explain why the introduction of pharmacogenetic testing for risk assessment of antipsychotic-induced EPS is so difficult to achieve.

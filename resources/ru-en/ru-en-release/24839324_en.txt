@@ -1,0 +1,11 @@
+Effect of having a subsequent child on the mental health of women who lost a child in the 2008 Sichuan earthquake: a cross-sectional study.
+OBJECTIVE
+To assess whether having a subsequent child had an effect on the mental health of Chinese mothers who lost a child during an earthquake.  METHODS
+A cross-sectional survey of bereaved mothers was conducted 30 to 34 months after the 2008 Sichuan earthquake using individual structured interviews to assess sociodemographic characteristics, post-disaster experiences and mental health.  The interviews incorporated standardized psychometric measures of anxiety, depression, post-traumatic stress disorder (PTSD) and complicated grief (CG).
+Social support was also assessed.
+An adjusted model taking potential confounders into account was used to explore any association between psychological symptoms and the birth of a subsequent child.  FINDINGS
+The prevalence of psychological symptoms was higher in mothers who did not have a child after losing the first one.  In an adjusted model, symptoms of anxiety (odds ratio, OR: 3.37; 95% confidence interval, CI: 1.51-7.50), depression (OR: 9.47; 95% CI: 2.58-34.80), PTSD (OR: 5.11; 95% CI: 2.31-11.34) and CG (OR: 10.73; 95% CI: 1.88-61.39) were significantly higher among the 116 women without a subsequent child than among the 110 mothers who had another child after bereavement.
+More than two thirds of the mothers with new infants had clinically important psychological symptoms.
+CONCLUSION
+Women who have lost an only child in a natural disaster are especially vulnerable to long-term psychological problems, especially if they have reached an age when conception is difficult.
+Research should focus on developing and evaluating interventions designed to provide women with psychosocial support and reproductive services.

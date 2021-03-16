@@ -1,0 +1,11 @@
+OBJECTIVE  To determine cognitive and emotional status in patients with amyotrophic lateral sclerosis (ALS).
+MATERIAL AND METHODS
+One hundred sixteen patients were examined.
+RESULTS AND CONCLUSION
+Frontotemporal cognitive changes (CC) were found in 35.3% of patients  (medium log rank on the Frontotemporal dementia rating scale was 1.47 [1.92; 1.26], and 4.2% patients had frank dementia (medium log rank -0.4 [1.07; -3.09]).
+The average degree by the Montreal cognitive scale in patients with CC was 21.7±4.4. 48,9% patients had mixed (executive and speech) symptoms, 34% had frontal (executive) symptoms, 4.2% had temporal (visual and spatial) deficits, and 4.2% had isolated behavioral symptoms.
+There was no patients with isolated speech deficits.
+ALS patients with CC were significantly older than patients without CC (64.5±7.7 and 52.5±12.1 years, р=0,0001).
+ALS progressed more rapidly in patients with CC (13.5±9.3 and 10.4±9.1 ALSFRS-R scores per month, p=0.033).
+Patients with lumbar onset of ALS prevailed in the group without CC (17% and 36%, χ2=3.94; р=0.047), and patients with bulbar onset of ALS prevailed in the group with CC at the trend level.
+A comparison of estimates by different scores of emotional state and quality of life (the Hamilton depression scale, CNSLS, ALSAQ40) allows to conclude that CC had no influence on the emotional state of ALS patients and their total quality of life.

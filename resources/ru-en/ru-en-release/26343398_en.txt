@@ -1,0 +1,2 @@
+[Computer assisted modeling of endodontic access in mandibular and maxillary molars].  The paper describes the elaborated method of computer assisted manufacturing of plastic templates for optimal topography of endodontic access in molars according to CT and laser surface scanning data.
+The method was tested on extracted teeth, its use in clinical practice will greatly reduce the errors rate and minimize the hard tissues loss by endodontic assess creation.

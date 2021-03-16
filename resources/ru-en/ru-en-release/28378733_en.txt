@@ -1,0 +1,15 @@
+[Prognostic factors in patients with non-ST-segment elevation acute coronary syndrome concurrent with type 2 diabetes mellitus (according to the results of the registry)].
+AIM
+To investigate factors that influence annual prognosis in patients with non-ST-segment elevation acute coronary syndrome  ((NSTEACS) concurrent with type 2 diabetes mellitus (DM2).
+SUBJECTS AND METHODS  The registry of patients with NSTEACS (non-ST-segment elevation myocardial infarction (NSTEMI), unstable angina) included 415 patients, of them 335 had no carbohydrate metabolic disorders, 80 had DM2.
+The follow-up period, during which the prognosis was evaluated in the patients, was one year after hospital discharge following the index NSTEACS event.
+Lipidogram readings and the serum levels of endothelin-1 (ET-1), sP-selectin, sE-selectin, and sPECAM were determined on day 10 after admission to hospital.  All the patients underwent coronary angiography (CA), Doppler ultrasound of peripheral arteries during their hospital stay.
+RESULTS
+The patients with DM2 versus those without diabetes proved to be significantly older and to have a higher body mass index; among them there were more women, they were noted to have more frequently hypertension and less frequently smoked.  The presence of DM2 was associated with significantly increased intima-media thickness and higher GRACE scores (p=0.013) as compared to those in the patients with normal carbohydrate metabolism.
+There were significant differences in high-density lipoprotein levels that were lower, as well as in triglyceride levels and atherogenic index, which were higher in patients with DM2 than in those without this condition.
+In addition, there were significant differences in ET-1, sP-selectin, sE-selectin, and sPECAM levels that were significantly higher in the DM2 group.
+Moreover, the levels of ET-1 and sPECAM were above normal in both the DM and non-DM2 groups.  Assessment of poor outcomes at one year of the observation established that cardiovascular mortality rates were significantly higher and coronary angiography was performed much less frequently in the DM2 group.
+The most significant prognostic factors associated with a poor prognosis were as follows: multifocal atherosclerosis, reduced left ventricular ejection fraction (LVEF) less than 51%, and increased ET-1 levels more than 0.87 fmol/ml.
+CONCLUSION
+The register-based study has shown that the presence of DM2 statistically significantly increases cardiovascular mortality rates during a year after the index ACS event; the patients of this category are less commonly referred for CA for the estimation of the degree of coronary bed lesion.
+The most important factors of recurrent cardiovascular events in patients with DM2 within a year after prior ACS are multifocal atherosclerosis, reduced myocardial contractility (LVEF less than 51%), and increased vasospastic endothelial function (an increase in ET-1 levels more than 0.87 fmol/ml).

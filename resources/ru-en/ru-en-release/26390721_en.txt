@@ -1,0 +1,16 @@
+[Autologous hematopoietic stem cell transplantation as late high-dose consolidation in adult patients with T-cell lymphoblastic leukemias: Results of a Russian multicenter study].  AIM
+To analyze the efficiency of the ALL-2009 protocol (ClinicalTrials.gov NCT01 193933) in patients with T-cell leukemias, particularly the role of autologous hematopoietic stem cell transplantation (auto-HSCT) after non-myeloablative BEAM conditioning, followed by maintenance therapy.
+SUBJECTS AND METHODS
+Since 2009, the ALL-2009 study has enrolled 90 patients with T-cell acute lymphoblastic leukemia (T-ALL), the treatment results were assessed in 86 patients: 6 and 28 patients underwent allogeneic HSCT and auto-HSCT, respectively.
+A landmark analysis was used to compare survival rates in patients who had undergone auto-HSCT and in those who had not.
+For this, the median time from complete remission to the date of auto-HSCT was determined (the median was 6 months).
+Then to compare with the auto-HSCT group, only 27 patients who had been in complete remission for 6 months or more were included in a chemotherapy group.
+RESULTS
+The achievement of complete remission in patients with thymic T-ALL (100%) was significantly higher than in those with early (85.7%) or mature (70%) variants.
+The patients with early and mature T-ALL as compared to those with thymic T-ALL showed high death rates in the remission induction (7.4 and 10% versus 0) and the patients with mature T-ALL had a.higher proportion of refractory forms (20% versus 0).
+The 5-year overall and relapse-free survival rates in all the T-ALL patients were 66 and 76%, respectively.
+After auto-HSCT, the risk of recurrence was 0% versus 21% after chemotherapy (p=0.03).
+The relapse-free survival rates significantly differed in the auto-HSCT and non-auto-HSCT groups: 100 and 66%, respectively (p=0.047).
+CONCLUSION
+The long-term survival rates obtained during this multicenter study in the T-ALL patients treated according to the ALL-2009 protocol, the basis for which is the principle of continuity of cytostatic effects, are exclusively optimistic.
+Late consolidation with auto-HSCT following non-myeloablative BEAM conditioning, followed by maintenance therapy, considerably reduces the risk of recurrence.

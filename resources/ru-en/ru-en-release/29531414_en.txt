@@ -1,0 +1,13 @@
+Ward-based clinical pharmacists and hospital readmission: a non-randomized controlled trial in Sri Lanka.
+Objective
+To assess if a ward-based clinical pharmacy service resolving drug-related problems improved medication appropriateness at discharge and prevented drug-related hospital readmissions.  Method
+Between March and September 2013, we recruited patients with noncommunicable diseases in a Sri Lankan tertiary-care hospital, for a non-randomized controlled clinical trial.
+The intervention group received usual care and clinical pharmacy service.  The intervention pharmacist made prospective medication reviews, identified drug-related problems and discussed recommendations with the health-care team and patients.
+At discharge, the patients received oral and written medication information.  The control group received usual care.
+We used the medication appropriateness index to assess appropriateness of prescribing at discharge.
+During a six-month follow-up period, a pharmacist interviewed patients to identify drug-related hospital readmissions.  Results
+Data from 361 patients in the intervention group and 354 patients in the control group were available for analysis.  Resolutions of drug-related problems were higher in the intervention group than in the control group (57.6%; 592/1027, versus 13.2%; 161/1217; P < 0.001) and the medication was more appropriate in the intervention group.
+Mean score of medication appropriateness index per patient was 1.25 versus 4.3 in the control group (P < 0.001).  Patients in the intervention group were less likely to be readmitted due to drug-related problems (44 patients of 311 versus 93 of 311 in the control group; P < 0.001).
+Conclusion
+A ward-based clinical pharmacy service improved appropriate prescribing, reduced drug-related problems and readmissions for patients with noncommunicable diseases.
+Implementation of such a service could improve health care in Sri Lanka and similar settings.

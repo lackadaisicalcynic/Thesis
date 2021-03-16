@@ -1,0 +1,10 @@
+[Lipid metabolism in patients with hematologic cancers].  It is considered that hypercholesterolemia is life-threatening and low cholesterol levels are a positive factor.
+However, taking into consideration the fact that cholesterol plays a key role in cell proliferation, it should be remembered that its low blood level may be linked to high cholesterol demands from neoplastic cells.
+The literature review analyzes the results of recent investigations of lipid metabolism in patients with hematologic cancers and their other types.
+All given investigations show a significant reduction in the serum levels of total cholesterol and high-density lipoproteins in patients with hematological disease at its onset.
+The data for other indicators of the lipid transport system are ambiguous.  Such changes have been elucidated to be associated with the accumulation of cholesterol in the leukemia cells due to enhanced synthesis de novo, a more active absorption from circulation and blocked release of its surplus.
+If the disease runs a favorable course, lipid metabolic parameters become normalized and, in case of remission, correspond to those seen in healthy individuals.
+They continue to decline in patients with disease progression.
+This allows the consideration of cholesterol, its fractions, and apolipoproteins as biochemical prognostic markers in hematological cancer patients and as indicators for assessment of treatment results.
+In addition, there is evidence for the effect of chemotherapeutic agents on lipid metabolism.
+Recent attempts to elaborate new treatment strategies, by using the current knowledge on the role of lipid metabolism in cancers, are considered.

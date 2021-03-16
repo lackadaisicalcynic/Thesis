@@ -1,0 +1,18 @@
+[A 20-year prospective follow-up study to evaluate the development of retinopathy and nephropathy after the onset of type 1 diabetes mellitus: Contribution of glycemic control and metabolic memory].
+AIM  To assess the time course of changes in the level of glycated hemoglobin (HbA1c) for 20 years after the onset of type 1 diabetes mellitus (T1DM) and to compare its correlation with the development of microvascular complications, such as diabetic retinopathy (DR) and diabetic nephropathy (DN).
+SUBJECTS AND METHODS
+A total of 187 children with new-onset T1DM were registered in Moscow in 1994.
+During the 20-year follow-up study, these patients underwent regular check-ups at the Endocrinology Research Center, Ministry of Health of the Russian Federation, which included assessment of physical data, HbA1c 2-4 times a year, biochemical blood and albuminuria tests (once per year), and ophthalmologic examination (twice a year).
+A total of 155 people fully completed the 20-years follow-up study.
+RESULTS
+During the 20-year follow-up period after the onset of T1DM, 86 of the 155 patients developed microvascular complications: DR and DN in 86 (55.5%) and 24 (15.5%) cases, respectively; while DR concurrent with DN were noted in 20 patients.
+By the time of their last visit, 69 (44.5%) patients had no evidence suggesting the presence of microvascular complications.
+The level of HbA1c at the onset of the disease in patients who later developed the complications was higher than in those without complications  (10.2±0.6 and 8.5±0.2%, respectively (p = 0.003).
+The statistically significant differences in HbA1c levels between the groups persisted during subsequent 15 years of follow-up, averaging 9.2±1.5, 9.7±0.9, and 8.1±0.7% after 5, 10, and 15 years, respectively, in the complication group and 7.1±0.3, 8.1±0.4, and 7.2±0.2% in the non-complication group (p < 0.01).
+Over the last 5 years of the follow-up, the mean HbA1c level between the groups was not significantly different, which at the end of the 20-year follow-up period was 7.8±0.3 and 7.4±0.6%, respectively (p > 0.05).
+The mean duration of T1DM, in which DR developed, was 9.6±6.2, 11.0±2.0, and 13.6±4.6 years for the non-proliferative, pre-proliferative, and proliferative stages, respectively.
+That of T1DM, in which DN developed, was 11.8±0.6 years for microalbuminuria and 16.1±1.3 years for macroalbuminuria.
+CONCLUSION
+The 20-year clinical follow-up of patients who had fallen ill with T1DM in childhood showed that diabetic microangiopathies developed with the long-term preservation of poor blood glucose control (BGC) starting at the onset of the disease.
+At the same time, the complications progressed to more severe stages, despite a clear trend toward better BGC.
+This may be suggestive of the negative metabolic memory phenomenon, which necessitates stable BGC, starting at the onset of the disease, for the prevention of microvascular complications.

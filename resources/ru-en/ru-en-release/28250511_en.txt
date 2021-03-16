@@ -1,0 +1,10 @@
+Implementation research on community health workers' provision of maternal and child health services in rural Liberia.
+OBJECTIVE
+To assess changes in the use of essential maternal and child health services in Konobo, Liberia, after implementation of an enhanced community health worker (CHW) programme.  METHODS
+The Liberian Ministry of Health partnered with Last Mile Health, a nongovernmental organization, to implement a pilot CHW programme with enhanced recruitment, training, supervision and compensation.  To assess changes in maternal and child health-care use, we conducted repeated cross-sectional cluster surveys before (2012) and after (2015) programme implementation.
+FINDINGS
+Between 2012 and 2015, 54 CHWs, seven peer supervisors and three clinical supervisors were trained to serve a population of 12 127 people in 44 communities.
+The regression-adjusted percentage of children receiving care from formal care providers increased by 60.1 (95% confidence interval, CI: 51.6 to 68.7) percentage points for diarrhoea, by 30.6 (95% CI: 20.5 to 40.7) for fever and by 51.2 (95% CI: 37.9 to 64.5) for acute respiratory infection.  Facility-based delivery increased by 28.2 points (95% CI: 20.3 to 36.1).
+Facility-based delivery and formal sector care for acute respiratory infection and diarrhoea increased more in agricultural than gold-mining communities.  Receipt of one-or-more antenatal care sessions at a health facility and postnatal care within 24 hours of delivery did not change significantly.
+CONCLUSION
+We identified significant increases in uptake of child and maternal health-care services from formal providers during the pilot CHW programme in remote rural Liberia.  Clinic-based services, such as postnatal care, and services in specific settings, such as mining areas, require additional interventions to achieve optimal outcomes.

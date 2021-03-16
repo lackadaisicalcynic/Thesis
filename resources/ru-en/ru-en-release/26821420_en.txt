@@ -1,0 +1,9 @@
+[Genes of killer cell immunoglobulin-like receptors and their HLA ligands after allogeneic hematopoietic stem cell transplantation in myeloid leukemia patients].
+AIM
+To study the impact of the genes of donor killer cell immunoglobulin-like receptors (KIR) and HLA-KIR ligands on overall (OS) and event-free survival (EFS) rates in patients with myeloid leukemia after transplantation with allogeneic hematopoietic stem cells (allo-HSCT) from HLA-identical related and HLA-compatible unrelated donors.
+SUBJECTS AND METHODS
+The investigation enrolled 29 patients who had undergone allo-HSCT from KIR-genotyped donors at the Department of Bone Marrow Transplantation, Hematology Research Center (see symbol) in 2010-2013.  OS and EFS rates after allo-HSCT were calculated using the Kaplan-Meier method.
+RESULTS  The main predictor of recurrence and survival in patients after allo-HSCT was a recurrence-risk group the patient belonged to before transplantation.
+The standard-risk group patients whose donors had telomeric gene-content motifs of KIR-B haplotypes had higher EFS rates than those whose donors lacked these genes.  The standard-risk patients homozygous for HLA-1 alleles (i.e. without HLA-C2 ligand) tended to have higher EFS rates, so did the patients without HLA-Bw4 ligand.
+CONCLUSION
+The donors having telomeric gene-content motifs of KIR-B haplotypes are more preferred for allo-HSCT for patients with myeloid leukemia as the presence of donor telomeric KIR-B genes increases EFS rates in standard-risk patients.

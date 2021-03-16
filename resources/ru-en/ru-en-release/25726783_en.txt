@@ -1,0 +1,11 @@
+[Reactivity of perineuronal astrocytes in the prefrontal cortex in schizophrenia: an ultrastructural morphometric study].  OBJECTIVE
+Previously the ultrastructural alterations of astrocytes have been reported in schizophrenia.  Reduced dendritic arborization of the neurons in layer 5 of the prefrontal cortex has been found in schizophrenia.
+Authors hypothesized that the abnormalities in perineuronal astrocytes (PA) might contribute to these neuronal changes.  It was aimed to study the ultrastructure of PA in the prefrontal cortex in schizophrenia.
+MATERIAL AND METHODS
+Postmortem electron microscopic morphometric study of PA was performed in layer 5, area 10 of the prefrontal cortex in 39 cases of schizophrenia and 37 controls.
+RESULTS
+No significant group differences were found in areas of cell, nucleus, cytoplasm, volume fraction (Vv) of lipofuscin granules and areal density of PA.
+However, in the subgroup of women with schizophrenia, the areal density of PA was significantly lower and the area of PA was significantly higher as compared to the subgroup of healthy women (-52%, p<0,01; +32%, p<0.05 respectively) and to the subgroup of men with schizophrenia (-56%, p<0,01; +23%, p<0,05 respectively).
+The area of PA nucleus was negatively correlated with the duration of disease (r= -0.37, p=0.02) and positively with the age of disease onset (ADO) (r=0,47, p<0,01). Areas of PA and of PA nucleus were significantly lower in early ADO (<21 y.o.) as compared to the adult ADO (>21 y.o.) (-24%, p<0.05). Vv of lypofuscin granules was correlated with the age in control group (r=0.52, p=0.001), but not in schizophrenia group (r=0.13, p=0.4).
+CONCLUSION
+Significant differences in PA reactivity in the prefrontal cortex in the schizophrenia are associated with gender and age at onset of the disease.

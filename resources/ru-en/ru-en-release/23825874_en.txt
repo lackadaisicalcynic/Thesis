@@ -1,0 +1,13 @@
+Willingness to pay for methadone maintenance treatment in Vietnamese epicentres of injection-drug-driven HIV infection.
+OBJECTIVE
+Willingness to pay for methadone maintenance treatment (MMT) in three Vietnamese epicentres of injection-drug-driven human immunodeficiency virus (HIV) infection was assessed.
+METHODS  A convenience sample of 1016 patients receiving HIV treatment in seven clinics was enrolled during 2012.
+Contingent valuation was used to assess willingness to pay.  Interviewers reviewed adverse consequences of injection drug use and the benefits of MMT.
+Interviewers then described the government's plan to scale up MMT and the financial barriers to scale-up.
+Willingness to pay was assessed using double-bounded binary questions and a follow-up open-ended question.  Point and interval data models were used to estimate maximum willingness to pay.
+FINDINGS
+A total of 548 non-drug-users and 468 injection drug users were enrolled; 988 were willing to pay for MMT.
+Monthly mean willingness to pay among non-drug-users, 347 drug users not receiving MMT and 121 drug users receiving MMT was 10.7 United States dollars [US$] (35.7% of treatment costs), US$ 21.1 (70.3%) and US$ 26.2 (87.3%), respectively (mean: US$ 15.9; 95% confidence interval, CI: 13.6-18.1).
+Fifty per cent of drug users were willing to pay 50% of MMT costs.  Residence in households with low monthly per capita income and poor health status predicted willingness to pay less among drug users; educational level, employment status, health status and current antiretroviral therapy receipt predicted willingness to pay less among non-drug-users.
+CONCLUSION
+Willingness to pay for MMT was very high, supporting implementation of a co-payment programme.

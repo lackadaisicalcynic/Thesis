@@ -1,0 +1,9 @@
+Trends in socioeconomic disparities in a rapid under-five mortality transition: a longitudinal study in the United Republic of Tanzania.
+OBJECTIVE
+To explore trends in socioeconomic disparities and under-five mortality rates in rural parts of the United Republic of Tanzania between 2000 and 2011.
+METHODS
+We used longitudinal data on births, deaths, migrations, maternal educational attainment and household characteristics from the Ifakara and Rufiji health and demographic surveillance systems.  We estimated hazard ratios (HR) for associations between mortality and maternal educational attainment or relative household wealth, using Cox hazard regression models.
+FINDINGS  The under-five mortality rate declined in Ifakara from 132.7 deaths per 1000 live births (95% confidence interval, CI: 119.3-147.4) in 2000 to 66.2 (95% CI: 59.0-74.3) in 2011 and in Rufiji from 118.4 deaths per 1000 live births (95% CI: 107.1-130.7) in 2000 to 76.2 (95% CI: 66.7-86.9) in 2011.
+Combining both sites, in 2000-2001, the risk of dying for children of uneducated mothers was 1.44 (95% CI: 1.08-1.92) higher than for children of mothers who had received education beyond primary school and in 2010-2011, the HR was 1.18 (95% CI: 0.90-1.55).  In contrast, mortality disparities between richest and poorest quintiles worsened in Rufiji, from 1.20 (95% CI: 0.99-1.47) in 2000-2001 to 1.48 (95% CI: 1.15-1.89) in 2010-2011, while in Ifakara, disparities narrowed from 1.30 (95% CI: 1.09-1.55) to 1.15 (95% CI: 0.95-1.39) in the same period.
+CONCLUSION
+While childhood survival has improved, mortality disparities still persist, suggesting a need for policies and programmes that both reduce child mortality and address socioeconomic disparities.

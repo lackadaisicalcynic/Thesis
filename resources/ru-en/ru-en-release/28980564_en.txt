@@ -1,0 +1,14 @@
+To study the magnitude of objective accommodative response (OAR) with account to the method of image defocusing.  The latter can be realized by bringing the object nearer to the eye or by adding a minus lens in front of the viewer.
+MATERIAL AND METHODS
+We examined 63 patients (126 eyes) with different refraction aged from 7 to 31 years.
+All patients underwent a series of OAR measurements on WR-5100K Grand Seiko Binocular Open-Field Autorefkeratometer under different conditions, including negative spherical lenses of -3.0 D and -5.0 D, test optotypes corresponding to visual acuity of 0.2 and 0.7 and presented at a distance of 5 m, and a set of variably sized optotypes presented at a distance of 33 cm and 20 cm.
+RESULTS
+A disparity was found between the magnitude of accommodative responses evoked through different means: placing a negative lens in front of the viewer while he/she looks into the distance or bringing the object closer to the eye.
+In almost all cases lens-induced responses were less pronounced than distance-induced.
+In all myopic children, accommodative lag was longer at near than at distance.
+Generally, in all groups, OAR to distant objects as well as responses to a 3.0 D accommodative task at near did not depend on the size of the object.
+There was an insignificant and statistically unreliable difference for objects placed 20 cm away (5.0 D accommodative task): OAR to a smaller font was stronger than that to a larger one.
+CONCLUSION
+In children and adults with emmetropia, hyperopic children, and myopic adults, longer accommodative lags were characteristic of lens-induced responses.
+In children with myopia, longer lags were observed at near.
+Moreover, at near, OAR to a smaller font was stronger than that to a larger one.

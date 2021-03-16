@@ -1,0 +1,26 @@
+[Treatment for ventricular arrhythmias in the absence of structural heart disease: from guidelines to clinical practice].
+AIM  To determine criteria for choosing management tactics in patients with ventricular arrhythmias (VA) in the absence of structural heart disease from the point of view of physicians and patients in clinical practice and to compare the immediate results of antiarrhythmic drug therapy (ADT) and radiofrequency ablation (RFA) with the trends in arrhythmic syndrome in the non-treatment group.
+SUBJECTS AND METHODS
+Examinations were made in 90 patients (23 men and 67 women) (mean age, 44 (31; 57) years) with VA in the absence of structural heart disease.
+Preference was given to RFA (n = 32 (36%)), ADT (n = 37 (41%)), and follow-up tactics (n = 21 (23%)).
+At baseline and 1 month, Holter ECG monitoring was done; quality of life (QOL) was assessed; and anxiety and depression levels were detected using the SF-36 and HADS questionnaires.
+In addition, 71 physicians were surveyed about their preferences to the treatment of VA in individuals without structural heart disease.
+RESULTS
+In the total group of patients, VA was unambiguously accompanied by the symptoms only in 47%.
+The signs of anxiety and depression were identified in 41 and 14% of cases, respectively.
+The efficiency of RFA was comparable to that of ADT (p > 0.1): a positive antiarrhythmic effect was observed in 71.9% of the patients in the RFA group and in 67.6% in the ADT group.
+During one month, 38.1% of the patients in the follow-up group showed a spontaneous substantial reduction in the number of ventricular premature beats (VPBs) or disappearance of unstable ventricular tachycardia (UVT), which met the criteria for a positive effect.
+At baseline, the QOL indicators on a social functioning scale in the RFA group were worse than those in the ADT group.
+At the same time, most QOL indicators in the patients who have chosen a wait-and-see tactic were significantly higher than those in the RFA and ADT subgroups.
+The patients treated with ethacyzin in the ADT group more frequently achieved a positive effect.
+In the interviewed physicians' opinion, the choice of a tactic depended on the impact of arrhythmia on health status (68%), the number of VPBs per day (61%), and the presence of UVT (56%).
+RFA or ADT was most often recommended when there were 10,000-15,000 or more VPBs per day
+((49 and 35% of the respondents, respectively). 46.5% of the respondents stated that β-blockers were the drug of choice for idiopathic frequent VPBs.
+Only 30% of the respondents considered it appropriate to restrict to a follow-up in the presence of asymptomatic VPBs.
+CONCLUSION
+Patient management in clinical practice generally complies with the current guidelines; however, much importance is attached to the severity of arrhythmia (the number of VPBs per day, the presence of UVT) in addition to the presence of symptoms.
+In the opinion of most physicians, the initiation of treatment is justified when there are 10,000-15,000 and more per day.
+QOL assessment may be promising in choosing the optimal management tactics for these patients.
+Treatment should not be initiated immediately in patients with a high level of QOL, especially in those with arrhythmia lasting less than 12 months, by taking into account that there can be a spontaneous improvement in 38% of cases within the next month.
+The immediate results of ADT and RFA are comparable in patients with VA in the absence of structural heart disease.
+The Class IC antiarrhythmic drug ethacyzin is the most effective agent that ensures positive changes in arrhythmic syndrome in 66.7% of cases with the rate of side effects being in 17.8%.

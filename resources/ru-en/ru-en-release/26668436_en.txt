@@ -1,0 +1,10 @@
+Effect of a mobile phone-based intervention on post-abortion contraception: a randomized controlled trial in Cambodia.
+OBJECTIVE
+To assess the effect of a mobile phone-based intervention (mHealth) on post-abortion contraception use by women in Cambodia.
+METHODS
+The Mobile Technology for Improved Family Planning (MOTIF) study involved women who sought safe abortion services at four Marie Stopes International clinics in Cambodia.
+We randomly allocated 249 women to a mobile phone-based intervention, which comprised six automated, interactive voice messages with counsellor phone support, as required, whereas 251 women were allocated to a control group receiving standard care.  The primary outcome was the self-reported use of an effective contraceptive method, 4 and 12 months after an abortion.
+Data on effective contraceptive use were available for 431 (86%) participants at 4 months and 328 (66%) at 12 months.  Significantly more women in the intervention than the control group reported effective contraception use at 4 months (64% versus 46%, respectively; relative risk, RR: 1.39; 95% confidence interval, CI: 1.17-1.66) but not at 12 months (50% versus 43%, respectively; RR: 1.16; 95% CI: 0.92-1.47).
+However, significantly more women in the intervention group reported using a long-acting contraceptive method at both follow-up times.  There was no significant difference between the groups in repeat pregnancies or abortions at 4 or 12 months.
+CONCLUSION
+Adding a mobile phone-based intervention to abortion care services in Cambodia had a short-term effect on the overall use of any effective contraception, while the use of long-acting contraceptive methods lasted throughout the study period.

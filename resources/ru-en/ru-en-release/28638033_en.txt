@@ -1,0 +1,11 @@
+[The biomarkers of cerebral ischemia as a new method for the validation of the efficacy of cytoprotective therapy].
+AIM  To study blood plasma concentrations of NR2-peptide in patients with ischemic stroke (IS) to assess its diagnostic value as a biomarker of cerebral ischemia and determine the dynamics of the biomarker during treatment with cortexin.
+MATERIAL AND METHODS
+One hundred and twenty patients, aged from 18 to 70 years, including 36 with transient ischemic attack (TIA) and 84 with IS in the carotid territory (n=70) and vertebral/basilar territory with the Wallenberg-Zakharchenko syndrome (n=14), were enrolled.
+The National Institute of Health Stroke scale (NIHSS) was used to assess neurological status.
+Blood plasma concentration of NR2-peptide was measured in all patients at admission and after treatment.  All laboratory results were compared with neuroimaging (MRI, CT) data.
+RESULTS
+Concentrations of NR2-peptide detected in all patients were higher than in controls (>1.5 ng/ml), p<0.0001.
+The direct correlation between NR2-peptide (from 3.38 ng/ml to 15.6 ng/ml) and ischemic lesion (from few to 80 mm) was observed.
+A decrease in NR2-peptide concentration (from 8.5 to 5,.9 ng/ml, p<0.0001) was noted in patients treated with cortexin after 10-day treatment course.  CONCLUSION
+NR2-peptide blood assay is a reliable hemotest of brain ischemia.  Cortexin has a sufficient therapeutic efficacy.

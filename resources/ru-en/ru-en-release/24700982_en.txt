@@ -1,0 +1,11 @@
+Monitoring polio supplementary immunization activities using an automated short text messaging system in Karachi, Pakistan.
+PROBLEM
+Polio remains endemic in many areas of Pakistan, including large urban centres such as Karachi.
+APPROACH  During each of seven supplementary immunization activities against polio in Karachi, mobile phone numbers of the caregivers of a random sample of eligible children were obtained.
+A computer-based system was developed to send two questions--as short message service (SMS) texts--automatically to each number after the immunization activity: "Did the vaccinator visit your house?" and "Did the enrolled child in your household receive oral polio vaccine?"  Persistent non-responders were phoned directly by an investigator.
+LOCAL SETTING
+A cluster sampling technique was used to select representative samples of the caregivers of young children in Karachi in general and of such caregivers in three of the six "high-risk" districts of the city where polio cases were detected in 2011.
+RELEVANT CHANGES
+In most of the supplementary immunization activities investigated, vaccine coverages estimated using the SMS system were very similar to those estimated by interviewing by phone those caregivers who never responded to the SMS messages.  In the high-risk districts investigated, coverages estimated using the SMS system were also similar to those recorded--using lot quality assurance sampling--by the World Health Organization.
+LESSONS LEARNT  For the monitoring of coverage in supplementary immunization activities, automated SMS-based systems appear to be an attractive and relatively inexpensive option.
+Further research is needed to determine if coverage data collected by SMS-based systems provide estimates that are sufficiently accurate.  Such systems may be useful in other large-scale immunization campaigns.

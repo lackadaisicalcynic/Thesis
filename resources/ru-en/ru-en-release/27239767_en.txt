@@ -1,0 +1,5 @@
+[The specific age-related palmometric features of an adult subject].  In connection with the variability and as a consequence of the poor diagnostic value of the external (planimetric) parameters of the palm traces, the new system of absolute and relative dimensional attributes based on the stable palmoglyphic reference points is considered.
+The purpose of the present study was the search for the new biological markers of biological age.
+The material for the study consisted of the palm prints obtained from 180 men and 120 women of the Caucasoid stock at the age from 16 to 80 years.
+The use of the descriptive statistics methods yielded the basic statistical characteristics of the traits being investigated and revealed the limits of their variability in the groups of men and women belonging to the age groups from 16 to 29 and from 30 to 80 years.
+The method of threshold values made it possible to identify 13 attributes the excess of which allows, with the probability of no less than 0.95, to perform diagnostics of the age group of an unknown subject.

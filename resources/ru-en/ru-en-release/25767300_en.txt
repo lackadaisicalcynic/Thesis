@@ -1,0 +1,7 @@
+Big data in global health: improving health in low- and middle-income countries.
+Over the last decade, a massive increase in data collection and analysis has occurred in many fields.  In the health sector, however, there has been relatively little progress in data analysis and application despite a rapid rise in data production.
+Given adequate governance, improvements in the quality, quantity, storage and analysis of health data could lead to substantial improvements in many health outcomes.
+In low- and middle-income countries in particular, the creation of an information feedback mechanism can move health-care delivery towards results-based practice and improve the effective use of scarce resources.
+We review the evolving definition of big data and the possible advantages of - and problems in - using such data to improve health-care delivery in low- and middle-income countries.
+The collection of big data as mobile-phone based services improve may mean that development phases required elsewhere can be skipped.
+However, poor infrastructure may prevent interoperability and the safe use of patient data.  An appropriate governance framework must be developed and enforced to protect individuals and ensure that health-care delivery is tailored to the characteristics and values of the target communities.

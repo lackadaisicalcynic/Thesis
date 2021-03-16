@@ -1,0 +1,14 @@
+Peri-operative pulse oximetry in low-income countries: a cost-effectiveness analysis.
+OBJECTIVE
+To evaluate the cost-effectiveness of pulse oximetry--compared with no peri-operative monitoring--during surgery in low-income countries.  METHODS
+We considered the use of tabletop and portable, hand-held pulse oximeters among patients of any age undergoing major surgery in low-income countries.
+From earlier studies we obtained baseline mortality and the effectiveness of pulse oximeters to reduce mortality.  We considered the direct costs of purchasing and maintaining pulse oximeters as well as the cost of supplementary oxygen used to treat hypoxic episodes identified by oximetry.
+Health benefits were measured in disability-adjusted life-years (DALYs) averted and benefits and costs were both discounted at 3% per year.  We used recommended cost-effectiveness thresholds--both absolute and relative to gross domestic product (GDP) per capita--to assess if pulse oximetry is a cost-effective health intervention.
+To test the robustness of our results we performed sensitivity analyses.
+FINDINGS
+In 2013 prices, tabletop and hand-held oximeters were found to have annual costs of 310 and 95 United States dollars (US$), respectively.
+Assuming the two types of oximeter have identical effectiveness, a single oximeter used for 22 procedures per week averted 0.83 DALYs per annum.
+The tabletop and hand-held oximeters cost US$ 374 and US$ 115 per DALY averted, respectively.
+For any country with a GDP per capita above US$ 677 the hand-held oximeter was found to be cost-effective if it prevented just 1.7% of anaesthetic-related deaths or 0.3% of peri-operative mortality.
+CONCLUSION
+Pulse oximetry is a cost-effective intervention for low-income settings.

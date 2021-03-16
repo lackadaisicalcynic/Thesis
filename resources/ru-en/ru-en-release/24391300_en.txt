@@ -1,0 +1,11 @@
+Mobilizing communities to improve maternal health: results of an intervention in rural Zambia.
+OBJECTIVE
+To determine whether a complex community intervention in rural Zambia improved understanding of maternal health and increased use of maternal health-care services.  METHODS
+The intervention took place in six rural districts selected by the Zambian Ministry of Health.  It involved community discussions on safe pregnancy and delivery led by trained volunteers and the provision of emergency transport.
+Volunteers worked through existing government-established Safe Motherhood Action Groups.  Maternal health indicators at baseline were obtained from women in intervention (n = 1775) and control districts (n = 1630).
+The intervention's effect on these indicators was assessed using a quasi-experimental difference-in-difference approach that involved propensity score matching and adjustment for confounders such as education, wealth, parity, age and distance to a health-care facility.
+FINDINGS  The difference-in-difference comparison showed the intervention to be associated with significant increases in maternal health indicators: 14-16% in the number of women who knew when to seek antenatal care; 10-15% in the number who knew three obstetric danger signs; 12-19% in those who used emergency transport; 22-24% in deliveries involving a skilled birth attendant; and 16-21% in deliveries in a health-care facility.
+The volunteer drop-out rate was low.
+The estimated incremental cost per additional delivery involving a skilled birth attendant was around 54 United States dollars, comparable to that of other demand-side interventions in developing countries.
+CONCLUSION
+The community intervention was associated with significant improvements in women's knowledge of antenatal care and obstetric danger signs, use of emergency transport and deliveries involving skilled birth attendants.

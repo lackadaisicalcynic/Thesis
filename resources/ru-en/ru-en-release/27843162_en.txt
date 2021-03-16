@@ -1,0 +1,14 @@
+Estimation of child vaccination coverage at state and national levels in India.  OBJECTIVE
+To review the data, for 1999-2013, on state-level child vaccination coverage in India and provide estimates of coverage at state and national levels.
+METHODS
+We collated data from administrative reports, population-based surveys and other sources and used them to produce annual estimates of vaccination coverage.
+We investigated bacille Calmette-Guérin vaccine, the first and third doses of vaccine against diphtheria, tetanus and pertussis, the third dose of oral polio vaccine and the first dose of vaccine against measles.
+We obtained relevant data covering the period 1999-2013 for each of 16 states and territories and the period 2001-2013 for the state of Jharkhand - which was only created in 2000.
+We aggregated the resultant state-level estimates, using a population-weighted approach, to give national values.
+FINDINGS
+For each of the vaccinations we investigated, about half of the 253 estimates of annual coverage at state level that we produced were based on survey results.
+The rest were based on interpolation between - or extrapolation from - so-called anchor points or, more rarely, on administrative data.
+Our national estimates indicated that, for each of the vaccines we investigated, coverage gradually increased between 1999 and 2010 but then levelled off.
+CONCLUSION
+The delivery of routine vaccination services to Indian children appears to have improved between 1999 and 2013.
+There remains considerable scope to improve the recording and reporting of childhood vaccination coverage in India and regular systematic reviews of the coverage data are recommended.

@@ -1,0 +1,10 @@
+[Rehabilitation of post stroke patients using a bioengineering system "brain-computer interface + exoskeleton"].
+Objective.
+To investigate the possibility of using a bioengineering system, which includes an electroencephalograph and a personal computer with a software for synchronous data transmission, recognition and classification of EEG signals, development of directions for intended actions in real time in the combination with the hand exoskeleton (the bioengineering system "brain-computer interface + exoskeleton"), in motor rehabilitation of post stroke patients with paresis of the upper extremity.  Material and methods.
+Brain-computer interface is a promising field of neurorehabilitation.  Rehabilitation treatment, including 8-10 sessions, was conducted in 5 patients with paresis of the upper extremity.
+All patients had large MRI lesions in cortical/subcortical areas.
+Results.  Positive changes in neurological status measured with the NIHSS, a significant increase in the volume and power of movements in the paretic hand, improvement of coordination and slight decrease in the level of spasticity were found after the treatment.
+There was an increase in daily activities measured with the Barthel index, mostly due to the improvement of fine motor skills.
+The level of disability assessed by the modified Rankin scale was changed significantly.
+Conclusion.
+The use of "brain-computer interface + exoskeleton" in the rehabilitation of post stroke patients with hand paresis provided positive results that would need to be verified in further studies.

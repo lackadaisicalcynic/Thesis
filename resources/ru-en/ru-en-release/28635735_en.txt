@@ -1,0 +1,8 @@
+[Treatment of Acanthamoeba keratitis].
+In recent years, Acanthamoeba keratitis (AK) has became a clinically significant problem because of the broad use of contact lenses that are the major risk factor of the disease.
+The treatment presents considerable difficulties due to similarity of clinical manifestations of AK to other keratites (bacterial, herpetic, and fungal).  This often leads to late diagnosis and formation of drug-resistant cysts.
+There is currently no specific drug universally suitable for monotherapy of AK.  Instead, 2 agents (usually chlorhexidine and poligexametilen biguanide) are used that, if combined, are effective against both trophozoites and cysts.
+If necessary (severe keratitis, insufficient treatment effect), diamidines (propamidine and its analogs), antifungals (fluconazole, itrakonazol), certain antibiotics (Neomycinum), and iodine-containing medications (povidone-iodine) can be prescribed.
+The use of corticosteroids is considered unjustified because of the risk of rapid progression (due to disturbance of local immunity and also provocation of excystation of the amoebas).  The penetrative keratoplasty may be required, especially if a descemetocele or corneal perforation occurs, however, its results are generally worse than those in other keratites because of a higher risk of complications (iridocyclitis, secondary glaucoma, AK recurrence in the graft).
+In some cases, good results are achieved with minimally invasive surgeries, such as mechanical epithelial debridement, conjunctivoplasty and cryopreserved amniotic membrane transplantation, excimer laser phototherapeutic keratectomy, and cross-linking.
+In the future, gene therapy and specific chemotherapy of AK may well be developed.

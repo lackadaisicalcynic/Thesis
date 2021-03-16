@@ -1,0 +1,4 @@
+[Pleiotropic effects of phlebotropic drugs: from pharmacological advantages to adverse drug interaction].  A distinctive property of phlebotropic drugs consists in their intrinsic capability of exerting pronounced pleiotropic (multiple) effects.
+The authors discuss the fundamental mechanisms of pleiotropy, advantages and disadvantages of various types of targeted therapy (mono- and polytargeted therapy) in treatment of chronic venous diseases.
+Special attention is paid to analysing the nature of adverse drug interactions, methods of reducing the risk of their development.
+An electronic service known as the Drug Interactions Checker is proposed as a tool for assessing drug interactions in everyday practice of the angiologist/phlebologist.

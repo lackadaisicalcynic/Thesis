@@ -1,0 +1,11 @@
+Malaria in China, 2011-2015: an observational study.
+OBJECTIVE  To ascertain the trends and burden of malaria in China and the costs of interventions for 2011-2015.
+METHODS
+We analysed the spatiotemporal and demographic features of locally transmitted and imported malaria cases using disaggregated surveillance data on malaria from 2011 to 2015, covering the range of dominant malaria vectors in China.  The total and mean costs for malaria elimination were calculated by funding sources, interventions and population at risk.
+FINDINGS
+A total of 17 745 malaria cases, including 123 deaths (0.7%), were reported in mainland China, with 15 840 (89%) being imported cases, mainly from Africa and south-east Asia.
+Almost all counties of China (2855/2858) had achieved their elimination goals by 2015, and locally transmitted cases dropped from 1469 cases in 2011 to 43 cases in 2015, mainly occurring in the regions bordering Myanmar where Anopheles minimus and An. dirus are the dominant vector species.
+A total of United States dollars (US$) 134.6 million was spent in efforts to eliminate malaria during 2011-2015, with US$ 57.2 million (43%) from the Global Fund to Fight AIDS, Tuberculosis and Malaria and US$ 77.3 million (57%) from the Chinese central government.
+The mean annual investment (US$ 27 million) per person at risk (574 million) was US$ 0.05 (standard deviation: 0.03).  CONCLUSION
+The locally transmitted malaria burden in China has decreased.  The key challenge is to address the remaining local transmission, as well as to reduce imported cases from Africa and south-east Asia.
+Continued efforts and appropriate levels of investment are needed in the 2016-2020 period to achieve elimination.

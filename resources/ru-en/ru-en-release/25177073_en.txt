@@ -1,0 +1,16 @@
+Universal combination antiretroviral regimens to prevent mother-to-child transmission of HIV in rural Zambia: a two-round cross-sectional study.
+OBJECTIVE
+To evaluate if a pilot programme to prevent mother-to-child transmission (PMTCT) of the human immunodeficiency virus (HIV) was associated with changes in early childhood survival at the population level in rural Zambia.
+METHODS  Combination antiretroviral regimens were offered to pregnant and breastfeeding, HIV-infected women, irrespective of immunological status, at four rural health facilities.
+Twenty-four-month HIV-free survival among children born to HIV-infected mothers was determined before and after PMTCT programme implementation using community surveys.
+Households were randomly selected and women who had given birth in the previous 24 months were asked to participate.
+Mothers were tested for HIV antibodies and children born to HIV-infected mothers were tested for viral deoxyribonucleic acid.  Multivariable models were used to determine factors associated with child HIV infection or death.
+FINDINGS
+In the first survey (2008-2009), 335 of 1778 women (18.8%) tested positive for HIV.
+In the second (2011), 390 of 2386 (16.3%) tested positive.
+The 24-month HIV-free survival in HIV-exposed children was 0.66 (95% confidence interval, CI: 0.63-0.76) in the first survey and 0.89 (95% CI: 0.83-0.94) in the second.
+Combination antiretroviral regimen use was associated with a lower risk of HIV infection or death in children (adjusted hazard ratio: 0.33, 95% CI: 0.15-0.73).
+Maternal knowledge of HIV status, use of HIV tests and use of combination regimens during pregnancy increased between the surveys.
+CONCLUSION
+The PMTCT programme was associated with an increased HIV-free survival in children born to HIV-infected mothers.
+Maternal utilization of HIV testing and treatment in the community also increased.

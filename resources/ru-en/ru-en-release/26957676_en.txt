@@ -1,0 +1,11 @@
+Drinking water and sanitation: progress in 73 countries in relation to socioeconomic indicators.
+OBJECTIVE  To assess progress in the provision of drinking water and sanitation in relation to national socioeconomic indicators.
+METHODS
+We used household survey data for 73 countries - collected between 2000 and 2012 - to calculate linear rates of change in population access to improved drinking water (n = 67) and/or sanitation (n = 61).
+To enable comparison of progress between countries with different initial levels of access, the calculated rates of change were normalized to fall between -1 and 1.
+In regression analyses, we investigated associations between the normalized rates of change in population access and national socioeconomic indicators: gross national income per capita, government effectiveness, official development assistance, freshwater resources, education, poverty, Gini coefficient, child mortality and the human development index.
+FINDINGS  The normalized rates of change indicated that most of the investigated countries were making progress towards achieving universal access to improved drinking water and sanitation.
+However, only about a third showed a level of progress that was at least half the maximum achievable level.  The normalized rates of change did not appear to be correlated with any of the national indicators that we investigated.
+CONCLUSION
+In many countries, the progress being made towards universal access to improved drinking water and sanitation is falling well short of the maximum achievable level.  Progress does not appear to be correlated with a country's social and economic characteristics.
+The between-country variations observed in such progress may be linked to variations in government policies and in the institutional commitment and capacity needed to execute such policies effectively.

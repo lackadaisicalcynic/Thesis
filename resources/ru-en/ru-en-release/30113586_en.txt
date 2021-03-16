@@ -1,0 +1,15 @@
+[New criteria of radical surgery and long-term outcomes of hilar cholangiocarcinoma management].  AIM
+To develop new criteria of radical surgery for hilar cholangiocarcinoma (HCC).  MATERIAL AND METHODS
+There were 165 HCC patients who underwent surgery in 1986-2016 at the Vishnevsky Institute of Surgery.
+TNM stage distribution: stage I - 4 (2.4%), II - 45 (27.3%) (29 of them are referred to the 1st period of work), IIIA - 23 (13.9%), IIIB - 41 (24.8%), IVA - 35 (21.2%), IVB - 17 (10.3%).
+80 (48%) patients underwent hemihepatectomy, 17 (10%) - advanced hemihepatectomy, 16 (10%) - minor liver resection with common bile duct repair, 52 (32%) - common bile duct repair resection.
+Kaplan-Meier survival analysis was performed.
+Cox proportional hazard model was applied to access relationship between survival and prognostic factors.
+Log-rank test was used to compare both survival curves.
+RESULTS
+R0-resection as followed by 5-year survival rate near 32%.
+Microvascular invasion was observed in 42.9%, lymphovascular invasion - in 88.2%, positive resection margin - in 59.2%, perineural invasion - in 83.3%, cells in surrounding fatty tissue were revealed in 92.3%.
+Resection may be considered radical (R0) if all variables are absent, 5-7 negative factors are followed by conditionally radical procedure (R+number of positive factors).
+Long-term outcomes and significance of new criteria were accessed (p=0.004).
+CONCLUSION
+New criteria of radical procedure are presented.  The last reflects the concept of dependence of 'pure' surgical edge from not only presence or absence of tumor cells in cut-off plane but also from important morphological features of tumor.

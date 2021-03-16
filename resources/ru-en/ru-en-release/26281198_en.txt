@@ -1,0 +1,16 @@
+[Use of the Charlson comorbidity index and the Barthel disability index in the integrated assessment of the sociomedical status of patients receiving continuous renal replacement therapy with hemodialysis].
+AIM  To make an integrated assessment of the sociomedical status of patients receiving continuous renal replacement therapy (RRT) with hemodialysis (HD), by using the Charlson comorbidity index (CCI) and the Barthel disability index (BI) and to analyze the compliance of these indices with the disability severity estimated according to disability group (DG).
+SUBJECTS AND METHODS
+The medical records of 605 HD patients (323 men, 282 women) whose mean age was 56.4 ± 13.9 years and mean RRT duration was 65.6 ± 62.8 months, were analyzed.
+The patients were grouped according to DG, CCI, BI, employment, and a history of diabetes mellitus.
+Data on basic laboratory parameters were collected.
+RESULTS
+According to DG, the patients were grouped as follows: 1) 292 (51%); 2) 212 (37%); 3) 15 (3%) and 4) 48 (9%) without DG.
+The disability severity estimated according to DG was found to be correlated with RRT duration (r = -0.35; p < 0.001) and employment (r = 0.36; p < 0.001).
+CCI averaged 6.3 ± 3.1 scores (n = 486).
+The mean BI was 86 ± 14 scores (n = 224).
+Among the respondents completing the BI questionnaire, 26 (20%) patients with DG 1 showed an uncomplicated comorbid background (CCI, 2-5 scores), no significant disability (BI, 90-100 scores), while 33 (48%) patients with DG 2 exhibited a high comorbidity index (ICC, more than 5 scores) and obvious disability (BI, less than 90 scores).
+The indicators relating to restricted self-movement in some BI scales were of the most importance.
+CONCLUSION
+The disability severity estimated in view of DG does not correspond to the severity of comorbidities (CCI) and the magnitude of functional limitations (BI) in some patients with CKD 5D.
+While determining DG, it is advisable to take into account CCI as an indicator of the severity of physical disorders to objectify the estimate of the sociomedical status of patients with CKD 5D, as well as BI to determine the degree of disability.

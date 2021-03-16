@@ -1,0 +1,13 @@
+Timing of antiretroviral therapy in Cambodian hospital after diagnosis of tuberculosis: impact of revised WHO guidelines.  OBJECTIVE
+To determine if implementation of 2010 World Health Organization (WHO) guidelines on antiretroviral therapy (ART) initiation reduced delay from tuberculosis diagnosis to initiation of ART in a Cambodian urban hospital.
+METHODS
+A retrospective cohort study was conducted in a nongovernmental hospital in Phnom Penh that followed new WHO guidelines in patients with human immunodeficiency virus (HIV) and tuberculosis.
+All ART-naïve, HIV-positive patients initiated on antituberculosis treatment over the 18 months before and after guideline implementation were included.
+A competing risk regression model was used.
+FINDINGS
+After implementation of the 2010 WHO guidelines, 190 HIV-positive patients with tuberculosis were identified: 53% males; median age, 38 years; median baseline CD4+ T-lymphocyte (CD4+ cell) count, 43 cells/µL. Before implementation, 262 patients were identified; 56% males; median age, 36 years; median baseline CD4+ cell count, 59 cells/µL. With baseline CD4+ cell counts ≤ 50 cells/µL, median delay to ART declined from 5.8 weeks (interquartile range, IQR: 3.7-9.0) before to 3.0 weeks (IQR: 2.1-4.4) after implementation (P < 0.001); with baseline CD4+ cell counts > 50 cells/µL, delay dropped from 7.0 (IQR: 5.3-11.3) to 3.6 (IQR: 2.9-5.3) weeks (P < 0.001).
+The probability of ART initiation within 4 and 8 weeks after tuberculosis diagnosis rose from 23% and 65%, respectively, before implementation, to 62% and 90% after implementation.
+A non-significant increase in 6-month retention and antiretroviral substitution was seen after implementation.
+CONCLUSION
+Implementation of 2010 WHO recommendations in a routine clinical setting shortens delay to ART.
+Larger studies with longer follow-up are needed to assess impact on patient outcomes.

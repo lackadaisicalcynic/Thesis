@@ -1,0 +1,13 @@
+[Coexpression of CD44 and Ki-67 in colon`s neoplast].  AIM  the evaluation of Ki-67 and CD44 expression in the 'serrated' polyps of the colon and comparison them with adenocarcinomas and tubular and tubule-villous adenomas of the colon.
+MATERIAL AND METHODS
+The study is including 49 'serrated' polyps, 34 tubular (AT) and tubulo-villous (ATV) adenomas and 32 adenocarcinomas of the colon.
+Antibodies CD44 and Ki-67 were used as immunohistochemical markers in this study.
+RESULTS
+A statistically significant difference (p<0.01) was observed between traditional serrated adenomas (TSA) from hyperplastic polyps (HP) and sessile serrated adenomas (SSA) in the Ki-67 level and the localization of the Ki-67 and CD44 reaction: surface areas of the crypts (upper third) in TSA and base of crypts (lower third) in HP and SSA.
+There was no difference between HP and SSA (p>0.05), neither by marker localization, nor by their level.
+In all 'serrated' polyps of the colon, the Ki-67 reaction was nuclear; CD44 - membrane (except for 1 TSA).
+CONCLUSION
+we are the first ones who suggested to evaluate not the overall level of reactions of CD44 and Ki-67, but particular level for each third part of crypts.
+The similarities of TSA, AT and ATV and between HP and SSA are shown as well as the principal statistical difference between these two groups.
+The cytoplasmic reaction of CD44 in adenocarcinomas and the membrane reaction of CD44 in 98% of the 'serrated' polyps of the colon are described.
+For the first time coexpression of CD44 and Ki-67 on particulate thirds of crypts in neoplasms of the colon is shown and the potential reasons for this phenomenon are discussed.

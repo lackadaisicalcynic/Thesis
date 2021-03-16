@@ -1,0 +1,6 @@
+AIM  To reduce the incidence of gastrointestinal bleeding in patients with advanced burns by developing a prophylactic algorithm.
+MATERIAL AND METHODS
+The study consisted of retrospective group of 488 patients with thermal burns grade II-III over 20% of body surface area and prospective group of 135 patients with a similar thermal trauma.
+Standard clinical and laboratory examination was applied.  Instrumental survey included fibrogastroduodenoscopy, endoscopic pH-metry and invasive volumetric monitoring (PICCO plus).
+Statistical processing was carried out with Microsoft Office Excel 2007 and IBM SPSS 20.0.
+RESULTS  New algorithm significantly decreased incidence of gastrointestinal bleeding (p<0.001) and mortality rate (p=0.006) in patients with advanced burns.

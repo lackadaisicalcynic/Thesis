@@ -1,0 +1,14 @@
+[The morphological and immunohistochemical characteristics of changes in the fallopian tube mucosa in ovarian epithelial tumors].  AIM  to study the incidence of fallopian tube lesions  (secretory cell proliferations (SCP), p53 signature, serous tubal intraepithelial lesions (STIL), and serous tubal intraepithelial carcinomas (STIC) in ovarian epithelial tumors and to propose their pathogenetic association with a certain histotype of the ovarian tumor.
+MATERIAL AND METHODS
+The investigation enrolled 136 patients with ovarian epithelial tumors, whose fallopian tubes were morphologically and immunohistochemically (IHC) examined using p53, Ki-67, and PAX2.  Statistical analysis was carried out applying the Mann-Whitney test and χ(2) test.
+RESULTS
+Lesions meeting the STIC criteria were found in 14.7% of cases (only in ovarian serous carcinoma (OSC)), those suspecting STICs were in 25.7%, and those without signs of STICs were in 59.6%.
+IFC examination diagnosed STIC in 10% of cases (only in OSC), STIL in 13.3%, p53 signature in 11.7% (only in serous tumors), and the normal/reactively changed tubal epithelium in 65%.
+The incidence of STILs correlated with the malignant potential of serous tumors significantly (p<0.05).
+There were significant differences in the incidence of STILs in patients with different histotypes of ovarian carcinomas (p<0.05).
+PAX2-negative SCP was detected in 75% of OSC, 60% of serous borderline tumors, and 40% of serous cystadenomas.
+The differences in the incidence of SCP between serous tumors of varying grade, between serous tumors and non-serous carcinomas, between OSC and non-serous carcinomas were significant (p<0.05).
+CONCLUSION
+The investigation has shown that IHC examination should be used for the accurate diagnosis of STILs.
+It has also provided evidence for the pathogenetic association between STIC and high-grade OSC and revealed significant differences in the incidence of other fallopian tubal intraepithelial lesions in serous cystadenomas, borderline tumors, and OSC, in different ovarian carcinomas.
+The findings may suggest that the earliest stage in the pathogenesis of OSC is the development of SCP, followed by the formation of p53 signatures that may further give rise to STIL, and finally STC (due to the acquisition of additional mutations).

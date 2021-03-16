@@ -1,0 +1,12 @@
+[Diagnostic value of estimation of ERG expression in prostate adenocarcinoma and high-grade prostatic intraepithelial neoplasia].  OBJECTIVE  to estimate the diagnostic and prognostic value of analyzing the abnormal overexpression of the chimeric protein ERG, encoded by the chimeric gene TMPRSS2/ERG, in prostatic neoplasias.
+MATERIAL AND METHODS
+A total of 100 prostate adenocarcinoma samples were examined.
+The presence of tumor and high-grade prostatic intraepithelial neoplasia (hPIN) was verified by immunohistochemical tests using anti-P504S and anti-34βE12 antibodies in serial sections; RT-PCR was employed to analyze the chimeric transcript TMPRSS2/ERG in 30 prostate adenocarcinoma samples.
+RESULTS
+ERG expression was noted in 46% of the adenocarcinomas and in 21% of hPIN.
+Eight (8%) patients were observed to have heterogeneous ERG expression: the marked reaction in some tumor portions was concurrent with its complete absence in others.
+Furthermore, there was ERG expression in all cases of intraductal (noninvasive) carcinoma (the foci of intraductal carcinoma were assessed as atypical cribriform lesions by light microscopy).
+The prognostic value of ERG expression could not be determined at the current stage of the investigation.
+CONCLUSION
+The relatively low rate of ERG-positive hPIN counts in favor of the limited role of this marker in the differential diagnosis of hPIN.
+ERG in combination with P504S and 34βE12 is an informative marker for the differential diagnosis of hPIN with intraductal carcinoma.

@@ -1,0 +1,16 @@
+[N-terminal pro-brain natriuretic peptide levels and diastolic dysfunction in patients with early rheumatoid arthritis before the administration of disease-modifying antirheumatic drugs].  AIM
+To determine N-terminal pro-brain natriuretic peptide (NT-proBNP) levels in patients with early rheumatoid arthritis (RA) before the use of disease-modifying antirheumatic drugs (DMARDs); to compare NT-proBNP values with traditional risk factors (TRF), cardiovascular diseases (CVD), inflammatory markers, and left ventricular (LV) diastolic dysfunction (DD).
+SUBJECTS AND METHODS
+The investigation enrolled 74 patients with a valid RA diagnosis (the 2010 ACR/EULAR criteria), 56 (74%) women, median (Me) age, 54 years; disease duration, 7 months; seropositive for IgM rheumatoid factor (87%) and/or anti-cyclic citrullinated peptide antibodies (100%) with no history of the use of DMARDs and glucocorticosteroids.
+Duplex scanning and echographic findings were used to assess TRF for CVD and carotid artery atherosclerosis (CAA) in all the patients with early RA prior to therapy.  An E/A ratio was used as a criterion for LVDD.
+RESULTS  NT-proBNP concentrations in patients with early RA proved to be higher than those in the control group (p<0.0001).
+Higher-than-normal NT-proBNP levels were seen in 36 (49%) patients.  The patients with early RA and elevated NT-proBNP values were older and had a higher body mass index (BMI) than those with normal NT-proBNP levels.
+Those with elevated NT-proBNP concentrations were more frequently found to have CAA, coronary calcification, and coronary heart disease; their intima-media thickness was also larger and C-reactive protein (CRP) levels higher than in those with normal NT-proBNP values.  There were correlations between NT-proBNP levels and erythrocyte sedimentation rate, CRP, simplified disease activity index, and clinical disease activity index.
+Multivariate analysis revealed that chronic heart failure (CHF), CAA, CRP and low-density lipoprotein (LDL) levels, and BMI correlated with NT-proBNP concentrations.  LVDD was detected in 35 (48%) patients with early RA.
+The level of NT-proBNP in patients with DD was higher than in those without DD.
+Higher-than-normal NT-proBNP values were observed in 23 (65%) and 12 (32%) patients with and without LVDD, respectively.
+The optimal NT-proBNP level for CHF detection was equal to 237.4 pg/ml (86% sensitivity and 85% specificity); the area under the ROC curve was 0.879.
+CONCLUSION
+Just at the early disease stage, the patients are noted to have a high NT-proBNP level that is influenced by higher BMI, low LDL levels, CAA, CHF, and high CRP values.
+In the patients with early RA, the diagnostically significant NT-proBNP concentration for CHF detection was higher (237 pg/ml) than in those without RA (125 pg/ml).
+The patients with early RA should undergo NT-proBNP determination, LVDD screening, correction of TRF for CVD, atherosclerosis treatment, and remission achievement.

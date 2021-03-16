@@ -1,0 +1,9 @@
+[No effect of the BDNF Val66Met polymorphism on cognitive deficit in patients with schizophrenia and on the risk of the disease in their relatives].
+OBJECTIVE
+The brain-derived neurotrophic factor (BDNF) gene is thought to be a candidate gene for schizophrenia.  At the same time, many studies failed to find the association between BDNF and the disease though the contribution of the BDNF Val66Met polymorphism to the variance of characteristics of schizophrenia has been confirmed.
+Authors suggested that this contribution was the consequence of the involvement of this gene in the formation of "cognitive reserve" that had a protective effect on the different aspects of the disease.
+This protective effect should emerge in relatively intact cognitive function in patients with the protective Val66Met genotype as well as in the accumulation of the protective genotypes in unaffected relatives.  MATERIAL AND METHODS
+We examined 169 patients with schizophrenia spectrum disorders, 320 their first-degree relatives and control groups using molecular-genetic and experimental psychological methods.
+RESULTS  No effect of the Val66Met polymorphism on verbal memory, executive functions and total index of cognitive functioning was found.
+Besides, we did not find any differences in Val66Met genotype frequencies in first-degree relatives of patients with schizophrenia and healthy people without family history of schizophrenia.  CONCLUSION
+The results do not support our hypothesis that BDNF is a gene of "cognitive reserve".

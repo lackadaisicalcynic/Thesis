@@ -1,0 +1,14 @@
+External quality assessment of Giemsa-stained blood film microscopy for the diagnosis of malaria and sleeping sickness in the Democratic Republic of the Congo.
+OBJECTIVE
+To report the findings of a second external quality assessment of Giemsa-stained blood film microscopy in the Democratic Republic of the Congo, performed one year after the first.  METHODS
+A panel of four slides was delivered to diagnostic laboratories in all provinces of the country.  The slides contained: (i) Plasmodium falciparum gametocytes; (ii) P. falciparum trophozoites (reference density: 113,530 per µl); (iii) Trypanosoma brucei subspecies; and (iv) no parasites.
+FINDINGS
+Of 356 laboratories contacted, 277 (77.8%) responded.
+Overall, 35.0% of the laboratories reported all four slides correctly but 14.1% reported correct results for 1 or 0 slides.
+Major errors included not diagnosing trypanosomiasis (50.4%), not recognizing P. falciparum gametocytes (17.5%) and diagnosing malaria from the slide with no parasites (19.0%).
+The frequency of serious errors in assessing parasite density and in reporting false-positive results was lower than in the previous external quality assessment: 17.2% and 52.3%, respectively, (P < 0.001) for parasite density and 19.0% and 33.3%, respectively, (P < 0.001) for false-positive results.
+Laboratories that participated in the previous quality assessment performed better than first-time participants and laboratories in provinces with a high number of sleeping sickness cases recognized trypanosomes more frequently (57.0% versus 31.2%, P < 0.001).
+Malaria rapid diagnostic tests were used by 44.3% of laboratories, almost double the proportion observed in the previous quality assessment.
+CONCLUSION
+The overall quality of blood film microscopy was poor but was improved by participation in external quality assessments.
+The failure to recognize trypanosomes in a country where sleeping sickness is endemic is a concern.

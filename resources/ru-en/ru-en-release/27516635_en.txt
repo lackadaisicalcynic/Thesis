@@ -1,0 +1,9 @@
+Background review for diagnostic test development for Zika virus infection.
+OBJECTIVE  To review the state of knowledge about diagnostic testing for Zika virus infection and identify areas of research needed to address the current gaps in knowledge.
+METHODS
+We made a non-systematic review of the published literature about Zika virus and supplemented this with information from commercial diagnostic test kits and personal communications with researchers in European preparedness networks.
+The review covered current knowledge about the geographical spread, pathogen characteristics, life cycle and infection kinetics of the virus.  The available molecular and serological tests and biosafety issues are described and discussed in the context of the current outbreak strain.
+FINDINGS
+We identified the following areas of research to address current knowledge gaps: (i) an urgent assessment of the laboratory capacity and capability of countries to detect Zika virus; (ii) rapid and extensive field validation of the available molecular and serological tests in areas with and without Zika virus transmission, with a focus on pregnant women; (iii) monitoring the genomic diversity of circulating Zika virus strains; (iv) prospective studies into the virus infection kinetics, focusing on diagnostic sampling (specimen types, combinations and timings); and (v) developing external quality assessments for molecular and serological testing, including differential diagnosis for similar viruses and symptom clusters.  The availability of reagents for diagnostic development (virus strains and antigens, quantified viral ribonucleic acid) needs to be facilitated.
+CONCLUSION
+An international laboratory response is needed, including preparation of protocols for prospective studies to address the most pressing information needs.

@@ -1,0 +1,14 @@
+[Connexin 43 expression in human brain glial tumors].  AIM  Тo conduct an immunohistochemical (IHC) study of the expression of connexin 43 in the samples of glial tumors of various grades: gemistocytic astrocytomas (Grade 2), oligodendrogliomas (Grade 2) and glioblastomas (Grade 4).
+MATERIAL AND METHODS
+The material investigated was fragments of human brain glial tumors
+(grade 2 gemistocytic astrocytomas (n=2), grade 2 oligodendrogliomas (n=2), and grade 4 glioblastomas (n=14) and those of tumor-surrounding tissue (n=4).
+The material was fixed in 10% buffered formalin, dehydrated, and embedded in paraffin according to the standard technique.
+IHC studies of the slices applied primary rabbit polyclonal antibodies against connexin 43 ('Spring Bioscience', USA) and the Dako EnVision + Peroxidase (DAB) visualization system ('Dako', Denmark).  After the immunohistochemical reaction, the cell nuclei were stained with Mayer's hematoxylin.
+RESULTS
+Immunohistochemistry showed the changing pattern of connexin 43 expression as compared with intact tissue in the glial tumors.
+Instead of the fine-granular expression in the thin cellular processes in the neuropil, the tumors mainly displayed a coarse-grained cytoplasmic and even nuclear reaction.
+The morphology and localization of positive structures depended on the variant of an examined tumor.
+In addition, the most malignant brain gliomas generally exhibited a reduction in the expression of connexin 43, i.e. its quantity is inversely proportional to the degree of malignancy of the tumor.
+CONCLUSION
+The low connexin 43 expression levels may reflect both a reduction in astroglial functional gap junctions and semicanals and a decrease in the amount of the protein itself that has independently antioncogenic properties.
+The observed cytoplasmic and nuclear expression of connexin 43 is most likely to be associated with the aberrant activity of a number of kinases, such as proto-oncogene tyrosine-kinase Src or protein kinase C (PKC).

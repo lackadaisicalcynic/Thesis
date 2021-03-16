@@ -1,0 +1,20 @@
+[Multislice spiral computed tomography of the heart in dilated cardiomyopathy: possibilities in the verification of myocarditis (in comparison with myocardial biopsy) and in the evaluation of prognosis].
+AIM  To investigate whether intravenous contrast-enhanced multislice spiral computed tomography (computed tomography) (MSCT) versus myocardial morphological examination can diagnose myocarditis and the non-inflammatory causes of dilated cardiomyopathy (DCM) and evaluate prognosis in patients with the latter.
+SUBJECTS AND METHODS
+A study group consisted of 130 patients, including 95 men (46.8±11.9 years), with DCM (mean left ventricular (LV) end-diastolic dimension (EDD), 6.6±0.8 cm; mean LV ejection fraction (EF), 29.8±9.3%; NYHA functional class (FC) III (II; III)).
+All the patients underwent intravenous contrast-enhanced 320-slice CT of the heart; myocardial morphological examination was made in 48 patients (endomyocardial biopsy in 29 patients, intraoperative biopsy in 7, and autopsy in 9, and study of the explanted heart in 3).
+In addition, cardiotropic viral DNA in the blood and myocardium and the level of anticardiolipin antibodies were determined; echocardiography (in all the patients), scintigraphy (n = 45), magnetic resonance imaging (MRI) (n = 21), and coronary angiography (CG) (n = 46), and a genetic consultation were performed.
+A comparison group comprised 20 patients, including 14 men (69.3±9.2 years), with coronary atherosclerosis (40% or more stenoses) according to MSCT findings in the absence of criteria for DCM (mean LV EDD, 4.8±0.5 cm; mean LV EF, 59.4±4.6%).
+RESULTS
+Morphological/comprehensive examination showed that myocarditis as a cause of DCM was diagnosed in 76 (65%) patients; its concurrence with genetic cardiomyopathies was in 17 more patients (17%).
+MSCT of the heart revealed lower accumulation areas in 2 (1.5%) patients (type 1 based on the proposed rating scale), delayed myocardial contrast agent accumulation (DMCAA) in 81 (62.3%): subendocardial accumulation (type 2) in 8, intramyocardial accumulation in 4 (type 3), subepicardial accumulation in 52 (type 4), and transmural accumulation in 15 (type 5); DMCAA was not noted in 49 patients.
+DMCAA was not found in the comparison group.
+As compared with biopsy, the sensitivity, specificity, predictive value of positive and negative results of the tests in detecting active myocarditis for all the types of DMCAA were 77.4, 47.1, 72.7, and 53.3%, respectively; those for types 3-5 of DMCAA were 77.4, 52.9, 75.0, and 56.3%; those in detecting all the morphological types of myocarditis were 68.3, 28.6, 84.8, and 13.3%, and those for types 3-5 were 65.9, 28.6, 84.4, and 12.5%, respectively.
+Comparison of the data of MSCT and those of comprehensive examination in all the patients with DCM, the diagnostic significance in detecting myocarditis for all the types of DMCAA was 70.6, 67.9, 88.9 and 38.8%, respectively; that for DMCAA types 3-5 was 60.8, 67.9, 87.3, and 32.3%.
+In the study group, MSCT also identified the non-compacted myocardium (n = 31 (23.8%)), coronary atherosclerosis (n = 31 (23%)), which is confirmed by CG findings in 15 patients.
+The patients with DMCAA significantly more frequently showed a relationship with previous infection, acute onset, significantly higher NYHA FCs, end-diastolic and end-systolic LV volumes, and insignificantly lower LV EF.
+During a mean follow-up periods of 12 (6; 37.25) months, the overall mortality rate was 17.7% (23 deaths); the death + transplantation index was 20% (n = 26).
+All the types of DMCAA were found to be significantly related to prognosis: in the DMCAA group, the mortality rate was 21.5% versus 7.8% in the non-DMCAA group (odds ratio 3.22; 95% confidence interval, 1.02 to 10.21; p < 0.05).
+CONCLUSION
+MSCT with the assessment of delayed contrast enhancement (and simultaneous CT coronary angiography) can be used for the non-invasive diagnosis of myocarditis in patients with DCM, including that in the presence of contraindications to MRI.
+DMCAA correlates with the presence of myocarditis, its activity, the degree of functional disorders, and prognosis.

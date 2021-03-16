@@ -1,0 +1,7 @@
+[Levels of proinflammatory cytokines and vascular endothelial growth factor in patients with Alzheimer's disease and mild cognitive impairment].  OBJECTIVE  to evaluate the levels of cytokines (IFNα, IFNγ, IL-2, Il-4, IL-6, IL-8, IL-10, IL-12, IL-15), IL-1β receptor antagonist (IL-1RA), vascular endothelial growth factor (VEGF) and its antagonist, the soluble form of receptor 1 (sVEGFR1) in the blood serum of patients with Alzheimer's disease, with early onset (ADEO) and late onset (ADLO), and in patients with mild cognitive impairment (MCI).
+MATERIAL AND METHODS
+Levels of interleukins, IL-1RA, VEGF and sVEGFR1 were measured in 20 patients with AD and 11 patients with MCI using ELISA.
+These parameters were compared to the severity of cognitive impairment assessed by the performance on neurocognitive tests.
+RESULTS AND CONCLUSION
+The levels of key cytokines (IL-8, TNFα, IL-12), VEGF and sVEGFR1 as well as anti-inflammatory proteins were different in patients with ADEO, ADLO and MCI.
+These differences suggest the phenotypic and genotypic heterogeneity of the disease that demands further research.

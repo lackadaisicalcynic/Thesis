@@ -1,0 +1,16 @@
+[Diabetes mellitus and nonalcoholic fatty liver disease: The verges of contingency].
+AIM  To estimate the incidence of hepatic steatosis (HS) and liver fibrosis (LF) in patients with diabetes mellitus (DM), by applying the noninvasive techniques of liver fibroelastometry (LFE) and a battery of fibrotests (FTs); to determine their diagnostic value and to identify factors influencing the development of LF.
+SUBJECTS AND METHODS
+A comprehensive examination was made in 82 diabetic patients (mean age, 56.7±12.7 years; p=0.033).
+The data were statistically evaluated using ROC curve analysis, correlation and single-factor analyses of variance, and multiple logistic regression analysis.
+RESULTS
+FTs and LFE revealed that the DM patients had liver cirrhosis (LC) (METAVIR F4) in 12 (14.6%) and 15 (18.2%) patients, respectively.
+Those showed clinically significant fibrosis (METAVIR fibrosis stages F2-3) in 19 (23.1%) and 23 (28%) patients, respectively.
+Varying degrees of HS were present in 79 (96.3%) patients.
+LFE and FTs demonstrated comparable results in detecting LC (the area under the receiver operating characteristics curve (AUROC), 0.83 and 0.81, respectively).
+The development of LF is influenced by factors, such as the degree of HS, obesity, the activity of an inflammatory process, and the level of alanine aminotransferase and α2-macroglobulin.
+CONCLUSION
+Diabetic patients are at high risk for NAFLD to develop LF and LC.
+LFE and FTs showed a comparably high accuracy in the diagnosis of LC in patients with DM and these may be used for screening.
+With allowance made for the existing risk factors of LF and LC, it is necessary to identify groups of patients with DM for further examination and follow-up.
+Patients who are diagnosed with stage F4 should be examined carefully to evaluate concurrent diseases and to make liver biopsy.

@@ -1,0 +1,8 @@
+[The association of intrathecal production of immunoglobulin free light chains and progression of multiple sclerosis].
+AIM  To assess an impact of immunoglobulin free light chains (FLC) on short-term and long-term prognosis of clinical and radiological activity and progression of disability in multiple sclerosis (MS).
+MATERIAL AND METHODS
+A sample of 381 patients with definite MS was divided into 2 groups.
+In group 1, lumbar puncture was performed at the time of clinically isolated syndrome, and patients were prospectively followed up to 2 years (short-term prognosis group, n=97).  In group 2, MS was diagnosed immediately after lumbar puncture, and retrospective analysis of the disease course with the duration not less than 5 years was performed (long-term prognosis group, n=284).
+Concentrations of kappa and lambda FLC in the CSF (K-FLCCSF, L-FLCCSF) and serum (K-FLCSERUM, L-FLCSERUM) as well as quotients of concentrations (Q-K and Q-L) were determined.  Patients were stratified into subgroups with high and low concentrations of K-FLC and L-FLC using cut-offs from our previous studies: K-FLCCSF=0.595 mcg/l and L-FLCCSF=0.127 mcg/l.
+Concentrations of kappa FLC can help to define the prognosis of MS early at the disease course.  Although low concentrations of FLC do not exclude a severe disease phenotype, patients with high K-FLCCSF concentrations are at greater risk for faster MS progression, probably, due to impaired reparation of neural tissue.
+Measurement of FLC concentrations can be used to determine a therapeutic tactics in patients with MS.

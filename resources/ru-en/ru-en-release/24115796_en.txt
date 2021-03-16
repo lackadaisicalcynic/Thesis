@@ -1,0 +1,9 @@
+Variations in catastrophic health expenditure estimates from household surveys in India.
+OBJECTIVE
+To assess the comparability of out-of-pocket (OOP) payment and catastrophic health expenditure (CHE) estimates from different household surveys in India.
+METHODS
+Data on CHE, outpatient and inpatient OOP payments and other expenditure from all major national or multi-state surveys since 2000 were compared.
+These included two consumer expenditure surveys (the National Sample Survey for 2004-05 [NSS 2004-05] and 2009-10 [NSS 2009-10]) and three health-focused surveys (the World Health Survey 2003 [WHS 2003]; the National Sample Survey on Morbidity, Health Care and the Condition of the Aged 2004 [NSS 2004]; and the Study on Global Ageing and Adult Health 2007-08 [SAGE 2007-08]).  All but the NSS 2004-05 and the NSS 2009-10 used different questionnaires.
+CHE estimates from WHS 2003 and SAGE 2007-08 were twice as high as those from NSS 2004-05, NSS 2009-10 and NSS 2004.  Inpatient OOP payment estimates were twice as high in WHS 2003 and SAGE 2007-08 because in these surveys a much higher proportion of households reported such payments.
+However, estimates of expenditures on other items were half as high in WHS 2003 as in the other surveys because a very small number of items was used to capture these expenditures.  CONCLUSION
+The wide variations observed in CHE and OOP payment estimates resulted from methodological differences.  Survey methods used to assess CHE in India need to be standardized and validated to accurately track CHE and assess the impact of recent policies to reduce it.

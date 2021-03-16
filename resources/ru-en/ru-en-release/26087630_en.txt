@@ -1,0 +1,11 @@
+[Cerebrovascular reactivity in patients with rheumatoid arthritis concurrent with and without hypertension].
+AIM  To compare cerebrovascular reactivity (CVR) in patients with rheumatoid arthritis (RA) concurrent with essential hypertension (Group 1) and in those with RA and normal blood pressure (BP) (Group 2).
+SUBJECTS AND METHODS
+During the study of Groups 1 (n = 37) and 2 (n = 12), the investigators estimated the prevalence of traditional cardiovascular risk factors, performed 24-hour BP monitoring, investigated CVR by transcranial Doppler (TCD) of the middle cerebral arteries (MCA) by hyperoxic and hypercapnic tests, and endothelium-dependent vasodilation (EDV) and endothelium-independent vasodilation of the brachial artery.
+The groups were matched for gender, age, RA activity and stage, and antirheumatic therapy volume.
+RESULTS
+According to the results of MCA TCD, the hyperoxic test recorded impaired CVR in 34 (92%) and 10 (83%) patients in Group 1 and 2, respectively; the hypercapnic test revealed this condition in 19 (51%) and 6 (50%) patients in these groups, respectively.
+The hyperoxic test most commonly showed an insufficient decrease in MCA linear blood flow velocities (LBFV) in 31 (84%) and 8 (66%) patients in Groups 1 and 2, respectively; the hypercapnic test did an excessive increase in MCA LBFV in 12 (32%) and 4 (33%) patients, respectively.
+There was a high rate of impaired EDV in 32 (86%) and 9 (75%) patients in Groups 1 and 2, respectively.
+CONCLUSION
+According to the results of MCA TCD, there were high and similar rates of impaired CVR in patients with RA concurrent with and without essential hypertension during the hyperoxic and hypercapnic tests.

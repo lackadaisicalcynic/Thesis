@@ -1,0 +1,15 @@
+AIM  to analyze well-known risk factors (RFs), such as age, immunophenotype, baseline leukocytosis, enhanced lactate dehydrogenase (LDH) activity, time to achieve complete remission, a risk group, and cytogenetic abnormalities) in patients with acute lymphoblastic leukemia (ALL) in the use of the ALL-2009 protocol.
+SUBJECTS AND METHODS
+The protocol covered 298 patients (137 women (including 13 pregnant women) and 161 men) aged 15 to 55 years (median age 28 years) with Ph-negative ALL.
+The phenotype was unknown in 6 patients.
+Three (1%) were ascertained to have a biphenotypic variant. 182 (62.4%) patients were found to have B-cell ALL
+(early pre-B ALL (n=51); common ALL (n=92), and pre-B ALL (n=39); 107 (36.6%) patients had T-cell ALL  (early T-ALL (n=56); thymic T-ALL (n=41), and mature T-ALL (n=10).
+According to the baseline clinical and laboratory parameters  (leukocytosis of 30·109/l and more for B-ALL; and that of 100·109/l and more for T-ALL; phenotype В-I for B-ALL, phenotype Т-I-II-IV for T-ALL; LDH activity was more than twice the normal values; the presence of translocation t(4;11)), the high-risk group included most patients with B-ALL (n=110 (72.8%)) and T-ALL (n=76 (76%)).
+Thirty-five patients with T-ALL underwent autologous bone marrow transplantation (BMT).
+Allogeneic BMT was performed in 18 (7%) of the 258 patients who had undergone an induction phase.
+RESULTS
+Five-year overall survival for all the patients included in the investigation was 59%; relapse-free survival was 65%, which was significantly different in the patients with B-ALL and in those with T-ALL: the overall survival rates were 53.3 and 67.5% (p=0.1); the relapse-free survival was 56 and 79% (p=0.005), respectively.
+Multivariate analysis including the well-known RFs demonstrated that the latter for T-ALL were of no independent prognostic value and only the patient's age was identified for B-ALL (p=0.013).
+CONCLUSION
+A lower chemotherapeutic load and a small number of allogeneic BMTs did not affect total positive treatment results in adult patients with ALL, by complying with the principle achieving the continuity of cytostatic effects and by preserving the total cytostatic loading dose.
+The results of the Russian investigation casts some doubt on the necessity of using very intensive consolidation cycles and performing a large number of allogeneic BMTs in adult patients with ALL.

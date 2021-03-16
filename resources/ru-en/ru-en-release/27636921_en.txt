@@ -1,0 +1,12 @@
+[Criteria for selecting patients with resistant hypertension for a renal sympathetic denervation].
+AIM  to define and develop a procedure that can select patients with resistant hypertension (RH) for a renal sympathetic denervation (RSD) procedure, by being orienting to the specific initial values of β-adrenoreactivity (β-AR) and systolic blood pressure (SBP).
+SUBJECTS AND METHODS
+The analysis included 23 RH patients receiving the maximally tolerable doses of 4 antihypertensive drugs.
+The investigations involving BP control and a Russian spectrophotometric procedure for determining β-AR in terms of the change in the osmoresistance of erythrocyte membranes (EM) were performed at baseline and 4 and 24 weeks.
+RSD was carried out using endovascular radiofrequency ablation of the renal arteries.
+The therapy was not changed during the observation.
+RESULTS
+If SBP was >170 mm Hg and β-AR of EM >40 conditional units (CUs) at baseline, ΔSBP was 17.68±3.24 mm Hg and the efficiency of RSD was 100%.  When SBP was <170 mm Hg and β-AR of EM <40 CUs at baseline, ΔSBP was 0.97±4.21 mm Hg (p>0.05) and the efficiency of RSD was low.
+CONCLUSION
+The overall estimate of baseline SBP and β-AR of EM in patients with RH could determine the expediency of the RSD procedure in order to lower BP.
+The proposed procedure can optimize the selection of patients and enhance the efficiency of RSD in the treatment of RH.

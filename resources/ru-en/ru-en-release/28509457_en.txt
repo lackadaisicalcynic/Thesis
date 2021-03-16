@@ -1,0 +1,6 @@
+[Urine proteome study for the evaluation of age dynamics in healthy men].  We investigated the age dynamics of proteomic profile of urine in 52 healthy men aged 18 to 51 years.
+A special sample preparation was performed, followed by liquid chromatography-mass spectrometry.  Liquid chromatography-mass spectrometry of the minor proteins was performed on a nano-HPLC Agilent 1100 system («Agilent Technologies Inc.», USA) in combination with a LTQ-FT Ultra mass spectrometer («Thermo Electron», Germany).
+A total of 259 proteins were identified.
+According to the TiGER database, a tissue origin was established for 141 proteins and identified 715 processes in which they participate.
+We found a significant positive correlation with age, the number of proteins (R=0,566; p-value=1,24E-05) and the weight of proteins (R=0,45; p value=8,17E-04).
+Identified 23 proteins were significantly more frequent in the urine of subjects with increasing age (p<0,05), and only one protein - RGSL, Regulator of G protein signaling protein-like (MW 125.69) - less frequently.

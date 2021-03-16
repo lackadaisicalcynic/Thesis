@@ -1,0 +1,7 @@
+[The morphological features of a 20 mcl blood stain].  The objective of this work was to study blood stains of small volume (20 mcl).
+It was shown that the fall of a blood droplet from the height of 5 to 200 cm at the angle of 90 degrees on a smooth non-absorbing surface (glass) leaves round stains.
+Their size increases with increasing height of the fall.
+The character of the stain edges also depends on the height of the fall.
+The edges are even when the drops fall from the height of less than 20 cm but become wave-shaped with blunt projections when the height of the fall is increased to 30-90 cm.
+The fall from the height of 100 to 200 cm gives rise to the stains with the scalloped edges having the rectangular or nearly rectangular protrusions.
+From one to three additional Plateau drops can be observed near the main one.

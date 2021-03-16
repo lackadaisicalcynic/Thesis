@@ -1,0 +1,10 @@
+[The use of apparent diffusion coefficient in diagnosis of lumbar intervertebral disk degeneration in patients with middle and old age by diffusion-weighted MRI.]
+The most common cause of low back pain is the intervertebral disk (IVD) degeneration.
+Standard modes of MRI (T1 and T2-modes) do not allow quantifying the degree of IVD degeneration.
+Diffusion-weighted MRI (DW MRI) is able to analyze the state of IVD structures by the diffusion of water molecules.
+The degree of diffusion can be estimated using the apparent diffusion coefficient (ADC).
+In this paper, a quantitative assessment of the degree of IVD degeneration was made by ADC calculating. 281 IVD were studied in 57 elderly and senile patients with the definition of body mass index (BMI).  ADC values and degree of C.W.Pfirmann degeneration were measured.
+For each of the five IVDs, reliable differences in mean ADC values were determined.
+Between age and mean ADC values noted inverse relationship.  Between the degree of IVD degeneration, BMI and ADC values, a reliable inverse relationship noted also.
+Age, BMI values and the degree of IVD degeneration are the most significant factors affecting the ADC value.
+Thus, the DW MRI technique can be recommended, as a modern non-invasive method for diagnosing the degree of IVD degeneration in elderly and senile patients.

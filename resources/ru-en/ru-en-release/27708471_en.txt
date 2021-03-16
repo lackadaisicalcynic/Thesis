@@ -1,0 +1,13 @@
+Gang truce for violence prevention, El Salvador.
+OBJECTIVE  To estimate the effects on homicide rates of the gang truce that was brokered in El Salvador in 2012.
+METHODS
+Mathematical models based on municipal-level census, crime and gang-intelligence data were used to estimate the effect of the truce on homicide rates.  One model estimated the overall effect after accounting for the linear trend and seasonality in the homicide rate.
+In a moderated-effect model, we investigated the relationship between the truce effect and the numbers of MS13 (Mara Salvatrucha 13) and Eighteenth-Street gang members imprisoned per 100 000 population.
+We then ran each of these two models with additional control variables.  We compared values before the truce - 1 January 2010 to 29 February 2012 - with those after the truce - 1 March 2012 to 31 December 2013.
+FINDINGS
+The overall-effect models with and without additional control variables indicated a homicide rate after the truce that was significantly lower than the value before the truce, giving rate ratios of 0.55 (95% confidence interval, CI: 0.49-0.63) and 0.61 (95% CI: 0.54-0.69), respectively.
+For any given municipality, the effectiveness of the truce appeared to increase as the number of MS13 gang members imprisoned per 100 000 population increased.
+We did not observe the same significant relationship for imprisoned Eighteenth-Street gang members.
+CONCLUSION
+In the 22 months following the establishment of a national gang truce, the homicide rate was about 40% lower than in the preceding 26 months.
+The truce's impact appeared particularly strong in municipalities with relatively high numbers of imprisoned MS13 gang members per 100 000 population.

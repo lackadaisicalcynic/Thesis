@@ -1,0 +1,13 @@
+[Morphological characteristics of inflammation in HIV-associated pulmonary tuberculosis with regard to the expression of myeloperoxidase].  OBJECTIVE
+to characterize the morphological features of inflammation and the degree of myeloperoxidase expression in the lung of patients who died from HIV-associated tuberculosis (TB).  MATERIAL AND METHODS
+Autopsy lung tissue specimens from 229 patients with HIV-associated TB were examined.
+A comparison group consisted of dead TB mono-infected patients (n = 30).
+Dead HIV/TB co-infected patients were divided into subgroups: 1) 50 patients with Stage 4A-4B and a CD4(+)-lymphocyte count of more than 200 cells/µl; 2) 54 with Stage 4B-4C and a CD4(+)-lymphocyte count of 100 to 200 cells/µl; 3) 125 with Stage 4C-5 and a CD4(+)-lymphocyte count of less than 100 cells/µl.
+Histological and immunohistochemical examinations of lung slices were performed using antibodies to myeloperoxidase (MPO).
+RESULTS
+The predominant types of an inflammatory response were revealed according to the level of CD4+ lymphocytes.
+The lungs in Subgroup 1 showed a predominant typical granulomatous response (82%).
+Subgroup 2 exhibited an exudative-productive inflammatory response (57.4%) while Subgroup 3 displayed an alterative necrotic type (92.8%).
+Subgroup 3 showed the most marked reduction in lymphocyte numbers in the areas of inflammation, which was accompanied by a significant increase in the relative density and other morphometric parameters of MPO-positive macrophages and granulocytes in the inflammatory infiltration zones and alveolar walls.
+CONCLUSION
+The identified changes in the lungs suggest that there is a decline in the magnitude of a delayed type hypersensitivity reaction, a progression of alterative necrotic processes as CD4(+) lymphocytes decrease in the systemic blood flow, and an increase in the proportion of functionally immature macrophages in the areas of inflammation, which reflects a substantially impaired local immune response to the persistence of M. tuberculosis in HIV infection.

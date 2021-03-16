@@ -1,0 +1,12 @@
+[Macular drusen variability: multimodal imaging potential].  Insufficient and controversial knowledge about the macular drusen (MD), a lack of scientifically proven management methods for drusen and their strong correlation with AMD active progression makes MD an important area of research.
+AIM  The purpose of the study – to assess clinical feature of MD using modern digital imaging technologies.
+MATERIAL AND METHODS
+Patients with both hard and soft drusen were studied using fluorescein angiography, swept-source optical coherence tomography (OCT), OCT-angiography, autofluorescence (both short-wavelength and near infra-red), scanning laser ophthalmoscopy in Multicolor mode.  The retina, choroid and vitreoretinal interface were assessed on 50 patients with AMD and drusen using different imaging modalities.
+An additional group of the study was presented by 5 patients with geographic atrophy (GA) formed as a result of soft drusen fading, where retrospective assessment of the OCT scans was performed with special attention to the signs of soft drusen regression associated with atrophy of the overlying RPE.
+RESULTS
+Two types of hard drusen were defined as the reticular pseudodrusen and the cuticular drusen.  The qualitative and comparative analysis of data for each type of MD was performed.
+Vitreoretinal interface evaluation demonstrated the correlation between vitreomacular adhesion and mixed reticular and cuticular drusen.
+The choroidal thickness assessment in 9 different macular sectors in drusenoid eyes does not reveal a significant difference with control group.  All of the analysed drusen-faded-eyes initially had been presented with OCT patterns of “nascent” GA.
+CONCLUSION
+The modern retinal imaging techniques enable new approach to the diagnostic differentiation and description of various macular drusen types.
+The value of these methods for AMD prognosis is yet to be further investigated.

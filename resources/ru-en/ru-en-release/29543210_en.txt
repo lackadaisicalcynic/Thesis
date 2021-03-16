@@ -1,0 +1,9 @@
+[New opportunities of magnetic-resonance imaging: an algorithm of CSD-HARDI tractography in reconstruction of the brainstem reticular formation fibers].  The study purpose was to develop a technique for intravital visualization of the brainstem reticular formation fibers in healthy volunteers using magnetic resonance imaging (MRI).
+MATERIAL AND METHODS
+The study included 21 subjects (13 males and 8 females) aged 21 to 62 years.
+The study was performed on a magnetic resonance imaging scanner with a magnetic field strength of 3 T in T1, T2, T2-FLAIR, DWI, and SWI modes.
+A CSD-HARDI algorithm was used to identify thin intersecting fibers of the reticular formatio.
+RESULTS
+We developed a technique for reconstructing the reticular formation pathways, tested it in healthy volunteers, and obtained standard quantitative indicators (fractional anisotropy (FA), apparent diffusion coefficient (ACD), fiber length and density, and axial and radial diffusion).
+We performed a comparative analysis of these indicators in males and females.  There was no difference between these groups and between indicators for the right and left brainstem.
+Our findings will enable comparative analysis of examination results in patients with brain pathology accompanied by brainstem injury, which may help predict the outcome.  This work was supported by a grant of the Russian Foundation for Basic Research (#16-04-01472).

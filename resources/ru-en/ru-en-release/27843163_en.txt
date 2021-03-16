@@ -1,0 +1,13 @@
+Essential medicines for cancer: WHO recommendations and national priorities.
+OBJECTIVE  To examine, for essential anti-cancer medicines, the alignment of national lists of essential medicines and national reimbursable medicines lists with the World Health Organization's (WHO's) Model Lists.
+METHODS
+National medicine lists for 135 countries with per-capita gross national incomes below 25 000 United States dollars in 2015 were compared with WHO's 2013 and 2015 Model Lists of Essential Medicines.
+Correlations between numbers of anti-cancer medicines included in national lists and gross national income (GNI), government health expenditure and number of physicians per 1000 population were evaluated.
+FINDINGS
+Of the 25 anti-cancer medicines on the 2013 Model List and the 16 added via the 2015 revision of the Model List, 0-25 (median: 17) and 0-15 (median: 3) appeared in national lists, respectively.
+There was considerable variability in these numbers within and between World Bank income groups.
+Of the 16 new medicines included in the 2015 Model List, for example, 0-10 (median: 1) and 2-15 (median: 10) were included in the national lists of low-income and high-income countries, respectively.
+The numbers of these new medicines included in national lists were significantly correlated (P ≤ 0.0001) with per-capita GNI (r = 0.45), per-capita annual government health expenditure (r = 0.33) and number of physicians per 1000 population (r = 0.48).
+Twenty-one countries (16%) included the targeted anti-cancer medicines imatinib, rituximab and trastuzumab in their national lists.
+CONCLUSION
+Substantial numbers of anti-cancer medicines are included in national lists of low- and middle-income countries but the availability, affordability, accessibility and administration feasibility of these medicines, at country-level, need assessment.

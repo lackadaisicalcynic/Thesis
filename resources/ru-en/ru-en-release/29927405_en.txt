@@ -1,0 +1,2 @@
+RESULTS AND CONCLUSION  The logistic regression model connecting LE and α1-PI with the probability of AD is built.
+The model has good statistical properties and high predictive efficiency.  The results allow to obtain the quantitative estimate of the probability of AD by individual values of LE and α1-PI in patients with MCI.

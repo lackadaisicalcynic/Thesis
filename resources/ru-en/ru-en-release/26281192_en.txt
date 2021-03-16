@@ -1,0 +1,11 @@
+[Prognostic value of renal resistance index in estimating the progression of chronic kidney disease].  AIM
+To study a relationship between main renal and intraparenchymal renal arterial resistance indices (RIs) measured by Doppler ultrasonography and clinical and laboratory parameters and to determine their prognostic value in estimating the progression of chronic kidney disease (CKD).  SUBJECTS AND METHODS
+The investigation enrolled 53 CKD patients divided into groups: glomerular and interstitial diseases.  Glomerular filtration rate (GFR) calculated using the CKD-EPI formula, proteinuria (PU) severity, kidney sizes, renal parenchyma thickness, parenchyma/collecting index, and main and intrarenal vessel RIs were determined at the first hospitalization.
+The mean follow-up was 14 ± 2.64 months.
+The rate of GFR decline was estimated at the rehospitalization.
+RESULTS
+Main renal and intrarenal vessel RIs depend on patient age and pulse pressure.
+The RIs are associated with GFR and PU in the group of glomerular diseases and with kidney sizes and structure in that of interstitial diseases.
+The interlobar arterial RI is the most sensitive predictor for worsening renal function with a threshold of 0.65, which is comparable to the prognostic value of PU.
+CONCLUSION
+The main renal and intrarenal vessel RIs may be considered as a predictor for worsening renal function.

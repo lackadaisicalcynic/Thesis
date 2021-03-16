@@ -1,0 +1,13 @@
+[Post-stroke rehabilitation training with a brain-computer interface: a clinical and neuropsychological study].
+AIM  To evaluate the clinical efficacy of BCI-supported mental practice and to reveal specific cognitive impairment which determine mental practice ineffectiveness and inability to perform MI.
+MATERIAL AND METHODS
+Fifty-five hemiplegic patients after first-time stroke (median age 54. 0 [44.0; 61.0], time from onset 6.0 [3.0; 13.0] month) were randomized into two groups - BCI and sham-controlled.
+Severity of arm paresis was measured by Fugl-Meyer Assessment of Motor Recovery after Stroke (FMA) and Action Research Arm Test (ARAT).  Twelve patients from the BCI group were examined using neuropsychological testing.
+After assessment, patients were trained to imagine kinesthetically a movement under control of BCI with the feedback presented via an exoskeleton.
+Patients underwent 12 training sessions lasting up to 30 min.
+In the end of the study, the scores on movement scales, electroencephalographic results obtained during training sessions were analyzed and compared to the results of neuropsychological testing.
+RESULTS
+Evaluation of the UL clinical assessments indicated that both groups improved on ARAT and FMA (sections A-D, H, I) but only the BCI group showed an improvement in the ARAT's grasp score (p=0.012), pinch score (p=0.012), gross movement score (p=0,002).
+The significant correlation was revealed between particular neuropsychological tests (Taylor Figure test, choice reaction test, Head test) and online accuracy rate.
+CONCLUSION  These results suggest that adding BCI control to exoskeleton-assisted physical therapy can improve post-stroke rehabilitation outcomes.
+Neuropsychological testing can be used for screening before mental practice admission and promote personalized rehabilitation.

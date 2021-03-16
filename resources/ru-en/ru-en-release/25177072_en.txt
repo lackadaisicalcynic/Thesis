@@ -1,0 +1,13 @@
+Cross-sectional studies of tuberculosis prevalence in Cambodia between 2002 and 2011.
+OBJECTIVE
+To measure trends in the pulmonary tuberculosis burden between 2002 and 2011 and to assess the impact of the DOTS (directly observed treatment, short-course) strategy in Cambodia.  METHODS
+Cambodia's first population-based nationwide tuberculosis survey, based on multistage cluster sampling, was conducted in 2002.
+The second tuberculosis survey, encompassing 62 clusters, followed in 2011.  Participants aged 15 years or older were screened for active pulmonary tuberculosis with chest radiography and/or for tuberculosis symptoms.
+For diagnostic confirmation, sputum smear and culture were conducted on those whose screening results were positive.
+FINDINGS
+Of the 40,423 eligible subjects, 37,417 (92.6%) participated in the survey; 103 smear-positive cases and 211 smear-negative, culture-positive cases were identified.
+The weighted prevalences of smear-positive tuberculosis and bacteriologically-positive tuberculosis were 271 (95% confidence interval, CI: 212-348) and 831 (95% CI: 707-977) per 100,000 population, respectively.  Tuberculosis prevalence was higher in men than women and increased with age.
+A 38% decline in smear-positive tuberculosis (P = 0.0085) was observed with respect to the 2002 survey, after participants were matched by demographic and geographical characteristics.  The prevalence of symptomatic, smear-positive tuberculosis decreased by 56% (P = 0.001), whereas the prevalence of asymptomatic, smear-positive tuberculosis decreased by only 7% (P = 0.7249).
+CONCLUSION
+The tuberculosis burden in Cambodia has declined significantly, most probably because of the decentralization of DOTS to health centres.
+To further reduce the tuberculosis burden in Cambodia, tuberculosis control should be strengthened and should focus on identifying cases without symptoms and in the middle-aged and elderly population.

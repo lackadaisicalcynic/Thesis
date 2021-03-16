@@ -1,0 +1,16 @@
+AIM  to evaluate ocular hemodynamics and informativity of estimated individual normal range of intraocular pressure (IOP).
+MATERIALS AND METHODS
+A total of 12 patients (22 eyes) with carotid artery malfunction were examined.
+Ocular blood flow (OBF) and IOP were measured with Ocular Blood Flow Analyzer.
+Actual OBF was then compared with what is considered normal for a given axial length (AL).
+Individual normal range of IOP was calculated according to an original formula (described in previous publications).
+Doppler imaging of ocular vessels enabled blood flow velocity measurement.
+Morphological parameters and functional status of the retina and optic nerve were judged on automated perimetry (Octopus 900) and optical coherence tomography (Cirrus HD-OCT) findings.
+Statistical analyses were performed using Statistica 10 software.
+RESULTS
+Generally, OBF showed no correlation with the grade of carotid artery stenosis (p < 0.05), however, was significantly reduced as compared to its AL-dependent norm in patients with greater than 85% narrowing of the internal carotid artery, which can cause misestimating of their individual normal range of IOP.
+A negative relationship was established between the blood flow velocity in short posterior ciliary arteries and the grade of internal carotid artery stenosis (p < 0.005).
+Ocular blood flow deficit relative to the AL-dependent norm correlated with ophthalmic artery resistance index.
+CONCLUSION
+OBF-based estimation of individual normal range of IOP is inexpedient in patients with greater than 80% carotid artery stenosis due to its possible influence on ocular hemodynamics.
+In most cases of less than 80% carotid artery stenosis OBF is adequate or slightly reduced as compared to its AL-dependent norm and thus, has no significant impact on estimated individual normal range of IOP.

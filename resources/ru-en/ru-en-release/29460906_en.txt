@@ -1,0 +1,9 @@
+[Changes in spatial relationships between catecholamine- and nitroxidergic neurons in the nuclei of the caudal brain stem in the development of hypertension].
+AIM  To obtain the data on the spatial relationships between catecholamine (TH-positive) and nitroxidergic (nNOS-positive) neurons in vasomotor nuclei of the medulla in different periods of hypertension development.
+MATERIAL AND METHODS
+The experiment was performed on male Wistar rats (n=45) with induced renovascular hypertension (RVH).
+TH and nNOS in neurons of solitary tract nuclei, reticular small-and giant cell nuclei were detected using immunohistochemical methods.
+RESULTS AND CONCLUSION
+The most early and severe changes in the intensity of reaction and amount of nNOS-positive neurons were noted in the solitary tract nucleus.
+Significant changes in the quantitative parameters of TH-positive neurons in RVH were identified only in the reticular giant cell nucleus but they appeared later and were less expressed compared to nNOS-positive cells.
+This resulted in the changes of spatial relationships between two types of neurons and remodeling of the bulbar region of the cardiovascular center.

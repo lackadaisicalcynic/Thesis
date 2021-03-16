@@ -1,0 +1,11 @@
+[Exophthalmometry with computed tomography].  Bone abnormalities of orbit seen in patients with trauma or radiolesion are accompanied by enophthalmos or exophthalmos.
+Conventional measurements of eyeball protrusion with Hertel's exophthalmometer or with computed tomography do not provide accurate and reliable data, especially in patients with asymmetry of lateral orbital rims.
+PURPOSE  To develop a method of computed exophthalmometry that provides accurate and reliable measurements in patients with various orbital conditions.
+MATERIAL AND METHODS
+Medical records and computerized axial tomography scans of 25 patients' orbits without false enophthalmos or exophthalmos were analyzed posthoc.
+First group included 13 patients with trauma or radiolesion of the orbit at the different stages of plastic-reconstructive treatment.  Second group consisted of 12 patients with lacrimal duct obstruction and without any orbital bone abnormalities.
+Eyeball protrusion was measured from a line joining styloid processes of temporal bones according to the developed method.
+RESULTS  Comparison of the results of three independent measurements showed that in group 1 mean value varied from 0.40 mm to 10.13 mm and in group 2 - from 0.10 mm to 0.87 mm.
+Standard deviation (0.00-0.29 mm) and standard error in mean (0.00-0.17 mm) was the same in both groups.
+CONCLUSION  The newly developed method of exophthalmometry with the use of computed tomography provides accurate and reliable data in patients with various orbital conditions including asymmetry of lateral orbital rims.
+Eyeball protrusion with asymmetry not exceeding 0.9 mm does not lead to functional and esthetical abnormalities and may be considered normal.  The developed method is easy to setup and use, it can be applied in medical practice for diagnostics, surgery planning and evaluation of postoperative results in patients with various orbital conditions.

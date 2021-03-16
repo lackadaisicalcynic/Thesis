@@ -1,0 +1,12 @@
+Injury-related mortality in South Africa: a retrospective descriptive study of postmortem investigations.
+OBJECTIVE
+To investigate injury-related mortality in South Africa using a nationally representative sample and compare the results with previous estimates.
+METHODS
+We conducted a retrospective descriptive study of medico-legal postmortem investigation data from mortuaries using a multistage random sample, stratified by urban and non-urban areas and mortuary size.
+We calculated age-specific and age-standardized mortality rates for external causes of death.  FINDINGS
+Postmortem reports revealed 52,493 injury-related deaths in 2009 (95% confidence interval, CI: 46,930-58,057).  Almost half (25,499) were intentionally inflicted.
+Age-standardized mortality rates per 100,000 population were as follows: all injuries: 109.0 (95% CI: 97.1-121.0); homicide 38.4 (95% CI: 33.8-43.0; suicide 13.4 (95% CI: 11.6-15.2) and road-traffic injury 36.1 (95% CI: 30.9-41.3).
+Using postmortem reports, we found more than three times as many deaths from homicide and road-traffic injury than had been recorded by vital registration for this period.  The homicide rate was similar to the estimate for South Africa from a global analysis, but road-traffic and suicide rates were almost fourfold higher.
+CONCLUSION
+This is the first nationally representative sample of injury-related mortality in South Africa.
+It provides more accurate estimates and cause-specific profiles that are not available from other sources.

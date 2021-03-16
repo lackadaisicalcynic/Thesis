@@ -1,0 +1,9 @@
+[Algorithms of the correction of fluid and electrolyte disorders in patients with severe ischemic stroke].
+AIM  To develop a practical algorithm for the correction of sodium levels and osmolality of blood plasma during the acute period of severe ischemic stroke (IS).
+MATERIAL AND METHODS
+One hundred and fifty patients with cardioembolic or atherothrombotic stroke, aged from 30 to 80 years, hospitalized in the first 12 h after symptom emergence, were examined.
+Neurological deficit was assessed with the NIHSS.
+The monitoring of blood plasma sodium level and osmolality of blood plasma in the 1st and 5th day after stroke as well as of blood circulation volume was performed.  The level of antidiuretic hormone (ADH) was measured in patients with hyperosmolar syndrome with hypernatremia.
+RESULTS AND CONCLUSION  It has been shown that hyponatremia is not an independent predictor of outcome of IS, but requires a diagnostic search of the causes of this condition with subsequent correction of sodium levels.
+For hypernatremia therapeutic tactics varies depending on the timing of the beginning of IS.  A conservative strategy for the correction of hypernatremia to plasma sodium blood levels of 150 mmol/L on the first day of IS and to 155 mg/dL since the third day can be used.
+If these values are exceeded, the most rapid correction of hypernatremia is necessary.

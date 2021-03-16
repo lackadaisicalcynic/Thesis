@@ -1,0 +1,8 @@
+[Vertebrology 2.0: an automatic virtual consultation system].
+UNLABELLED  The use of computer information and Internet technologies to solve clinical problems becomes trivial but is still a topical and promising direction closely related to the «Healthcare 2.0» concept.
+The methodology for developing virtual patient consultation systems is associated with the capabilities to process obtained data and optimize the choice of optimal tactics for further treatment, taking opportunities of the Internet.
+The study objective was to develop an automatic virtual consultation system for patients with spine and spinal cord diseases on the basis of the online vertebrologi.ru portal.
+MATERIAL AND METHODS
+33 signs with different answer variants were selected for advising.  On the basis of these signs, an expert advised more than 170 patients.
+RESULTS AND CONCLUSION  On the basis of consultation analysis, a set of rules was developed to automatically generate a consultation text, depending on selected sign values.
+Currently, the automatic virtual consultation system, which was developed jointly by the Institute for Systems Analysis, Burdenko Neurosurgical Institute, and Volynskaya Clinical Hospital №1, operates online on the vertebrologi.ru portal as one of its modules.

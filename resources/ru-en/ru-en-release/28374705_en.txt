@@ -1,0 +1,12 @@
+[Effects of chronic tabacco smoking on the cerebral blood flow].
+AIM  To study an effect of chronic smoking on cerebral hemodynamics and cerebrovascular reactivity in different segments of the arterial system of the brain in men.
+MATERIAL AND METHODS
+Male patients enrolled in the study were divided into two groups: controls (n=11) and smokers (n=24) with index 30.7 pack-year smoking history.  Haemorheological parameters: viscosity of blood, aggregation of erythrocytes, hematocrit, fibrinogen were evaluated in both groups.
+Using carotid duplex ultrasound (MyLab 50 Esaote, Italy), intima-media thickness (IMT) of common carotid arteries (CCA) was measured.
+Parameters of cerebral hemodynamics were evaluated using transcranial Doppler ultrasound (Nicolet Companion Biomedikal, USA).  Tests of the cerebrovascular reactivity were used to study arteries of three levels: common carotid arteries, middle cerebral arteries (MCA) and pial arteries.
+RESULTS  An increase in erythrocytes, hemoglobin, hematocrit, viscosity of blood, aggregation of erythrocytes and fibrinogen was found in the group of smokers compared to the control group.
+There were an increase in IMT of CCA by more than 50% and a decrease in the mean flow velocity in CCA in smokers.  Also smoking decreased MCA mean flow velocity, but this decrease was 2-3 times smaller than in the common carotid arteries.
+Vasoconstrictor reactions prevailed in MCA, as indicated by the increase in the peripheral vascular resistance index.
+An increase in vasospastic reactions in pial arteries in smokers was discovered.  At the same time, the vasodilatation reaction was maintained or not significantly reduced in pial arteries.
+CONCLUSION
+Chronic smoking is one of the significant factors causing changes in haemorheological parameters, damage of vascular wall, initiation of atherogenesis and disturbance of cerebral hemodynamics.  The study of velocity characteristics and peripheral vascular resistance indices in the group of smokers revealed different reactions of different segments of the brain arterial system.

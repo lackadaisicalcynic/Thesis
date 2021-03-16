@@ -1,0 +1,15 @@
+Implementation of information and communication technologies for health in Bangladesh.  PROBLEM
+Bangladesh has yet to develop a fully integrated health information system infrastructure that is critical to guiding policy development and planning.
+APPROACH
+Initial pilot telemedicine and eHealth programmes were not coordinated at national level.  However, in 2011, a national eHealth policy was implemented.
+LOCAL SETTING  Bangladesh has made substantial improvements to its health system.
+However, the country still faces public health challenges with limited and inequitable access to health services and lack of adequate resources to meet the demands of the population.
+RELEVANT CHANGES
+In 2008, eHealth services were introduced, including computerization of health facilities at sub-district levels, internet connections, internet servers and an mHealth service for communicating with health-care providers.  Health facilities at sub-district levels were provided with internet connections and servers.
+In 482 upazila health complexes and district hospitals, an mHealth service was set-up where an on-duty doctor is available for patients at all hours to provide consultations by mobile phone.
+A government operated telemedicine service was initiated and by 2014, 43 fully equipped centres were in service.
+These centres provide medical consultations by qualified physicians to patients visiting rural and remote community clinics and union health centres.
+LESSONS LEARNT
+Despite early pilot interventions and successful implementation, progress in adopting eHealth strategies in Bangladesh has been slow.
+There is a lack of common standards on information technology for health, which causes difficulties in data management and sharing among different databases.
+Limited internet bandwidth and the high cost of infrastructure and software development are barriers to adoption of these technologies.

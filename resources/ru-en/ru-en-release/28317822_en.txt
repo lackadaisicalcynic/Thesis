@@ -1,0 +1,3 @@
+[Implementation of electronic registry in orthodontic clinic].  The paper describes technical and methodological features of electronic registry in orthodontic clinic.
+The authors elaborated custom made software according to Russian Ministry of Health requirements for medical local nets and databases.
+The registry allows processing of medical statistics and forming of reports, as well as analyzing medical staff effectiveness and seasonal dynamics of clinical work.

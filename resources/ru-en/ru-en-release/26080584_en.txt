@@ -1,0 +1,11 @@
+[Diffusion tensor magnetic resonance imaging in the diagnosis of visual pathway neurodegeneration in glaucoma].  AIM
+To study the state of visual pathways in patients with glaucoma by means of diffusion tensor magnetic resonance imaging (DT-MRI).  MATERIAL AND METHODS
+DT-MRI was performed in 16 patients: 12 patients with POAG of different stages and 4 controls.
+Fractional anisotropy (FA) and its longitudinal variation (FA) determined by an original software (Fractional Anisotropy Analyzer) were used to assess the state of the lateral geniculate body and optic radiation.
+All patients also underwent optical coherence tomography (OCT) of the retina and optic nerve head, Heindelberg retinal tomography (HRT), and Humphrey standard automated perimetry (SAP).
+RESULTS
+There was a significant decrease in FA values in glaucoma patients as compared with the control group (medians of 0.74 and 0.77 respectively, p < 0.01).
+Moderate and strong correlations of AFA with glaucoma stage as well as morphometric (GCC Average, GLV, FLV, and RNFL Average provided by OCT, rim area provided by HRT) and functional parameters (MD and PSD provided by SAP) of the retina and optic nerve head were also established.
+CONCLUSION
+Reduced fractional anisotropy of the lateral geniculate body and optic radiation in patients with glaucoma may be considered an indicator of axonal degeneration at the level of the visual centers.
+DT-MRI in vivo helps to determine whether or not the neurodegenerative process spreads to the central nervous system as glaucoma progresses.

@@ -1,0 +1,7 @@
+[The immunosuppressive microenvironment of malignant gliomas].  The dogma of the central nervous system (CNS) as an immune-privileged site has been substantially revised in recent years.
+CNS is an immunocompetent organ and actively interacts with the immune system.
+Microglia plays a leading role in a CNS immune response.
+However, in malignant gliomas, there is M2-polarization of microglia acquiring immunosuppressive and tumor-supportive properties.
+It occurs under the influence of tumor cytokines, such as transforming growth factor-β, interleukin-10, and prostaglandin E2.
+M2-polarized microglia exhibits reduced phagocytic activity, changes in the expression of many cellular determinants, or inverse of their functions, STAT3 activation, and production of immunosuppressive cytokines that suppress the function of cytotoxic CD8+ T cells or CD4+ T-helper cells type I. Myeloid-derived suppressor cells and regulatory T-lymphocytes, which have been recruited from peripheral blood into tumor tissue, also have immunosuppressive properties.
+The development of new treatment options for malignant gliomas must consider the role of the microenvironment in maintaining tumor vitality and progression.

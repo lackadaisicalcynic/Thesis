@@ -1,0 +1,12 @@
+[Time course of changes in cytokines (IFN-γ, IFN-α, IL-18, TNF-α) in the treatment of moderate influenza A (H1N1) pdm09 (2013-2016) with oseltamivir (Tamiflu) and umifenovir (Arbidol) alone and in combination with Kagocel].  AIM
+To assess correlation of cytokines levels and therapy regimes a relationship of the time course of changes in the cytokines IFN-γ, IFN-α, IL-18, and TNF-α to the treatment option for influenza A (H1N1) pdm09 with umifenovir (Arbidol) 800 mg/day for 5 days (n=50); oseltamivir (Tamiflu) 150 mg/day for 5 days (n=50); umifenovir (Arbidol) 800 mg/day for 5 days in combination with Kagocel 72 mg/day for 2 days.; 36 mg/day for 2 days (n=50); oseltamivir (Tamiflu) (150 mg/day for 5 days) in combination with Kagocel 72 mg/day for 2 days; 36 mg/day for 2 days (n=50).
+A comparison group consisted of 30 healthy volunteers.
+MATERIAL AND METHODS
+The state of immunologic reactivity was assessed twice: at admission of the patients to an infectious disease clinic (at 1-3 disease days) and in the early convalescent period (at 7-8 disease days): venous blood samples were collected to determine the concentrations of IFN-γ, IFN-α, IL-18, and TNF-α by a solid-phase enzyme immunoassay.
+RESULTS
+All the patients in the acute phase of influenza A showed a statistically significant increase in the levels of IFN-γ, IFN-α, and IL-18 as compared with the control group.
+The groups receiving monotherapy in the early convalescent period had a decrease in the IFN-γ, IFN-α, and IL-18 concentrations that could be compensated by the combined use of the immunomodulator Kagocel.
+No statistically significant changes in the levels of TNF-α were found in the patients of all the groups, but the groups receiving monotherapy exhibited its lower concentrations in the convalescence period.
+CONCLUSION
+The combination of etiotropic antiviral drugs with Kagocel enhances the efficiency of antiviral therapy.
+Monitoring of antiviral cytokines during the treatment of influenza A is a convenient tool to verify the efficiency of antiviral therapy and needs to be more widely introduced into medical practice.

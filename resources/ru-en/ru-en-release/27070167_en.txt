@@ -1,0 +1,21 @@
+[The efficiency and safety of anti-Helicobacter pylori therapy in patients with concomitant chronic hepatitis C].  AIM
+To evaluate the efficiency and safety of two eradication therapy (ET) regimens for Helicobacter pylori infection in patients with concomitant chronic hepatitis C (CHC) in relation to the stage of liver fibrosis (LF).
+MATERIALS AND METHODS
+A prospective clinical trial was conducted in parallel groups.
+Group 1 included 50 HCV-negative patients with H. pylori-associated peptic ulcer of the stomach or duodenum; Group 2 consisted of 50 HCV-positive patients with H. pylori-associated peptic ulcer of the stomach or duodenum concurrent with CHC.
+Each group was divided in 2 subgroups according to the used triple ET (a proton pump inhibitor (PPI) in a standard dose + amoxicillin 1000 mg twice daily + clarithromycin 500 mg twice daily for 10 days) or sequential therapy (PPI in a standard dose + amoxicillin 1000 mg twice daily within the first 5 days and then PPI in a standard dose + clarithromycin 500 mg twice daily + metronidazole 500 mg twice daily for the next 5 days).
+LF was assessed using indirect elastometry.
+The efficiency of ET was evaluated by a breath test (after 4 weeks) and an analysis depending on intention-to-treat (ITT) and per-protocol (PP) treatments.
+A patients recorded adverse events in specially developed diaries.
+RESULTS
+The efficiency of ET was 74% (ITT) and 80.4% (PP) in Group 1 and 76 (ITT) and 79.1% (PP) in Group 2.
+Both groups displayed a tendency towards an 11.9-12.4% increase in the efficiency of the sequential therapy versus the classical triple (PP) one.
+The rate of totally found side effects was 20% in Group 1 and 28% in Group 2.
+During sequential therapy, the rate of side effects was lower than that during the classical one.
+The efficiency of ET did not significantly depend on the stage of LF.
+Only the presence of concomitant type 2 diabetes mellitus and the use of macrolides (12 months before treatment) significantly lowered the efficiency of ET (OR 0,21; 95% CI 0,06-0,69, p=0,0102 and OR 0,27 95% CI 0,08-0,9, p=0,0342).
+LF regardless of its magnitude significantly determined the risk of adverse events during ET (OR 3,33 95% CI 1,19-9,31, p=0,0217).
+A group at the highest risk of adverse events included patients with liver cirrhosis (OR 4,87; 95% CI 1,01-23,5, p=0,0492).
+CONCLUSION
+It is appropriate to prescribe a sequential ET regimen as more effective and safe for patients with concomitant CHC during therapy for H. pylori infection-associated diseases.
+LF increases the risk of adverse events during ET.

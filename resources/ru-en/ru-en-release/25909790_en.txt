@@ -1,0 +1,13 @@
+[Description and validation of a new scale for assessment of autonomy in patients with schizophrenia].  OBJECTIVE
+During the last years there is a clear shift of interest from acute to non-acute stages of schizophrenia: psychopathology and quality of remission, social functioning, and quality of life of patients.  Authors think that in addition to that, a separate object of research should be the ability of patient to independent existence, or phenomenon of autonomy.
+For systematic research of autonomy in patients with schizophrenia a specialized assessment scale was constructed.
+MATERIAL AND METHODS
+On the basis of preliminary clinical data, we realized that for description of autonomy it is necessary to consider consistency of patients at least in the following areas of life: to possess sufficient level of physical and psychic power; to be able to form specific and realistic goals at least in the nearest future and structure behavior correspondingly to goal achievement; to be able to use support from the social environment in case of deficit of personal resources; to use efficiently and on regular basis contacts with a doctor and other medical resources; to be able to manage everyday needs from hygiene to self-sufficiency, including ability to support compliance.  Scale comprises five items.
+Each of them is assessed on basis of semi-structured interview and other sources of information: medical records, reports from relatives and/or care-givers, medical stuff.
+In order to study the validity of the scale 40 patients (13 males and 27 females, age 49.8±9, duration of illness 22±8.6), who were diagnosed as schizophrenia according to ICD-10.
+They were assessed with the help of the scale of autonomy and well-known scales GAF, PSP, PANSS, NSA and CGI-S, cognitive functioning was assessed by BACS.
+RESULTS
+Analysis of internal consistency showed high consistency of items - Cronbach's alfa - 0.83. Analysis of convergent validity demonstrated low or moderate correlations of indices with related scales GAF and PSP.
+Discriminative validity showed low or moderate correlations only with negative subscale of PANSS, CGI-S score, NSA total score, BACS total score.
+CONCLUSION
+Сompliance of the scale of autonomy to major psychodiagnostic requirements showed that the scale is a new reliable and sensitive psychometric instrument.  The study demonstrated that the scale measured specifically ability of patients to be autonomous (self-dependent support of culturally adequate existence in presence of chronic disease) and canot be reduced to existing categories - quality of life, personal or social functioning.

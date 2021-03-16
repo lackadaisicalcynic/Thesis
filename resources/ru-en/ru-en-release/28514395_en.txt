@@ -1,0 +1,17 @@
+[Impact of shock-wave therapy on the clinical and functional status of patients with coronary heart disease].
+AIM  To study of the impact of shock-wave therapy (SWT) on the functional status of patients with coronary heart disease (CHD).
+SUBJECTS AND METHODS
+Thirty-four CHD patients (including 33 men) with left ventricular (LV) asynergic segments, as evidenced by echocardiography (EchoCG), were examined.
+Their mean age was 60.1±1.76 years.
+All the patients received a SWT cycle according to the standard scheme.
+The patient examination protocol involved EchoCG, dobutamine EchoCG, treadmill exercise EchoCG, and tissue Doppler EchoCG, which were performed at baseline, immediately and one month after the end of a SWT cycle.
+RESULTS
+Following a SWT cycle, all the patients were noted to have a significant decrease in mean angina pectoris and heart failure functional classes and in the frequency of daily intake of nitrates.
+EchoCG showed that at baseline the LV ejection fraction (EF) was 51.1±1.02%; end- diastolic volume index, 71.5±3.6 ml/m2; end-systolic volume index, 34.4±2.2 ml/m2.
+According to exercise EchoCG, the tolerance threshold was 6.4±0.1 Меts (Bruce protocol); the total exercise time of 5.05±0.23 min was achieved in an average of 75.2±1.32%.
+Immediately and one month after a SWT cycle, there was an increment in EF from 51.1±1.02 to 55±0.8 and 57±1.7%, respectively; a substantial increase in the tolerance threshold to 8.17±0.24 and 9.45±0.34 Меts, as compared to the baseline values.
+The exercise time increased up to 6.41±0.17 and 7.7±0.29 min immediately and one month after SWT, respectively.
+The increment in EF in response to exercise was 8.54±2.12, 14±1.5, and 16±1.2% at baseline, immediately and one month after SWT, respectively.
+Moreover, myocardial relaxation and diastolic function improved.
+CONCLUSION
+Shock-wave therapy in patients with CHD is accompanied by their improved functional status, which is manifested by increased tolerance threshold and exercise duration, a rise in rest and exercise LV EF, better relaxation of LV, and its diminished stiffness.

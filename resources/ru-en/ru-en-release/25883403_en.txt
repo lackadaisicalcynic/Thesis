@@ -1,0 +1,13 @@
+The effectiveness of interventions to reduce the household economic burden of illness and injury: a systematic review.
+OBJECTIVE
+To determine the nature, scope and effectiveness of interventions to reduce the household economic burden of illness or injury.  METHODS
+We systematically reviewed reports published on or before 31 January 2014 that we found in the CENTRAL, CINAHL, Econlit, Embase, MEDLINE, PreMEDLINE and PsycINFO databases.
+We extracted data from prospective controlled trials and assessed the risk of bias.
+We narratively synthesized evidence.
+FINDINGS
+Nine of the 4330 studies checked met our inclusion criteria – seven had evaluated changes to existing health-insurance programmes and two had evaluated different modes of delivering information.
+The only interventions found to reduce out-of-pocket expenditure significantly were those that eliminated or substantially reduced co-payments for a given patient population.  However, the reductions only represented marginal changes in the total expenditures of patients.
+We found no studies that had been effective in addressing broader household economic impacts – such as catastrophic health expenditure – in the disease populations investigated.  CONCLUSION
+In general, interventions designed to reduce the complex household economic burden of illness and injury appear to have had little impact on household economies.  We only found a few relevant studies using rigorous study designs that were conducted in defined patient populations.
+The studies were limited in the range of interventions tested and they evaluated only a narrow range of household economic outcomes.
+There is a need for method development to advance the measurement of the household economic consequences of illness and injury and facilitate the development of innovative interventions to supplement the strategies based on health insurance.

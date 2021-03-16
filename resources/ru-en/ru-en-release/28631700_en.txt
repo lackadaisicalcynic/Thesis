@@ -1,0 +1,13 @@
+[Polymorphism in the regulatory regions -С2578A and +C936T of the vascular endothelial growth factor (VEGF-A) gene in Russian women with rheumatoid arthritis].  AIM
+To analyze polymorphism in the regulatory regions of the vascular endothelial growth factor (VEGF) gene in female patients with rheumatoid arthritis (RA).
+SUBJECTS AND METHODS
+The investigation enrolled 257 female patients with RA.
+A control group consisted of 297 women without chronic diseases.
+The investigators examined the single-nucleotide polymorphism of VEGF-А2578С in the promoter region (rs699947) and that of VEGF+С936Т 3 in the retranslated region (rs3025039) of the gene.
+Genotyping was performed by restriction fragment length polymorphism analysis.
+RESULTS
+There was an increase in the frequency of VEGF+936 CT and a reduction in that of the VEGF+936СС genotypes in the seronegative patients as compared to the healthy women.
+The VEGF+936СС genotype frequency was higher in the patients with seropositive RA than in the subgroup of seronegative patients.
+The frequency of the VEGF-2578СС genotype was increased in the patients with RA and rheumatoid nodules, as compared to the healthy women.
+CONCLUSION
+The data presented suggest that the presence of certain VEGF gene variants located in the regulatory regions may reflect the nature of immunopathological mechanisms in RA.

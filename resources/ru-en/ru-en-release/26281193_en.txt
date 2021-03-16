@@ -1,0 +1,12 @@
+[Urinary biomarkers for podocyte injury: Significance for evaluating the course and prognosis of chronic glomerulonephritis].
+AIM  To estimate the degree of podocyte injury in patients with different types of chronic glomerulonephritis (CGN) from the urinary level of podocyte markers and to determine the significance of these indicators as criteria for disease activity and prognosis.
+SUBJECTS AND METHODS
+Seventy-three patients with CGN, including 20 with inactive nephritis (Group 1), 23 with obvious urological syndrome (Group 2), 30 with nephrotic syndrome (NS) (Group 3), among them there were 7 patients with severe NS and 7 with NS concurrent with acute nephritic syndrome, were examined.
+A control group consisted of 8 healthy individuals.
+In the examined groups, the degree of podocyturia (PCU) was investigated by flow cytometry using podocalyxin-labeled antibodies and the levels of nephrinuria (NU), heat shock protein 27 (HSP27) in urine, interleukin 6 (IL-6), caspase 9, and vascular endothelial growth factor (VEGF) were estimated by ELISA.
+RESULTS
+The patients with active CGN were found to have a high level of markers for podocyte injury: PCU and NU, which correlate with the magnitude of proteinuria, severity of NS, and degree of podocytopenia.
+Those with the severest NS, that concurrent with renal dysfunction in particular, were observed to have a progressive imbalance of inflammatory (IL-6), apoptotic (caspase-9), and defensive (HSP27 and VEGF) factors, which displays the incompetence of self-defense mechanisms in podocytes and contributes to the torpid course of CGN.
+Progressive PCU and NU are a poor prognostic sign indicating the risk of glomerulonephritis.
+CONCLUSION
+The indicators considered are universal for all patients with CGN running with proteinuria and may be used to monitor the course of the disease; moreover, the damaging factors should be considered in conjunction with the defensive factors.

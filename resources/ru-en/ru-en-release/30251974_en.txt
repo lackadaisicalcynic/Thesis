@@ -1,0 +1,10 @@
+[Cognitive functions, emotional status, MRI measurements in treatment-naïve middle-aged patients with uncomplicated essential arterial hypertension].
+AIM  To study cognitive functions, anxiety and depression levels, 24-hour blood pressure (BP) profile, cerebral blood flow (CBF) perfusion in treatment-naive middle-aged patients with uncomplicated essential arterial hypertension (EAH) depending on the white matter hyperintensities (WMH) burden.
+MATERIAL AND METHODS
+Forty-one hypertensive patients (mean age 46.2±4.6 years) and 41 healthy volunteers (mean age 50.3±6.7 years) were enrolled to the study.
+All subjects underwent brain MRI (MAGNETOM Skyra 3.0T, T1, T2 FSE, T2 FLAIR, T1 MPRAGE, ASL), Montreal cognitive assessment (MoCa), 10-word learning task, verbal fluency test, trail making test, Stroop color and word test, anxiety and depression assessment with Hamilton rating scales, 24-hour blood pressure monitoring (ABPM).
+RESULTS
+WMH were found in 22 (53.7%) hypertensive patients and in 3 (7.3%) healthy volunteers (p=0.0002).
+Hypertensive patients had the significantly lower CBF compared to controls (p<0.001).
+CONCLUSION  WMH were identified in treatment-naive middle-aged patients with uncomplicated mild to moderate EAH.  There was an association between WMH and lower CBF in the cortical plate of frontal lobes, SBP variability and worse cognition.
+Cerebral hypoperfusion can cause cognitive impairment even in the earliest stages of EAH, which increases due to emotional disorders.

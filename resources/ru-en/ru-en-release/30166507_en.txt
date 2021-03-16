@@ -1,0 +1,10 @@
+[Pachymetric and topographic changes of cornea after femtosecond laser-assisted keratomileusis in hypermetropic children].
+PURPOSE  To analyze the state of cornea using 'Pentacam' device data before and five years after femtolaser-assisted in situ keratomileusis (FS-LASIK) in hyperopic children.  MATERIAL AND METHODS
+The study included 40 children aged 6-15 years examined before and five years after FS-LASIK.
+RESULTS
+Central corneal thickness (CCT) amounted to 548.88±37.24 μm, at 6.5 mm zone - 631.58±48.23 μm, at 8 mm zone - 723.61±57.7 μm.
+Five years after the surgery corneal thickness at main influence zone (6.5-8.0 mm from the center of the cornea) decreased in average by 6%.  Pachymetry at the center showed 545.06±48.11 μm, at 6.5 mm zone - 592.54±36.55 μm, at 8 mm zone - 683.54±50.89 μm.
+Mean posterior corneal elevation was +21±3.75 μm.  Keratotopographic indices ISV and IVA increased 3.6 and 2.7 times compared to initial data and amounted to 83.86±30 mm and 0.58±0.4 mm respectively.
+Other indices were IHA - 22.8±9.82 μm, Rmin - 6.95±0.38 mm, KI - 1.1±0.09 and CKI - 1.05±0.03.  CONCLUSION
+Monitoring of the cornea state with 'Pentacam' before and 5 years after hyperopic FS-LASIK in children on the background of stable refraction revealed changes of keratotopographic indices associated to corneal thickness change in the laser ablation zone and the absence of pathologic posterior corneal surface elevation.
+These changes reflect the corneal profile after laser correction of hyperopia and should be perceived as topographic 'pseudo keratectasia'.

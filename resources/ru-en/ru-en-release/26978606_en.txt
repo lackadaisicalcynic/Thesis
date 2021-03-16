@@ -1,0 +1,10 @@
+[Impact of the dosing of basic drugs on the risk of rehospitalization in patients with chronic heart failure].
+AIM  To investigate the impact of doses of the drugs, which have been achieved during adjustment and account for less or more than 50% of the maximal therapeutic ones on the risk of rehospitalization.
+SUBJECTS AND METHODS
+The data of the Pavlov Register were used to assess the treatment of patients with chronic heart failure.  To assess the risk of rehospitalization in relation of the dose of a drug, all the doses were represented in percentage terms depending on the maximum therapeutic one.
+RESULTS  The risk of hospitalization during 6 months in the patients receiving angiotensin-converting enzyme inhibitors at a dose of 25% or less of the therapeutic one was 21.18% (odds ratio (OR), 1.41; 95% confidence interval (CI), 1.13-1.76), that at doses of 50 and 100% of the therapeutic one was 16% (OR, 0.71; 95% CI, 0.56-0.88) and 34% (OR, 0.51; 95% CI, 0.43-0.60), respectively.
+The risk of rehospitalization in the patients taking β-blockers at doses of 25, 50, and 100% of the therapeutic one was 26% (OR, 1.05; 95% CI, 0.94-1.17), 23% (OR, 0.902; 95% CI, 0.75-1.07), and 6.25% (OR, 0.19; 95% CI, 0.07-0.56), respectively.
+The combined analysis of the dose and use frequency of diuretics showed that the highest risk of rehospitalization turned was noted in the patients using a single dose of 100 mg of furosemide (4.2% of cases) once weekly and was as high as 39% (OR, 0.45; 95% CI, 1.04-1.98).
+CONCLUSION
+The risk of rehospitalization is largely determined by the dosing factor in outpatient settings.
+Increasing the doses during adjustment reduces the risk of rehospitalization.

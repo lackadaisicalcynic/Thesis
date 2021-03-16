@@ -1,0 +1,14 @@
+Estimating the burden of foodborne diseases in Japan.
+OBJECTIVE  To assess the burden posed by foodborne diseases in Japan using methods developed by the World Health Organization's Foodborne Disease Burden Epidemiology Reference Group (FERG).
+METHODS
+Expert consultation and statistics on food poisoning during 2011 were used to identify three common causes of foodborne disease in Japan: Campylobacter and Salmonella species and enterohaemorrhagic Escherichia coli (EHEC).
+We conducted systematic reviews of English and Japanese literature on the complications caused by these pathogens, by searching Embase, the Japan medical society abstract database and Medline.
+We estimated the annual incidence of acute gastroenteritis from reported surveillance data, based on estimated probabilities that an affected person would visit a physician and have gastroenteritis confirmed.
+We then calculated disability-adjusted life-years (DALYs) lost in 2011, using the incidence estimates along with disability weights derived from published studies.
+FINDINGS
+In 2011, foodborne disease caused by Campylobacter species, Salmonella species and EHEC led to an estimated loss of 6099, 3145 and 463 DALYs in Japan, respectively.
+These estimated burdens are based on the pyramid reconstruction method; are largely due to morbidity rather than mortality; and are much higher than those indicated by routine surveillance data.
+CONCLUSION
+Routine surveillance data may indicate foodborne disease burdens that are much lower than the true values.
+Most of the burden posed by foodborne disease in Japan comes from secondary complications.
+The tools developed by FERG appear useful in estimating disease burdens and setting priorities in the field of food safety.

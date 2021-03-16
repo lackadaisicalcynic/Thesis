@@ -1,0 +1,16 @@
+Scale-up of integrated malaria vector control: lessons from Malawi.  PROBLEM
+Indoor residual spraying and long-lasting insecticidal nets (LLINs) are key tools for malaria vector control.  Malawi has struggled to scale up indoor residual spraying and to improve LLIN coverage and usage.
+APPROACH
+In 2002, the Malawian National Malaria Control Programme developed guidelines for insecticide treated net distribution to reach the strategic target of at least 60% coverage of households with an LLIN.  By 2005, the target coverage was 80% of households and the Global Fund financed the scale-up.
+The US President's Malaria Initiative funded the indoor residual spraying intervention.  LOCAL SETTING
+Malawi's entire population is considered to be at risk of malaria.  Poor vector control, insecticide resistance in malaria vectors and insufficient technical and financial support have exacerbated the malaria burden.
+RELEVANT CHANGES
+Between 2002 and 2012, 18 248 206 LLINs had been distributed.
+The coverage of at least one LLIN per household increased from 27% (3689/13 664) to 58% (1974/3404).
+Indoor residual spraying coverage increased from 28 227 to 653 592 structures between 2007 and 2011.
+However, vector resistance prompted a switch from pyrethroids to organophosphates for indoor residual spraying, which increased the cost and operations needed to be cut back from seven to one district.
+Malaria cases increased from 2 853 315 in 2002 to 6 748 535 in 2010, and thereafter dropped to 4 922 596 in 2012.
+LESSONS LEARNT
+A single intervention-based approach for vector control may have suboptimal impact.
+Well-coordinated integrated vector management may offer greater benefits.
+A resistance management plan is essential for effective and sustainable vector control.

@@ -1,0 +1,9 @@
+[Morphine-induced Straub tail reaction as a model of spasticity in mice: effects of serotonergic compounds].
+AIM
+To adopt and validate the Straub tail reaction (SR) for comparative assessment of spastic effects of serotonergic compounds.  MATERIAL AND METHODS
+To measure the muscle relaxant activity, the morphine-induced Straub-tail assay was used.  SR was graded according to modified intensity-score basis in a scale decribed by Kameyama et al.
+(1978).
+Subcutaneous injections of different doses of morphine (10-60 mg/kg) induced a dose-dependent SR with maximum response obtained 15-30 min after the morphine administration.
+RESULTS AND CONCLUSION
+The centrally acting muscle relaxant baclofen (3-10 mg/kg) reduced SR induced by morphine (40 mg/kg) at all used doses; tizanidine decreased the intensity of SR at highest doses tested (0.6 and 1 mg/kg).  Dantrolene (20-100 mg/kg), a peripherally acting muscle relaxant, did not affect SR.
+Effects of serotonergic agents depended on the specific mechanism of action.  SR appears to be available for rapid evaluation of the effect of antispasticity drugs.

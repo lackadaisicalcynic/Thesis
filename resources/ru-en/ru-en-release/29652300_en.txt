@@ -1,0 +1,10 @@
+[Predictors of remote outcomes of brain injury].
+AIM  To determine predictors of remote outcomes of complex combat brain injury.
+MATERIAL AND METHODS
+A survey of 145 combatants with long-term combat injury (from 1 to 10 years) was conducted.
+Responses were received from 30 people from 18 regions of the Russian Federation.
+Data analysis included nonparametric correlation analysis using Spearman coefficient.
+RESULTS AND CONCLUSION
+Significant correlations were between the remote functional outcome and the following predictors: the severity of injury at admission (r=0.527; p<0,01), leukocyte level at admission (r=0.594; p<0,01), presence and severity of pelvic disturbances (r=0.574; p<0,01), the duration of staying in intensive care (r=0.476; p<0,01), neurological deficit severity and scores on the Glasgow Outcome Scale (r=0.469; p<0,01).
+Character of remote outcome was associated with posttraumatic amnesia (r=0.491; p<0,05), concomitant injuries of abdominal cavity organs, kidney, bladder, time of starting peroral feeding (r=0.377; p<0,05), mean heart rhythm rate during the first 14 days of treatment, pneumonia (r=0.377; p<0,05) and episodes of psychomotor agitation (r=0.381; p<0,05) within a period of hospital treatment.
+These results need confirmation in a larger study.

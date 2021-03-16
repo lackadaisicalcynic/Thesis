@@ -1,0 +1,13 @@
+A tuberculosis nationwide prevalence survey in Gambia, 2012.
+OBJECTIVE
+To estimate the population prevalence of active pulmonary tuberculosis in Gambia.
+METHODS  Between December 2011 and January 2013, people aged ≥ 15 years participating in a nationwide, multistage cluster survey were screened for active pulmonary tuberculosis with chest radiography and for tuberculosis symptoms.
+For diagnostic confirmation, sputum samples were collected from those whose screening were positive and subjected to fluorescence microscopy and liquid tuberculosis cultures.
+Multiple imputation and inverse probability weighting were used to estimate tuberculosis prevalence.
+FINDINGS
+Of 100 678 people enumerated, 55 832 were eligible to participate and 43 100 (77.2%) of those participated.  A majority of participants (42 942; 99.6%) were successfully screened for symptoms and by chest X-ray.
+Only 5948 (13.8%) were eligible for sputum examination, yielding 43 bacteriologically confirmed, 28 definite smear-positive and six probable smear-positive tuberculosis cases.  Chest X-ray identified more tuberculosis cases (58/69) than did symptoms alone (43/71).
+The estimated prevalence of smear-positive and bacteriologically confirmed pulmonary tuberculosis were 90 (95% confidence interval, CI: 53-127) and 212 (95% CI: 152-272) per 100 000 population, respectively.
+Tuberculosis prevalence was higher in males (333; 95% CI: 233-433) and in the 35-54 year age group (355; 95% CI: 219-490).  CONCLUSION
+The burden of tuberculosis remains high in Gambia but lower than earlier estimates of 490 per 100 000 population in 2010.  Less than half of all cases would have been identified based on smear microscopy results alone.
+Successful control efforts will require interventions targeting men, increased access to radiography and more accurate, rapid diagnostic tests.

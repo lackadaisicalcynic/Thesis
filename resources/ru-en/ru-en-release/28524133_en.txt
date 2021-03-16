@@ -1,0 +1,12 @@
+AIM  to comparatively investigate accommodation, pseudoaccommodation, and higher-order aberrations in children and young adults with myopia and hyperopia.
+MATERIAL AND METHODS
+A total of 39 myopic (the mean error of (-)5.2±1.5 diopters) and 53 hyperopic (the mean error of (+)3.1±1.15 diopters) eyes of 46 patients aged 5-20 years (11.6±0.6 years on average) were enrolled.
+Examination included evaluation of the objective accommodative response, relative accommodation reserves, pseudoaccommodation volume (calculated as the difference between the (+)3.0-diopter lens that is necessary for cycloplegic reading at a 33-cm distance and the weakest possible plus lens that enables reading), and higher-order aberrations (HOA), particularly the root mean square (RMS) value, vertical and horizontal trefoil, vertical and horizontal coma (coma7, coma8), and spherical aberration (SA).
+RESULTS
+Both objective and subjective parameters of accommodation were reliably lower in myopia as compared to hyperopia, while wavefront aberrations (RMS HOA, vertical trefoil, coma7) and pseudoaccommodation - reliably greater.  SA was found to be reliably more pronounced in those myopes, who demonstrated larger volume of pseudoaccommodation.
+At the same time, there was a mismatch in wavefront parameters of myopes and hyperopes at different levels of accommodation and pseudoaccommodation.
+In myopic eyes, vertical trefoil decreased down to negative values as the accommodative response improved.  In contrast to that, in hyperopic eyes with large volume of pseudoaccommodation, SA decreased below zero.
+CONCLUSION
+Myopia has been shown to be associated with reduced accommodation parameters as well as stronger HOA and pseudoaccommodation.
+Wavefront and accommodation parameters interrelations differ in myopic and hyperopic eyes.
+The nuances revealed should be taken into account when developing correction methods that purposefully influence refractogenesis.

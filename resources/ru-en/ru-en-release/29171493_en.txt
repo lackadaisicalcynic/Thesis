@@ -1,0 +1,6 @@
+[Epigenetic research of cognitive deficit in schizophrenia: some methodological considerations].
+AIM  To highlights the problems of assessing cognitive deficits in schizophrenia, relevant to the epigenetic, as well as a wide range of other approaches to the search for biological bases of cognition.
+MATERIAL AND METHODS
+The literature on the weaknesses in the evaluation of cognitive functions in patients with schizophrenia are summarized and discussed.
+The analysis is illustrated by our experience in developing a cognitive battery and a sample to examine relationships between DNA methylation in blood cells and cognitive deficits in schizophrenia.  RESULTS AND CONCLUSION
+It has been shown that to assess cognitive deficits in patients and to reduce the influence of confounders in epigenetic analysis it is necessary (1) to use a battery with the existing co-normative data in the target population, which allows to evaluate representativeness of control and patients included in the study sample, (2) to verify the theoretically driven battery structure using normative population and a cohort of patients, (3) to balance groups of cases and controls on the number, age and sex, for which an individual matching of cases and controls is best suited, (4) to conduct an additional statistical analysis controlling for education and smoking.

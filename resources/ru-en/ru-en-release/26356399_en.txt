@@ -1,0 +1,8 @@
+[The development of a pharmacologically active low-molecular mimetic of the nerve growth factor].  Authors present an overview of theirs author's works on the design of low-molecular mimetic of the nerve growth factor and studies of mechanisms of action and pharmacological properties of the compound.
+The original working hypothesis, underlying the design of the compound, posited that different neurotrophin hairpin loops could activate different signaling cascades by interaction with the receptor and so be responsible for different effects.
+The mimetic bis(N-succinyl-L-glutamyl-L-lysine)hexametylendiamide (GK-2), that was designed on the basis of NGF loop 4 β-turn sequence, activated TrkA and PI3K/Akt, but not MAPK/Erk.
+GK-2 showed neuroprotective activity in concentrations up to 10-9М against H(2)O(2) or glutamate or MPTP-induced neurotoxicity in РС12, НТ22 cells and primary rat hippocampal neurons.
+At that, GK-2 has no differentiating activity.
+In in vivo experiments, GK-2 exhibited significant anti-ischemic, anti-parkinsonic effect, reversed impaired cognitive functions in models of Alzheimer's disease in doses 0.01 - 5 mg/kg intraperitoneally and 5-10 mg/kg orally, but does not induce side effects accompanying the full-length neurotrophin treatment, which are hyperalgesia and weight loss.
+It was shown that GK-2 was a low-toxicity compound (LD50=700 mg/kg, intraperitoneally, mice) and capable of crossing the blood-brain barrier.
+The agent GK-2 is promising for development as a neuroprotective agent and is currently in preclinical studies.

@@ -1,0 +1,15 @@
+[The effect of gender on the results of related kidney transplantation].
+AIM
+To define the effect of donor and recipient gender on the results of kidney transplantation from living related donor.
+MATERIAL AND METHODS
+Group of 271 patients who underwent kidney transplantation from living related donor was analyzed.  There were 115 women and 156 men.
+Age varied from 1 to 63 years (mean 21.30±12.32).  There were 127 children aged 1-18 years (mean 11.28±4.63) and 144 adults aged 19-63 years (mean 29.81±11.24).
+Donors included 162 women and 109 men.
+Overall survival was calculated using Kaplan-Mayer.  Mortality and incidence of transplants failure were determined using Fisher's exact test.
+RESULTS
+All patients were divided into 2 groups depending on recipients' gender and then into 4 subgroups depending on gender of donors and recipients.
+Comparative statistical analysis showed that transplants survival was higher in women vs. men (T=2.7, p=0.007).  Survival of patients was similar in both groups.
+Moreover it was the best in subgroup of recipients-women with kidneys from donors-men.
+Difference was statistically significant (T=2.16, p=0.03).  There was no significant difference in all other cases.
+CONCLUSION
+The results of kidney transplantation are better in recipients-women than in men.

@@ -1,0 +1,6 @@
+[Possibilities and prospects of three-dimensional bioprinting in vascular surgery].  Rapid development of tissue engineering is gradually changing the approach to patient care.
+Despite the fact that the use of an autograft or transplantation of an artificial prosthesis is preferred in most cases, this is frequently impossible due to shortage of suitable material or the patient's condition.
+Regenerative medicine and tissue engineering make it possible to reduce the terms of treatment and restoration after vascular operations, as well as complications rate.
+At the present moment there is a lot of information about methods of biofabrication and multiple techniques of using stem cells.
+Nevertheless, clinical efficacy of these methods requires further detailed examination.
+The review of literature contains the data concerning modern achievements in the area of bioprinting.

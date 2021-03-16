@@ -1,0 +1,8 @@
+[Рformation of algorithms to determine the severity of endotoxemia in peritonitis].  We have analyzed the results of treatment of 110 patients admitted to a clinic with diagnosed acute peritonitis for the period from 2010 to 2014.
+Patients were divided into three groups according to the classification of B. Savchuk.
+The first group included 40 patients who admitted into clinic within 24 hours after the attack.  There were 36 patients who admitted in terms from 24 to 48 hours after the first attack in the second group.  The third group included 34 patients who admitted in 48 to 72 hours or more after the first attack.
+After further diagnosis all patients have undergone emergency surgery under endotracheal anesthesia.
+Peritonitis focus was eliminated and abdominal cavity sanitation was carried out.
+Depending on the size and nature of exudate abdominal cavity was drained.
+Based on these data we have created an algorithm reflecting the severity of endotoxemia in peritonitis, which allows to monitor the dynamics of the endotoxemia development.
+Our suggested algorithm is simple and may be used in all clinics, even in district hospitals.

@@ -1,0 +1,4 @@
+[Do cerebral microbleeds increase the risk of hemorrhagic complications of thrombolytic therapy?]  The role of the cerebral microbleeds (CMB) as a potential predictor of hemorrhagic complications of thrombolytic therapy is discussed.
+CMB are small perivascular hemosiderin deposits in the brain detected by magnetic resonance imaging in gradient echo T2* or SWI sequences.  They are associated (along with leukoaraiosis or lacunes) with cerebral microangiopathies.
+Most often CMB are associated with hypertensive arteriopathy (the main cause of CMB localization) or cerebral amyloid angiopathy (the main cause of cerebral CMB).
+Despite the controversies of recent data, most of researchers agree that thrombolytic therapy in patients with multiple CMB increases the risk of hemorrhagic complications.  Neuroimaging diagnosis of CMB may be important in making decision for thrombolytic therapy.

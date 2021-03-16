@@ -1,0 +1,11 @@
+Catastrophic household expenditure on health in Nepal: a cross-sectional survey.
+OBJECTIVE
+To determine the incidence of - and illnesses commonly associated with - catastrophic household expenditure on health in Nepal.  METHODS
+We did a cross-sectional population-based survey in five municipalities of Kathmandu Valley between November 2011 and January 2012.  For each household surveyed, out-of-pocket spending on health in the previous 30 days that exceeded 10% of the household's total expenditure over the same period was considered to be catastrophic.
+We estimated the incidence and intensity of catastrophic health expenditure.
+We identified the illnesses most commonly associated with such expenditure using a Poisson regression model and assessed the distribution of expenditure by economic quintile of households using the concentration index.
+FINDINGS
+Overall, 284 of the 1997 households studied in Kathmandu, i.e. 13.8% after adjustment by sampling weight, reported catastrophic health expenditure in the 30 days before the survey.
+After adjusting for confounders, this expenditure was found to be associated with injuries, particularly those resulting from road traffic accidents.  Catastrophic expenditure by households in the poorest quintile were associated with at least one episode of diabetes, asthma or heart disease.
+CONCLUSION  In an urban area of Nepal, catastrophic household expenditure on health was mostly associated with injuries and noncommunicable diseases such as diabetes and asthma.
+Throughout Nepal, interventions for the control and management of noncommunicable diseases and the prevention of road traffic accidents should be promoted.  A phased introduction of health insurance should also reduce the incidence of catastrophic household expenditure.

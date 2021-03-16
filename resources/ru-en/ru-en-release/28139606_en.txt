@@ -1,0 +1,13 @@
+[The influence of catecholamines on Th17-cells in multiple sclerosis].
+AIM  Тo investigate the possible association between clinical characteristics of multiple sclerosis (MS), quantitative and qualitative characteristics of Th17, dopamine and norepinephrine concentrations in the serum in patients with multiple sclerosis (MS).
+MATERIAL AND METHODS
+A comprehensive neurological and immunological examination of 43 patients with relapsing-remitting-MS (RR-MS) was performed.
+All patients were subjected to a standard neurological examination with assessment of the EDSS score.
+Dopamine and norepinephrine concentrations in serum were measured by enzyme-linked immunosorbent assay (ELISA).
+Percentage of Th17-cells was determined by flow cytometry.
+The functional activity of Th17- and Th1-cells was assessed by the production of interleukin-17 (IL-17) and interferon-gamma (IFN-γ), respectively, by peripheral blood mononuclear cells (PBMC) stimulated with microbeads coated with anti-CD3 and anti-CD28-antibodies.
+RESULTS
+The percent Th17-cells and cytokine production was significantly higher in MS patients with the exacerbation of disease than in the control group or remission, while the dopamine level was lower.
+Norepinephrine levels in MS patients in the acute stage and remission were comparable, but nevertheless, reliably lower than in the control group.
+CONCLUSION
+The results suggest the inhibitory effect of catecholamines on Th17 cells.

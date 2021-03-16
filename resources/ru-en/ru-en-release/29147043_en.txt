@@ -1,0 +1,17 @@
+Postpartum depression in India: a systematic review and meta-analysis.
+Objective  To provide an estimate of the burden of postpartum depression in Indian mothers and investigate some risk factors for the condition.
+Methods
+We searched PubMed®, Google Scholar and Embase® databases for articles published from year 2000 up to 31 March 2016 on the prevalence of postpartum depression in Indian mothers.  The search used subject headings and keywords with no language restrictions.
+Quality was assessed via the Newcastle-Ottawa quality assessment scale.
+We performed the meta-analysis using a random effects model.
+Subgroup analysis and meta-regression was done for heterogeneity and the Egger test was used to assess publication bias.
+Findings
+Thirty-eight studies involving 20 043 women were analysed.
+Studies had a high degree of heterogeneity (I  = 96.8%) and there was evidence of publication bias (Egger bias = 2.58; 95% confidence interval, CI: 0.83-4.33).
+The overall pooled estimate of the prevalence of postpartum depression was 22% (95% CI: 19-25).
+The pooled prevalence was 19% (95% CI: 17-22) when excluding 8 studies reporting postpartum depression within 2 weeks of delivery.
+Small, but non-significant differences in pooled prevalence were found by mother's age, geographical location and study setting.
+Reported risk factors for postpartum depression included financial difficulties, presence of domestic violence, past history of psychiatric illness in mother, marital conflict, lack of support from husband and birth of a female baby.
+Conclusion
+The review shows a high prevalence of postpartum depression in Indian mothers.
+More resources need to be allocated for capacity-building in maternal mental health care in India.

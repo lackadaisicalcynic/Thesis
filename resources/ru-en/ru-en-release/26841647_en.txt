@@ -1,0 +1,10 @@
+OBJECTIVE  to perform a comparative morphological study of biocompatibility, biodegradation, and tissue response to implantation of collagen matrices (scaffolds) for tissue engineering in urology and other areas of medicine.
+MATERIAL AND METHODS
+Nine matrix types, such as porous materials reconstructed from collagen solution; a collagen sponge-vicryl mesh composite; decellularized and freeze-dried bovine, equine, and fish dermis; small intestinal submucosa, decellularized bovine dura mater; and decellularized human femoral artery, were implanted subcutaneously in 225 rats.  The tissues at the implantation site were investigated for a period of 5 to 90 days.
+Classical histology and nonlinear optical microscopy (NLOM) were applied.
+RESULTS  The investigations showed no rejection of all the collagen materials.
+The period of matrix bioresorption varied from 10 days for collagen sponges to 2 months for decellularized and freeze-dried vessels and vicryl meshes.
+Collagen was prone to macrophage resorption and enzymatic lysis, being replaced by granulation tissue and then fibrous tissue, followed by its involution.
+NLOM allowed the investigators to study the number, density, interposition, and spatial organization of collagen structures in the matrices and adjacent tissues, and their change over time during implantation.
+CONCLUSION  The performed investigation could recommend three matrices: hybrid collagen/vicryl composite; decellularized bovine dermis; and decellularized porcine small intestinal submucosa, which are most adequate for tissue engineering in urology.
+These and other collagen matrices may be used in different areas of regenerative medicine.

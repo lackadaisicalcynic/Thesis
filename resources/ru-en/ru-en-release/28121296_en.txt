@@ -1,0 +1,13 @@
+[Dynamics of riboflavin level in aqueous humour of anterior chamber of experimental animals under standard stroma saturation by ultraviolet corneal cross-linking solutions].  AIM
+To evaluate the dynamics of riboflavin changes in the aqueous humour of the anterior chamber (AHAC) of rabbits' eyes during standard ultraviolet (UV) cross-linking with account to the area of corneal debridement.  MATERIAL AND METHODS
+The following solutions of riboflavin were used for cornea saturation: IR - 0.1% isosmotic riboflavin, D - Dextralink (0.1% riboflavin with 20% dextran), R - 0.1% riboflavin with 1.0% hydroxypropylmethylcellulose (HPMC).  Each solution was evaluated in 3 groups that differed in the diameter of corneal debridement: group 1 - Epi-Off 3 mm (IR-3, D-3, P-3), group 2 - Epi-Off 6 mm (IR-6, D-6, R-6), and group 3 - Epi-Off 9 mm (IR-9, D-9, R-9).
+Aqueous humour sampling (252 samples in total) was performed in 10-minute intervals within a 60 minute period.
+Riboflavin levels were measured by enzyme-linked immunoassay (ID-Vit microbiological test system; Immundiagnostik, Germany).
+RESULTS
+Stable growth rates of riboflavin level in the AHAC (with maximum values reached at 30-40 min) were observed for solutions D and R, regardless of the variant of corneal debridement.
+Moreover, throughout the whole follow-up period and regardless of the area of corneal debridement, the solution D provided a relatively lower concentration of riboflavin in the AHAC as compared to the two other solutions.  At 30 minutes, when the cornea was considered ready for UV irradiation, the riboflavin level in the AHAC ranged from 385±26.1 μg/l (D-9) to 665±28 μg/l (R-9).
+In groups IR-9, IR-6, P-6, IR-3, and P-3 riboflavin levels were found to be in the same range starting at 20 minutes.
+However, even a sufficient concentration of riboflavin in the cornea or AHAC cannot guarantee safe and effective UV cross-linking, since the removed epithelium limits the area of the stroma that can be saturated with riboflavin, while the area of UV exposure is 8-10 mm.
+CONCLUSION
+Safe and efficient standard UV cross-linking may be performed only under sufficient saturation of the stroma with riboflavin, which in turn depends greatly on the area of corneal debridement (should be at least 8-9 mm).
+A solution of 0.1% riboflavin and 1.0% HPMC enables quick and pronounced saturation of the stroma and, thus, can be used in the UV cross-linking procedure, including cases of insufficient corneal thickness.

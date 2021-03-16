@@ -1,0 +1,8 @@
+PURPOSE  To identify the frequency range of alternating presentation of the left and right images that allow stereoscopic perception in strabismic patients.
+MATERIAL AND METHODS
+The study included 34 patients aged 10-15 years with residual microdeviation or unstable strabismus angle that were put in the first group, and 32 second (control) group patients of similar age.  The study subjects were presented 20 various stereograms created by J. Ninio under conditions of phase haploscopy.
+The majority of the study patients were able to perceive depth with simple linear stereoscopic images.  However, these patients had higher frequency threshold (Fmin) than control subjects and, in contrast, appeared to have an upper limit of alternation frequency (Fmax).
+Thus, for each patient with strabismus, the values of Fmin and Fmax limited the frequency range where stereopsis was possible.  Simple linear stereoscopic images had the widest range (7.6±0.6 Hz for Fmin and 33.6±0.9 Hz for Fmax).
+Smaller range (9.9±1.1 Hz for Fmin and 23.3±1.2 Hz for Fmax) was identified for stereograms depicting slanted surfaces.  Fewer patients with strabismus achieved stereopsis with complex random-dot stereograms within a narrow range of high alternation frequencies (16.1±1.1 Hz for Fmin and 25.2±2.1 Hz for Fmax).
+CONCLUSION  The study revealed that even patients with pathologies of binocular vision can perceive specific stereograms when presented with alternating stimuli.
+This opens prospects for further research on methods of recovering and developing binocular vision function in strabismic patients.

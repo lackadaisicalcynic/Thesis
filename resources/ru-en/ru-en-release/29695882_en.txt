@@ -1,0 +1,10 @@
+Prevention of mother-to-child transmission of HIV: a cross-sectional study in Malawi.
+Objective  To estimate the use and outcomes of the Malawian programme for the prevention of mother-to-child transmission (MTCT) of human immunodeficiency virus (HIV).
+Methods
+In a cross-sectional analysis of 33 744 mother-infant pairs, we estimated the weighted proportions of mothers who had received antenatal HIV testing and/or maternal antiretroviral therapy and infants who had received nevirapine prophylaxis and/or HIV testing.  We calculated the ratios of MTCT at 4-26 weeks postpartum for subgroups that had missed none or at least one of these four steps.
+Findings  The estimated uptake of antenatal testing was 97.8%; while maternal antiretroviral therapy was 96.3%; infant prophylaxis was 92.3%; and infant HIV testing was 53.2%.
+Estimated ratios of MTCT were 4.7% overall and 7.7% for the pairs that had missed maternal antiretroviral therapy, 10.7% for missing both maternal antiretroviral therapy and infant prophylaxis and 11.4% for missing maternal antiretroviral therapy, infant prophylaxis and infant testing.
+Women younger than 19 years were more likely to have missed HIV testing (adjusted odds ratio, aOR: 4.9; 95% confidence interval, CI: 2.3-10.6) and infant prophylaxis (aOR: 6.9; 95% CI: 1.2-38.9) than older women.  Women who had never started maternal antiretroviral therapy were more likely to have missed infant prophylaxis (aOR: 15.4; 95% CI: 7.2-32.9) and infant testing (aOR: 13.7; 95% CI: 4.2-83.3) than women who had.
+Conclusion
+Most women used the Malawian programme for the prevention of MTCT.
+The risk of MTCT increased if any of the main steps in the programme were missed.

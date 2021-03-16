@@ -1,0 +1,5 @@
+[The current state of the brain-computer interface problem].  It was only 40 years ago that the first PC appeared.
+Over this period, rather short in historical terms, we have witnessed the revolutionary changes in lives of individuals and the entire society.  Computer technologies are tightly connected with any field, either directly or indirectly.
+We can currently claim that computers are manifold superior to a human mind in terms of a number of parameters; however, machines lack the key feature: they are incapable of independent thinking (like a human).
+However, the key to successful development of humankind is collaboration between the brain and the computer rather than competition.  Such collaboration when a computer broadens, supplements, or replaces some brain functions is known as the brain-computer interface.
+Our review focuses on real-life implementation of this collaboration.

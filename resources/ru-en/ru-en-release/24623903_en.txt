@@ -1,0 +1,13 @@
+The influence of market deregulation on fast food consumption and body mass index: a cross-national time series analysis.
+OBJECTIVE  To investigate the effect of fast food consumption on mean population body mass index (BMI) and explore the possible influence of market deregulation on fast food consumption and BMI.
+METHODS
+The within-country association between fast food consumption and BMI in 25 high-income member countries of the Organisation for Economic Co-operation and Development between 1999 and 2008 was explored through multivariate panel regression models, after adjustment for per capita gross domestic product, urbanization, trade openness, lifestyle indicators and other covariates.
+The possible mediating effect of annual per capita intake of soft drinks, animal fats and total calories on the association between fast food consumption and BMI was also analysed.  Two-stage least squares regression models were conducted, using economic freedom as an instrumental variable, to study the causal effect of fast food consumption on BMI.
+FINDINGS
+After adjustment for covariates, each 1-unit increase in annual fast food transactions per capita was associated with an increase of 0.033 kg/m2 in age-standardized BMI (95% confidence interval, CI: 0.013-0.052).
+Only the intake of soft drinks--not animal fat or total calories--mediated the observed association (β: 0.030; 95% CI: 0.010-0.050).
+Economic freedom was an independent predictor of fast food consumption (β: 0.27; 95% CI: 0.16-0.37).
+When economic freedom was used as an instrumental variable, the association between fast food and BMI weakened but remained significant (β: 0.023; 95% CI: 0.001-0.045).
+CONCLUSION
+Fast food consumption is an independent predictor of mean BMI in high-income countries.
+Market deregulation policies may contribute to the obesity epidemic by facilitating the spread of fast food.

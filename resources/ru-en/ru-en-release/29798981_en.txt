@@ -1,0 +1,4 @@
+Today, stroke is the third most common pathology after cardiovascular disease and cancer, as well as the leading cause of disability in the world.  Although some progress has been made in the field of primary and secondary stroke prevention over the past few decades, a deeper knowledge of the pathophysiology of the disease is needed to significantly improve diagnosis and therapy.
+MicroRNA (miRNA) is an important, recently identified class of posttranscriptional regulators of gene expression.
+MiRNA can be used as a tool for therapeutic interventions.  This review considers a role of miRNAs in the regulation of experimental stroke and in the development of carotid artery stroke.
+A potential role of miRNAs as promising biomarkers of stroke is discussed.

@@ -1,0 +1,3 @@
+[Choice of surgical treatment in patients with acute destructive pancreatitis].  Medical and diagnostic algorithm in patients with pancreatic necrosis is developed.
+It takes into consideration features and expansion of necrotic process in retroperitoneal space, objective severity of patients' condition according to SAPS scale and inflammatory process according to serum procalcitonin concentration.
+Comparative analysis revealed that the use of developed algorithm improves results of treatment.

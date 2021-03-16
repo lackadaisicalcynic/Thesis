@@ -1,0 +1,11 @@
+[EEG spectral characteristics during heart rate variability biofeedback in healthy people].
+AIM  To evaluate changes in electroencephalogram (EEG) spectral characteristics during a single session of heart rate variability biofeedback (HRV BF).
+MATERIAL AND METHODS
+One hundred and fifty adolescents, aged 16-17 years, were studied.
+Adolescents of the BF-group (n=110) conducted HRV BF session to enhance vagal influences on the heart rhythm.  Adolescents of the control group (n=40) remained in relaxed resting state.
+EEG was recorded with eyes closed before and after BF training.
+EEG absolute spectral power values of parts without artifacts in each frequency band were determined.
+RESULTS AND CONCLUSION
+The ability of the volunteer to change the heart rhythm activity determines the extent of its impact on the functions of central autonomic structures.
+This method of BF training helps to improve the cortical stability: an increase in alpha- and decrease in theta EEG-activity.
+The synchronization process of brain activity in the dynamics of BF training is most clearly manifested in the right brain hemisphere, with the frequent involvement of prefrontal brain areas.

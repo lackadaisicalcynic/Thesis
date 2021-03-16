@@ -1,0 +1,9 @@
+Determinants of reduced child stunting in Cambodia: analysis of pooled data from three demographic and health surveys.
+OBJECTIVE
+To assess how changes in socioeconomic and public health determinants may have contributed to the reduction in stunting prevalence seen among Cambodian children from 2000 to 2010.  METHODS
+A nationally representative sample of 10 366 children younger than 5 years was obtained from pooled data of cross-sectional surveys conducted in Cambodia in 2000, 2005, and 2010.  The authors used a multivariate hierarchical logistic model to examine the association between the prevalence of childhood stunting over time and certain determinants.
+They estimated those changes in the prevalence of stunting in 2010 that could have been achieved through further improvements in public health indicators.
+FINDINGS
+Child stunting was associated with the child's sex and age, type of birth, maternal height, maternal body mass index, previous birth intervals, number of household members, household wealth index score, access to improved sanitation facilities, presence of diarrhoea, parents' education, maternal tobacco use and mother's birth during the Khmer Rouge famine.
+The reduction in stunting prevalence during the past decade was attributable to improvements in household wealth, sanitation, parental education, birth spacing and maternal tobacco use.  The prevalence of stunting would have been further reduced by scaling up the coverage of improved sanitation facilities, extending birth intervals, and eradicating maternal tobacco use.
+Child stunting in Cambodia has decreased owing to socioeconomic development and public health improvements.  Effective policy interventions for sanitation, birth spacing and maternal tobacco use, as well as equitable economic growth and education, are the keys to further improvement in child nutrition.

@@ -1,0 +1,7 @@
+[Effects of childhood trauma on the biochemical correlates of stress in men and women with nonpsychotic mental disorders].
+AIM  To investigate gender differences in biochemical characteristics in patients with nonpsychotic mental disorders, and to study their association with childhood trauma.
+MATERIAL AND METHODS
+Women (n=308) and men (92) between 18 and 45 years of age, without serious somatic comorbidities, were examined.
+Laboratory evaluation included markers of hypothalamic-pituitary-adrenal axis activity (cortisol), hypothalamic-pituitary-thyroid system (TSH), proinflammatory cytokines (Il-1β and Il-6) and the brain derived neurotrophic factor (BDNF).  All participants underwent psychometric testing, which included the Child Abuse and Trauma Scale (CATS), Beck and Hamilton depression scale (HAM-D) and Spielberger Anxiety Inventory (STAI).
+Correlations were studied between the biochemical parameters and total CATS scores and severity of depression and anxiety in subgroups of women and men with a depressive disorder.  RESULTS AND CONCLUSION
+The men and women in the total study population significantly differed by representation of the different diagnostic classes, which was reflected by differing levels of depressive and anxiety symptoms.  The main finding was a correlation between the level of childhood trauma and morning serum cortisol levels in men with depressive disorder, which was absent in women.

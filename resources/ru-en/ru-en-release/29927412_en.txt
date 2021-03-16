@@ -1,0 +1,9 @@
+[The influence of confounders on the outcome of ischemic stroke].
+AIM  To determine the degree of influence of the confounders on the outcome of ischemic stroke (IS).
+MATERIAL AND METHODS
+One hundred and eight patients were included in the prospective clinical cohort study.
+Based on disease outcomes, two groups of patients were singled out: 1st group - survivors (n=93), 2nd group - patients with fatal outcomes (n=15).  RESULTS
+Concomitant diseases were found in 80 (74.1%) patients.
+Twenty-eight (25.9%) patients had no concomitant pathology (without taking into account atherosclerosis, arterial hypertension, diabetes mellitus and coronary heart disease).
+The Pearson χ2 test was 0.005 (p=0.944), which indicated that there was no significant association between the fatal outcome and the presence of confounders.  The relative risk (RR) was 0.963 (95% CI 0.333-2.779), indicating that the likelihood of a favorable or fatal outcome was almost equal.
+CONCLUSION  Therefore, the presence or absence of confounders noted in patients of our cohort does not affect the likelihood of a favorable or fatal outcome.

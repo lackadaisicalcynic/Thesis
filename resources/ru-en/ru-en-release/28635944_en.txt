@@ -1,0 +1,7 @@
+[Role of microRNA in oncogenesis of pituitary tumors and their practical significance].
+Microribonucleic acids (miRNAs) are a class of noncoding RNAs that regulate posttranscriptional gene expression.
+These molecules are regulators of cell proliferation, metabolism, apoptosis, and differentiation.  MiRNAs are not degraded by RNAases and their concentrations can be measured in different body fluids, including serum.
+The expression of miRNAs varies in intact tissues and tumors, including pituitary adenomas.
+Pituitary tumors are encountered in 22.5% of the population and, in a number of cases, may be asymptomatic, but in case of invasion or/and hormone overproduction, their clinical presentation is severe with multiple symptoms leading to disability and even death.
+The mechanisms for the development and progression of pituitary tumors and the markers for remission and recurrence have not been adequately investigated.
+This literature review discusses the biological significance of miRNAs in pituitary tumors and the potential value of circulating miRNAs as biomarkers.

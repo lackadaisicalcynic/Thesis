@@ -1,0 +1,16 @@
+[Use of optical coherence tomography based lacrimal meniscometry in dacryology].  Optical coherence tomography (OCT) based lacrimal meniscometry is currently the most accurate method used to determine dimensions of tear meniscus.
+According to related literature, the latter gets reliably reduced after treatment of nasolacrimal duct obstructions.
+However, the relationship between morphometric parameters of tear meniscus and the intensity of epiphora has not been established.  Even an adequate study parameter has not been yet identified.
+AIM  To investigate the significance of OCT based lacrimal meniscometry in determining the extent of insufficiency of lacrimal drainage.
+MATERIAL AND METHODS
+A total of 108 measurements of the lower tear meniscus were taken.
+Of them, 23 measurements were taken in healthy volunteers, who had no complaints of epiphora, 59 - in patients with epiphora of different intensity, and 26 - in patients after surgical intervention.  Meniscometry was performed with RTVue-100-2 (Optovue, USA) optical coherence tomograph.
+The tear meniscus 'height', 'depth', and coefficient were evaluated.
+Munk's scores for epiphora were also collected.  Spearman's correlation was applied to assess the morphometry results and Munk's scores.
+A separate analysis was performed for patients who were examined before and after dacryological treatment.  Differences were evaluated with the Kruskal-Wallis H test.
+RESULTS
+Statistically reliable differences were found between the meniscus 'height' and 'depth' values at different epiphora intensities (p<0.001 for both parameters; H=25.35 and 22.01, respectively), however, the meniscus coefficients showed no significant difference in these patients (p=0.8, H=1.57).
+Moreover, there was a highly reliable (p<0.001) medium strength direct correlation between the meniscus 'height' and 'depth' and the Munk's scores (R=0.46 and R=0,48, respectively), while the correlation between the meniscus coefficient and the Munk's scores appeared weak and lowly reliable (p=0.20, R=0.14).
+CONCLUSION
+Lower meniscus morphometry with 'depth' measurement is a comprehensive method to assess the state of lacrimal drainage system.
+However, it should not be used alone due to significant variations in morphometric parameters, particularly in patients with intensive epiphora.

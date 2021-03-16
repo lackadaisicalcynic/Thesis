@@ -1,0 +1,10 @@
+[A study of the association between the kynurenine-3-monooxygenase gene and depression].
+AIM  To study the association between the kynurenine 3-monooxygenase (KMO) and depression.
+MATERIAL AND METHODS
+КМО rs2275163 (C/T) and rs1053230 (A /G) polymorphisms were genotyped in patients diagnosed with depression (the main group) and age - and sex-matched healthy people.
+RESULTS
+The rs2275163 polymorphism was not associated with depression.
+There was the association between the rs1053230 polymorphism and depression.
+The frequency of the low expression genotype GG was higher in the main group compared to controls
+(р=0.001, ОШ 2.8 (95% ДИ 1.73-4.24).
+This genotype was earlier reported to be associated with the increased levels of kynurenic acid in patients with bipolar disorders.  CONCLUSION  The genotype GG can be considered as a risk factor of depression.

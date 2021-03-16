@@ -1,0 +1,20 @@
+BACKGROUND  Practical application of methods for intravital examination of the brain pathways, such as preoperative diffusion tensor imaging (DTI) tractography and intraoperative neurophysiological monitoring, facilitates safer resection of intracranial tumors located near the pyramidal tracts (PTs).
+PURPOSE  The study purpose was to investigate the relationships between intracerebral tumors of different histological nature and the pyramidal tract based on preoperative DTI tractography and various methods of intraoperative neurophysiological monitoring for intraoperative identification of the pyramidal tract, depending on different variants of the topographo-anatomic relationships between the pyramidal fascicle and the tumor.
+MATERIAL AND METHODS
+The study included 29 patients with supratentorial tumors of a different histological structure.
+Of these, 2 patients had grade I tumors, 8 patients had grade II tumors, 4 patients had grade III tumors, 11 patients grade IV tumors, and 4 patients had brain metastases.
+The patients underwent preoperative DTI tractography with PT reconstruction and evaluation of the topographo-anatomic relationships between the pyramidal tract and the tumor (tract: intact, infiltrated, displaced).
+Neurophysiological monitoring (direct electrical stimulation in 24 patients and transcranial motor evoked potentials in 26 patients) was used during surgery.
+The strength of stimulating current for direct stimulation was varied from 10 to 30 mA. Postoperatively, the motor function was evaluated by using a 5-score scale, and the data were compared to the preoperative data.
+RESULTS
+According to preoperative DTI tractography in patients with grade I-II gliomas, the corticospinal tracts were infiltrated in 2 cases, displaced in 3 cases, and intact in 5 cases.
+In patients with grade III-IV gliomas and metastases, the tracts were infiltrated in 8 cases, displaced in 4 cases, and intact in 7 cases.
+Motor responses evoked by direct electrical stimulation were obtained in 5 out of 6 patients with the pyramidal tract displaced by the tumor and in 7 out of 8 patients with the tract infiltrated by the tumor.
+In the case of the intact tract, the PT to tumor distance and the stimulus strength play an important role: responses were obtained in 4 out of 10 patients.
+In the case of transcranial motor evoked potentials (TCMEPs), no dynamics of the potential amplitude was detected in 17 out of 26 patients during surgery; a reduced TCMEP amplitude was detected in 9 patients.
+CONCLUSION
+1. Patients with an infiltrated or displaced pyramidal tract had significantly more often hemiparesis before surgery and aggravation of hemiparesis after the surgery compared to patients with an intact tract.
+2. In the case of direct electrical stimulation of the PT, motor responses (according to preoperative DTI tractography) were significantly more often observed for the pyramidal tract infiltrated and displaced by the tumor.
+3. A reduction in the motor neurologic deficit in the postoperative period was significantly more often observed for application of a larger current strength during direct electrical stimulation.
+4. Persistence of the TCMEP amplitude during surgery is a reliable predictor for no aggravation of the motor neurological deficit after surgery.
+Postoperative aggravation of hemiparesis was significantly more often observed when TC MEPs decreased during surgery.

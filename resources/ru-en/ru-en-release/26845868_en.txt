@@ -1,0 +1,10 @@
+[Variability in biomechanical properties of the fibrous tunic of the eye in a healthy population].
+UNLABELLED
+Studying biomechanical properties of the fibrous tunic of the eye meets current clinical demands.  Previous studies have proved bidirectional corneal applanation suitable for this purpose.
+The so called corneal elasticity coefficient is more informative in terms of corneal elastance than the two other parameters measured during bidirectional corneal applanation, namely, corneal resistance factor and corneal hysteresis.
+All three are known to have wide normal ranges.
+The aim of the present study was to determine the range of corneal resistance factor, corneal hysteresis, and corneal elasticity coefficient in a normal population.
+MATERIAL AND METHODS
+This work summarizes data from 2205 patients (4410 eyes) with no ophthalmic pathology who got their ocular biomechanics examined with an Ocular Response Analyzer.  RESULTS
+Normal ranges of biomechanical parameters of the fibrous tunic have been determined.  Considerable variation has been demonstrated in central corneal thickness (from 448 to 685 µm, with the mean of 563 ± 37 µm).
+Moreover, the corneal resistance factor, corneal hysteresis, and corneal elasticity coefficient have been shown to have almost equal means and to decrease with age.

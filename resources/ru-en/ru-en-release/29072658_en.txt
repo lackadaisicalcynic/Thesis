@@ -1,0 +1,8 @@
+[The evaluation of the quality of life in the patients presenting with various forms of chronic otitis media].  Chronic otitis media (COM) is a widespread pathological condition that affects up to 2% of the general population.
+Certain forms of this disease markedly deteriorate the quality of life of the patients which makes them overestimate the severity of harm to their health status and can be a cause of inflated expectations as regards the results of the planned surgical treatment.  The linking element between the patient's expectations and the outcomes of the surgical intervention may be the recently developed questionnaires for the evaluation of the health-related quality of life (HRQoL).
+One of them, the COMQ-12 questionnaire, was devised to estimate the subjective reports by the patients concerning the deterioration of their quality of life attributable to chronic otitis media.  The objective of the present study was to characterize the value of the 5-point Russian-language version of COMQ-12 for the evaluation of each of its 12 items concerning various aspects of health based on the personal opinions of the patients suffering from chronic otitis media The study included 108 patients 49 of whom were men and 59 women (45% and 55% respectively) at the age varying from 16 to 84 years.
+The COMQ-12 scores, according to the reports of individual patients, ranged from 4 to 43 of the 60 ones possible.
+The average score was 19.4 (SD=8.3).
+The overall median COMQ-12 score was 20, and the mode scored 14.
+The Cronbach-alpha index was equal to 0.860.
+The Russian-language version of the COMQ-12 questionnaire provides a reliable tool for the estimation of the quality of life in the patients presenting with various forms of chronic otitis media.

@@ -1,0 +1,8 @@
+[Genomic instability in the brain: chromosomal mosaicism in schizophrenia].
+AIM  Experimental verification of the hypothesis about the possible involvement of the mosaic genome variations (mosaic aneuploidy) in the pathogenesis of a number of mental illnesses, including schizophrenia and autism: a genetic study of the level of mosaic genome variations in cells of the brain autopsy tissues in healthy controls and schizophrenia.
+MATERIAL AND METHODS
+Autopsy brain tissues of 15 unaffected controls and 15 patients with schizophrenia were analyzed by molecular cytogenetic methods to determine the frequency of chromosomal mutations (the mosaic aneuploidy) in neural human cells.
+The original collection of chromosome-enumeration DNA probes to autosomes 1, 9, 15, 16, 18 and the sex chromosomes X and Y was used for the interphase cytogenetic analysis of chromosomes in the cells of the brain.
+RESULTS AND CONCLUSION  The frequency of low-level aneuploidy per individual chromosome was 0.54% (median - 0.53%; 95% confidence interval (CI) CI - 0.41-1.13%) in controls and 1.66% (median - 1.55%; 95% CI -1.32-2.12%) in schizophrenia (p=0.000013).
+Thus, the three-fold increase in aneuploidy frequency in the brain in schizophrenia was detected.
+It is suggested that mosaic aneuploidy, as a significant biological marker of genomic instability, may lead to genеtic imbalance and abnormal functional activity of neural cells and neural networks in schizophrenia.

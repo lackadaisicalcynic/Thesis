@@ -1,0 +1,11 @@
+Summary indices for monitoring universal coverage in maternal and child health care.
+OBJECTIVE
+To compare two summary indicators for monitoring universal coverage of reproductive, maternal, newborn and child health care.  METHODS
+Using our experience of the Countdown to 2015 initiative, we describe the characteristics of the composite coverage index (a weighted average of eight preventive and curative interventions along the continuum of care) and co-coverage index (a cumulative count of eight preventive interventions that should be received by all mothers and children).  For in-depth analysis and comparisons, we extracted data from 49 demographic and health surveys.
+We calculated percentage coverage for the two summary indices, and correlated these with each other and with outcome indicators of mortality and undernutrition.  We also stratified the summary indicators by wealth quintiles for a subset of nine countries.
+FINDINGS  Data on the component indicators in the required age range were less often available for co-coverage than for the composite coverage index.
+The composite coverage index and co-coverage with 6+ indicators were strongly correlated (Pearson r  = 0.73, P < 0.001).  The composite coverage index was more strongly correlated with under-five mortality, neonatal mortality and prevalence of stunting (r =  -0.57, -0.68 and -0.46 respectively) than was co-coverage (r = -0.49, -0.43 and -0.33 respectively).
+Both summary indices provided useful summaries of the degrees of inequality in the countries' coverage.
+Adding more indicators did not substantially affect the composite coverage index.
+CONCLUSION
+The composite coverage index, based on the average value of separate coverage indicators, is easy to calculate and could be useful for monitoring progress and inequalities in universal health coverage.

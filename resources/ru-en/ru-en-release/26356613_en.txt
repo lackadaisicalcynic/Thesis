@@ -1,0 +1,12 @@
+[EEG spectral characteristics in resistant depression patients on transcranial magnetic stimulation treatment].  OBJECTIVE
+to examine the EEG spectral characteristics during TMS in resistant depression therapy.  MATERIAL AND METHODS
+The sample consisted of 32 depressive patients diagnosed with recurrent depressive disorder or bipolar affective disorder.
+TMS, as well as EEG, were conducted during the previous inefficient thymoanaleptic therapy with reduced doses.
+TMS was performed in the left prefrontal cortex.
+Treatment course consisted of 15 procedures with 100% threshold intensity.
+During a single procedure, the patient received 20 cycles of stimulation pulses with the frequency of 15 Hz, duration of 20 seconds and interval of 60 seconds between single cycles.
+EEG was recorded with the use of the «NEURO-KM» apparatus (Russia) with band pass from 0.5 to 45 Hz and time constant of 0.3 sec before and after the course of TMS.
+Spectroscopic analysis of EEG was conducted using the Fast Furies Transformation analysis with average of no less than 30 periods for 2 seconds with subsequent mapping with the use of the «BRAINSYS» system (Russia).
+RESULTS AND CONCLUSION
+After conducting TMS, EEG changes were generalized and included the reconstruction of all frequencies of the electrical brain activity.
+However, the major changes were seen in alpha-rhythm spectrums: its index increased in all cortical areas, mostly in the occipital cortex, thereby forming the alpha-rhythm focus in these areas.

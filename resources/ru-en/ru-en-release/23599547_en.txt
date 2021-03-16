@@ -1,0 +1,13 @@
+Deployment of community health workers across rural sub-Saharan Africa: financial considerations and operational assumptions.
+OBJECTIVE
+To provide cost guidance for developing a locally adaptable and nationally scalable community health worker (CHW) system within primary-health-care systems in sub-Saharan Africa.
+METHODS
+The yearly costs of training, equipping and deploying CHWs throughout rural sub-Saharan Africa were calculated using data from the literature and from the Millennium Villages Project.  Model assumptions were such as to allow national governments to adapt the CHW subsystem to national needs and to deploy an average of 1 CHW per 650 rural inhabitants by 2015.
+The CHW subsystem described was costed by employing geographic information system (GIS) data on population, urban extents, national and subnational disease prevalence, and unit costs (from the field for wages and commodities).
+The model is easily replicable and configurable.  Countries can adapt it to local prices, wages, population density and disease burdens in different geographic areas.
+FINDINGS  The average annual cost of deploying CHWs to service the entire sub-Saharan African rural population by 2015 would be approximately 2.6 billion (i.e. 2600 million) United States dollars (US$).
+This sum, to be covered both by national governments and by donor partners, translates into US$ 6.86 per year per inhabitant covered by the CHW subsystem and into US$ 2.72 per year per inhabitant.
+Alternatively, it would take an annual average of US$ 3750 to train, equip and support each CHW.
+CONCLUSION
+Comprehensive CHW subsystems can be deployed across sub-Saharan Africa at cost that is modest compared with the projected costs of the primary-health-care system.
+Given their documented successes, they offer a strong complement to facility-based care in rural African settings.

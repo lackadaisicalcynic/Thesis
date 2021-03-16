@@ -1,0 +1,14 @@
+[Expression of epidermal growth factor receptor in patients with insulin resistance and seborrheic keratomas].  AIM  to study the expression of epidermal growth factor receptor (EGFR) in patients with seborrheic keratomas (SK) and insulin resistance (type 2 diabetes mellitus (DM2)) and in those without concomitant carbohydrate metabolic disturbances.
+SUBJECTS AND METHODS
+80 patients with SK were examined.
+According to the presence or absence of DM2, the patients were divided into 2 groups: 1) 40 patients with concomitant DM2; 2) 40 people without carbohydrate metabolic disturbances.
+DM2 was diagnosed on the basis of laboratory studies and an endocrinologist's consultation.
+Histological and immunohistochemical (IHC) examinations using anti-EGFR antibodies were performed; two intact skin sections from the patients with DM2 and two intact skin sections from those without carbohydrate metabolic disturbances were used as a control.
+RESULTS
+The ICH examination using anti-EGFR monoclonal antibodies revealed that Group 1 showed intense diffuse membrane staining of more than 50% of the cells in 32 (80%) patients, moderate (30-50% cells) and weak (10-30% cells) staining in 6 (15%) and 2 (5%) patients, respectively.
+Marked EGFR expression was also noted in two intact skin biopsy specimens taken from patients with DM2.
+In Group 2, the staining intensity was weak in more than 10% but less than 30% of the SK cells in 28 (70%) patients; moderate EGFR expression was observed in 9 (22.5%) and diffuse, pronounced, staining in more than 50% of the SK cells was in 3 (7.5%) patients.
+The intact skin biopsy specimens taken from 2 patients without carbohydrate metabolic disturbances displayed a weak EGFR expression in the basal cell layer of the epidermis.
+CONCLUSION
+EGFR overexpression in SK may be a result of metabolic disorders rather than a diagnostic sign of malignant neoplasms of the internal organs.
+The increased EGFR expression revealed in patients with SK and concomitant DM2 is caused by insulin resistance and hyperinsulinemia, in which the dysregulation of insulin signal transmission into the cell leads to changes in EGF synthesis and signaling pathway that regulates cell proliferation and growth.

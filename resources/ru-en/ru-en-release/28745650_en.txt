@@ -1,0 +1,12 @@
+[Comparative analysis of corneal aberrations after intrastromal segments and MyoRing implantation using femtosecond laser in patients with keratoconus].  AIM  to comparatively analyze corneal aberrations after intrastromal corneal segments (ICS) and MyoRing implantation using femtosecond laser in patients with stage II-III keratoconus (KC) by Pentacam examination.
+MATERIAL AND METHODS
+We have operated on 135 patients (145 eyes) with stage II or III KC.
+Depending on surgical technique, all patients were divided into two groups.
+Group I consisted of patients with KC, who received optimized femtosecond laser-assisted MyoRing implantation, group II - of those, who received femtosecond laser-assisted ICS implantation.
+Depending on the stage of the disease, each group was further divided into two subgroups, for stage II and stage III KC, respectively.
+Before and after surgery, all patients underwent visometry, biomicroscopy, corneal topography, and corneal aberrations measurement under photopic and mesopic conditions on Pentacam.
+The follow-up period averaged 30 months (from 6 to 34 months).
+RESULTS
+In both groups corneal aberrations significantly decreased after surgery, which was confirmed by an improvement in parameters of refraction and keratometry readings.
+CONCLUSION
+Implantation of intrastromal MyoRings leads to a greater reduction in the total corneal aberration, higher-order aberrations under photopic and mesopic conditions, and spherical aberration under photopic conditions as compared to ICS in patients with stage III KC; a comparable reduction in the total corneal, higher-order, and spherical aberrations under photopic conditions as compared to ICS in patients with stage II KC; a comparable increase in spherical aberration under mesopic conditions as compared to ICS in patients with stage III KC.

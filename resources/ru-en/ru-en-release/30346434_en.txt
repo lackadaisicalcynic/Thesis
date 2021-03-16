@@ -1,0 +1,10 @@
+[Parkinson's disease and glutamate excitotoxicity].
+AIM  To measure the concentration of glutamate in the serum of patients with Parkinson's disease (PD) and determine its association with clinical variants of disease course.
+MATERIAL AND METHODS
+One hundred and ten patients with PD and 90 healthy people were examined.
+Glutamate concentration in the blood serum was determined with a spectrophotometric method.
+RESULTS AND CONCLUSION
+Patients with Parkinson's disease had significantly higher levels of serum glutamate compared with healthy subjects (p<0,0001).
+Patients with a tremor-dominant subtype had significantly higher levels of serum glutamate compared to those in patients with akinetic-rigid and mixed subtypes.
+The results obtained allow us to expand our understanding of the pathogenesis of this disease.
+Changes in the concentration of glutamate may reflect neurodegenerative process in PD.

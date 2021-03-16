@@ -1,0 +1,13 @@
+OBJECTIVE  The purpose of our study was to evaluate both clinical and laboratory efficacy of sulodexide given at a daily dose of 500 lipasemic units (LSU) in patients presenting with class C3-C4 chronic venous insufficiency (CVI) according to the CEAP classification.
+PATIENTS AND METHODS
+The study included a total of 25 patients diagnosed with C3-C4 CVI and prescribed to receive sulodexide at a daily dose of 500 LSU for 90 days.
+Efficacy was comprehensively controlled by the following tools: the disease-specific Chronic Venous Insufficiency Quality of Life Questionnaire (CIVIQ), visual-analogue methods of assessment separate symptoms; the Venous Clinical Severity Score (VCSS), as well as ultrasonographic determination of the thickness of subcutaneous fat and crural fascia.
+Amongst the key laboratory indices determined by means of the ELISA test were the levels of interleukin-1 alpha (IL-1α), interleukin-1 beta (IL-1β), matrix metalloproteinases-2 and -9 (MMP-2, MMP-9), vascular endothelial growth factor A (VEGF-A), vasopressin and endothelin.
+RESULTS AND DISCUSSION
+Of the initially enrolled 25 subjects, twenty-two patients completed the study and were taken as 100%.
+The 90-day treatment yielded favourable results manifesting themselves in complete disappearance of convulsions in the calf muscles detected at the first visit in 22.7% of patients (p=0.0485), a significant reduction in the frequency of complaints of decreased tolerance to static loads from 27.3 to 9.1% (p=0.2404).
+The volume of the crus of the control lower extremity decreased from 134.18±14. 92 to 128.42±12.46 cm3 (p=0.0006), subcutaneous fat thickness at the fixed point decreased from 1.50±0.53 to 1.32±0.46 cm (p=0.0007), and fascial thickness decreased from 0.14±0.7 to 0.11±0.04 (p=0.0359).
+Pain syndrome according to the visual analogue scale (VAS) decreased from 36.45±25.60 to 17.50±19.27 mm (p=0.0002).
+The global index of quality of life (GIQoL) according to the CIVIQ-20 increased by 27.7% compared with the baseline level (p = 0.0001), the VCSS index decreased from 6.00±1.83 to 4.86±2.05 points (p=0.0002). as for the laboratory markers of endothelial dysfunction, there was a significant decrease in the levels of MMP-2 - from 178.53±36.30 to 176.35±36.67 ng/ml (p=0.0152), MMP-9 - from 90.84±20.41 to 89.78±20.32 ng/ml (p=0.0394), and that of endothelin - from 0.42±0.10 to 0.39±0.10 fmol/ml.
+CONCLUSION
+Sulodexide exerting a statistically significant clinical and endothelium-protecting effect turned out to be an effective drug for treatment of initial forms of chronic venous insufficiency of lower limbs.

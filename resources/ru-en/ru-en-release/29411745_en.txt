@@ -1,0 +1,3 @@
+[Preclinical studies of drugs on animal stroke models].  Preclinical studies are studies using experimental models of stroke in animals as well as on neurons, cell neuronal cultures and surviving brain slices.
+They directed both towards testing the efficacy and evaluation of the mechanisms of action of drugs, and the study of the mechanisms of ischemic damage to search for new targets for stroke treatment.
+This article shows the basic principles of the organization and planning of animal models of ischemic stroke.  Modeling of cerebral ischemia on the different models and animal species, the modern principles of assessment of brain damage are considered as well.

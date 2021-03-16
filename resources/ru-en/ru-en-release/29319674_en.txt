@@ -1,0 +1,14 @@
+[Rate of visual recovery after macular hole surgery with intraoperative optical coherence tomography and visualization of the internal limiting membrane].  Currently, multiple techniques exist to repair a macular hole, but the functional result may be largely affected by the use of dyes during surgery.
+With our original visualization methods, one is able to remove the internal limiting membrane (ILM) without staining, and thus to avoid the toxic effect of dyes.
+AIM  to compare anatomical and functional results of surgical closure of large macular holes with or without ILM staining.
+MATERIAL AND METHODS
+A total of 160 patients (190 eyes) were divided into 2 groups.
+Patients from group 1 (60 eyes) were subjected to surgery that involved the use of a dye, while in group 2 (130 eyes) ILM was not performed.
+Anatomical and functional results of the two groups were then compared.
+RESULTS
+The next day after surgery, a large improvement in the best corrected visual acuity - of 3 lines or more - was found in 28 controls (46.6%) and 98 patients from the main group (75.4%).
+There was no significant change in 24 and 27 patients, respectively (40.0% and 20.7%).
+The remaining 8 and 5 patients (13.4% and 3.9%) deteriorated by 3 lines or more.
+CONCLUSION
+Stain-free removal of the ILM under green-yellow light favours rapid recovery of visual acuity in patients with macular holes.
+Anatomical reconstruction of the foveola, including complete approximation of the hole margins and keeping the defect closed until the end of the operation, is controlled through a built-in optical coherence tomograph ensuring high anatomical and functional results.

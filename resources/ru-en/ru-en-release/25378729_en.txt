@@ -1,0 +1,14 @@
+Medical and nursing students' intentions to work abroad or in rural areas: a cross-sectional survey in Asia and Africa.  OBJECTIVE
+To assess medical and nursing students' intentions to migrate abroad or practice in rural areas.  METHODS
+We surveyed 3199 first- and final-year medical and nursing students at 16 premier government institutions in Bangladesh, Ethiopia, India, Kenya, Malawi, Nepal, the United Republic of Tanzania and Zambia.
+The survey contained questions to identify factors that could predict students' intentions to migrate.
+Primary outcomes were the likelihoods of migrating to work abroad or working in rural areas in the country of training within five years post-training.
+We assessed predictors of migration intentions using multivariable proportional odds models.
+FINDINGS
+Among respondents, 28% (870/3156) expected to migrate abroad, while only 18% (575/3158) anticipated a rural career.
+More nursing than medical students desired professions abroad (odds ratio, OR: 1.76; 95% confidence interval, CI: 1.25-2.48).  Career desires before matriculation correlated with current intentions for international (OR: 4.49; 95% CI: 3.21-6.29) and rural (OR: 4.84; 95% CI: 3.52-6.66) careers.
+Time spent in rural areas before matriculation predicted the preference for a rural career (20 versus 0 years: OR: 1.53, 95% CI: 1.19-1.98) and against work abroad (20 versus 0 years: OR: 0.69, 95% CI: 0.50-0.96).
+CONCLUSION
+A significant proportion of students surveyed still intend to work abroad or in cities after training.
+These intentions could be identified even before matriculation.
+Admissions standards that account for years spent in rural areas could promote greater graduate retention in the country of training and in rural areas.

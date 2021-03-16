@@ -1,0 +1,10 @@
+Cost-effectiveness of a comprehensive programme for drug-resistant tuberculosis in China.
+OBJECTIVE
+To investigate the cost-effectiveness of a comprehensive programme for drug-resistant tuberculosis launched in four sites in China in 2011.
+METHODS
+In 2011-2012, we reviewed the records of 172 patients with drug-resistant tuberculosis who enrolled in the comprehensive programme and we collected relevant administrative data from hospitals and China's public health agency.
+For comparison, we examined a cohort of 81 patients who were treated for drug-resistant tuberculosis in 2006-2009.  We performed a cost-effectiveness analysis, from a societal perspective, that included probabilistic uncertainty.
+We measured early treatment outcomes based on three-month culture results and modelled longer-term outcomes to facilitate estimation of the comprehensive programme's cost per disability-adjusted life-year (DALY) averted.  FINDINGS
+The comprehensive programme cost 8837 United States dollars (US$) per patient treated.  Low enrolment rates meant that some fixed costs were higher, per patient, than expected.
+Although the comprehensive programme appeared 30 times more costly than the previous one, it resulted in greater health benefits.  The comprehensive programme, which cost US$ 639 (95% credible interval: 112 to 1322) per DALY averted, satisfied the World Health Organization's criterion for a very cost-effective intervention.
+The comprehensive programme, which included rapid screening, standardized care and financial protection, improved individual outcomes for MDR tuberculosis in a cost-effective manner.  To support post-2015 global heath targets, the comprehensive programme should be expanded to non-residents and other areas of China.

@@ -1,0 +1,6 @@
+[Epigenetic hypothesis of the role of peptides in aging.]
+In regulation of gene expression in the ontogenesis of multicellular eukaryotes, in addition to transcription factors, an important role is played by epigenetic factors that control the release of genetic information in each cell division.
+Many binding sites for the transcription factors were derived from transposons sequences.
+Mobile elements are also important sources of non-coding RNA.  Due to this, transposons have an indirect effect on gene expression and genome methylation.
+In evolution, transposons serve as important sources for the origin of new protein and proteins domains.  A number of studies have identified that long non-coding RNAs and microRNAs can be translated into functional peptides.
+At the same time, transposons remain active in the hypothalamus of adult humans, which is consistent with the transcription of non-coding RNAs in these structures, which may be key in aging.

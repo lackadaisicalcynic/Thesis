@@ -1,0 +1,10 @@
+[Detection of effective treatment of amnestic mild cognitive impairement with cereton by testing of lipids markers].
+AIM  Determination of effectivity and safety of Cereton (Choline alfoscerate, production by Sotex) 1200 mg/day in the treatment of cognitive functioning disorders in patients with amnestic mild cognitive impairment (aMCI) and determining its influence in the process (after a 3 month course of taking the drug) and 3 months after the end of treatment of aMCI on the change in the content of phosphatidylcholine, sphingomyelin, ceramide-metabolite sphingolipids and the activity of genes controlling the synthesis of enzymes, which control ithe metabolism of sphingomyelin and ceramide (sphingomyelinase and ceramidase).
+MATERIAL AND METHODS
+The study involved a group of elderly patients (20 people), consisting of 14 women and 6 men, aged 51 to 82 years (mean age 70.3±9.1 years).
+The patients' condition met the criteria for diagnosing aMCI syndrome.
+Analysis of phosphatidylcholine, sphingomyelin and ceramide in the blood plasma of patients was carried out by thin layer chromatography, expression of sphingomyelinase and ceramidase genes by RtPCR.
+RESULTS AND CONCLUSION
+A sharp increase in the content of phosphatidylcholine and ceramide, the product of sphingomyelin hydrolysis, was detected.
+Expression of genes (acidic sphingomyelinase and ceramidase), controlling the metabolism of ceramide, is significantly reduced in the majority of patients in the treatment with ceretone.
+An increase in the level of phosphatidylcholine and a decrease in the expression level of the ceramide metabolism genes during treatment with ceretone and other drugs that affect the metabolism of phosphatidylchodine and sphingolipids can be used as markers of the effectiveness of therapy.

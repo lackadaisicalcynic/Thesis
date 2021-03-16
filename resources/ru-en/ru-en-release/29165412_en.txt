@@ -1,0 +1,12 @@
+[Stabilizing effectiveness of orthokeratology and long-term minute-concentration atropine therapy in myopia (draft report)].
+The rational for the study was the high prevalence of myopia in the world.
+According to the World Health Organization (WHO), myopia is one of the five leading causes of blindness and low vision.  Of recent reports on conservative measures for the stabilization of myopia, two areas of investigation deserve attention: methods of optical correction that affect peripheral refraction, orthokeratology lenses (OKL) in particular, and pharmacotherapy.
+The aim of the study was to evaluate the effectiveness and safety of myopia control in pediatric patients by combining two methods - OKL wearing and instillation of extra low doses of atropine (0.01%).
+MATERIAL AND METHODS
+Within a prospective cohort study, 31 patients (62 eyes) aged 8 to 14 years with acquired myopia of low 14 (28), medium 11 (22), or high 6 (12) degree, were examined before and 6 months after adding 0.01% atropine instillations to OKL wearing.
+Refraction (Huvitz MRK 3100P), axial eye length (IOL-Master, 'CarlZeiss', Germany), absolute accommodation (Grand Seiko WRK-5100K), accommodative reserves, and pseudoaccommodation were assessed.
+RESULTS
+The most significant effect on reducing the rate of disease progression was observed in patients with low and moderate myopia (1.5 and 1.7 times, correspondingly, p<0.05).  In high myopia no reliable changes were noticed.
+Obviously, the inhibitory effect of OKL, which is conditioned by optical factors (peripheral myopic defocus in particular), even in combination with atropine, is not able to stop the progression of high myopia, which is based on structural and biomechanical changes of the sclera.
+CONCLUSION
+Judging from these preliminary results, one should not claim 100% effectiveness of prolonged minute-concentration atropine use, however, the positive effect exists and the study continues.

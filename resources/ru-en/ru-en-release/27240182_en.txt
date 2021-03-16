@@ -1,0 +1,7 @@
+[Modeling of hemodynamic changes in the aneurysm of the middle cerebral artery depending on the pathology of the parent artery].
+OBJECTIVE  To examine the influence of the parent artery pathology on the local hemodynamics on the level of aneurysm.
+MATERIAL AND METHODS
+Mathematical models of the arteriovenous malformation (AVM) were built on the CT-angiography data of real patients.  To simulate the thrombosis, the parent artery and its branches were sequentially turned off in the model 1.
+In the model 2, the simulation of embolization of AVM was achieved by cutting off the exactly section of the parent artery that was involved in the arteriovenous formation.
+RESULTS AND CONCLUSION  Model 1 showed that the flow redistribution did not significantly impact on the risk of rupture after the parent artery was turned off and blood pressure was increased in both aneurysms by 3 mm Hg.
+Model 2, in which the aneurysms were combined with a direct arteriovenous drainage with low peripheral resistance, showed that turning off the parent artery and pathological drainage led to the serious reduction in the venous drainage flow and it's increasing in the parent artery by about 60% that significantly increased the risk of rupture.

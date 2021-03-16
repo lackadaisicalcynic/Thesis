@@ -1,0 +1,12 @@
+[Impact of smoking on kidney transplantation outcomes].
+AIM  To investigate the impact of smoking on kidney transplantation outcomes.
+SUBJECTS AND METHODS
+The materials of 350 patients (including 229 (65.4%) men aged 37.1±0.6 years) who had undergone kidney allotransplantation (KAT) for end-stage renal disease were analyzed.
+The main outcomes of KAT (patient status (alive or dead); renal allograft (RAG) function or dysfunction; development of chronic transplant nephropathy (CTN)), were studied.
+RESULTS
+There were 52 (14.8%) smoking patients (50 (96.2%) men and 2 (3.8%) women).
+The survival rate of smokers after KAT was significantly lower (p=0.043), as was the duration of graft function in the smoking patients (p=0.038).
+There were statistically significant associations of smoking with age, sex, time to normalize post-KAT serum creatinine concentrations, the development of CTN and graft rejection crises, postoperative hypertension, post-KAT serum creatinine, hemoglobin, and albumin levels, pretransplantation alanine aminotransferase concentrations, pre-KAT left ventricular hypertrophy, patient compliance with the prescribed treatment regimen, the presence or absence of a job in the patient after KAT (p<0.05).  The investigators built models for predicting the outcome of KAT for a patient's life and the development of CTN from preoperative patient risk factors, as well as a model of a RAG outcome from the factors of the pre-transplantation period and those seen one year after KAT.
+The impact of smoking on outcomes of KAT was revealed in all models along with other predictors.
+CONCLUSION
+Smoking is an important predictor of kidney transplantation outcome for both patients' lives and RAG function.

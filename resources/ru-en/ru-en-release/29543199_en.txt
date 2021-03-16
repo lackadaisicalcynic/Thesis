@@ -1,0 +1,13 @@
+[Prognostic factors of antiangiogenic therapy response in neovascular macular degeneration].  The apparent success of antiangiogenic therapy in patients with neovascular age-related macular degeneration (nAMD) shows the significance of effect prognosis and continuous observation.
+PURPOSE  to study the influence of prognostic factors on the dynamics of functional and morphological response during anti-VEGF therapy in patients with nAMD.
+MATERIAL AND METHODS
+Retrospective analysis of anti-angiogenic therapy results was performed on the data of 1020 patients with nAMD.
+Some patients were put into two subgroups: 100 patients with retinal pigment epithelium detachment (PED) and 100 patients without PED.  Comparative analysis of functional and morphological parameters was performed in the subgroups.
+RESULTS
+Baseline visual acuity (VA) in patients with PED (0.14±0.1) was significantly (р<0.05) lower than in patients without PED (0.32±0.21) and had negative correlation with PED presence (r=-0.61, р<0.05).
+By the end of the 12 months follow-up Best Corrected Visual Acuity (BCVA) was 0.52±0.28 and 0.62±0.28 (р>0.05) in patients with PED and without PED respectively.  Mean number of injections in patients with PED was 5.7±2.5 compared to 3.5±1.2 in patients without PED (р<0.05).
+After 12 months VA in patients with PED was associated with baseline BCVA (r=0.59, р<0.05), VA after 4th injection (r=0.84, р<0.05) and baseline retinal thickness (r=0.60, р<0.05).
+CONCLUSION
+PED in patients with nAMD was shown to be an unfavorable factor associated with significantly lower baseline BCVA that requires careful monitoring.
+At least three 'loading' injections are required to determine drug responsiveness and acquire functional and morphological response data.
+Correlation of BCVA values at different timepoints (baseline/after 3 'loading' doses/after 12 month) was found.

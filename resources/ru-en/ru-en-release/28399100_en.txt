@@ -1,0 +1,12 @@
+[Association of inflammatory genes with neuroticism, anxiety and depression in male patients with coronary heart disease].
+AIM  To explore the relationship of depression and its endophenotypes (neuroticism and trait anxiety) with inflammatory genes in patients with coronary heart disease (CHD).
+MATERIAL AND METHODS
+A sample consisted of 78 male CHD patients with depression, 91 CHD patients without depression and 127 healthy men.
+Polymorphisms of the genes encoding interleukine-4 (IL-4 -589 C/T), interleukine-6 (IL-6 -174 G/C), tumor-necrosis factor alpha (TNF-α -308 G/A) and C-reactive protein (CRP -717A/G) were studied.
+RESULTS
+There was the association between the IL-6 -174 G/C and depression comorbid to CHD (р=0.01; OR=2.3 CI 95% 1.2-4.3).  The frequency of the 'high expression' allele G in this group was higher compared to controls.
+The association between IL-4 -589 C/T and CHD was found.  Compared to the control group, the frequency of the IL-4 -589CC genotype was higher in patients regardless of whether they had symptoms of depression (р=0.007; OR=2.1 CI 95% 1.2-3.4).
+No association between the TNF-α -308G/A and the CRP -717A/G with depression in CHD was observed.
+There were no differences between neuroticism and anxiety scores in patients with different IL-4 -589 C/T, IL-6 -174 G/C, TNF-α -308 G/A, CRP -717A/G genotypes.
+CONCLUSION
+The finding of the association between the IL-6 -174G/C and depression, comorbid to CHD, is in line with literature on a role of IL-6 in the development of depression in patients with CHD.

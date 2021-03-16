@@ -1,0 +1,12 @@
+[Social-demographic aspects of insomnia in the Russian population according to ESSE-RF study].
+AIM  To estimate the prevalence of insomnia symptoms and their association with socio-demographic characteristics in the regions participated in the study.
+MATERIAL AND METHODS
+Data from participants of the cohort study Epidemiology of cardiovascular disease in various regions of the Russian Federation (ESSE-RF), aged 25-64 years, from 13 regions of the Russian Federation were analyzed.
+They were interviewed about sleep complaints: difficulties falling asleep, maintaining sleep, sleepiness and sleeping pill intake (response variants: never, less than once a week, 1-2 times a week, three and more times a week).
+Responses with complaints occurring at least three times a week were considered as insomnia symptoms.  Social and demographics characteristics from survey included: age, gender, education, marital status, job/employment, type of housing.
+The final analysis included 20 359 respondents.  RESULTS
+Clinically significant frequent (≥3 times a week) difficulties of falling asleep were reported by 17.2% respondents, difficulties in maintaining sleep by 13.6%; drowsiness by 6.3%, taking sleeping pills by 2.9% respondents.  Women reported sleep complaints twice more after comared to men.
+The occurrence of frequent difficulties to falling asleep and nocturnal awakenings increased with age - from 11.4% and 5.9% to 24.2% and 20.7%.
+The highest occurrence of insomnia symptoms to such as difficulties in falling asleep and nocturnal awakenings was found in women, older age groups, divorced subjects or living separately, those with primary education, retired or disabled and living in a communal apartment or 'other' type of housing.
+CONCLUSION  Symptoms of insomnia are widespread among participants of the ESSE-RF study and associated with socio-demographic characteristics.
+Groups with high risk of insomnia include women, older age groups, divorced or living separately, those with primary education, unemployed pensioners and people with disabilities living in a communal apartment or 'other' type of housing.

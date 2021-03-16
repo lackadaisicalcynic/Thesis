@@ -1,0 +1,14 @@
+Emergency care in 59 low- and middle-income countries: a systematic review.
+OBJECTIVE
+To conduct a systematic review of emergency care in low- and middle-income countries (LMICs).  METHODS
+We searched PubMed, CINAHL and World Health Organization (WHO) databases for reports describing facility-based emergency care and obtained unpublished data from a network of clinicians and researchers.
+We screened articles for inclusion based on their titles and abstracts in English or French.
+We extracted data on patient outcomes and demographics as well as facility and provider characteristics.  Analyses were restricted to reports published from 1990 onwards.
+FINDINGS  We identified 195 reports concerning 192 facilities in 59 countries.
+Most were academically-affiliated hospitals in urban areas.  The median mortality within emergency departments was 1.8% (interquartile range, IQR: 0.2-5.1%).
+Mortality was relatively high in paediatric facilities (median: 4.8%; IQR: 2.3-8.4%) and in sub-Saharan Africa (median: 3.4%; IQR: 0.5-6.3%).
+The median number of patients was 30 000 per year (IQR: 10 296-60 000), most of whom were young (median age: 35 years; IQR: 6.9-41.0) and male (median: 55.7%; IQR: 50.0-59.2%).
+Most facilities were staffed either by physicians-in-training or by physicians whose level of training was unspecified.  Very few of these providers had specialist training in emergency care.
+CONCLUSION
+Available data on emergency care in LMICs indicate high patient loads and mortality, particularly in sub-Saharan Africa, where a substantial proportion of all deaths may occur in emergency departments.
+The combination of high volume and the urgency of treatment make emergency care an important area of focus for interventions aimed at reducing mortality in these settings.

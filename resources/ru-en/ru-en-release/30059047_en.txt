@@ -1,0 +1,7 @@
+[Changes in characteristics of sleep-wake cycle and motor activity at the preclinical stage of Parkinson's disease in old rats].
+AIM  To assess the changes in temporal characteristics and total motor activity (MA) during the sleep-wake cycle in old rats in the model of the preclinical stage of Parkinson's disease (PD).
+MATERIAL AND METHODS
+Progressing inhibition of proteasome system and prolonged (up to the 21st day) development of the preclinical stage of PD in 19-20-month Wistar rats was caused by the specific proteasomal inhibitor lactacystin administered twice with a week interval.  Telemetric monitoring of sleep-wake cycle was performed along with the video recording of MA.
+RESULTS  During the 13-21st days, the preclinical stage of PD in old rats was characterized by the following features: 1) increased drowsiness in the active (dark) phase of day that can be compared with the excessive daytime sleepiness in patients with PD; 2) growth of delta-activity indicating presumably a compensatory increase in the deep slow-wave sleep (SWS) stage; 3) decreased MA during SWS and drowsiness, which was coupled with the lowered dopamine level in the dorsal striatum typical for the preclinical stage of PD.
+CONCLUSION
+Both increased drowsiness and reduced MA during sleep, reflecting dopamine deficit in the nigrostriatal system, may be recommended for using in clinical research as inexpensive early markers of the preclinical stage of PD.

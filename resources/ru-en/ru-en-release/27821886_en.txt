@@ -1,0 +1,13 @@
+Microcephaly in north-east Brazil: a retrospective study on neonates born between 2012 and 2015.
+OBJECTIVE  To assess the number of children born with microcephaly in the State of Paraíba, north-east Brazil.
+METHODS  We contacted 21 maternity centres belonging to a paediatric cardiology network, with access to information regarding more than 100 000 neonates born between 1 January 2012 and 31 December 2015.
+For 10% of these neonates, nurses were requested to retrieve head circumference measurements data from delivery-room books.  We used three separate criteria to classify whether a neonate had microcephaly: (i) the Brazilian Ministry of Health proposed criterion: term neonates (gestational age ≥ 37 weeks) with a head circumference of less than 32 cm; (ii) Fenton curves: neonates with a head circumference of less than -3 standard deviation for age and gender; or (iii) the proportionality criterion: neonates with a head circumference of less than ((height/2))+10) ± 2.
+FINDINGS
+Between 1 and 31 December 2015, nurses obtained data for 16 208 neonates.
+Depending on which criterion we used, the number of neonates with microcephaly varied from 678 to 1272 (4.2-8.2%).
+Two per cent (316) of the neonates fulfilled all three criteria.
+We observed temporal fluctuations of microcephaly prevalence from late 2012.
+CONCLUSION
+The numbers of microcephaly reported here are much higher than the 6.4 per 10 000 live births reported by the Brazilian live birth information system.
+The results raise questions about the notification system, the appropriateness of the diagnostic criteria and future implications for the affected children and their families.
+More studies are needed to understand the epidemiology and the implications for the Brazilian health system.

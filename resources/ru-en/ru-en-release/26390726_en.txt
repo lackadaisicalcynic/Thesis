@@ -1,0 +1,11 @@
+[Molecular analysis of immunoglobulin genes in the tumor B cells in splenic marginal zone lymphoma].
+AIM  To determine the immunoglobulin variable heavy chain (gVH) genes and their somatic mutations and to compare these data with the clinical and laboratory parameters of patients and the outcomes of the disease.
+SUBJECTS AND METHODS
+The investigation enrolled 24 patients  (9 men and 15 women whose age was 32 to 77 years (median age, 60 years) with splenic marginal zone B-cell lymphoma (SMZBCL).
+The latter was diagnosed on the basis of histological and immunohistochemical examinations of a bone marrow trephine biopsy specimen, immunophenotyping of peripheral lymphoid cells or bone marrow aspirates.
+RESULTS
+The mutational status of the IgVH genes was analyzed in all the 24 patients.
+It was found that the tumor cells contained mutated IgVH genes (the VH1-family genes participated in most cases) in 15 (62.5%) patients with SMZBCL and unmutated ones in 9 (37.5%).
+There was a tendency towards more common tumor progression in patients with unmutated IgVH genes than in those with mutated ones.
+CONCLUSION
+The presence of SMZBCL cases with both mutated and unmutated IgVH genes and the higher frequency of the VH1-2 gene are likely to indicate the molecular heterogeneity of the origin of this lymphoma.

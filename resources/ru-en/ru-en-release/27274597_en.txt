@@ -1,0 +1,11 @@
+Measuring the adequacy of antenatal health care: a national cross-sectional study in Mexico.
+OBJECTIVE
+To propose an antenatal care classification for measuring the continuum of health care based on the concept of adequacy: timeliness of entry into antenatal care, number of antenatal care visits and key processes of care.
+METHODS
+In a cross-sectional, retrospective study we used data from the Mexican National Health and Nutrition Survey (ENSANUT) in 2012.  This contained self-reported information about antenatal care use by 6494 women during their last pregnancy ending in live birth.
+Antenatal care was considered to be adequate if a woman attended her first visit during the first trimester of pregnancy, made a minimum of four antenatal care visits and underwent at least seven of the eight recommended procedures during visits.  We used multivariate ordinal logistic regression to identify correlates of adequate antenatal care and predicted coverage.
+FINDINGS  Based on a population-weighted sample of 9 052 044, 98.4% of women received antenatal care during their last pregnancy, but only 71.5% (95% confidence interval, CI: 69.7 to 73.2) received maternal health care classified as adequate.
+Significant geographic differences in coverage of care were identified among states.  The probability of receiving adequate antenatal care was higher among women of higher socioeconomic status, with more years of schooling and with health insurance.
+CONCLUSION
+While basic antenatal care coverage is high in Mexico, adequate care remains low.
+Efforts by health systems, governments and researchers to measure and improve antenatal care should adopt a more rigorous definition of care to include important elements of quality such as continuity and processes of care.

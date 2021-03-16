@@ -1,0 +1,14 @@
+[Association of decreased external pulmonary function with cognitive impairments].
+AIM  To examine the association between the basic indicators of external respiratory function (ERF) and cognitive impairments (CIs).
+MATERIALS AND METHODS
+The materials of a population-based cross-sectional study were used in the investigation; a representative sample consisted of 3818 men and women aged 45-69 years.
+Forced expiratory volume in the first second (FEV1), the ratio of FEV1 to forced vital capacity (FVC) were determined to assess ERF.
+CIs were evaluated using the 10-word test described by A.R. Luria, Cog-sum indices (the sum of correctly reproduced words with 3 attempts), and Cog-mean=Cog-sum/3.
+RESULTS
+In patients with an FEV1/FVC <70%, the probability of a Cog-sum of <20 scores was twice higher than in those with an FEV1/FVC ≥70%; in patients with an FEV1 <80%, the probability of a Cog-sum of <20 scores was also 2 times higher than in those with an FEV1 ≥80%.
+Multiple regression analysis revealed no significant associations between Cog-sum index and smoking index, body mass index, and blood pressure.
+Cog-sum was inversely related to age and directly related to FEV1 and female sex.
+Binary logistic regression analysis showed that gender, age, and FEV1 were statistically significant variables.
+The relative risk of a Cog-sum of <20 that was 1.7 times higher in the men than in the women, 1.8 times higher in the patients with an FEV1 <80% than in those with an FEV1 ≥80% (model 1), 1.7 times higher in the patients with an FEV1/FVC <70% than in those with FEV1/FVC ≥70% (model 2) increased with age.
+CONCLUSION
+The decrease in the basic indicators of ERF (FEV1, FEV1/FVC) is an independent predictor of CIs.

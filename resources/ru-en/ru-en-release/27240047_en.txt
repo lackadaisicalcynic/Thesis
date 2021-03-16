@@ -1,0 +1,7 @@
+[The association between the GRIN2B gene and verbal fluency and impairment of abstract thinking in schizophrenia].
+OBJECTIVE  To search for the association between the GRIN2B gene and signs of thought and speech disorders which may be the result of decreased accessibility to the mental lexicon.
+MATERIAL AND METHODS
+The association between the GRIN2B polymorphism rs7301328 with semantic verbal fluency and five symptoms of thought and speech disorders, as assessed with the PANSS, was studied in 552 patients with schizophrenia-spectrum disorders.
+RESULTS AND CONCLUSION  There was the association of the GRIN2B gene with verbal fluency and the PANSS item «Difficulty in Abstract Thinking».
+The association was not modified by verbal fluency.  The results suggest that the GRIN2B gene may modify the linguistic processes involved in the retrieval of information from the mental lexicon on the basis of semantic traits and, moreover, contribute to the variability of clinical symptoms of impairment of abstract thinking in patients with schizophrenia.
+The heterozygous genotype may be protective against the development of thought and speech disorders.

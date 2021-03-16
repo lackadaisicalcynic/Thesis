@@ -1,0 +1,12 @@
+Increased immunization coverage addresses the equity gap in Nepal.
+OBJECTIVE  To compare immunization coverage and equity distribution of coverage between 2001 and 2014 in Nepal.
+METHODS
+We used data from the Demographic and Health Surveys carried out in 2001, 2006 and 2011 together with data from the 2014 Multiple Indicator Cluster Survey.
+We calculated the proportion, in mean percentage, of children who had received bacille Calmette-Guérin (BCG) vaccine, three doses of polio vaccine, three doses of diphtheria-pertussis-tetanus (DPT) vaccine and measles vaccine.  To measure inequities between wealth quintiles, we calculated the slope index of inequality (SII) and relative index of inequality (RII) for all surveys.
+FINDINGS
+From 2001 to 2014, the proportion of children who received all vaccines at the age of 12 months increased from 68.8% (95% confidence interval, CI: 67.5-70.1) to 82.4% (95% CI: 80.7-84.0).
+While coverage of BCG, DPT and measles immunization statistically increased during the study period, the proportion of children who received the third dose of polio vaccine decreased from 93.3% (95% CI: 92.7-93.9) to 88.1% (95% CI: 86.8-89.3).
+The poorest wealth quintile showed the greatest improvement in immunization coverage, from 58% to 77.9%, while the wealthiest quintile only improved from 84.8% to 86.0%.
+The SII for children who received all vaccines improved from 0.070 (95% CI: 0.061-0.078) to 0.026 (95% CI: 0.013-0.039) and RII improved from 1.13 to 1.03.
+CONCLUSION
+The improvement in immunization coverage between 2001 and 2014 in Nepal can mainly be attributed to the interventions targeting the disadvantaged populations.

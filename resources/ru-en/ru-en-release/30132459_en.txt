@@ -1,0 +1,8 @@
+[Cluster analysis of inflammatory markers in disorders of adaptation].
+AIM
+To determine immunophenotypes of patients with adaptation disorders using cluster analysis.  The level of inflammatory markers such as leukocyte elastase (LE) enzyme activity and functional activity of α1-protease inhibitor (α1-PI) were used as a classifying attribute (characteristic).
+MATERIAL AND METHODS  The results of evaluation of enzymatic activity of LE and functional activity of α1-PI in 40 patients with adaptation disorders (ICD-10 F43.2) were subjected to cluster analysis.
+The control group included 23 age- and sex-matched healthy controls.  RESULTS
+Several algorithms of cluster analysis allow to identify three immunophenotypes in the group of patients with adaptation disorders.  Immunophenotypes differed significantly by ratios of LE and α1-PI activity, which were mostly driven by different LE activity.
+Cluster 1 with the relatively low LE activity and high background α1-PI, is of particular interest because it may reflect the disturbed interaction between the various links of immune response.  CONCLUSION
+The obtained results of cluster analysis confirm the hypothesis about the existence of three immunophenotypes in the patients with adaptation disorders, which indicates that a phenotypically similar pattern can be determined by different spectra of immune indices.

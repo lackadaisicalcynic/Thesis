@@ -1,0 +1,7 @@
+The role of N-terminal pro-brain natriuretic peptide in prediction of postoperative atrial fibrillation.
+AIM
+To analyze prognostic value of different factors in postoperative atrial fibrillation prediction.  MATERIAL AND METHODS
+Study included 39 patients with coronary artery disease without previous paroxysmal atrial fibrillation.  Multiple correlation, logistic regression and ROC-analysis were performed to create predictive model of postoperative atrial fibrillation prognosis.
+Authors have analyzed most of described in literature preoperative predictors of atrial fibrillation to define the role of different risk factors.  Prognostic role of N-terminal pro-brain natriuretic peptide (NT-proBNP) is assessed.
+RESULTS
+We revealed high informativeness of NT-proBNP to predict postoperative atrial fibrillation after on-pump coronary artery bypass grafting.

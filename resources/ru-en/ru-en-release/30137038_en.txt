@@ -1,0 +1,17 @@
+[Surgical treatment of epilepsy in patients with mediobasal temporal cavernous malformations].  OBJECTIVE
+Epilepsy is a frequent clinical manifestation of cavernous malformations (CMs) of the mediobasal temporal region (MBTR).  Surgical removal of CMs is an excellent technique for treating associated epilepsy and may range from pure lesionectomy to tailored resection of the temporal lobe.
+PURPOSE  The study purpose was to determine the optimal surgical management for epilepsy in patients with CMs of the MBTR.
+MATERIAL AND METHODS
+We retrospectively analyzed the clinical data, neuroimaging findings, surgical techniques, and surgical outcomes in 11 patients with epilepsy and CMs of the MBTR.
+All patients underwent video-electroencephalography, magnetic resonance imaging, and computed tomography in the pre- and postoperative periods.
+Nine patients underwent preoperative implantation of foramen ovale electrodes.
+In all cases, surgery was accompanied by electrocorticography (ECoG).
+RESULTS
+CMs were located in the anterior MBTR in 7 cases, anterior and middle thirds of the MBTR in 1 case, middle third in 2 cases, and middle and posterior thirds in 1 case.
+In 8 patients, preoperative monitoring revealed a seizure onset area in the MBTR.
+These patients underwent cavernomectomy with ECoG-guided resection of the hemosiderin ring and adjacent tissue using the pterional (4 cases) or supracerebellar transtentorial approach (4).  In 3 cases, anterior temporal lobectomy with cavernomectomy was additionally used due to spreading of pathological activity to the lateral temporal neocortex.
+Seizure control after surgery was excellent in 7 patients (class 1 ILAE) and good in 4 (class 2 ILAE).
+CONCLUSION
+Surgery in patients with epilepsy caused by CMs of the MBTR should be performed based on non-invasive and invasive presurgical evaluation.
+If the seizure onset area is located in the MBTR, lesionectomy with ECoG-guided resection of the adjacent temporal cortical areas can be performed using the pterional or supracerebellar transtentorial approach.
+Lateral spread of epileptic activity requires cavernomectomy and anterior temporal lobectomy.

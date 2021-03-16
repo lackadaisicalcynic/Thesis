@@ -1,0 +1,12 @@
+Psychological distress and the perception of radiation risks: the Fukushima health management survey.
+OBJECTIVE
+To assess relationships between the perception of radiation risks and psychological distress among evacuees from the Fukushima nuclear power plant disaster.
+METHODS
+We analysed cross-sectional data from a survey of evacuees conducted in 2012.  Psychological distress was classified as present or absent based on the K6 scale.
+Respondents recorded their views about the health risks of exposure to ionizing radiation, including immediate, delayed and genetic (inherited) health effects, on a four-point Likert scale.  We examined associations between psychological distress and risk perception in logistic regression models.
+Age, gender, educational attainment, history of mental illness and the consequences of the disaster for employment and living conditions were potential confounders.
+FINDINGS  Out of the 180,604 people who received the questionnaire, we included 59,807 responses in our sample.
+There were 8717 respondents reporting psychological distress.  Respondents who believed that radiation exposure was very likely to cause health effects were significantly more likely to be psychologically distressed than other respondents: odds ratio (OR) 1.64 (99.9% confidence interval, CI: 1.42-1.89) for immediate effects; OR: 1.48 (99.9% CI: 1.32-1.67) for delayed effects and OR: 2.17 (99.9% CI: 1.94-2.42) for genetic (inherited) effects.
+Similar results were obtained after controlling for individual characteristics and disaster-related stressors.
+CONCLUSION
+Among evacuees of the Fukushima nuclear disaster, concern about radiation risks was associated with psychological distress.

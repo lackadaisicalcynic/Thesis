@@ -1,0 +1,14 @@
+[The concept of risk factors in assessing the impact of smoking on an exacerbation of chronic obstructive pulmonary disease].
+AIM  By using the risk concept, to determine a quantitative relationship between smoking in patients with chronic obstructive pulmonary disease (COPD) and the development of an exacerbation.
+SUBJECTS AND METHODS
+Case history data were studied in 166 patients admitted for a COPD exacerbation in 2009 to 2012.
+There were 2 exacerbations for a year or longer.
+The patients were divided into 2 groups: smokers (n=110) and nonsmokers (n=56).
+The concept for estimating the risks was based on the calculation of absolute risk in the exposed and unexposed groups, attributable risk, relative risk, and population attributable risk and on the determination of standard errors for each type of risk and confidence interval.
+RESULTS
+The methodological aspects of determining the quantitative relationship between smoking in patients with COPD and the development of its exacerbations (twice or more per year) were considered on the basis of the statistical concept of risk factors.
+A risk factor concept-based analysis has shown that the impact of smoking is directly related to the worsening of COPD.
+The frequency of exacerbations is 71.8% in the group of smoking patients and 32.1 % in that of nonsmoking patients; the risk factor increases the likelihood of this event by 39.7%.
+CONCLUSION
+Smoking leads to a 2.2-fold increase in the frequency of COPD exacerbations.
+The potential hazard index was 2.5.

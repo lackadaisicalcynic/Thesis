@@ -1,0 +1,11 @@
+[The diagnostic significance of vestibular evoked myogenic potentials in different types of vertigo].
+AIM  To study the parameters of vestibular evoked myogenic potentials (VEMPs) in different types of vertigo.
+MATERIAL AND METHODS
+Seventy-seven patients, 35 men and 42 women, aged 43.7±12.5 years, with vestibular vertigo and unsteadiness were examined.
+The activity of the stemocleidomastoid muscle in response to auditory stimulation of the ipsilateral ear was recorded using surface electromyography.
+RESULTS
+There were a trend towards the increase in the N2 latency, the significant reduction of the P1-N2 amplitude (p<0,005) on both sides and significant changes in the coefficient of asymmetry.
+Compared to healthy people, the P1 latency and asymmetry in P1 latency were significantly increased in patients with peripheral type of vertigo (p<0,005 and р=0,0007, respectively).
+There were no differences in the P1 latency and N2 in patients with unsteadiness.
+CONCLUSION
+In patients with peripheral vertigo, central vertigo and unsteadiness, vestibular-spinal reflex was disturbed at different levels of vestibular analyzer.

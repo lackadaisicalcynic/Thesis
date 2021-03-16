@@ -1,0 +1,13 @@
+[Efficiency of different celecoxib regimens in patients with active axial spondyloarthritis: Results of the 4-week pilot open-label comparative single-center study 'AIM'].
+AIM  To compare the efficiency and safety of two celecoxib regimens in the short-term treatment of patients with axial spondyloarthritis (axSpA).
+SUBJECTS AND METHODS
+Examinations were made in 40 patients with axSpA (the 2009 ASAS criteria; age, 38.5±12.1 years; 29 (72.5%) men; axSpA duration, 6.67±5.8 years; BASDAI ≥4.0), who were randomly divided into two groups: 1) 20 patients who received celecoxib 400 mg/day for 30 days; 2) 20 patients who took celecoxib 600 mg/day for 7 days, then the drug was continued at a dose of 200 mg/day for 1 month.
+High-sensitivity C-reactive protein (CRP) was determined; back pain was assessed using a visual analog scale; ASDAS-CRP scores were calculated at baseline (day 0) and on days 8 and 30.
+RESULTS
+On days 0, 8, and 30 of taking celecoxib 400 mg, the back pain scores were 6.0±3.01, 5.06±2.04, and 5.53±2.35; CRP levels, 24.13±21.46; 27.3±29.3%, and 13.1±21.3 mg/l; erythrocyte sedimentation rate (ESR), 15.25±14.36, 11.85±13.6, and 9.5±6.34 mm/h, respectively (p≥0.05 for all differences in all indicators relative to the baseline values).
+ASDAS was 3.34±1.02 at baseline, 2.74±1.14 on day 8, and 2.18±1.05 on day 30 (p=0.016 and p=0,000 for differences from the baseline values).
+In the patients using the dose de-escalation of celecoxib, the back pain scores were 4.95±1.6, 4.11±1.0, and 4.89±2.1 at baseline and on days 8 and 30, respectively (p=0.38 and p=0.065 for the differences from the baseline values); the CRP levels were 15.3±12.5, 12.1±10.8, and 7.5±4.5 mg/l, respectively (p=0.3 and p=0.001); ESR, 13.35±7.2, 15.7±11.6, and 15.16±8.9 mm/h (p≥0.05).
+At baseline and on days 8 and 30, ASDAS was 3.1±0.6, 2.22±0.7, and 3.47±0.56, respectively (p=0.02 and p=0.000).  No differences were found in the rate of adverse events.
+CONCLUSION  Different regimens using nonsteroidal anti-inflammatory drugs demonstrated their feasibility, efficiency, and safety in AxSpA patients with high disease activity.
+The continuous use of celecoxib showed a gradual decrease in clinical and laboratory activity.  The de-escalation dose of celecoxib achieved a permanent laboratory activity reduction and pain relief when using 600 mg celecoxib, and after reducing its dose to 200 mg/day, there was a decrease in laboratory disease activity without substantially changing the patients' functional activity.
+The safety of the comparable regimens was comparable.

@@ -1,0 +1,12 @@
+[Role of fibroblast growth factor 23 in the development of cardiovascular diseases in patients with end-stage renal failure on programmed hemodialysis].  AIM
+To determine the nature of changes in fibroblast growth factor 23 (FGF-23) and other bone mineral metabolism parameters detectable in the blood of patients with end-stage chronic renal failure (CRF) and to analyze their links to the development of cardiovascular events in uremic intoxication.
+SUBJECTS AND METHODS
+A total of 75 patients (45 men and 30 women) aged 23 to 66 years (mean age, 53±2.1 years) with Stage VD CKF were examined.
+The levels of parathyroid hormone (PTH), calcium, phosphorus, the morphogenetic protein FGF-23, and the cardiospecific protein troponin I were investigated.  Doppler echocardiography was performed on an Aloka 4000 machine.
+Left ventricular (LV) mass index (LVMI), LV systolic and diastolic function, and peak systolic blood flow velocity in the aortic arch (Vps) were estimated.
+RESULTS
+As LVMI became higher, there were increases in the level of PTH and that of FGF-23 that plays a significant role in the processes of bone remodeling and vascular calcification.
+Analysis of correlations between a change in FGF-23 concentrations depending on the morphological and functional parameters of the cardiovascular system (CVS) revealed a strong direct correlation between FGF-23 levels and LVMI (r=0.746; p<0.01), a significant inverse correlation between FGF-23 and ejection fraction (r=-0.901; p<0.05), and a direct correlation of FGF-23 and troponin I (r=0.544; p<0.05).
+CONCLUSION
+FGF-2 increasing from moderate to very high levels indicates that there is a high risk for remodeling processes in the CVS even in the absence of baseline echocardiographic signs of myocardial hypertrophy, normal aortic pulse wave velocity, and compensation of other risk factors, such as hypertension, uremia, hyperparathyroidism, even without increasing the markers of cardiovascular events, such as hyperphosphatemia.
+The elevated level of FGF-23 suggests that there is a need for cardioprotective therapy, the goal of which is to correct of the level of this factor.

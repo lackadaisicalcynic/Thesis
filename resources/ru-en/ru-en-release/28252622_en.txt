@@ -1,0 +1,11 @@
+[Risk of death from circulatory diseases in a cohort of patients exposed to chronic radiation].
+AIM  To assess mortality from circulatory diseases (CD) in a cohort of workers exposed occupationally to chronic radiation in relation to external and internal exposure, by taking into account known non-radiation risk factors (RFs), such as smoking (including smoking index), alcohol consumption, hypertension, and body mass index.
+SUBJECTS AND METHODS  Mortality from CD (ICD-10: I00 - I99) was studied in a cohort of 22,377 nuclear power plant («Mayak» Production Association) workers exposed occupationally to chronic radiation.
+The study was based on the individual dose estimates of external and internal exposure taken from the new Mayak workers dosimetry system 2008 (MWDS-2008).  The quantitative characteristics of smoking (smoking index) were used for the first time to assess the risk for CD in the cohort of workers exposed to chronic radiation.
+RESULTS
+There was a statistically significant linear relationship between CD mortality and external gamma-dose after adjusting for the non-radiation RFs; the excess relative risk per unit dose (ERR/Gy) was 0.05 (95% confidence interval (CI): 0 to 0.11).
+Introducing an additional adjustment for internal alpha-dose resulted in a twofold increase in ERR/Gy=0.10 (95% CI: 0.02 to 0.21).
+There was a statistically significant increasing trend in CD mortality with the elevated absorbed dose from internal alpha-radiation in the liver (ERR/Gy=0.27; 95% CI: 0.12 to 0.48).
+However, ERR/Gy decreased and lost its statistical significance after adjusting for external gamma-dose.
+CONCLUSION
+The results of this study are in good agreement with risk estimates obtained in the Japanese cohort of atomic bomb survivors and in the cohorts of occupationally exposed workers.

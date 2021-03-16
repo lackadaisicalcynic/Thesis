@@ -1,0 +1,13 @@
+[Ultrastructural pathology of oligodendrocytes in the white matter in continuous paranoid schizophrenia: a role for microglia].  AIM
+Previously the authors have reported the ultrastructural pathology and deficit of oligodendrocytes in gray and white matter of the prefrontal cortex in schizophrenia.
+The aim of the study was to determine of the effects of microglia on the ultrastructure of oligodendrocytes in the white matter underlying the prefrontal cortex in continuous schizophrenia.  MATERIAL AND METHODS
+Postmortem morphometric electron microscopic study of oligodendrocytes in close apposition to microglia was performed in white matter underlying the prefrontal cortex (BA10).
+Eleven cases of chronic continuous schizophrenia and 11 normal controls were studied.  Areas of oligodendrocytes, of their nuclei and cytoplasm, volume density (Vv) and the number of mitochondria, vacuoles of endoplasmic reticulum and lipofuscin granules were estimated.
+Group comparison was performed using ANCOVA.
+RESULTS
+The schizophrenia group differed from the control group by paucity of ribosomes in the cytoplasm of oligodendrocytes, a significant decrease in Vv and the number of mitochondria and increase in the number of lipofuscin granules.
+Significant correlations between the parameters of lipofuscin granules, mitochondria and vacuoles were found only in the schizophrenia group.
+The number of lipofuscin granules were correlated positively with the illness duration.
+CONCLUSION
+Dystrophic alterations of oligodendrocytes attached to microglial cells were found in the white matter of the prefrontal cortex in chronic paranoid schizophrenia as compared to controls.
+The data obtained suggest that microglia might contribute to abnormalities of energy, lipid and protein metabolism of oligodendrocytes in schizophrenia.

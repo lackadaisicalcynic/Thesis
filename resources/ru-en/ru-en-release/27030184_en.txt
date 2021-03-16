@@ -1,0 +1,14 @@
+[A new non-invasive method for assessing steatosis in chronic liver diseases].
+AIM  To assess the diagnostic accuracy of the controlled attenuation parameter (CAP) to determine the grade of hepatic steatosis (HS) in patients with chronic liver diseases (CLD) of different etiologies and to compare the obtained results with morphological findings.
+MATERIALS AND METHODS
+A total of 45 patients (18 men and 27 women) aged 25 to 73 years with CLD were examined.
+All the patients underwent liver puncture biopsy for assessing the HS index and fibrosis stage, as well as determination of hepatic elasticity (F, kPa) for estimating the stage of fibrosis and the grade of HS by CAP (S, dB/m) using a FibroScan device.
+When assessing HS, the CAP values of <229, 230-249, 250-276, and more than 277 dB/m correspond to HS grade 0 (S0), S1, S2, and S3, respectively.
+This is a pilot study in Russia.
+RESULTS
+CAP is a rather high effective method in determining the absence of steatosis (S0) (the area under the receiver operating characteristics curve (AUROC) was 0.78) and severe steatosis (S3) (AUROC 0.90). AUROC was 0.64 and 0.59 for HS S1 and S2, which is regarded as satisfactory and poor  RESULTS
+respectively.  Only 3 out of the 45 patients had HS, as evidenced by morphological examination; and the results of CAP showed another result; all the other cases had a HS grade corresponding to S1.
+In the entire cohort of the examinees, the sensitivity, specificity, and accuracy of CAP was 86, 69.5, and 78%, respectively; AUROC was 0.77 (95% CI, 0.6587-0.9006; p=0.40).
+CONCLUSION
+CAP is a promising method for the rapid and non-invasive diagnosis of HS in patients with CLD.
+At the same time, our findings show that it is necessary to clarify the quantitative indicators of the compliance of CAP and morphological evaluation of HS.

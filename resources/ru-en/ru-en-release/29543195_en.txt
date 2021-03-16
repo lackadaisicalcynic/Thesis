@@ -1,0 +1,14 @@
+[Algorithm for choosing parameters for relex smile surgery].  Presently ReLEx Smile as a method of vision correction in refractive surgery is becoming increasingly popular in Russia and abroad.
+PURPOSE  to develop an algorithm for planning the surgery and choosing its parameters, and to assess the efficacy, safety and predictability of the results in the 6-month follow-up period.
+MATERIAL AND METHODS
+The study involved 80 patients (159 eyes) with myopia of various degrees with a mean age of 33±6 years (25 to 44 years old).
+Preoperative BCVA was 0.99±0.04 (0.8 to 1.0), spherical equivalent (SE) was -5.14±1.9 (-10.0 to -1.5).
+All surgeries were planned and performed according to the developed algorithm.
+RESULTS
+Results were analyzed 6 months postop.  The average SE after the surgery was -0.08 D (-0.75 to +0.5).
+79.5% of patients (126 eyes) were within ±0.5 D from target refraction, 6% of patients (10 eyes) received 1-2 lines of BCVA, in 87% (138 eyes) BCVA remained unchanged, 6% of patients (10 eyes) lost 1-2 lines of BCVA.
+95% of patients (151 eyes) had UCVA of 0.8 and higher 6 month after the surgery, and 79% (125 eyes) achieved 1.0 vision.
+No significant intraoperative and postoperative complications had occurred.
+CONCLUSION
+ReLEx Smile is an effective, safe and predictable method of myopia correction.
+The newly developed algorithm reduces the risks of complications.  It may be recommended for practical use by surgeons performing ReLEx Smile.

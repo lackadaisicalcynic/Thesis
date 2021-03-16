@@ -1,0 +1,15 @@
+AIM  to study changes in the expression of angio- and vasculogenesis markers in colorectal adenocarcinoma metastases to the liver during combined cytotoxic and targeted anti-VEGF therapy versus cytotoxic monotherapy.
+SUBJECTS AND METHODS
+Intraoperative samples from 96 patients with colorectal adenocarcinomas metastases to the liver were immunohistochemically examined.
+The investigation enrolled patients who had preoperatively received either combined FOLFOX6 cytotoxic therapy and targeted anti-VEGF therapy with bevacizumab or only FOLFOX6 therapy, as well as patients who had not received preoperative anti-tumor drug treatment.
+The expression of SDF1α, CXCR4, CXCR7, and VEGF-A was compared in these groups.  Statistical significance was accepted at p<0.05.
+RESULTS
+The expression of CXCR4 in the vessel endothelial cells was significantly less frequently detected in the patients who had received combined cytotoxic therapy and targeted anti-VEGF therapy as compared to those had not drug therapy.
+Comparing the patients treated with cytotoxic drugs with those who had not received anti-tumor therapy revealed similar results in the women.
+CXCR7 expression in the tumor cells and stromal cells from the metastatic foci was significantly more common in the group of male patients treated with cytotoxic drugs according to the FOLFOX6 regimen.
+The expression of SDF1α in the tumor cells was significantly more often observed in the male patients who had received combined cytotoxic therapy and targeted anti-VEGF therapy than in those who had not drug therapy.
+VEGF expression in the stromal cells was significantly less frequently seen in the patients who had received the combined therapy.
+CONCLUSION
+Combined cytotoxic therapy and targeted anti-VEGF therapy for colorectal adenocarcinoma metastases to the liver leads to some suppression of the alternative pathway in the formation of new vessels, by reducing the expression of CXCR4 in the vessel endothelial cells and that of VEGF in the stromal cells from the metastatic foci.
+In men, this therapy simultaneously causes an increase in the expression of SDF1α in the tumor cells and in that of CXCR4 in the stroma.
+Preoperative FOLFOX6 therapy significantly increases the expression of CXCR7 in the tumor cells and stromal cells in the male patients, which may suggest that this pathway in vessel formation can be activated.

@@ -1,0 +1,15 @@
+[Distinctive morphological and functional changes in retinal ganglion cells associated with normal aging and early stage of glaucoma].  UNLABELLED
+Early diagnosis of primary open-angle glaucoma (POAG) is closely connected with detection of normal age-related changes in the retina.  It is also essential to develop reliable methods for quantitative evaluation of retinal nerve fiber layer (RNFL) thickness and retinal ganglion cells (RGCs) structure and function as well as to extend opportunities for inter-instrumental comparisons.
+AIM
+to assess the function of RGCs from parvo- and magnocellular pathways by means of pattern electroretinography and to evaluate the degree of retinal sensitivity loss and RNFL thickness using new methods of analysis in normal aging and the early stage of POAG.  MATERIAL AND METHODS
+In all groups we investigated the MD and PSD indices of static computer perimetry (HEP, Heidelberg Edge Perimeter, SAP and FDF tests) and RNFL thickness provided by HRT III (Heidelberg Engineering).
+Pattern electroretinograms (PERGs) were recorded with the RETImap system (Roland Consult) at the check sizes of 0.8° and 16°.  For steady-state and transient PERGs the 0.8°/16° and N95/P50 ratios were calculated, respectively.
+RESULTS
+There was a statistically significant difference in PERG amplitudes to 0.8° checks (p=0.0001) and in 0.8°/16° ratios (p=0.0001) between the groups 1 and 2.
+Differences between the groups 2 and 3 as well as 3 and 4 were statistically significant only as to 0.8° checks (p=0.03 and p=0.001, respectively).
+Responses to 16° checks were alike in all groups.
+We have also applied original formulas to determine the relative loss of RGCs and their axons and the congruence coefficient for morphological and functional parameters in normal aging and the early stage of POAG.
+CONCLUSION
+The discovered age-related PERG changes convincingly indicate a greater parvocellular RGC loss as compared to magnocellular.
+Thus, the PERG ratio (0.8°/16°) should be corrected for the subject's age.
+The proposed indices of relative decline in retinal light sensitivity and RNFL thinning have been shown to be useful for quantifying the loss of RGC bodies and axons in normal aging and early-stage glaucoma.

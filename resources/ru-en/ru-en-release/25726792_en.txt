@@ -1,0 +1,11 @@
+[Cerebrovascular disease incidence in workers occupationally exposed to radiation over prolonged time periods].
+OBJECTIVE
+To estimate incidence rates for cerebrovascular diseases (CVD) in a cohort of workers occupationally exposed to radiation over prolonged time periods.  MATERIAL AND METHODS
+CVD incidence was estimated in a cohort of 22.377 workers of the nuclear facility "Mayak" Production Association over the follow-up period 1948-2008.
+Non standardized and standardized incidence rates were estimated.  An indirect method of standardization was used for the estimates.
+RESULTS
+As of 31/12/2008, 8.717 CVD cases (5.802 men and 2.915 women) were registered in the study cohort of workers.
+CVD incidence in the cohort was significantly associated with sex, age, smoking, alcohol consumption (in men) and arterial hypertension.
+CVD incidence was increased in workers exposed to external gamma-rays at total dose above 0.5 Gy and/or to internal alpha-radiation due to incorporated plutonium at total absorbed liver dose above 0.025 Gy.
+CONCLUSION
+CVD incidence in the cohort of workers occupationally exposed to radiation over prolonged time periods was associated both with non-radiation and radiation factors.

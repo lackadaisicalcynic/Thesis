@@ -1,0 +1,10 @@
+[The influence of the immunity activation and suppression on the outcome of brain ischemia].  AIM
+To explore the influence of the immunity activation and suppression on the outcome of brain ischemia in experimental animals.
+MATERIAL AND METHODS  Brain ischemia has been modulated by irreversible staged bilateral common carotid arteries occlusion.
+Suppression of the immune system has been conducted by administration of cyclosporin A (5 mg/kg, per os).  Activation of the immune system has been conducted by administration of lipopolysaccharide (10 mkg/kg, i.p.).
+RESULTS
+Authors have established that in animals with immunosuppression there is an increase in the concentration of the neuron specific proteins in blood serum (NSE and MBP), mortality (by 20%) and severity of neurological deficit (by 33%).
+Rats with immunosuppression have reduced general locomotor activity (by 44%), exploratory behavior in the Open Field Test (by 43%) and decrease in the motor activity in the Rotarod Test (by 19%) compared to the group of rats with brain ischemia and intact immune systems.
+During the immunity activation after brain ischemia injury, the decrease in NSE and MBP levels, mortality (by 15%) and severity of neurological deficit (by 13%) as well as higher concentrations of neurotrophins BDNF and NGF and higher general locomotor activity of animals (by 34%) and physical endurance (by 55%) in the Open Field and Rotarod Tests, respectively, were observed.
+CONCLUSION
+Immunosupression negatively affected the outcome of brain ischemia.

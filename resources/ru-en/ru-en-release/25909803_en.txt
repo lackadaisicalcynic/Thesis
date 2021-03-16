@@ -1,0 +1,9 @@
+[A comparative study of different types of pharmacotherapy in treatment of depressive phase of bipolar II disorder].  OBJECTIVE
+A comparative evaluation of the efficacy and safety of different types of pharmacotherapy: antidepressant monotherapy (agomelatine or sertraline), mood stabilizer monotherapy (valproate) and combination therapy (valproate + sertraline) in bipolar II disorder patients with major depressive episode.  MATERIAL AND METHODS
+A 6-week open randomized study included 89 inpatients and outpatients.  Basic criteria of efficacy were ≥50% reduction of HAMD total score and remission (≤7 points) to the end of the study.
+RESULTS
+At the end of the study (day 42), the highest number of patients with 50% reduction of HAMD total score was noted in the sertraline (65%) and combination therapy (60%) groups, in the valproate group it was 57.1%, and the lowest - in agomelatine group (42.9%), but the differences were not statistically significant.
+Remission was observed in 45% patients in combination therapy group compared with 33.3% in valproate group, 32.1% in agomelatine group and only 20% in group of sertraline, but the differences between the groups also were not significant.
+CONCLUSION  Antidepressants (agomelatine and sertraline) have demonstrated fast but insufficient influence on the reduction of depression in the patients.
+Treatment with sertraline rarely led to remission and was frequently associated with high rate of switch into hypomania.
+Valproate therapy was moderately effective and well-tolerated without risk of switching.  Combination of valproic acid with sertraline had the highest efficacy and was fairly well tolerated.

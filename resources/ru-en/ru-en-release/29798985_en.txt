@@ -1,0 +1,12 @@
+[Geometric and morphological features of the aortic root in norm and aortic regurgitation].
+AIM
+To assess linear and geometric parameters of the aortic valve and to determine the changes which are associated with impaired leaflets coaptation and aortic root enlargement.
+MATERIAL AND METHODS
+Surgical anatomy of the aortic root and its spatial relationships with surrounding heart structures were studied with plastination by using of combined silicon technologies. 123 specimens of the aortic root with preserved original geometry were created with silicone plastination technique and perfusion embalming.
+Analysis included 15 heart specimens with the signs of aortic root dilatation and 108 specimens without evidence of dilatation.
+Multiple logistic regression was used for statistical analysis.
+RESULTS
+Anatomical and clinical analysis showed that deviation angle of the intercusp triangle is the factor contributing impaired aortic root geometry and aortic regurgitation (OR 1.3, 95% CI 1.114-1.350, p<0.0001).
+CONCLUSION
+1) Increased deviation angle of intercusp triangles is associated with impaired coaptation of aortic valve leaflets.
+2) Restoration of intercusp triangle deviation angle within 1.7±1.2° degrees is geometrically necessary to achieve normal function of the aortic valve.

@@ -1,0 +1,5 @@
+[Molecular aspects of vasoprotective peptide KED activity during atherosclerosis and restenosis].  Peptide KED (Lys-Glu-Asp) has vasoprotective effects and is effective substance in treatment of of atherosclerosis and other cardio-vascular disorders in elderly people.
+One of the probable mechanisms of biological activity of this peptide is epigenetic genes regulation.  These genes can coding proteins, which are markers of endothelium functional activity.
+The goal of investigation was to study the KED peptide effect on signal molecules expression in normal, atherosclerotic and restenotic endothelium in vitro.
+It was shown, that KED peptide has normalized endothelin-1 expression, which increased during atherosclerosis and restenosis.  KED peptide also restorates cells interactions by connexin expression.
+Geroprotective effect of KED peptide is realized by increasing of sirtuin1 expression, which has took part in DNA reparation.

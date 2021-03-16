@@ -1,0 +1,8 @@
+[Validation of the questionnaire for screening frailty].  For screening frailty in daily practice, we developed the questionnaire relating issues of weight loss, impaired vision and hearing, injuries related to falls, mood decline, cognitive impairment, urinary incontinence, and mobility difficulties. 356 outpatients from Moscow were included in the study
+(mean age 74,9±6,1 years, women - 80,4 %). Patients were interviewed using the questionnaire and underwent a comprehensive geriatric assessment.
+The phenotype model of frailty was determined by L. Fried criteria, the frailty index model - by K. Rockwood criteria.
+ROC-analysis demonstrated a satisfactory agreement between the result of the survey by the questionnaire and assessment the phenotype model of frailty and the frailty index model (AUC=0,765 and 0,731, respectively).
+The results statistically significantly correlated with the assessment of the phenotype model of frailty and the frailty index model (Spearman correlation = 0,4 and 0,41, p<0,001).
+Optimal characteristics of the questionnaire for the frailty screening were consistent to cut-off ≥3 and ≥ 4 points.
+We propose to use a cut-off ≥ 3 point, since it corresponds to a higher value of sensitivity (85,7 and 93,3 % compared with the phenotype model of frailty and the frailty index model respectively).
+The proportion of patients who scored ≥ 3 points  (58,4 %) indicates a high prevalence of geriatric syndromes among outpatients in Moscow.

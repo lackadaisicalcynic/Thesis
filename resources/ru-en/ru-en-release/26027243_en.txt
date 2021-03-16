@@ -1,0 +1,13 @@
+[Optimization of treatment in hypertensive patients in real clinical practice: Role of a fixed-dose perindopril A and amlodipine combination (Results of the Russian observational CONSTANTA trial].
+AIM  To provide a detailed analysis of the efficacy and tolerability of Prestance (perindopril A/amlodipine) in a subgroup of 1936 people participating in the Russian observational CONSTANTA program, most cases of whom were given the drug as a substitute for earlier ineffective monotherapy and combination therapy, without using other antihyperterisive agents.
+SUBJECTS AND METHODS
+The analysis included 1936 patients (aged 58.2±7.5 years; 35% men) with uncontrolled hypertension who received angiotensin-converting enzyme (ACE) inhibitors or angiotensin II (AT II) receptor antagonists alone or in conjunction with free or fixed-dose combinations of two-three antihypertensive agents and who were given Prestance to correct antihypertensive therapy, as decided by their doctors.
+The goal blood pressure (BP) was <140/<90 mm Hg for all the patients.
+Their treatment lasted three months.
+RESULTS
+At the end of trial, the patients received Prestance (perindopril A/amlodipine) in the following doses: 5/5 mg (15% of the patients), 10/5 mg (39.9%), 5/10 mg (9.8%), 10/10 mg (36.6%).
+In the analyzed group, the baseline BP was 163.4±13.7/94.6+10,1 mm Hg; heart rate (HR), 74.0±10.9 beats/min; 3 months later, there were decreases in BP to 130.8±10.2/78.5±7.2 mm Hg (as compared to the baseline values; p<0.001) and in HR to 67.9?5.4 beats/min (p<0.01).
+The mean BP reduction was 32.6±10.8/16.1±7.2 mm Hg.
+A total of 1607 (83.0%) patients achieved the goal BP while 1520 (78.5%) patients did this without having another antihypertensive therapy.
+CONCLUSION
+To switch hypertensive patients receiving ineffective monotherapy or dual therapy using ACE inhibitors or AT II receptor blockers to fixed-dose perindopril A and amlodipine combination (Prestance) is a rational way of optimizing a therapy regimen in these patients with a wide range of baseline BP levels; moreover, four out of five patients did not need any additional antihypertensive drug.

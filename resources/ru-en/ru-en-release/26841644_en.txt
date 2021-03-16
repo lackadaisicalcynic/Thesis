@@ -1,0 +1,14 @@
+[Adhesion molecules and mononuclear cell subpopulations in the coronary and pulmonary arteries of patients with coronary heart disease].
+UNLABELLED  Atherosclerosis is a multifactor disease, in which dysfunction of the endothelium leads to the emergence of its adhesion molecules.
+OBJECTIVE
+to investigate the expression of the endothelial adhesion molecules PECAM (CD31), ICAM, and VCAM, as well as adherent endothelial T cells and monocytes.  The material examined was en face pulmonary and coronary artery samples taken during autopsies (10 men), and en face specimens obtained from the coronary artery fragments taken from coronary heart disease patients during endarterectomy (37 men).
+This investigation used antibodies to the adhesion molecules ICAM-1, VCAM-1, and PECAM and those to CD3, CD4, CD8 T-cells and CD68 monocytes.
+RESULTS
+The endothelial cells in the atherosclerotically intact coronary arteries had an elongated shape and were aligned along the blood flow.
+Those located above atheromas and fibroatheromas changed their shape from elongated to polygonal.
+Above the fatty streaks and atheromas, the reaction with antibodies to CD31 antigens became weaker at the edge of endothelial cells and disappeared in places.
+While the atherosclerotic process progressed, the reaction with the CD31 antigen at the edge of endothelial cells was similar in intensity to that on the surface of the endothelium.
+Adhesion of T cells and monocytes to the endothelium of coronary arteries increased as the atherosclerotic vascular process progressed.
+T cells and monocytes more often adhered to the endothelium at the sites where the endothelial cells contacted each other.
+CONCLUSION
+Heterogeneity was found in the endothelial cells: their shape, the expression of adhesion molecules, and the adhesion of lymphocytes and monocytes to them changed during the progression of the atherosclerotic process.

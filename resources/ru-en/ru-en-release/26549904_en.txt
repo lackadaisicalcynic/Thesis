@@ -1,0 +1,14 @@
+Using patient-held records to evaluate contraceptive use in Malawi.  OBJECTIVE
+To investigate a method of using patient-held records to collect contraception data in Malawi, that could be used to explore contraceptive discontinuation and method switching.
+METHODS
+In 2012, all 7393 women aged 15 to 49 years living in the area covered by the Karonga demographic surveillance site were offered a family planning card, which was attached to the woman's health passport - a patient-held medical record.
+Health-care providers were trained to use the cards to record details of contraception given to women.
+During the study, providers underwent refresher training sessions and received motivational text messages to improve data completeness.  After one year, the family planning cards were collected for analysis.
+FINDINGS
+Of the 7393 eligible women, 6861 (92.8%) received a family planning card and 4678 (63.3%) returned it after one year.
+Details of 87.3% (2725/3122) of contacts between health-care providers and the women had been recorded by health-care providers on either family planning cards or health passports.
+Lower-level health-care providers were more diligent at recording data on the family planning cards than higher-level providers.
+CONCLUSION
+The use of family planning cards was an effective way of recording details of contraception provided by family planning providers.
+The involvement of health-care providers was key to the success of this approach.
+Data collected in this way should prove helpful in producing accurate estimates of method switching and the continuity of contraceptive use by women.

@@ -1,0 +1,19 @@
+[Efficiency of interferon therapy in patients with essential thrombocythemia or polycythemia vera].
+AIM  To evaluate the efficiency of interferon (IFN) therapy in patients with essential thrombocythemia (ET) and polycythemia vera (PV).
+SUBJECTS AND METHODS
+A total of 61 patients (41 with ET and 20 with PV) were examined.
+Prior to study enrolment, 44 (72%) patients with ET or PV received one or other therapy (aspirin was not taken into account).
+The mean Jak2V617F mutant allele at baseline was 23% (6-54%) in the patients with ET and 40% (11-88%) in those with PV.
+The median time from diagnosis to enrollment was 49 months.
+RESULTS
+The paper presents the clinical and molecular findings of long-term INF-α therapy in patients with ET or PV.
+The median follow-up was 52 months.
+Recombinant IFN-α2 showed its ability to induce complete hematologic remission (ET (76%), PV (70%)) and a complete molecular response.
+22 (69%) out of 32 patients were noted to have a smaller number of cells with the Jak2V617F mutation.
+In the patients with PV and in those with ET, the relative reduction in the proportion of cells with the Jak2V617F mutant gene averaged 85% and 56% of the baseline values, respectively.
+There was a reduction in the proportion of cells expressing the Jak2V617F mutation in both the ET (from 12 to 2.2%; p=0.001) and PV (from 32.7% to 3.2%) groups (р=0.001).
+Ten (31%) patients achieved a deep molecular remission (≤2% Jak2V617F allele); among them, 5 patients were not found to have Jak2V617F mutation.
+The obtained molecular response remained in 7 of the 10 patients untreated for 11 to 86 months.
+The long-term treatment with IFN-α led to normalization of the morphological pattern of bone marrow in 5 of the 7 PV or ET patients.
+CONCLUSION
+Significant molecular remissions achieved by therapy with recombinant interferon-α2 confirm the appropriateness of this treatment option in in the majority of patients with ET or PV.

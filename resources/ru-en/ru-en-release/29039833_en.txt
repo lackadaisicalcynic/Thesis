@@ -1,0 +1,14 @@
+[Genetic determinants of hypertension in two national cohorts of Mountain Shoria].  AIM
+To estimate the prevalence of the genotypes of the candidate genes ACE (I/D, rs4646994), ADRB1 (Ser49Gly, A/G, rs1801252) ADRA2B (I/D), MTHFR (C677T, Ala222Val, rs1801133), and eNOS (4b/4a) and their association with hypertension in two ethnic groups of Mountain Shoria.
+SUBJECTS AND METHODS
+A clinical and epidemiological study was conducted in a population compactly living in the hard-to-reach areas of Mountain Shoria (the settlements of Orton, Ust-Kabyrza, and Sheregesh of the Kemerovo Region).
+A continuous method was used to survey 1178 residents from the above settlements; the sample consisted of adults (aged 18 years and older), 565 people were genotyped.
+RESULTS
+The prevalence of hypertension among the population of Mountain Shoria was 42.3%.
+The incidence of this disease among the Shorians was lower (39.9%) than that among the representatives of non-indigenous people (46.1%).
+The ethnically justified peculiarities of the association of ADRA2B and ACE I/D polymorphisms with hypertension were established.
+There were fewer patients with hypertension among ACE ID and ADRA2B DD genotype carriers in the cohort of the Shorians than in that of the non-indigenous population: 40.6% versus 58.6% and 38.3% versus 64%, respectively.
+Conversely, there were more hypertensive patients among the carriers of the homozygous ACE DD genotype in the native ethnic group (60%) than in the non-indigenous one (37.1%).
+CONCLUSION
+Adverse prognostic ACE DD, ADRB1 AA, MTHFR TT, and eNOS 4a/4a genotypes were more frequently observed in the non-indigenous ethnic groups; the ADRA2B DD genotype was more common in the native population.
+Hypertension was associated with the ACE DD, МTHFR CT, and ADRB1 AA genotypes in the native ethnic group and with the ACE ID genotype in the non-indigenous population.

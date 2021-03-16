@@ -1,0 +1,21 @@
+[Role of the morphogenetic proteins FGF-23 and Klotho and the glycoprotein sclerostin in the assessment of the risk of cardiovascular diseases and the prognosis of chronic kidney disease].  UNLABELLED
+AIM.  To analyze changes in the serum concentrations of the morphogenetic proteins fibroblast growth factor 23 (FGF-23) and Klotho, as well as sclerostin, an osteocyte-secreted glycoprotein, in relation to the degree of hypertension, left ventricular (LV) hypertrophy, and arterial stiffness in patients with chronic kidney disease (CKD) at its different stages.
+SUBJECTS AND METHODS
+Sixty-five patients (33 men and 32 women) aged 20-65 years, including 25 with chronic glomerulonephritis, 15 with tubulointerstitial nephritis, and 25 with hypertensive nephrosclerosis, were examined.
+A control group consisted of 15 healthy volunteers matched to the study group patients for age and gender.
+Serum FGF-23 concentrations and blood pressure (BP) were measured in the all subjects.
+Patients with BPs > 140/80 mm Hg underwent echocardiography, followed by determination of LV mass (LVM) and calculation of LVM index.
+Vascular circulation, pulse wave velocity, cardiac and vascular calcifications, and vascular functional properties were estimated.
+RESULTS
+There was a strong direct Correlation between the serum concentration of FGF-23 and the stage of CKD and an inverse correlation between the levels of Klotho and sclerostin and the stage of CKD.
+As the glomerular filtration rate became lower, the concentration of FGF-23 increased and that of Klotho and sclerostin decreased just in Stage III CKD while hyperphosphatemia and elevated parathyroid hormone levels were noted in Stages IV-V CKD.
+As CKD progressed, the serum concentrations of Klotho and sclerostin were inversely correlated with the levels of phosphorus and parathyroid hormone.
+The degree of blood pressure elevation correlated positively with serum FGF-23 concentrations and inversely with Klotho levels.
+There was no significant correlation of the level of sclerostin with the degree of BP increase.
+The direct correlation between higher FGF-23 level and higher VLM is most pronounced in hypertensive patients.
+There was a strong direct relationship between FGF-23 and Klotho levels and a strong inverse relationship between sclerostin levels and pulse wave velocity.
+Lower Klotho concentrations were associated with the detection rate of calcifications in the heart valves and large arteries (the abdominal aorta).
+The reduced serum levels of Klotho and sclerostin were also correlated with concentric LV remodeling.
+CONCLUSION
+It was demonstrated that there was a clear link between increased serum FGF-23 and decreased Klotho concentration as CKD progressed, and that between arterial stiffness and calcification and myocardial remodelling regardless of traditional risk factors.
+More experimental and clinical studies are required to clarify the role of sclerostin in CKD.

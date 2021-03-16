@@ -1,0 +1,11 @@
+Financial protection analysis in eight countries in the WHO South-East Asia Region.
+Objective  To document the financial protection status of eight countries of the South-East Asian region and to investigate the main components of out-of-pocket expenditure on health care.
+Methods
+We calculated two financial protection indicators using data from living standards surveys or household income and expenditure surveys in Bangladesh, Bhutan, India, Maldives, Nepal, Sri Lanka, Thailand and Timor-Leste.
+First, we calculated the incidence of catastrophic health expenditure, defined as the proportion of the population spending more than 10% or 25% of their total household expenditure on health.
+Second, using World Bank poverty lines, we determined the impoverishing effect of health-care spending by households.  We also conducted an analysis of the main components of out-of-pocket expenditure.
+Across countries in this study, 242.7 million people experienced catastrophic health expenditure at the 10% threshold, and 56.4 million at the 25% threshold.  We calculated that 58.2 million people were pushed below the extreme poverty line of 1.90 United States dollars (US$) and 64.2 million people below US$ 3.10 (per capita per day values in 2011 purchasing power parity), due to out-of-pocket spending on health.
+Spending on medicines was the main component of out-of-pocket spending in most of the countries.
+Conclusion
+A substantial number of people in South-East Asia experienced financial hardship due to out-of-pocket spending on health.
+Several countries have introduced policies to make medicines more available, but the finding that out-of-pocket expenditure on medicines remains high indicates that further action is needed to support progress towards universal health coverage.

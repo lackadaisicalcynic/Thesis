@@ -1,0 +1,12 @@
+Diarrhoea-related hospitalizations in children before and after implementation of monovalent rotavirus vaccination in Mexico.
+OBJECTIVE
+To assess, by socioeconomic setting, the effect of nationwide vaccination against species A rotavirus (RVA) on childhood diarrhoea-related hospitalizations in Mexico.  METHODS
+Data on children younger than 5 years who were hospitalized for diarrhoea in health ministry hospitals between 1 January 2003 and 31 December 2011 were collected from monthly discharge reports.  Human development indexes were used to categorize the states where hospitals were located as having generally high, intermediate or low socioeconomic status.
+Annual rates of hospitalization for diarrhoea--per 10,000 hospitalizations for any cause--were calculated.
+Administrative data were used to estimate vaccine coverage.
+FINDINGS
+In the states with high, intermediate and low socioeconomic status, coverage with a two-dose monovalent RVA vaccine--among children younger than 5 years--had reached 93%, 86% and 71%, respectively, by 2010.
+The corresponding median annual rates of hospitalization for diarrhoea--per 10,000 admissions--fell from 1001, 834 and 1033 in the "prevaccine" period of 2003-2006, to 597, 497 and 705 in the "postvaccine" period from 2008 to 2011, respectively.
+These decreases correspond to rate reductions of 40% (95% confidence interval, CI: 38-43), 41% (95% CI: 38-43) and 32% (95% CI: 29-34), respectively.  Nationwide, RVA vaccination appeared to have averted approximately 16,500 hospitalizations for childhood diarrhoea in each year of the postvaccine period.
+CONCLUSION
+Monovalent RVA vaccination has substantially reduced childhood diarrhoea-related hospitalizations for four continuous years in discretely different socioeconomic populations across Mexico.

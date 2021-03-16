@@ -1,0 +1,14 @@
+Size and distribution of the global volume of surgery in 2012.
+OBJECTIVE  To estimate global surgical volume in 2012 and compare it with estimates from 2004.  METHODS
+For the 194 Member States of the World Health Organization, we searched PubMed for studies and contacted key informants for reports on surgical volumes between 2005 and 2012.
+We obtained data on population and total health expenditure per capita for 2012 and categorized Member States as very-low, low, middle and high expenditure.
+Data on caesarean delivery were obtained from validated statistical reports.  For Member States without recorded surgical data, we estimated volumes by multiple imputation using data on total health expenditure.
+We estimated caesarean deliveries as a proportion of all surgery.
+FINDINGS
+We identified 66 Member States reporting surgical data.
+We estimated that 312.9 million operations (95% confidence interval, CI: 266.2-359.5) took place in 2012, an increase from the 2004 estimate of 226.4 million operations.
+Only 6.3% (95% CI: 1.7-22.9) and 23.1% (95% CI: 14.8-36.7) of operations took place in very-low- and low-expenditure Member States representing 36.8% (2573 million people) and 34.2% (2393 million people) of the global population of 7001 million people, respectively.
+Caesarean deliveries comprised 29.6% (5.8/19.6 million operations; 95% CI: 9.7-91.7) of the total surgical volume in very-low-expenditure Member States, but only 2.7% (5.1/187.0 million operations; 95% CI: 2.2-3.4) in high-expenditure Member States.
+CONCLUSION
+Surgical volume is large and growing, with caesarean delivery comprising nearly a third of operations in most resource-poor settings.
+Nonetheless, there remains disparity in the provision of surgical services globally.

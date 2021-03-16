@@ -1,0 +1,12 @@
+[Clinical and immunological comparisons of therapeutic regimens for corneal infiltrates secondary to adenoviral keratoconjunctivitis].  UNLABELLED
+The problem with post-adenoviral corneal infiltrates is that they cause a significant and persistent decrease in visual function, while corticosteroids in monotherapy bring only temporary improvement.
+AIM
+to perform a comparative evaluation of topical corticosteroids and 0.05% cyclosporine A efficacy in the treatment of post-adenoviral corneal infiltrates on the basis of clinical presentation and local cytokine status.  MATERIAL AND METHODS
+The study involved two groups of patients after adenoviral keratoconjunctivitis: group 1 (25 patients, 45 eyes) were prescribed a diminishing regimen of corticosteroid eye drops for 12 weeks and corneal protectors; group 2 (24 patients, 42 eyes) received the same treatment as described above plus topical 0.05% cyclosporine A for 6 months.  The follow-up period was from 6 to 12 months.
+Visual acuity measurements, biomicroscopy, and pneumatic tonometry were performed at months 1, 3, and 6.  Local cytokine status was assessed by studying cytokine gene expression in cell culture from conjunctival scrapings and cytokines levels in the supernatant.
+The tests were done before the beginning of the treatment in both groups, at month 1 in group 1, at month 4 in group 2 (i.e. in a month after the cessation of dexamethasone) and also in a group of healthy volunteers (30 persons, 30 eyes).
+RESULTS
+Long-term combined anti-inflammatory therapy with corticosteroids and 0.05% cyclosporine A in patients with post-adenoviral corneal infiltrates has yielded positive clinical results, including a persistent increase in visual acuity and complete resolution of corneal opacities (92.8%).
+In addition, we revealed a correlation between local cytokine status changes and clinical results.
+CONCLUSION
+The proposed therapeutic regimen enabled complete suppression of residual interferon-α antiviral activity, an increase in interleukin-4 that regulates local humoral immunity, and a decrease (down to a complete suppression) in anti-inflammatory interleukin-2, which is responsible for activation of cell-mediated immunity, thus, resulting in resolution of the immune-mediated inflammation in the cornea.

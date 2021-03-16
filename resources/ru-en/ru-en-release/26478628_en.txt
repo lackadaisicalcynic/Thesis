@@ -1,0 +1,12 @@
+Road traffic crashes, injury and fatality trends in Sri Lanka: 1938-2013.
+OBJECTIVE
+To analyse trends in road traffic crashes, injuries and fatalities over 75 years in Sri Lanka.  METHODS
+Data on road traffic crashes, injuries and fatalities between 1938 and 2013 were obtained from the Police Statistics Unit.  Rates per 100,000 population were calculated and trends were analysed using joinpoint regression analysis.
+FINDINGS
+Road traffic crashes and injuries rose substantially between 1938 and 2013: annual crashes increased from 61.2 to 183.6 per 100,000 people; injuries, from 35.1 to 98.6 per 100,000; and fatalities, from 3.0 to 10.8 per 100,000 people per year.
+Joinpoint analysis showed large fluctuations in crashes and injuries over time but the fatalities rose almost continuously.
+These fluctuations paralleled the country's political and economic development.  In some years, better traffic law enforcement and improved public transportation may have been associated with reduced crashes and injuries, whereas rapid growth in vehicle numbers, especially two- and three-wheeled vehicles, may have contributed to increased crashes and injuries.
+In addition, insurance policies that did not require a police report to claim may have led to underreporting of crashes and allowed drivers to avoid prosecution.
+CONCLUSION
+Fluctuations over time in road traffic crashes and injuries in Sri Lanka are associated with changes in political, economic and traffic policy.
+There is potential for reducing road traffic crashes and injuries through better traffic law enforcement, restrictions on the importation of two- and three-wheeled vehicles and policies to improve road safety and prevent underreporting of crashes.

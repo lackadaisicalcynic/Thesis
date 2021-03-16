@@ -1,0 +1,19 @@
+[Therapy for acute/subacute musculoskeletal pain: results of the ATUSA (Analgesic Treatment Using a Systemic Algorithm) observational study].
+AIM  To evaluate the efficiency of therapy for acute/subacute musculoskeletal pain (MSP) by applying an individualized pathogenetic approach (an algorithm) elaborated on the basis of Russian experts' recommendations.
+SUBJECTS AND METHODS
+A total of 262 physicians treating patients with rheumatic diseases participated in the ATUSA (Analgesic Treatment Using a Systemic Algorithm) program.
+The study enrolled 3,304 patients (54.3% women, 45.7% men; mean age, 48.6±14.3 years) with osteoarthritis, nonspecific back pain (NBP), and rheumatic diseases of periarticular soft tissues, who had experienced MSP.
+Treatment was performed in accordance with the following algorithm: the first prescribed medication was nonsteroidal anti-inflammatory drugs (NSAIDs) (aceclofenac): paracetamol and/or tramadol and a topical NSAID in case of contraindications and muscle relaxants in case of indications.
+The results of treatment were assessed after 7, 14, and 28 days.
+The treatment was corrected during each visit; the NSAID was, if necessary, changed; corticosteroids were locally injected; antidepressants or anticonvulsant drugs were used.
+The investigators assessed dynamic changes in pain using a 0-10 paint intensity numeric rating scale (NRS), the number of patients, in whom MSP was completely relieved, and satisfaction with treatment.
+RESULTS
+The first prescribed medication was oral NSAIDs in 97.5% of the patients and those in combination with a muscle relaxant in 67.6%.
+By visit 4, MSP decreased from 6.9±1.5 to 2.2±1.3 NRS scores.
+After 28 days, only 16.2% of patients continued to need analgesics.
+88.4% of the patients rated treatment results as good or excellent.
+NSAID switching was required in 8.1% of cases; local glucocorticosteroid injections were needed in 1.9%; there was a need for the use of an antidepressant or anticonvulsant in 1.5% and for hospitalization in 0.25%.
+Adverse events were observed in 2.2% of patients.
+The efficiency of treatment (complete pain relief after 28 days) was influenced by the following factors: NRS diagnosis (OR, 2.24; 95% CI, 1.67 to 3.11), age ≥65 years (OR, 0.72; 95% CI, 0.52 to 0.98), moderate pain (NRS scores of ≤7) at the beginning of the study (OR, 2.63; 95% CI, 1.99 to 3.48), mild/moderate pain (NRS scores of <4) after 7 days of therapy (OR, 2.5; 95% CI, 1.89 to 3.33), and the use of muscle relaxants (OR, 1.77; 95% CI, 1.23 to 2.96) (p<0.05 for all comparisons).
+CONCLUSION
+The comprehensive pathogenetic approach used in analgesic therapy provides an effective and relatively safe relief of MSP in most patients with NBP and osteoarthritis.

@@ -1,0 +1,12 @@
+[CYP7A1 gene polymorphism and the characteristics of dyslipidemias in patients with nonalcoholic fatty liver disease concurrent with hypothyroidism].  AIM
+To investigate the association of the polymorphic variants -204A > C (rs 3808607) in the CYP7A1 gene with the development of dyslipidemias in healthy individuals, in patients with non-alcoholic fatty liver disease (NAFLD) and in those with NAFLD concurrent with hypothyroidism.
+SUBJECTS AND METHODS
+DNA samples and lipidograms were examined in 180 patients, including 60 healthy individuals (Group 1), 60 patients with hypothyroidism concurrent with NAFLD (Group 2), and 60 patients with NAFLD (Group 3).
+All the patients underwent ultrasound examination of the thyroid gland and abdominal cavity organs; FibroMax scores were calculated.
+RESULTS
+All the study groups most frequently showed a homozygous AA genotype (86.6% of cases in Group 1, 80% in Group 2, and 83.3% in Group 3).
+The development of NAFLD in CC genotype carriers is characterized by the most pronounced changes in lipid metabolism (atherogenic index (AI), 7.32 in Group 3) compared to the genotypes AA (AI, 4.56 in Group 2 and 1.73 in Group 1) and CC (AI, 6.43 in Group 2 and 2.52 in Group 1) in functional insufficiency of thyroid hormones and relative normal conditions.
+CONCLUSION
+The analysis of the relationship of polymorphic variants CYP7A1 rs 38088607 to lipid metabolic disturbances in the study groups showed that the significantly higher levels of atherogenic cholesterol fractions were determined in the CC genotype compared to AA genotype carriers and they did not depend on the presence of NAFLD and hypothyroidism.
+The findings make it possible to consider the AA homozygous genotype of variant mutation CYP7A1 rs 38088607 as protective against dyslipidemia.
+However, in functional insufficiency of thyroid hormones, the level of triglycerides is significantly higher in both genotypes, which suggests that hypothyroidism plays an essential role in the development of dyslipidemia and NAFLD.

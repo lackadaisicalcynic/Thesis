@@ -1,0 +1,19 @@
+[The outcomes of stereotactic radiotherapy in patients with cerebral arteriovenous malformations].  INTRODUCTION
+Cerebral arteriovenous malformations (AVMs) are the congenital anomalies of development of cerebral vessels during the embryonic period.  The conventional therapy for AVMs currently includes endovascular management, microneurosurgical resection, and stereotactic irradiation.
+MATERIAL AND METHODS
+A total of 315 patients with brain AVMs were subjected to stereotactic radiotherapy in 2005-2011. 238 (76%) patients had previous subarachnoid hemorrhage (SAH) within different time (6 months to 5 years) before the therapy; 214 (68%) patients had headaches; 113 (36%) patients had focal neurological symptoms caused by localization; and 82 (26%) patients had seizures.
+Twenty-three patients were subjected to surgical resection of an intracerebral hematoma prior to radiotherapy and 119 (36%) patients received endovascular treatment including partial embolization of the stroma of AVM. 267 patients received single-fraction radiosurgical irradiation.
+In patients with large AVMs, we used the hypofractionation technique consisting in target irradiation with several (usually 2-7) fractions; the radiation dose per fraction exceeds 2 Gy.
+Forty-six patients were irradiated in the hypofractionation mode; two patients had a course of stereotactic radiotherapy in the standard fractionation mode.
+The marginal dose of radiosurgical irradiation was 13-30 Gy (the average dose was 24 Gy).
+The main group of patients (38 individuals) with large AVMs was treated using hypofractionation of 35 Gy per 5 fractions.
+RESULTS
+Control angiography was carried out in 225 patients who had been followed up for at least 2 years after therapy showed that complete obliteration was achieved in 83% of cases.
+The rate of symptomatic radiation reactions was less than 10%.
+The higher risk of developing obliteration was observed for AVMs less than 2 cm3 in size at marginal doses more than 24 Gy.
+In the hypofractionation group consisting of 27 patients with complete follow-up data, obliteration was observed in 10 (37%) patients.
+The rate of symptomatic reactions was less than 35%.
+CONCLUSIONS
+The radiosurgical method is a minimally invasive choice of treatment for patients with brain AVM, which allows one to achieve sufficiently high degree of obliteration with the minimum complication rate.
+The hypofractionation procedure is the method of choice for treating large AVMs.
+Stereotactic irradiation using the Novalis linear accelerator makes it possible to treat patients with AVMs of virtually any location and volume.

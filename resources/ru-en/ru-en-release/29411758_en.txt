@@ -1,0 +1,10 @@
+[A retrospective historical study evaluating the safe use of current antidepressants in cardiology practice].
+AIM
+To confirm the data available in the literature on the cardiac safety of antidepressants.
+SUBJECTS AND METHODS
+The archival data of 146 case histories were retrospectively analyzed.
+A study sample consisted of 96 cardiac inpatients regularly taking an antidepressant for more than 3 days during treatment for the underlying cardiovascular disease.
+The safe use of antidepressants was evaluated in terms of initial electrocardiogram (ECG) QTc interval changes, systolic and diastolic blood pressures (BP) (SBP and DBP), heart rate (HR), and hemorrhagic complications.  The data obtained over periods of 3- and 6-8 days were analyzed.
+RESULTS  The sample showed no clinically significant ECG QTc interval changes when taking regularly antidepressants within 8 days.
+Analysis of the dynamics of BP and HR in patients receiving antidepressants revealed no statistically significant differences in these indicators before and 3 and 6-8 days after drug administration.  No case of hemorrhagic complications was seen in the study group taking antidepressants.
+The investigation generally confirms the high cardiac safety of new-generation antidepressants within at least the first week of therapy.  Noteworthy are the low daily drug dosages (relatively specified in the instructions) that are sufficient for most cardiac patients with depressive disorders and an additional factor for minimizing adverse reactions.

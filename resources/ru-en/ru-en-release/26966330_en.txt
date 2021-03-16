@@ -1,0 +1,14 @@
+Catastrophic health expenditure on acute coronary events in Asia: a prospective study.
+OBJECTIVE  To estimate out-of-pocket costs and the incidence of catastrophic health expenditure in people admitted to hospital with acute coronary syndromes in Asia.
+METHODS
+Participants were enrolled between June 2011 and May 2012 into this observational study in China, India, Malaysia, Republic of Korea, Singapore, Thailand and Viet Nam.
+Sites were required to enrol a minimum of 10 consecutive participants who had been hospitalized for an acute coronary syndrome.
+Catastrophic health expenditure was defined as out-of-pocket costs of initial hospitalization > 30% of annual baseline household income, and it was assessed six weeks after discharge.  We assessed associations between health expenditure and age, sex, diagnosis of the index coronary event and health insurance status of the participant, using logistic regression models.
+FINDINGS
+Of 12,922 participants, 9370 (73%) had complete data on expenditure.
+The mean out-of-pocket cost was 3237 United States dollars.
+Catastrophic health expenditure was reported by 66% (1984/3007) of those without insurance versus 52% (3296/6366) of those with health insurance (P < 0.05).
+The occurrence of catastrophic expenditure ranged from 80% (1055/1327) in uninsured and 56% (3212/5692) of insured participants in China, to 0% (0/41) in Malaysia.
+CONCLUSION
+Large variation exists across Asia in catastrophic health expenditure resulting from hospitalization for acute coronary syndromes.
+While insurance offers some protection, substantial numbers of people with health insurance still incur financial catastrophe.

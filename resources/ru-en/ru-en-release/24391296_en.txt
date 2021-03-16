@@ -1,0 +1,13 @@
+Control of hypertension with medication: a comparative analysis of national surveys in 20 countries.
+OBJECTIVE  To examine hypertension management across countries and over time using consistent and comparable methods.
+METHODS
+A systematic search identified nationally representative health examination surveys from 20 countries containing data from 1980 to 2011 on blood pressure measurements, the diagnosis and treatment of hypertension and its control with antihypertensive drugs.
+For each country, the prevalence of hypertension (i.e. systolic blood pressure ≥ 140 mmHg or antihypertensive use) and the proportion of hypertensive individuals whose condition was diagnosed, treated or controlled with medications (i.e. systolic pressure < 140 mmHg) were estimated.
+FINDINGS
+The age-standardized prevalence of hypertension varied between countries: for individuals aged 35 to 49 years, it ranged from around 12% in Bangladesh, Egypt and Thailand to around 30% in Armenia, Lesotho and Ukraine; for those aged 35 to 84 years, it ranged from 20% in Bangladesh to more than 40% in Germany, the Russian Federation and Turkey.
+The age-standardized percentage of hypertensive individuals whose condition was diagnosed, treated or controlled was highest in the United States of America: for those aged 35 to 49 years, it was 84%, 77% and 56%, respectively.
+Percentages were especially low in Albania, Armenia, the Islamic Republic of Iran and Turkey.
+Although recent trends in prevalence differed in England, Japan and the United States, treatment coverage and hypertension control improved over time, particularly in England.
+CONCLUSION
+Globally the proportion of hypertensive individuals whose condition is treated or controlled with medication remains low.
+Greater efforts are needed to improve hypertension control, which would reduce the burden of noncommunicable diseases.

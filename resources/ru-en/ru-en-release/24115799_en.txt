@@ -1,0 +1,12 @@
+Smoking-attributable mortality in Bangladesh: proportional mortality study.
+OBJECTIVE
+To directly estimate how much smoking contributes to cause-specific mortality in Bangladesh.
+METHODS
+A case-control study was conducted with surveillance data from Matlab, a rural subdistrict.  Cases (n = 2213) and controls (n = 261) were men aged 25 to 69 years who had died between 2003 and 2010 from smoking-related and non-smoking-related causes, respectively.
+Cause-specific odds ratios (ORs) were calculated for "ever-smokers" versus "never-smokers", with adjustment for education, tobacco chewing status and age.
+Smoking-attributable deaths among cases, national attributable fractions and cumulative probability of surviving from 25 to 69 years of age among ever-smokers and never-smokers were also calculated.  FINDINGS
+The fraction of ever-smokers was about 84% among cases and 73% among controls (OR: 1.7; 99% confidence interval, CI: 1.1-2.5).  ORs were highest for cancers and lower for respiratory, vascular and other diseases.
+A dose-response relationship was noted between age at smoking initiation and daily number of cigarettes or bidis smoked and the risk of death.
+Among 25-year-old Bangladeshi men, 32% of ever-smokers will die before reaching 70 years of age, compared with 19% of never-smokers.
+In 2010, about 25% of all deaths observed in Bangladeshi men aged 25 to 69 years (i.e. 42,000 deaths) were attributable to smoking.  CONCLUSION
+Smoking causes about 25% of all deaths in Bangladeshi men aged 25 to 69 years and an average loss of seven years of life per smoker.  Without a substantial increase in smoking cessation rates, which are low among Bangladeshi men, smoking-attributable deaths in Bangladesh are likely to increase.

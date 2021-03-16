@@ -1,0 +1,9 @@
+Developing regional weight-for-age growth references for malaria-endemic countries to optimize age-based dosing of antimalarials.
+OBJECTIVE
+To derive regional weight-for-age growth references to help optimize age-based dosing of antimalarials in Africa, the Americas, South-East Asia and the Western Pacific.
+METHODS
+A weight-for-age database was constructed from pre-existing population-based anthropometric data obtained from household surveys and research groups.  It contained data collected between 1995 and 2012 on 1,263,119 individuals (909,368 female, 353,751 male) older than 14 days and younger than 50 years in 64 malaria-endemic countries.
+Regional growth references were generated using a generalized additive model for location, scale and shape by combining data with varying distributions from a range of sources.  Countries were weighted by their population at risk of malaria to enable references to be used in optimizing the dosing of antimalarials.
+Large differences in weight-for-age distributions existed between the regions and between the regions and global growth standards.  For example, the average adult male from the Americas weighed 68.1 kg – 6.0 kg more than males in South-East Asia and the Western Pacific (average: 62.1 kg).
+For adult women, the difference was over 10.4 kg: the average was 60.4 kg in the Americas and 50.0 kg in South-East Asia and the Western Pacific.  CONCLUSION
+There were substantial variations in weight-for-age growth curves between malaria-endemic areas.  The growth reference charts derived here can be used to guide the evidence-based optimization of aged-based dosing regimens for antimalarials and other drugs often prescribed by age.

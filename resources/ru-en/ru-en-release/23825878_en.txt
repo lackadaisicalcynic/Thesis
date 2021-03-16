@@ -1,0 +1,13 @@
+Smoking-related deaths averted due to three years of policy progress.  OBJECTIVE
+To evaluate the global impact of adopting highest-level MPOWER tobacco control policies in different countries and territories from 2007 to 2010.
+METHODS
+Policy effect sizes based on previously-validated SimSmoke models were applied to determine the reduction in the number of smokers as a result of policy adoption during this period.
+Based on previous research suggesting that half of all smokers die from smoking, we also derived the estimated smoking-attributable deaths (SADs) averted due to MPOWER policy implementation.
+The results from use of this simple yet powerful method are consistent with those predicted by using previously validated SimSmoke models.
+FINDINGS
+In total, 41 countries adopted at least one highest-level MPOWER policy between 2007 and 2010.
+As a result of all policies adopted during this period, the number of smokers is estimated to have dropped by 14.8 million, with a total of 7.4 million SADs averted.
+The largest number of SADs was averted as a result of increased cigarette taxes (3.5 million), smoke-free air laws (2.5 million), health warnings (700,000), cessation treatments (380,000), and bans on tobacco marketing (306,000).
+CONCLUSION
+From 2007 to 2010, 41 countries and territories took action that will collectively prevent nearly 7.5 million smoking-related deaths globally.
+These findings demonstrate the magnitude of the actions already taken by countries and underscore the potential for millions of additional lives to be saved with continued adoption of MPOWER policies.

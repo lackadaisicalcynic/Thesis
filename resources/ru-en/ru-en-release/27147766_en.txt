@@ -1,0 +1,12 @@
+Reclassifying causes of obstetric death in Mexico: a repeated cross-sectional study.
+OBJECTIVE  To describe causes of maternal mortality in Mexico over eight years, with particular attention to indirect obstetric deaths and socioeconomic disparities.
+METHODS
+We conducted a repeated cross-sectional study using the 2006-2013 Búsqueda intencionada y reclasificación de muertes maternas (BIRMM) data set. We used frequencies to describe new cases, cause distributions and the reclassification of maternal mortality cases by the BIRMM process.
+We used statistical tests to analyse differences in sociodemographic characteristics between direct and indirect deaths and differences in the proportion of overall direct and indirect deaths, by year and by municipality poverty level.
+FINDINGS
+A total of 9043 maternal deaths were subjected to the review process.
+There was a 13% increase (from 7829 to 9043) in overall identified maternal deaths and a threefold increase in the proportion of maternal deaths classified as late maternal deaths (from 2.1% to 6.9%).  Over the study period direct obstetric deaths declined, while there was no change in deaths from indirect obstetric causes.
+Direct deaths were concentrated in women who lived in the poorest municipalities.  When compared to those dying of direct causes, women dying of indirect causes had fewer pregnancies and were slightly younger, better educated and more likely to live in wealthier municipalities.
+CONCLUSION
+The BIRMM is one approach to correct maternal death statistics in settings with poor resources.
+The approach could help the health system to rethink its strategy to reduce maternal deaths from indirect obstetric causes, including prevention of unwanted pregnancies and improvement of antenatal and post-obstetric care.

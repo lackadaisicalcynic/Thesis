@@ -1,0 +1,8 @@
+[Modelling the dynamics of suicides in the population of the Russian Federation for the period 1992-2012].
+OBJECTIVE
+Evaluation of the dynamics of suicides depending on the changes in medical-demographic and socio-economic factors in the Russian population in the period 1992--2012.
+MATERIAL AND METHODS
+The research material was the data of the official medical statistics on the groups of people with mental disorders, as well as the data on the socio-economic situation of the Russian population during this period.  To assess the significance of the association between suicide and these factors, correlation and regression analysis was used.
+The regression model explained 95.9% of the variance in the suicide index by two indicators: 1) life expectancy and 2) morbidity of psychotic disorders for the population of Russia during this period.  The interpretation of the integral indicators used in the model, and the dynamics of suicides in the Russian population according to socio-economic changes in the country in 1992--2012 are presented.
+CONCLUSION
+The model can be used as a tool for operational forecasting and monitoring of suicidal patients by government agencies and medical and social services.

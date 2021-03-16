@@ -1,0 +1,7 @@
+[Anhedonia, depression, anxiety, and craving in opioid dependent patients stabilized on oral naltrexone or naltrexone implant].  AIM
+To assess the relationship between long-term naltrexone treatment and anxiety, depression and craving in opioid dependent individuals.  MATERIAL AND METHODS
+Opioid dependent patients (n=306) were enrolled in a three cell (102ss/cell) randomized, double blind, double dummy, placebo-controlled 6-month trial comparing extended release implantable naltrexone with oral naltrexone and placebo (oral and implant).  Monthly assessments of affective responses used a Visual Analog Scale for opioid craving, the Beck Depression Inventory, Spielberger Anxiety Inventory, and the Ferguson and Chapman Anhedonia Scales.
+Between-group outcomes were analyzed using mixed model analysis of variance (Mixed ANOVA) and repeated measures and the post hoc Tukey test.
+RESULTS AND CONCLUSION
+Anhedonia, depression, anxiety, and craving for opiates were elevated at baseline but gradually reduced to normal within the first 1-2 months for patients who remained in treatment and did not relapse.  There were no significant between-group differences prior to treatment dropout as well as between those who relapsed and who continued on naltrexone.
+CONCLUSION  These data do not support concerns that naltrexone treatment of opioid dependence precipitates anhedonia, depression, anxiety or craving for opiates.

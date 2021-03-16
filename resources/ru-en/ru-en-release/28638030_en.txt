@@ -1,0 +1,12 @@
+[Characteristics of cerebral glucose metabolism in patients with cognitive impairment in Parkinson's disease].
+AIM  To study the relationship between early cognitive impairment symptoms and cerebral glucose metabolism in different brain regions (according to the positron emission tomography (PET) data) in Parkinson's disease (PD) in order to increase the diagnostic and treatment efficacy.
+MATERIAL AND METHODS
+Two groups of patients with PD (stage I-III), including 11 patients without cognitive disorders and 13 with mild cognitive impairment (MCI), were examined.
+The control group included 10 age-matched people with normal cognition.
+To evaluate cognitive state, the Mini mental state examination (MMSE), the Frontal assessment battery (FAB) and the 'clock drawing test' were used.
+The regional cerebral glucose metabolism rate (CMRglu) was assessed using PET with 18F-fluorodeoxyglucose (FDG).
+RESULTS AND CONCLUSION
+In PD patients, CMRglu were decreased in the frontal (Brodmann areas (BA) 9, 10, 11, 46, 47), occipital (BA 19) and parietal (BA 39), temporal (BA 20, 37), and cingulate cortex (BA 32) compared to the control group.
+Cerebral glucose metabolism was decreased in the frontal (BA 8, 9, 10, 45, 46, 47), parietal (BA 7, 39, 40) and cingulate cortex (BA 23, 24, 31, 32) in the group of PD patients with MCI compared to PD patients with normal cognition.
+Hypometabolism in BA 7, 8, 23, 24, 31, 40 was revealed only in comparison of PD and PD-MCI groups, and did not appear in case of comparison of cognitively normal PD patients with the control group.
+It is possible to suggest that the mentioned above brain areas were associated with cognitive impairment.  The revealed glucose hypometabolism pattern possibly has the diagnostic value for the early and preclinical diagnosis of MCI in PD and control of treatment efficacy.

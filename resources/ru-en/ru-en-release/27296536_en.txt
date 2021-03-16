@@ -1,0 +1,16 @@
+[Neurophysiological identification of the cranial nerves in endoscopic endonasal surgery of skull base tumors].  INTRODUCTION  Intraoperative identification of the cranial nerves is a useful technique in removal of skull base tumors through the endoscopic endonasal approach.
+Searching through the scientific literature found one pilot study on the use of triggered electromyography (t-EMG) for identification of the VIth nerve in endonasal endoscopic surgery of skull base tumors (D. San-Juan, et al, 2014).
+AIM  The study objective was to prevent iatrogenic injuries to the cranial nerves without reducing the completeness of tumor tissue resection.
+MATERIAL AND METHODS
+In 2014, 5 patients were operated on using the endoscopic endonasal approach.
+Surgeries were performed for large skull base chordomas (2 cases) and trigeminal nerve neurinomas located in the cavernous sinus (3).
+Intraoperatively, identification of the cranial nerves was performed by triggered electromyography using a bipolar electrode (except 1 case of chordoma where a monopolar electrode was used).
+Evaluation of the functional activity of the cranial nerves was carried out both preoperatively and postoperatively.
+RESULTS
+Tumor resection was total in 4 out of 5 cases and subtotal (chordoma) in 1 case.
+Intraoperatively, the IIIrd (2 patients), Vth (2), and VIth (4) cranial nerves were identified.
+No deterioration in the function of the intraoperatively identified nerves was observed in the postoperative period.
+In one case, no responses from the VIth nerve on the right (in the cavernous sinus region) were intraoperatively obtained, and deep paresis (up to plegia) of the nerve-innervated muscles developed in the postoperative period.
+The nerve function was not impaired before surgery.
+CONCLUSION
+The t-EMG technique is promising and requires further research.

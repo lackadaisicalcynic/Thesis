@@ -1,0 +1,3 @@
+[Modern approaches to periodontal microcirculatory parameters assessment].  The article presents comprehensive functional study of periodontal tissues in 62 patients aged 20-45 with periodontal disease by laser Doppler flowmetry, Doppler ultrasound and computer capillaroscopy.
+All patients were divided into 5 groups depending on the severity of inflammation in the periodontium (chronic gingivitis, light, moderate and severe chronic periodontal disease).
+The relationship between microcirculatory indexes was evaluated by Pearson Product Moment Correlation or PPMC.  The study shows high correlation between blood flow velocity measurement, diameter of microvessels and oxygen saturation in periodontal tissues that establish a direct relationship between studied parameters.

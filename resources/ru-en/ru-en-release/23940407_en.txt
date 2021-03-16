@@ -1,0 +1,9 @@
+Interventions for common perinatal mental disorders in women in low- and middle-income countries: a systematic review and meta-analysis.
+OBJECTIVE
+To assess the effectiveness of interventions to improve the mental health of women in the perinatal period and to evaluate any effect on the health, growth and development of their offspring, in low- and middle-income (LAMI) countries.
+METHODS
+Seven electronic bibliographic databases were systematically searched for papers published up to May 2012 describing controlled trials of interventions designed to improve mental health outcomes in women who were pregnant or had recently given birth.  The main outcomes of interest were rates of common perinatal mental disorders (CPMDs), primarily postpartum depression or anxiety; measures of the quality of the mother-infant relationship; and measures of infant or child health, growth and cognitive development.
+Meta-analysis was conducted to obtain a summary measure of the clinical effectiveness of the interventions.  FINDINGS
+Thirteen trials representing 20 092 participants were identified.  In all studies, supervised, non-specialist health and community workers delivered the interventions, which proved more beneficial than routine care for both mothers and children.
+The pooled effect size for maternal depression was -0.38 (95% confidence interval: -0.56 to -0.21; I (2) = 79.9%).  Where assessed, benefits to the child included improved mother-infant interaction, better cognitive development and growth, reduced diarrhoeal episodes and increased immunization rates.
+In LAMI countries, the burden of CPMDs can be reduced through mental health interventions delivered by supervised non-specialists.  Such interventions benefit both women and their children, but further studies are needed to understand how they can be scaled up in the highly diverse settings that exist in LAMI countries.

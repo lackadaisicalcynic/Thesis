@@ -1,0 +1,11 @@
+[The influence of growing seizure readiness on the autonomic regulation of the heart].
+AIM  To study the functional state of the heart in a progressive increase of seizure readiness (SR) due to pentylenetetrazole kindling.
+MATERIAL AND METHODS
+The study was carried out on male rats of the Wistar line.
+Simultaneous telemetric monitoring of electrocardiogram and electroencephalogram on-line was used.  Individual SR of animals in 7- and 27 day pentylenetetrazole kindling was determined.
+RESULTS
+The decrease in the index of LF/HF after 7 days of kindling reflects a compensatory reaction of the autonomic nervous system.
+However, the increase in SI indicates that the result obtained at the price of considerable stress regulation mechanisms.
+The increase in QTc, Tpeak Tend and reduced SDNN and TP suggest that compensatory mechanisms cannot prevent the high risk of life-threatening arrhythmias.
+High SR after 27 days of kindling is accompanied by a shift of autonomic balance towards the growth of tone of the sympathetic system which may lead to decompensation and prenosological state.  CONCLUSION
+The characteristics of autonomic regulation of the heart in progressive SR are important for fundamental and clinical cardioneurology.

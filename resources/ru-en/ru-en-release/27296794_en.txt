@@ -1,0 +1,6 @@
+[A role of the Fas system in the pathogenesis of ischemic stroke].  The Fas system can promote several biological effects due to their activation after ischemic stroke: apoptosis, inflammation, proliferation, differentiation.
+Fas interacts with adapter proteins activating a number of signaling pathways, including MAPK, NFKB, JNK, ERK, phosphorylation of cytoskeletal proteins, and caspase-dependent apoptosis.
+Fas expressed by neuronal progenitor cells from the subventricular zone does not induce apoptosis in healthy adult humans.
+During motion and differentiation of these cells, Fas regulates their morphological structure by the phosphorylation/dephosphorylation of cytoskeletal elements.
+An increase in the Fas and Fas ligand expression is observed in response to stroke injury.
+Fas responsible not only for cell death and inflammation but also for neuronal plasticity which occupies a central place in the processes of sanogenesis.

@@ -1,0 +1,11 @@
+[Arterial bed stiffness in patients with different cardiovascular risk factors].
+AIM  To investigate the specific features of changes in the arterial wall stiffness (AWS) parameters obtained by sphygmomanometry in patients with different risk factors (RFs) for cardiovascular events (CVEs).
+MATERIALS AND METHODS
+A total of 208 mining enterprise workers who had cardiovascular RFs, such as hypertension, abdominal obesity, and smoking, were examined.
+A comparison group consisted of 75 workers of this enterprise who had no these RFs.
+AWS was examined using a VaSera VS-1500 (Fukuda Denshi, Japan) to determine CAVI, ABI, UT, %МАР, AI, tb, and tba.
+RESULTS
+The group of patients with a combination of RFs versus the comparison group showed a statistically significant prevalence of virtually all sphygmomanometric indices characterizing AWS, which is suggestive of a less favorable long-term prognosis in this category of patients.
+CONCLUSION
+The patients having abnormal AWS parameters should be included in a group at risk for cardiovascular diseases and CVEs and their existing RFs be further assessed in detail for a preventive purpose.
+It is appropriate to incorporate volumetric sphygmomanometry in screening examination programs.

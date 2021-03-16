@@ -1,0 +1,9 @@
+Association between intimate partner violence and poor child growth: results from 42 demographic and health surveys.
+OBJECTIVE
+To determine the impact of intimate partner violence against women on children's growth and nutritional status in low- and middle-income countries.  METHODS
+We pooled records from 42 demographic and health surveys in 29 countries.
+Data on maternal lifetime exposure to physical or sexual violence by an intimate partner, socioeconomic and demographic characteristics were collected.  We used logistic regression models to determine the association between intimate partner violence and child stunting and wasting.
+FINDINGS  Prior exposure to intimate partner violence was reported by 69 652 (34.1%) of the 204 159 ever-married women included in our analysis.
+After adjusting for a range of characteristics, stunting in children was found to be positively associated with maternal lifetime exposure to only physical (adjusted odds ratio, aOR: 1.11; 95% confidence interval, CI: 1.09-1.14) or sexual intimate partner violence (aOR: 1.09; 95% CI: 1.05-1.13) and to both forms of such violence (aOR: 1.10; 95% CI: 1.05-1.14).
+The associations between stunting and intimate partner violence were stronger in urban areas than in rural ones, for mothers who had low levels of education than for women with higher levels of education, and in middle-income countries than in low-income countries.  We also found a small negative association between wasting and intimate partner violence (aOR: 0.94; 95%CI: 0.90-0.98).
+Intimate partner violence against women remains common in low- and middle-income countries and is highly detrimental to women and to the growth of the affected women's children.  Policy and programme efforts are needed to reduce the prevalence and impact of such violence.

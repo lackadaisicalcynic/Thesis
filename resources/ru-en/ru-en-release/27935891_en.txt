@@ -1,0 +1,17 @@
+[Rate of in-hospital cardiovascular complications in patients with postoperative renal dysfunction after surgical myocardial revascularization].  The study was aimed at revealing the factors associated with renal dysfunction having developed after coronary artery bypass grafting (CABG) and assessing the in-hospital cardiovascular complications rate amongst patients with postoperative renal dysfunction.
+The study included a total of 99 patients presenting with stable angina pectoris and having indications for CABG.
+The mean age of the patients amounted to 57±7 years, with the average duration of coronary artery disease (CAD) of 6±5.7 years.
+A multi-vessel lesion of coronary arteries was revealed in 69.7% of patients, ≥ 50% stenosis of the trunk of the left coronary artery was diagnosed in a further 15.1%.
+CABG was performed in conditions of assisted circulation (AC) in 88.9% of patients and on the functioning heart in 11.1%.
+We implanted from 1 to 4 grafts to each patient.
+At admission, and then on the first and second postoperative days after CABG we determined blood serum creatinine and calculated the creatinine clearance (CrCl) according to the Cockcroft-Gault equation.
+A decrease in the CrCl < 60 ml/min was regarded as renal dysfunction.
+Assessing the cardiovascular complications rate we took into consideration cases of cardiac death, perioperative myocardial infarctions (POMI), severe acute cardiac insufficiency having required placement of a counterpulsator, and as well as the proportion of patients with paroxysmal atrial fibrillation.
+We also evaluated the frequency of repeat sternotomy.
+The incidence rate of transitory renal dysfunction following CABG amounted to 18.2%.
+The factors associated with a decrease in the CrCl < 60 ml/min after CABG were found to be as follows: age above - Me 62.5 (range 59-68) years, increased duration of AC above - Me 103 (range 88-133) min and prolonged time of aortic occlusion (AO) above - Me 53 (range 44-60) min, severe postoperative acute cardiac insufficiency, and re-sternotomy.
+The cumulative rate of in-hospital cardiovascular complications turned out to be significantly higher (55.6 versus 18.5%, p=0.001) amongst patients with postoperative renal dysfunction.
+We also revealed a substantially higher incidence rate of re-sternotomies in the cohort of patients with a CrCl < 60 ml/min after CABG (11.1 vs.1.2%, p=0.027).
+Hence, moderate transitory renal dysfunction appears to develop nearly in every fifth patient in the early period after CABG.
+The risk factors for the development of postoperative renal dysfunction include: age, increased duration of the period of artificial circulation (AC) and time of aortic occlusion (AO), severe acute postoperative cardiac insufficiency, and re-sternotomy.
+Even moderately pronounced transitory renal dysfunction after CABG is associated with an unfavourable prognosis of in-hospital cardiovascular complications.

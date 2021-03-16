@@ -1,0 +1,6 @@
+[A role of microRNA in the pathogenesis of ischemic stroke].  Ischemic stroke (IS) is one of the leading causes of death and disability worldwide.
+Among all the causes of IS, cardioembolic stroke (CEI) accounts for up to 40%.
+Based on the literature data, modern ideas about the role and location of cardiac diseases in the pathogenesis of CEI are presented.
+The leading cause of CEE is non-rheumatic atrial fibrillation.
+Numerous attempts to study and prove the genetic nature of the development of IS led to the discovery of new markers - micribonucleic acids (microRNAs), the regulators of gene expression, that inhibit mRNA translation and play a key role in the pathogenesis of IS.
+This review summarizes the current knowledge of microRNAs, their ability to simultaneously regulate several target genes, and their significance as potential diagnostic and prognostic biomarkers in IS.

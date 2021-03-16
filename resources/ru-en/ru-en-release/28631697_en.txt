@@ -1,0 +1,20 @@
+[Changes in the serum concentrations of adhesion molecules and vascular endothelial growth factor in active ankylosing spondylitis patients taking amtolmetin guacil: Results of a 56-week prospective ореn-label controlled observational study].
+AIM  To estimate changes in the concentrations of adhesion molecules and vascular endothelial growth factor A after 30-day additional use of amtolmetin guacil (AMG) in patients with active ankylosing spondylitis (AS) who were unresponsive to previous one-year treatment with nonsteroidal anti-inflammatory drugs (NSAIDs).
+SUBJECTS AND METHODS
+20 patients with active AS who had not reached a BASDAI score <4.0 at week 52 of NSAID therapy and 10 healthy individuals matched for cardiovascular risk factors were examined.
+After 52 weeks of NSAID therapy, AMG was administered orally at 1200 mg/day to patients with AS for 30 days.
+The concentrations of adhesion molecules (sICAM-1 and sVCAM-1) and VEGF-A were measured.
+BASDAI and ASDAS scores and C-reactive protein (CRP) levels were determined in AS patients.
+The concentrations of adhesion molecules and VEGF-A were investigated in patients with AS at baseline, at 52 weeks after NSAID treatment start, and at 30 days following AMH initiation (at week 56) and in healthy individuals at baseline and at 30 days.
+RESULTS
+The concentration of sICAM-1 in patients with AS was 987.0±217.39, 938.98±293.31, and 364.25±363.3 ng/ml at weeks 0, 52, and 56, respectively; that in healthy individuals was 769.25±189.32 and 740.05±225.76 ng/ml at baseline and at 30 days, respectively.
+The differences from the baseline concentration were significant in patients with AS (p<0.05) and insignificant in healthy subjects (p≥0.05); the differences between the concentrations in patients with AS and the controls were significant at baseline and at 52 weeks (p<0.05).
+The concentration of sVCAM-1 in patients with AS was 364.25±160.49, 325.34±245.1, and 319.1±248.73 ng/ml at weeks 0, 52 and 56, respectively; that in healthy individuals was 245.13±40.4 and 248.73±34.42 ng/ml, respectively (p<0.05 vs baseline values and values in healthy subjects).
+The level of VEGF-A in AS patients was not different from that in healthy individuals, but decreased during treatment.
+Correlations were found between the concentration of adhesion molecules and the level of CRP (p<0.01).
+CONCLUSION
+Elevated concentrations of adhesion molecules have been found in AS patients compared with healthy individuals.
+The study has demonstrated that AMG treatment is efficient in treating patients with AS.
+NSAID/AMG treatment is associated with lower concentrations of adhesion molecules.
+Decreased CRP levels serve as predictors for reduced concentration of adhesion molecules.
+The level of VEGF-A at baseline did not differ from that in healthy subjects, but was decreased during treatment with NSAIDs.

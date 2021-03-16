@@ -1,0 +1,6 @@
+[Age-related aspects of the involvement of heat shock proteins in the pathogenesis of osteoarthritis].  The purpose of research - to establish features of heat shock proteins (HSPs) levels change, chemokines and collagen degradation marker in the blood of patients with osteoarthritis in the age aspect.
+The results of the study shown, HSPs participate in the pathogenesis of osteoarthritis is complex and multi-layered process.
+HSP70 acts as an immunologic adjuvant reactions involving chemokine CXCL17, under the influence of external risk factors.
+Low levels of HSPs not allow them to act as autoimmune factor interaction with Toll-like receptors of immune cells, but obviously it contributes for CXCL17-dependent activation of dendritic cells and macrophages, which initiate local inflammation involving key cytokines, including TNF-α.
+Chondrocytes and osteoblasts, subjected cytokine attack, are not able to reply fully enhanced expression of HSP70 and HSP27 for whatever reason.
+With aging, the pathophysiology of osteoarthritis enters the phase of the local tissue reaction, where significant role have processes hypertrophic differentiation of chondrocytes and osteo-like cells of subchondral bone.

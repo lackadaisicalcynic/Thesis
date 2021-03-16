@@ -1,0 +1,13 @@
+[Immunohistochemical characteristics of the substantia nigra neurons of the human].  AIM
+To determine the cytochemical characteristics of unchanged neurons of the human substantia nigra using a wide range of immunocytochemical markers some of which (glutamate decarboxylase-65, PGP 9.5, non-phosphorylated neurofilament proteins, alpa-tubulin) have never been used for study of human dopaminergic neurons.
+MATERIAL AND METHODS
+Fragments of human midbrain (17 men and women, aged from 28 to 78 years) from the archives of the Department of General and Specific Morphology of the Institute of Experimental Medicine were used.
+The study was performed using classical neurohistological techniques and immunocytochemistry using antibodies to 15 different proteins.
+RESULTS
+Most neurons in substantia nigra exhibited a reduced expression of common neuronal markers such as neuronal nuclear protein NeuN, PGP 9.5 protein, and neuron-specific enolase.
+GABAergic (GAD65-immunopositive) neurons were not found in the substantia nigra.
+Single cholinergic neurons without neuromelanin were identified in the dorsal part of the substantia nigra.
+Calcium-binding proteins calbindin and calretinin were not found in the majority of nigral cells although calbindin was rarely seen in some neurons of the dorsal part and calretinin in the ventral one.
+Nitric oxide synthase (NOS) was present in the substantia nigra both in neuropil and neuronal bodies.
+CONCLUSION
+The results suggest the unique cytochemical properties of the nigral neurons, which may be related to their increased susceptibility to lesion and degeneration.

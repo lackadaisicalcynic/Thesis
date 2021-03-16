@@ -1,0 +1,13 @@
+Tuberculosis-associated mortality in Shanghai, China: a longitudinal study.
+OBJECTIVE  To determine excess mortality in a cohort of people with tuberculosis in Shanghai.
+METHODS
+Participants were local residents in 4 (of 19) districts in Shanghai, registered in one of four tuberculosis clinics between January 1, 2004 and December 31, 2008.  Baseline data were collected at the most recent diagnosis of tuberculosis and mortality was assessed between March and May of 2014.
+We calculated standardized mortality ratios (SMR) and case-fatality rates for all participants and for subgroups.  Univariate and multivariate Cox regression models were used to quantify associations between co-morbidities and mortality from all causes and from tuberculosis.
+FINDINGS
+We registered 4569 subjects in the cohort.
+Overall, the cohort had an SMR for deaths from all causes of 5.2 (95% confidence interval, CI: 4.8-5.6).
+Males had a higher SMR than females (6.1 versus 3.0).  After adjustment for age and sex, hazard ratios (HR) for deaths from all causes were significantly greater in previously treated people (HR: 1.26; 95% CI: 1.08-1.49) and sputum smear-test positive people (HR: 1.55; 95% CI: 1.35-1.78).
+The risk of death from tuberculosis was also significantly greater for previously treated people (HR: 1.88; 95% CI: 1.24-2.86) and smear positive people (HR: 3.16; 95% CI: 2.06-4.87).
+CONCLUSION
+People with tuberculosis in Shanghai have an increased risk of mortality.
+Earlier diagnosis and more vigilant follow-up may help to reduce mortality in this group.

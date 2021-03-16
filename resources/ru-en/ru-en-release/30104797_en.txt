@@ -1,0 +1,13 @@
+Cost-effectiveness of risk-based breast cancer screening programme, China.
+Objective  To model the cost-effectiveness of a risk-based breast cancer screening programme in urban China, launched in 2012, compared with no screening.
+Methods
+We developed a Markov model to estimate the lifetime costs and effects, in terms of quality-adjusted life years (QALYs), of a breast cancer screening programme for high-risk women aged 40-69 years.  We derived or adopted age-specific incidence and transition probability data, assuming a natural history progression between the stages of cancer, from other studies.
+We obtained lifetime direct and indirect treatment costs in 2014 United States dollars (US$) from surveys of breast cancer patients in 37 Chinese hospitals.
+To calculate QALYs, we derived utility scores from cross-sectional patient surveys.  We evaluated incremental cost-effectiveness ratios for various scenarios for comparison with a willingness-to-pay threshold.
+Findings
+Our baseline model of annual screening yielded an incremental cost-effectiveness ratio of US$ 8253/QALY, lower than the willingness-to-pay threshold of US$ 23 050/QALY.
+One-way and probabilistic sensitivity analyses demonstrated that the results are robust.
+In the exploration of various scenarios, screening every 3 years is the most cost-effective with an incremental cost-effectiveness ratio of US$ 6671/QALY.
+The cost-effectiveness of the screening is reduced if not all diagnosed women seek treatment.  Finally, the economic benefit of screening women aged 45-69 years with both ultrasound and mammography, compared with mammography alone, is uncertain.
+Conclusion
+High-risk population-based breast cancer screening is cost-effective compared with no screening.

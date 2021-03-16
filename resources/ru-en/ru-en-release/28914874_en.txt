@@ -1,0 +1,13 @@
+[Craniofacial tumors blood supply].  Because of the spread to different anatomical regions, craniofacial tumors (CFTs) usually receive blood supply from several arterial systems, and CFT removal is often accompanied by abundant blood loss.
+PURPOSE
+The study purpose was to develop an algorithm of diagnostic angiography for planning surgical treatment of CFT patients.
+MATERIAL AND METHODS
+Complex preoperative angiography was performed in 72 patients with craniofacial tumors, aged 10 to 78 years (mean age, 45.5 years), who underwent surgical treatment at the Burdenko Neurosurgical Institute in the period from 2012 to 2015.
+At the first stage, blood supply to tumors was quantified using SCT perfusion.
+Then, depending on an assessed degree of tumor vascularization, direct angiography or modern minimally invasive angiographic techniques (3D TOF HR MR angiography, SCT angiography) were applied.
+RESULTS
+In 12 cases of hypervascular tumors, accessible afferents were preoperatively embolized through the external carotid artery, which was accompanied by an increase in the blood supply to tumors via alternative routes of the external and internal carotid arteries.
+The obtained data were used to plan the surgical approach.
+A comparative analysis of the SCT perfusion data and the expression level of endothelial markers in histological specimens revealed no significant correlation.
+CONCLUSION
+The study demonstrated the importance of a comprehensive assessment of the blood supply to CFTs in planning of the surgical treatment and enabled the development of algorithms for preoperative angiographic diagnosis, depending on the baseline clinical and radiological data.

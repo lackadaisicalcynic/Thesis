@@ -1,0 +1,10 @@
+Systematic analysis of protein identity between Zika virus and other arthropod-borne viruses.
+OBJECTIVE
+To analyse the proportions of protein identity between Zika virus and dengue, Japanese encephalitis, yellow fever, West Nile and chikungunya viruses as well as polymorphism between different Zika virus strains.
+METHODS
+We used published protein sequences for the Zika virus and obtained protein sequences for the other viruses from the National Center for Biotechnology Information (NCBI) protein database or the NCBI virus variation resource.  We used BLASTP to find regions of identity between viruses.
+We quantified the identity between the Zika virus and each of the other viruses, as well as within-Zika virus polymorphism for all amino acid k-mers across the proteome, with k ranging from 6 to 100.  We assessed accessibility of protein fragments by calculating the solvent accessible surface area for the envelope and nonstructural-1 (NS1) proteins.
+FINDINGS  In total, we identified 294 Zika virus protein fragments with both low proportion of identity with other viruses and low levels of polymorphisms among Zika virus strains.
+The list includes protein fragments from all Zika virus proteins, except NS3.  NS4A has the highest number (190 k-mers) of protein fragments on the list.
+CONCLUSION
+We provide a candidate list of protein fragments that could be used when developing a sensitive and specific serological test to detect previous Zika virus infections.

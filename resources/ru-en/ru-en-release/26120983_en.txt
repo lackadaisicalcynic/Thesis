@@ -1,0 +1,8 @@
+[Computerized method of objectification of dizziness and vertigo and differential diagnostic of vestibulopathies].
+OBJECTIVE
+To create a complex computerized method of objectification of dizziness and vertigo, and differentiation of vestibulopathies of various geneses using electrooculography approach that allows to record and analyze spontaneous, vestibular- and visually-induced eye movements, with the following classification (discriminant) analysis of the results obtained.
+MATERIAL AND METHODS  The study involved 69 patients of different sex and age complained of dizziness, vertigo and disequilibrium, and 64 healthy men.
+Based on the results of clinical examination, patients were divided into three groups: patients with peripheral vestibulopathy, patients with central vestibulopathy and patients with psychogenic vestibulopathy.
+Electrooculography was performed using the hardware-software complex (HSC) "OCULOSTIM-CM".
+RESULTS AND CONCLUSION
+Significant diagnostic parameters based on the recognition and analysis of spontaneous, vestibular- and visually-induced eye movements were coefficients of efficacy and increased frequency of fixation saccades and smooth pursuit with- and without retinal optokinetic stimulation.  We developed the algorithm and complex computerized method for differentiation of different types of vestibulopathy.

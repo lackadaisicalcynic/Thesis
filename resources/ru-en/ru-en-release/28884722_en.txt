@@ -1,0 +1,13 @@
+[Severe carotid stenosis: cerebral autoregulation in the ipsilateral region].
+AIM  To study cerebral autoregulation (CA) in region of the stenotic carotid artery.
+MATERIAL AND METHODS
+The study involved 35 patients with critical stenosis of the carotid arteries, including 24 patients were asymptomatic and 11 patients with symptomatic course.
+Blood flow velocity in middle cerebral arteries was monitored using Multi Dop X (DWL, Germany) with simultaneous noninvasive systemic blood pressure registration (CNAP, Austria).
+CA was assessed by calculating the phase shift (PS) between spontaneous oscillations of blood flow velocity and blood pressure within the range of systemic Mayer waves (80-120 mHz).
+RESULTS
+In 18 patients, the CA indicators were in the normal range (PS 1.2±0.3 rad).
+Seventeen patients, including asymptomatic as well as symptomatic types, had impaired CA (PS 0.2±0.2 rad and 0.3±0.2 rad, respectively).
+Reconstructive surgery, irrespective of clinical manifestations, led to the significant increase in PS (p<0.001) in the early postoperative period (0.9±0.5 and 0.9±0.3 rad, respectively).
+CONCLUSION
+A significant variability in the cerebrovascular reserve capacity in symptomatic and asymptomatic types of carotid artery stenosis was found.
+CA can be used in determining the indications for surgical treatment and evaluation of its effectiveness in patients with stenosis of carotid arteries.

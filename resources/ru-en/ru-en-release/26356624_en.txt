@@ -1,0 +1,7 @@
+[From the conception of «oxidizing stress» to the conception of «cell signaling modulation»].
+We discuss the current conception of "oxidizing stress" which covers a wide group of various interrelated phenomena including higher production of reactive oxygen species (ROS) and oxidative damage of cellular molecular components.
+Currently the term of oxidizing stress is used for the description of pro-oxidant and antioxidant imbalance, with the prevalence of the former, that results in the damage of biological molecules and cellular structures.
+However ROS do not play a single role in oxidative metabolism.  There are also active nitrogen forms, reactive forms of carbon, chlorine and sulphur.
+These highly reactive molecules are involved in many reactions and play a great role in the regulation of different metabolic processes in the body.  These reactions underlie such pathological processes as heart ischemia, atherosclerosis, cerebral ischemia and different types of inflammation.
+An effect of highly reactive molecules on the destruction of biologically important molecular in different stressful conditions is determined by the reactions they are involved in.  But the balance of oxidizers and antioxidants should not be considered as a unified system because main cellular redox systems are not in the redox equilibrium.
+In this view, a search for an optimal oxidizer that impacts on the modulation of cellular signal pathways related with ROS development is the most effective way in the development of antioxidant therapy.

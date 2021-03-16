@@ -1,0 +1,18 @@
+[Characteristic of the normal values of the pain threshold values in the dorsal region of the young women obtained by the pressure algometry method under different condition].  The application of modern techniques for different types of massage and manual therapy is associated with the exposure of the paravetrebral points.
+The knowledge of pain threshold values at these points is of great practical significance.  AIM
+The objective of the present study was to obtain the statistical characteristics of the individual pressure pain threshold (PPT) for the healthy women and patients presenting with minor disturbances of spinal motion segments (SMS) at the trigger points on the back.  The secondary objective was to estimate the dependence of the PPT parameters on a variety of conditions.
+MATERIAL AND METHODS
+Two groups of female volunteers (students of the South Ural State Humanitarian Pedagogical University aged 19-21 years) were formed, one composed of the girls in the quiescent state (group 1, n=45), the other comprised of the girls in the state of emotional agitation and prepared for physical activity (group 2, n=105).
+Each group was split into two sub-groups depending on the presence or absence of complaints about the state of the SMS.
+PPT was evaluated in terms of kg/cm2 with the use of the Wagner FPX algometer (USA) at 3 paired paravertebral points localized at different levels: the second and third lumbar vertebrae (LII-LIII); the ninth-to-tenth thoracic vertebrae (DIХ-DХ), the seventh cervical, and first thoracic vertebrae (CVII-DI); as well as in pairs on the trapezius muscles in their upper parts.
+The height, weight, and body mass index of the participants in the study were measured.
+RESULTS
+The PPTs values at the selected points on the back were log-normally distributed.
+The minimum values were measured on the trapezoidal muscles (about 2 kg/cm2) and the maximum ones in the lumbar spineregion (up to 7 kg/cm2).
+Complaints about the condition of SMS in group 1 were associated with the decrease of the PPT values at the paravertebral points on the neck and the lower back.  No decrease of the PPT values in connection with the complaints was documented in the patients of group 2.
+The PPT values determined in the women of group 2 were statistically higher than in those of group 1 at all points studied and in all the subgroups; the differences ranged from 20% to 40%.
+The PPTs values at different points of the back correlated significantly between each other (Spearman correlation coefficient 0.6-0.9, p<0.001).
+In all the groups statistically significant asymmetry of the PPT values was documented (Kruskal-Wallis test, p<0.05); the right-side PPT values were lower than the left-side ones, with the difference amounting to 2-8%.
+CONCLUSION
+The conditions of PPT measurements at the paravertebral points have a significant impact on the resultant values, being higher when the subject is ready for performing the physical exercises.
+The complaints about the state of the SMS are associated with the decrease in the PPT values that are lower on the right side of the body than on its left side.

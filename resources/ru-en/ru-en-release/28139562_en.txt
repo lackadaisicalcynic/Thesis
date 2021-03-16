@@ -1,0 +1,11 @@
+[The informative value of non-invasive liver fibrosis markers in patients with nonalcoholic fatty liver disease].
+AIM  To estimate the diagnostic and informative value of clinical and laboratory parameters in the development and progression of liver fibrosis in patients with nonalcoholic fatty liver disease (NAFLD) to enhance efficiency of their treatment.
+SUBJECTS AND METHODS
+An open-label case-control study included 77 patients with NAFLD.
+Clinical and laboratory examinations were done.
+To search for additional noninvasive fibrosis markers, the investigators studied the serum concentrations of insulin, leptin, adiponectin, matrix metalloproteinase-9 (MMP-9) and its inhibitors, such as tissue inhibitor of matrix metalloproteinases 1 (TIMP-1) and TIMP-2.
+All the patients underwent elastometry to assess the degree of liver fibrosis with the Metavir scale with the use of a Fibroscan machine.
+RESULTS
+The serum levels of low-density lipoproteins, glucose, MMP-9, and leptin proved to be most informative in assessing the progression of the initial stages (1-2) of fibrosis, as were the increased liver size detected by physical examination, systolic blood pressure, carbohydrate metabolic disorders, alanine/aspartate aminotransferase levels, waist-to-hip ratio, TIMP-1, and TIMP-2 in evaluating the progression of Stage II fibrosis 2 to Stage 3.
+CONCLUSION
+The clinical and laboratory parameters can serve as reliable noninvasive markers that reflect the progression of fibrotic changes in liver tissue.

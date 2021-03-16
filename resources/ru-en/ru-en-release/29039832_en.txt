@@ -1,0 +1,16 @@
+[Gender peculiarities of the risk of cardiovascular diseases in a population with symptoms of depression in Siberia (the WHO MONICA-psychosocial program)].  AIM
+To identify gender differences in the prevalence of depression in an open population of individuals aged 25-64 years and to evaluate its impact on the risk of cardiovascular diseases (CVD) in the population of Siberia.  SUBJECTS AND METHODS
+A random representative sample of a 25-64-year-old Novosibirsk population (657 men and 689 women) was surveyed within the framework of the third screening of the WHO MONICA-psychosocial program in 1994.
+The screening program included sociodemographic data registration and depression detection.
+Over a 16-year study period, women had myocardial infarction (MI) in 15 cases and stroke in 35 cases and men had these conditions in 30 and 22 cases, respectively.
+RESULTS
+In the open 25-64-year-old population, depression was detected in 54.5% of the women and in 29% of the men; major depression was present in 11.8% of the women and 3.1% of the men (χ2=66.724; υ=2; p=0.0001).
+The risk of MI in the depressed patients was higher in the women (hazard ratio (HR)=2.5) than in the men (HR=2); when social parameters and age are included in the model, only a trend towards the impact of depression on the risk of MI persisted in the women (HR=3.4; p>0.05) and the men were observed to have a 1.6-fold higher risk for MI.
+The greatest risk of MI was seen in the men (HR=6.8) and women (HR=6.3) at the age of 55-64 years, as well as in the men who had incomplete secondary or primary education (HR=3.2); in blue-collar workers (HR=6.7), in the men who were single (HR=3.6), divorced (HR=4.5), or widowed (HR=6).
+The risk of stroke in the depressed patients during a 16-year study period was greater in the men (HR=5.8) than in the women (HR=4.6); after adjusting for age and social gradient, the risk of stroke in the women was higher in both the population and those who were aged 55-64 years (HR=8.5 and 6.9, respectively) than that in the men (HR=4.2 and 3.1, respectively).
+Among the men, the risk of stroke was higher in those who had primary education (HR=8.8), were widowed (HR=8.4) or divorced (HR=2.7).
+CONCLUSION
+The women are much more susceptible to depression than are the men.
+The risk of MI with depression is higher in the women than in the men; at the same time, the risk of stroke is higher in the men than in the women.
+The picture is opposite in the older age group.
+The risk of CVD in the depressed men is exacerbated by a social gradient; these relationships have not been revealed in the women.

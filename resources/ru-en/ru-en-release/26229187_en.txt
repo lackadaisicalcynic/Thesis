@@ -1,0 +1,12 @@
+Data-driven methods for imputing national-level incidence in global burden of disease studies.
+OBJECTIVE  To develop transparent and reproducible methods for imputing missing data on disease incidence at national-level for the year 2005.
+METHODS
+We compared several models for imputing missing country-level incidence rates for two foodborne diseases - congenital toxoplasmosis and aflatoxin-related hepatocellular carcinoma.  Missing values were assumed to be missing at random.
+Predictor variables were selected using least absolute shrinkage and selection operator regression.
+We compared the predictive performance of naive extrapolation approaches and Bayesian random and mixed-effects regression models.  Leave-one-out cross-validation was used to evaluate model accuracy.
+FINDINGS  The predictive accuracy of the Bayesian mixed-effects models was significantly better than that of the naive extrapolation method for one of the two disease models.
+However, Bayesian mixed-effects models produced wider prediction intervals for both data sets.
+CONCLUSION
+Several approaches are available for imputing missing data at national level.
+Strengths of a hierarchical regression approach for this type of task are the ability to derive estimates from other similar countries, transparency, computational efficiency and ease of interpretation.
+The inclusion of informative covariates may improve model performance, but results should be appraised carefully.

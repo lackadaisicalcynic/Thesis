@@ -1,0 +1,17 @@
+[Molecular mechanisms of lung cancer development at its different stages in nuclear industry workers].  OBJECTIVE  to assess mutational events in exons 5, 7, and 8 of the p53 gene and to reveal mutant p53 protein in verified cases of morphologically altered (proliferative and precancerous changes, lung cancer) and histologically unaltered, lung tissues in workers exposed to occupational radiation.
+MATERIAL AND METHODS
+The investigation used formalin-fixed paraffin-embedded unaltered and altered lung tissue blocks (FFPBs) obtained from the human radiobiological tissue repository.
+The shelf-life of FFPBs was 5-31 years.
+An immunohistochemical technique using mouse antibodies against p53 protein (<<DAKO>>, Denmark), stained with diaminobenzidine (DAB) chromogen, was employed to determine p53 protein.
+DNA was isolated from lung tissue FFPBs with QIAmp DNA FFPE Tissue Kit, (<<QIAGEN>>, USA).
+Polymerase chain reaction (PCR) was performed to amplify the p53 gene exons 5, 7, and 8 selected for examination, by applying the sequences of genes and primers, the specificity of which was checked using the online resource (http://www.ncbi.nlm.nih.gov/blast).
+PCR products were detected by temporal temperature gradient gel-electrophoresis and the Sanger sequencing method.
+The obtained DNA fragments were analyzed on a sequencer ABI Prism 3100 Genetic Analizer (<<Applied Biosystems>>, USA).
+Computer-aided DNA analysis was made using the BLAST program.
+A package of applied Statistica 6.0 programs was employed for statistical data processing.
+Results.  Immunohistochemical analysis showed that mutant p53 protein was absent in the cells of unaltered lung tissue and the number of cells with mutant p53 protein increased in all the patients with proliferative and precancerous changes and lung cancer, suggesting p53 protein dysfunction.
+The total number of p53 gene mutations in exons 5, 7, and 8, if there were proliferative and precancerous lung tissue changes and lung cancer, were 25, 20, and 40%, respectively.
+All the found mutations were transversions (the substitution of purine for pyrimidine or, conversely), indicating the action of exogenous mutagens.
+CONCLUSION
+The results of this investigation have confirmed other investigators' data showing that p53 gene mutations in lung cancer are observed in 40-70% of cases.
+The differences in the number of cases of altered lung tissue with mutations in the p53 gene (not more than 40%) and in those of p53 protein expression were found in 100%, suggesting the regulation of p53 gene function in the cell at multiple levels.

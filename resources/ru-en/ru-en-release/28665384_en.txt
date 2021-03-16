@@ -1,0 +1,23 @@
+[The phenomenon of long-term survival in glioblastoma patients.  Part I: the role of clinical and demographic factors and an IDH1 mutation (R 132 H)].
+The median overall survival of glioblastoma patients is about 15 months.
+Only a small number of patients survive 3 years.  The factors of a favorable prognosis for the 'longevity phenomenon' in glioblastoma patients are not fully understood.
+OBJECTIVE  to determine the occurrence rate of long-living patients with glioblastomas, identify clinical predictors of a favorable prognosis, and identify the presence and prognostic significance of an IDH1 mutation.
+MATERIAL AND METHODS
+Among 1494 patients operated on for glioblastoma at the Burdenko Neurosurgical Institute from 2007 to 2012, there were 84 (5.6%) patients who lived more than 3 years after primary surgery.
+In all the cases, histological specimens were reviewed, and immunohistochemical detection of a mutant IDH1 protein was performed.
+Overall survival was calculated from the time of first surgery to the date of the last consultation or death, and the recurrence-free period was calculated from the time of first surgery to MRI-verified tumor progression.
+RESULTS
+The median age of long-living patients with glioblastoma was 45 years (19-65 years).
+All tumors were located supratentorially.
+The median Karnofsky performance status score at the time of surgery was 80 (range, 70-100).
+All patients underwent microsurgical resection of the tumor, followed by chemoradiotherapy.
+The median recurrence-free period was 36 months (5-98 months).
+Overall survival of 48, 60, and 84 months was achieved in 23, 15 and 6% of patients, respectively.
+Among 49 specimens available for the IDH1 analysis, 14 (28.6%) specimens had a mutant protein.
+There was no significant difference in survival rates in patients with positive and negative results for IDH1 (44.1 vs. 40.8 months; p>0.05).
+CONCLUSION
+The significance of various factors that may be predictors of a favorable course of the disease is discussed in the literature.
+This work is the first part of analysis of prognostically significant factors positively affecting overall survival of glioblastoma patients.
+In our series, the predictors of a favorable prognosis for long-living patients with the verified diagnosis of glioblastoma were as follows: young age, the supratentorial location of the tumor, a high Karnofsky score before surgery, and tumor resection.
+In our series, we used immunohistochemical tests and found no prognostic significance of the IDH1 gene mutation; further analysis will require application of direct sequencing.
+We plan to study other morphological and molecular genetic features of tumors, which explain prolonged survival of glioblastoma patients, as well as the role of various types of combined chemoradiation treatment.

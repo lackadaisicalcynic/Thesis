@@ -1,0 +1,7 @@
+[The role of Wnt/β-catenin signaling pathway in ameloblastoma formation].  The aim of the study was to assess the role of the canonical Wnt/β-catenin signaling pathway in the formation and clinical course of various histological variants of ameloblastoma.
+MATERIAL AND METHODS  76 cases of ameloblastoma were investigated, the average age of the patients was 46 years.
+There were 49 (64.5%) cases of recurrence of the disease.
+Tissue antigens were determined using monoclonal rabbit antibodies to Ki-67 and β-catenin.  RESULTS
+it was found correlation between the proliferative activity of ameloblastoma cells and the intranuclear localization of β-catenin, indicating the activation of the Wnt/β-catenin-signaling pathway.  It was shown that the nuclear localization of β-catenin is positively correlated with the recurrence.
+CONCLUSION
+The Wnt/β-catenin signaling pathway is involved in a formation and progression of ameloblastoma.

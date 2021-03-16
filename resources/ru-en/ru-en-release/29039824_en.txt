@@ -1,0 +1,12 @@
+[Influence of modifiable cardiovascular risk factors on antihypertensive therapy efficiency escape].
+AIM  To evaluate the influence of cardiovascular risk factors on antihypertensive therapy (AHT) efficiency escape (EE).
+SUBJECTS AND METHODS
+Data on 59 patients with grades 1-3 hypertension (Stages I-II) were analyzed.
+During chosen AHT, 24-hour blood pressure monitoring was done at baseline, 1 and 3 months after beginning the observation to identify/rule out the AHT EE phenomenon.
+RESULTS
+The AHT EE group (Group 1) as compared with the group that needed no therapy correction within 3 months (Group 2) was observed to have the following: elevated fasting blood glucose levels (FBGL) (5.8±0.8 vs 5.3±0.7 mmol/l; p=0.008) and higher impaired glucose tolerance (IGT) rates (8 (27.6%) vs 4 (13.3%) cases (p=0.03)); a more number of smoking patients (8 (27.6%) vs 3 (10%) cases; p=0.02); a larger number of patients with a compromised family history of cardiovascular diseases (17 (58.6%) vs 11 (36%); p=0.02).
+Furthermore, in Group 1 baseline average systolic blood pressure during 24 hours (SBP-24) proved to be higher than that in Group 2 (127.4±4.2 vs 122.4±6.8 mm Hg; p=0.002).
+Odds ratio (OR) for developing the EE phenomenon increased by 60% with a rise of 0.5 mmol in FBGL (OR, 1.60; 95% confidence interval (CI), 1.06 to 2.4; p=0.02) and by 18% with an increase of 1 mm Hg in baseline SBP-24 (OR, 1.18; 95% CI, 1.05 to 1.33; p=0.004).
+Multivariate analysis indicated that the independent predictors of AHT EE were a compromised family history (OR, 3.7; 95% CI, 1.1 to 12.1; p=0.03) and IGT (OR, 4.1; 95% CI, 1.02 to 16.4; p=0.04).
+CONCLUSION
+AHT EE was influenced by FBGL, IGT, smoking, a compromised family history, and baseline SBP-24 level.

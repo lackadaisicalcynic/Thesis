@@ -1,0 +1,3 @@
+[Seven questions for elderly in the practice of primary care physicians].  Although geriatric syndromes are widespread, they often remain undiagnosed leading to the development of adverse outcomes.
+For the prompt detection of the most common geriatric syndromes in primary care we have created seven issues related to weight loss, vision and hearing impairments, falls, mood disorder, cognitive impairment, urinary incontinence, and the difficulties in walking.
+We believe that using of these questions will allow physicians to focus on addressing the important health problems associated with age and will produce the selection of patients for comprehensive geriatric assessment.

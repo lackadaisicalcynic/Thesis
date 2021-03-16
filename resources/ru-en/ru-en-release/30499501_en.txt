@@ -1,0 +1,4 @@
+[The current state and future prospects of depression research (clinical and classification problems)].
+Despite decades of research, neurobiological studies of depression havenot achieved significant results.
+Many experts propose that one of the main reasons for this failure is current diagnostic standards not considering the heterogeneity and polymorphism of depression.  Research is unable to identify specific neurobiological changes due to formal diagnosis 'major depressive disorder' and new diagnostic criteria are needed.
+RDoC (Research Domain Criteria) has intensified the confrontation between biological and clinical researchers and changes in approach to depressive psychopathology are discussed.  A review presents the recent approaches used in studies of depressive disorders, the methodology they use, the scientific paradigms they rely on.

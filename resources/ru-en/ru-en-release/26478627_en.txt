@@ -1,0 +1,13 @@
+Cost-effectiveness of community-based practitioner programmes in Ethiopia, Indonesia and Kenya.
+OBJECTIVE
+To assess the cost-effectiveness of community-based practitioner programmes in Ethiopia, Indonesia and Kenya.  METHODS
+Incremental cost-effectiveness ratios for the three programmes were estimated from a government perspective.
+Cost data were collected for 2012.
+Life years gained were estimated based on coverage of reproductive, maternal, neonatal and child health services.
+For Ethiopia and Kenya, estimates of coverage before and after the implementation of the programme were obtained from empirical studies.  For Indonesia, coverage of health service interventions was estimated from routine data.
+We used the Lives Saved Tool to estimate the number of lives saved from changes in reproductive, maternal, neonatal and child health-service coverage.  Gross domestic product per capita was used as the reference willingness-to-pay threshold value.
+FINDINGS  The estimated incremental cost per life year gained was 82 international dollars ($)in Kenya, $999 in Ethiopia and $3396 in Indonesia.
+The results were most sensitive to uncertainty in the estimates of life-years gained.  Based on the results of probabilistic sensitivity analysis, there was greater than 80% certainty that each programme was cost-effective.
+CONCLUSION
+Community-based approaches are likely to be cost-effective for delivery of some essential health interventions where community-based practitioners operate within an integrated team supported by the health system.
+Community-based practitioners may be most appropriate in rural poor communities that have limited access to more qualified health professionals.  Further research is required to understand which programmatic design features are critical to effectiveness.

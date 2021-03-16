@@ -1,0 +1,10 @@
+[The reduced level of antibodies to acetylcholine receptor alpha 7 fragment in the blood serum of patients with Alzheimer's disease].  OBJECTIVE  Determination of antibodies to neuronal membrane proteins in the blood serum of patients is of interest for diagnosis and optimization of treatment of Alzheimer's disease (AD).
+Authors studied the level of antibodies to acetylcholine receptor alpha 7 protein fragment (AChR), prion protein (РrР) and glycation end-products (RAGE) as well as to intracellular proteins nucleophosmin (Nuc) and survivin (Sur) in the serum of AD patients.
+MATERIAL AND METHODS
+Serum samples of 26 patients with probable AD and 13 healthy people were studied.
+Exposed sections of each protein were used for the choice of peptides for antibody visualization.
+ELIZA was a main method in this study.
+RESULTS AND CONCLUSION
+Antibodies to several proteins were identified but significant differences were found only for AChR-(173-193).
+The results demonstrated the involvement of AChR and AChR-antibodies in the development of AD.
+Determination of antibodies to AChR-(173-193) may be a marker of AD and a method for specifying the diagnosis of AD.

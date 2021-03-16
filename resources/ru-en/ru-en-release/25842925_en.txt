@@ -1,0 +1,10 @@
+[Immunohistochemical detection of biomolecular markers for metaplastic mucosal atrophy in gastric biopsy specimens].
+OBJECTIVE
+To estimate the validity of the signs of metaplastic atrophic gastritis to elaborate a marker principle of its detection.  SUBJECTS AND METHODS
+Two hundred diagnostic cases morphologically diagnosed with chronic gastritis were selected for examination.  The validity of the histological and immunohistochemical signs/markers reflecting a gland abnormality (hyperplasia of smooth muscle cells and argyrophilic and elastic fibers) and a cell phenotype change (intestinal and pyloric metaplasia): CDX-2, Shh, villin, CD10, MUC2, and MUC5AC was estimated in gastric biopsy specimens with atrophic gastritis forms verified in accordance with international classifications.
+The validity of the signs/markers was assessed, by calculating the sensitivity, specificity, prognostic value of positive and negative results, and positive and negative likelihood ratios.
+RESULTS
+There were 3 molecules: CDX-2 is a nuclear transcription factor associated with intestinal differentiation; CCD10 is a brush border membrane-bound mycin and MUC2 is an intestinal-type mycin, which showed a high validity like the markers of metaplastic atrophic gastritis.
+An algorithm that could probably evaluate atrophic gastritis was elaborated for the successive immunohistochemical identification of the above-mentioned marker.
+CONCLUSION
+The proposed technical decision to verify atrophic gastritis by the biomarker method may be not an alternative, but complementary technique of identifying the form of atrophic gastritis.

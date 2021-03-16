@@ -1,0 +1,17 @@
+[Efficacy and safety of intravenous methylprednisolone in the treatment of patients with active ankylosing spondylitis: results of a 12-week, prospective, open-label, pilot (METALL) study].
+AIM  To evaluate the efficacy and safety of intravenous methylprednisolone (MP) 500 mg in patients with active ankylosing spondylitis (AS) and the inefficiency, intolerability of or contraindications to treatment with 2 or more non-steroidal anti-inflammatory drugs (NSAIDs).
+SUBJECTS AND METHODS
+The investigation enrolled 20 patients (age, 35.35 ± 8.19 years) with a 10.2 ± 9.2 year history of AS who met the modified New York criteria) and had its activity defined as the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥ 4 scores and an inadequate response to and intolerance of ≥ 2 NSAIDs; there were 13 (65%) men.
+MP was given in a single intravenous dose of 500 mg.  The main efficiency criterion (primary study endpoint) was considered to be the number of patients who had achieved an ASAS20 response at week 2.
+Additional rating criteria (secondary endpoints) (improved BASDAI/ASDAS; decreased erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) levels; the number of patients achieving ASAS20/40/5/6 responses and ASAS partial remission, and improved ASDAS) were calculated 2, 4, and 12 weeks after MP administration.
+Safety was monitored estimating the frequency of adverse events (AEs) and controlling vital functions and laboratory indicators.
+RESULTS
+Nine (45%) patients achieved an ASAS40 response at week 2.
+ASDAS was 3.48 at baseline and 2.21 at week 2 (p < 0.0001).
+ASDAS clinical improvement was established in 11 (55%) patients at week 2.
+There were decreases in BASDAI from 6.6 to 3.7 at week 2, to 3.5 at week 4, and to 3.2 at week 12 (p < 0.001).
+CRP levels declined from 6.1 to 3.15 mg/l at week 2 (p < 0.05), to 2.85 mg/l at week 4 (p < 0.001), and to 4.6 mg/l at week 12 (p < 0.05).
+ESR was 6.5 mm/h at baseline, 5.5 mm/h at week 2 (p < 0.05), 6.0 mm/h at week 4, and 7.0 mm/h at week 12 (p > 0.05).
+A total of 13 AEs were recorded and no serious AEs were noted.
+CONCLUSION
+Pulse therapy with MP 500 mg is safe and effective in the short-term treatment of patients with active AS who have achieved no benefits of NSAIDs.

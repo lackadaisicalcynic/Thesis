@@ -1,0 +1,14 @@
+[Adherence with proton pump inhibitor therapy, by continuously taking nonsteroidal anti-inflammatory drugs].
+AIM  To estimate the impact of adherence with proton pump inhibitor (PPI) therapy on the incidence of nonsteroidal anti-inflammatory drug (NSAID)-induced gastropathy (NSAID gastropathy) in patients with rheumatoid arthritis (RA).
+SUBJECTS AND METHODS
+PPI pharmacotherapy adherence was estimated using the Medication Adherence Questionnaire (MAQ) in 92 patients with RA, including 32 patients did not take a PPI and 60 used a PPI.
+The groups were matched for age, disease duration, and used NSAIDs.
+All those asked underwent video esophagogastroduodenoscopy.
+RESULTS
+According to the data of MAQ survey, low, moderate, and high adherence subgroups could be identified among the patients treated with a PPI.
+NSAID gastropathy was detected in 43.8% of the patients taking no PPI, in 50% of those with low PPI treatment adherence, in 12.5% with moderate adherence, and in 4.5% with high adherence.
+In the patients with low adherence to PPI therapy, NSAID gastropathy was recorded 11 times more frequently than in those with high adherence (c2 = 7.77; p = 0.005).
+This condition occurred in 28.6% of the patients taking NSAID without preventively using a PPI in the absence of risk factors for NSAID gastropathy.
+CONCLUSION
+Only 36.7% patients who had been recommended to use a PPI for the prevention of NSAID gastropathy strictly observed their doctor's directions.
+Low PPI pharmacotherapy adherence may serve as an additional risk factor for NSAID gastropathy in patients in whom preventive antisecretory therapy used in combination with NSAID is indicated.

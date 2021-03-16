@@ -1,0 +1,13 @@
+[Predictors of outcomes in surgery for hilar cholangiocarcinoma].
+AIM
+To determine significant predictors of long-term outcomes of surgery for portal cholangiocarcinoma.  MATERIAL AND METHODS
+Analysis included 49 out of 84 patients who were operated at the Vishnevsky Institute of Surgery in 2003-2016.  Morphological examination (2011-2016) revealed great percentage of following positive variables: micro- (42.9%) and lymphovascular invasion (11.8%), positive resection margin (59.2%), perineural invasion (83.3%), depth of invasion - (83.3%), cells in surrounding fatty tissue (92.3%), invasion of entire thickness of bile ducts' walls (57.1%).
+Hemihepatectomy was carried out in 50 (59.5%) cases, advanced hemihepatectomy - in 16 (19%) patients.
+Left-sided hemihepatectomy (34.6%) was more common compared with right-sided hemihepatectomy (8.6%) for biliary confluence lesion (Bismuth-Corlette type IV).
+RESULTS
+TNM stage (p=0.29), tumor localization Bismuth-Corlette type (p=0.10), regional lymph nodes metastases (p=0.77) do not significantly affect survival in univariate analysis.
+At the same time, TNM stage was significant factor if patients dividing into groups was considered (p=0.05).
+In regression analysis tumor cells differentiation (p=0.00028), positive resection margin (p=0.0034), perineural invasion and depth of invasion (p=0,00086) were significant predictors of survival.  Multivariate analysis confirmed prognostic role of lymphovascular invasion alone (p=0.05).
+There was no correlation between survival and TNM stage (η=0.057), depth of invasion (η= -0.229) and lymphovascular invasion (η= -0.143645).  There was significant reverse moderate correlation between survival and perineural invasion (η= - 0.468750), resection margin (η= -0.558) and tumor differentiation grade (η= -0.481).
+CONCLUSION
+Significant predictors of long-term outcomes of surgery for portal cholangiocarcinoma are TNM stage, lymphovascular invasion, tumor cells differentiation, perineural invasion.

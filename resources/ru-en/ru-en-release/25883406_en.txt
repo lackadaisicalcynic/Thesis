@@ -1,0 +1,21 @@
+Implementing rapid testing for tuberculosis in Mozambique.  PROBLEM
+In Mozambique, pulmonary tuberculosis is primarily diagnosed with sputum smear microscopy.  However this method has low sensitivity, especially in people infected with human immunodeficiency virus (HIV).
+Patients are seldom tested for drug-resistant tuberculosis.
+APPROACH
+The national tuberculosis programme and Health Alliance International introduced rapid testing of smear-negative sputum samples.
+Samples were tested using a polymerase-chain-reaction-based assay that detects Mycobacterium tuberculosis deoxyribonucleic acid and a mutation indicating rifampicin resistance; Xpert® MTB/RIF (Xpert®).
+Four machines were deployed in four public hospitals along with a sputum transportation system to transfer samples from selected health centres.
+Laboratory technicians were trained to operate the machines and clinicians taught to interpret the results.
+LOCAL SETTING
+In 2012, Mozambique had an estimated 140,000 new tuberculosis cases, only 34% of which were diagnosed and treated.
+Of tuberculosis patients, 58% are HIV-infected.
+RELEVANT CHANGES
+From 2012-2013, 1558 people were newly diagnosed with tuberculosis using sputum smears at intervention sites.
+Xpert® detected M. tuberculosis in an additional 1081 sputum smear-negative individuals, an increase of 69%.
+Rifampicin resistance was detected in 58/1081 (5%) of the samples.
+However, treatment was started in only 82% of patients diagnosed by microscopy and 67% of patients diagnosed with the rapid test.
+Twelve of 16 Xpert® modules failed calibration within 15 months of implementation.
+LESSONS LEARNT
+Using rapid tests to diagnose tuberculosis is promising but logistically challenging.
+More affordable and durable platforms are needed.
+All patients diagnosed with tuberculosis need to start and complete treatment, including those who have drug resistant strains.

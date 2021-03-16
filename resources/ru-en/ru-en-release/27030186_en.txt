@@ -1,0 +1,17 @@
+[Evaluation of cardiovascular remodeling and epicardial fat thickness in patients with chronic heart failure and metabolic syndrome].  AIM
+To estimate cardiac chamber sizes and epicardial fat (EF) thickness in patients with chronic heart failure (CHF) and metabolic syndrome (MS).  MATERIALS AND METHODS
+The investigation enrolled 77 patients with CHF.  The diagnosis of the latter was made on the basis of clinical symptoms and verified measuring N-terminal pro-brain natriuretic peptide levels in all the patients.
+A study group (SG) included 39 patients with CHF and MS.
+A control group comprised 38 CHF patients without MS.
+Clinical and biochemical blood tests and electrocardiography were performed in all the patients.
+Cardiac chamber sizes, myocardial wall thickness, and EF were estimated from echocardiographic findings.
+Fatty liver index (FLI) and nonalcoholic fatty liver disease (NAFLD) fibrosis score (NFS) were calculated in all the patients.
+RESULTS
+All the patients had clinical signs and symptoms of CHF.
+There were 25 (32%) men among the 77 patients.
+The mean age was 63.9±10.3 years.
+The patients with CHF and MS showed pronounced myocardial remodeling, which was manifested as significantly higher increases in the sizes of cardiac chambers and in the thickness of their walls and as larger EF thickness (EFT) and larger myocardial mass.
+In SG, EFT was 3.39±1.82 mm (p=0.00001).
+This group exhibited correlations between EFT and FLI (r=0.52; p=0.004), glycated hemoglobin levels (r=0.41; p=0.016), E peak (r=-0.25; p=0.005), E/A ratio (r=0.25; p=0.041), left ventricular (LV) end-systolic size (r=0.25; p=0.035), LV myocardial mass (r=0.29; p=0.038), NFS (r=0.29; p=0.002), and body mass index (r=0.29; p=0.003).
+CONCLUSION
+The found correlations between EFT and the clinical and metabolic parameters of CHD and cardiovascular diseases allow EFT to be regarded as a new marker of risk for MS and cardiovascular diseases.

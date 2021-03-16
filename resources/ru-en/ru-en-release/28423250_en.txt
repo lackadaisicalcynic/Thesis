@@ -1,0 +1,9 @@
+Most of people over 60 years of age have decreased renal function and the velocity of glomerular filtration rate reduction varies greatly.
+Presumably, one of the probable mechanisms of accelerated decline of renal function may be a shortening of telomere length due to chronic inflammation.
+The main purpose of research was to appreciate the association of renal function, leukocytes telomeres length and markers of chronic inflammation in patients without chronic kidney disease and cardiovascular disease. 253 patients without chronic kidney diseases and cardiovascular diseases were included in the study.  The average age of patients was 51,5±13,3 years.
+There were 172 women and 81 men.  55 patients had hypertension of 1-2 degree, 46 patients had normal renal function, 207 had mild failure of kidney function.
+Albuminuria was < 30 mg/day in all patients.
+Multivariate linear regression analysis revealed statistically significant correlation between albuminuria level and telomere length (p=0,023), C reactive protein (p=0,047) and fibrinogen (p=0,001).
+Glomerular filtration rate, urea and creatinine were not associated with telomere length and markers of inflammation but were correlated well with age, p < 0,001.
+CONCLUSIONS  Albuminuria is mainly associated with chronic inflammation and telomere length (from all studied indices of renal function).
+Albuminuria may be regarded as a marker of replicative cell senescence and a therapeutic target for the prevention of renal function reduction.

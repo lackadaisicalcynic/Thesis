@@ -1,0 +1,11 @@
+[Results of endovascular revascularization in elderly patients with ST-segment elevation myocardial infarction in multivessel disease in relation to the degree of coronary atherosclerosis].  AIM
+To investigate the impact of the degree of coronary atherosclerosis evaluated by the SYNTAX scale on the early and late results of endovascular revascularization in elderly and middle-aged patients with ST-segment elevation myocardial infarction (STEMI).
+SUBJECTS AND METHODS
+The investigation enrolled 327 consecutively admitted patients with STEMI and multivessel coronary bed disease, who had received revascularization within the first 12 hours after disease onset via primary percutaneous coronary interventions (PCI).
+The clinical, demographic, and angiographic characteristics of the patients, as well as the specific features of chosen revascularization strategies and treatment outcomes were compared in two groups of 103 elderly patients (≥65 years of age) and 224 middle-aged patients (≤64 years) in relation to the severity of coronary bed lesion according to the SYNTAX scale.
+RESULTS
+By and large, severe coronary atherosclerosis (≥23 SYNTAX scores) was related to reduced left ventricular ejection fraction and clinical manifestations of acute heart failure in all the analyzed patients regardless of their age and this was most markedly associated with the risk factors of cardiovascular events in the elderly patients.
+The elderly patients with severe coronary atherosclerosis (≥23 SYNTAX scores) were noted to have the lowest frequency of successful PCIs and higher 30-day mortality rates after primary PCI.
+CONCLUSION
+The SYNTAX scale is of high prognostic value in the patients with STEMI, by determining the results of endovascular revascularization in elderly and middle-aged patients.
+The elderly patients with STEMI and severe coronary atherosclerosis are at very high risk for poor outcome within 30 days of follow-up after primary CPI, which necessitates a search for optimal revascularization strategies for this category of patients.

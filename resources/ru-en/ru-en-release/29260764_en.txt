@@ -1,0 +1,5 @@
+[Analysis of the color changes in teeth at different depths preparation].  Spectrophotometric analysis of the extract and intact teeth revealed the color characteristic of teeth ranged from the cervical area to the cutting edge, as well as by preparation of dental hard tissue to 0.3 mm, 0.6 mm, 0.9 mm depth.
+Lightness increased as preparation approached dentine.
+The intensity of the Lightness was more pronounced in the cervical region which is associated with a thin layer of enamel performing the lens function.
+It is found that Hue values weakly depend on the depth and location of the preparation, the tooth reflecting a relatively constant range of visible wavelengths.
+During preparation of the hard tissue at different depths the color difference δE* was greater than 2.6 meaning that the color must be registered before and after preparation.

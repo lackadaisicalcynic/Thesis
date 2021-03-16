@@ -1,0 +1,10 @@
+Countries' response to WHO's travel recommendations during the 2013-2016 Ebola outbreak.
+OBJECTIVE
+To determine how, during the 2013-2016 Ebola outbreak in western Africa, States Parties to the World Health Organization's (WHO) 2005 International Health Regulations (IHR) followed the IHR's international travel recommendations.  METHODS
+In 2015, we used the Google search engine to investigate the 196 States Parties to the 2005 IHR.  Information detailing Ebola-related travel regulations or restrictions of each State Party was sourced first from official government websites and then from travel and news websites.
+When limited, conflicting or no relevant information was found on a government website, an email inquiry was sent to a corresponding embassy in an Anglophone country.
+FINDINGS
+We collected relevant and non-conflicting data for each of 187 States Parties.
+Of these, 43 (23.0%) prohibited the entry of foreigners who had recently visited a country with widespread Ebola transmission and another 15 (8.0%) imposed other substantial restrictions on such travellers: the requirement to produce a medical certificate documenting no infection with Ebola (n = 8), mandatory quarantine (n = 6) or other restrictions (n = 1).
+CONCLUSION  In responding to the 2013-2016 Ebola outbreak, countries had variable levels of adoption of the 2005 IHR's international travel recommendations.
+We identified 58 (31.0%) States Parties that exceeded or disregarded the recommendations.  There is a need for more research to understand and minimize deviations from such recommendations.

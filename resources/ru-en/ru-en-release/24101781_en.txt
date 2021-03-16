@@ -1,0 +1,11 @@
+Risk factors for noncommunicable chronic diseases in women in China: surveillance efforts.
+OBJECTIVE  To investigate risk factors for chronic noncommunicable diseases (NCDs) and their determinants in Chinese women.
+METHODS
+Data from the 2010 China Chronic Disease and Risk Factor Surveillance survey, comprising a nationally representative sample of women, were obtained to determine the prevalence of eight risk factors for chronic NCDs: current smoking, harmful use of alcohol, insufficient intake of fruit and vegetables, physical inactivity, overweight and obesity, raised blood pressure, raised fasting blood glucose and raised total serum cholesterol.
+The mean number of risk factors per woman was estimated.  Their independent demographic and socioeconomic covariates were also examined with ordinal logistic regression.
+FINDINGS
+THE FOLLOWING PREVALENCES WERE FOUND: insufficient intake of fruit and vegetables, 51.7%; overweight and obesity, 32.3%; raised blood pressure, 29.7%; physical inactivity, 18.3%; raised total serum cholesterol, 18.1%; raised blood glucose, 7.0%; current smoking, 2.4%; and harmful use of alcohol, 1.3%.
+The mean number of risk factors per woman was 1.61; 48.0% of the women had at least two risk factors.
+Women who were older, poorer, from rural areas or from eastern or central China had more risk factors, but only being more than 35 years old, poorly educated and a resident of eastern or central China independently increased the likelihood of having multiple risk factors.
+CONCLUSION  Risk factors for chronic NCDs are common among Chinese women aged 18 or older.
+Interventions to reduce these factors are needed and should target women who are older, who live in eastern or central China or who are poorly educated.

@@ -1,0 +1,15 @@
+[Evaluation of the hemostatic potential at coronary artery bypass surgery during long-term aspirin therapy].
+AIM  To estimate thrombin generation test parameters in patients with coronary heart disease during coronary artery bypass surgery under extracorporeal circulation after transfusion of donor platelet concentrates during long-term therapy with acetylsalicylic acid (ASA).
+SUBJECTS AND METHODS
+A total of 148 patients with coronary heart disease who had undergone elective primary coronary artery bypass surgery under extracorporeal circulation during preserved therapy with ASA (75-100 mg/day) were examined.
+According to donor platelet concentrate transfusion, all the patients were divided into 2 groups: 1) 76 patients undergoing donor platelet transfusion and 2) 72 without this procedure.
+A control group consisted of 20 apparently healthy individuals.
+At the pre-, intra-, and early postoperative stages, the investigators evaluated the following thrombin generation test parameters: lag time (min); peak thrombin concentration (nM/l); time to peak (min); the area under the thrombin generation curve (nM), and thrombin generation rate (nM/min).
+RESULTS
+During long-term ASA therapy, the patients were found to have an activated endogenous thrombin potential in the pre- and intraoperative periods, as evidenced by the high peak concentration of thrombin and the increased rate of its generation.  At the same time, the time of prothrombinase complex activation and that of thrombin generation were longer than those in the control group.
+In the early postoperative period, the patients who had not been transfused with platelet concentrates with a further increase in the temporal parameters, showed a decreased hemostatic potential, reaching the control level, whereas donor platelet transfusion stimulated endogenous thrombin generation: the time to initiate clotting and that to reach the peak were shorter; in this case, the thrombin generation rate and concentrations increased, but the preoperative level was not reached.
+No perioperative (hemorrhagic or thrombotic ischemic) events were noted in the examined groups.
+CONCLUSION
+The hemostatic potential was preserved in patients receiving long-term therapy for ASA.
+Taking into account laboratory and clinical findings, platelet concentrate transfusions are unnecessary for preventive purposes.
+The appropriateness of donor platelet transfusion should be strictly individually approached with regard to the laboratory parameters of the thrombin generation test, by minimizing the risk of perioperative ischemic and hemorrhagic events in each specific patient.

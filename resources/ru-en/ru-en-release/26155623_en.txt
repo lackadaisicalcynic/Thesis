@@ -1,0 +1,10 @@
+[Evaluation of endothelial function and estimation of the degree of apoptosis in patients with metabolic syndrome and non-alcoholic fatty liver disease].  AIM
+To evaluate endothelial function (EF) and to estimate the level of a serum apoptosis marker (caspase-8) in patients with metabolic syndrome (MS) and in those with non-alcoholic fatty liver disease (NAFLD).  SUBJECTS AND METHODS
+The investigation enrolled 76 patients: 43 with MS (out of them, 72.1% were found to have NAFLD) and 33 without MS and NAFLD.  All the patients underwent evaluation of EF by photoplethysmography; the level of caspase-8 as one of the apoptosis markers was studied in all.
+RESULTS
+Increased arterial stiffness was more common in a group of patients with MS.
+Systolic duration was higher in these patients (p < 0.05).
+In these patients, an occlusion test revealed the significantly more marked signs of endothelial dysfunction (ED), which correlated with some cardiovascular diseases (CVD), and hepatic steatosis (p < 0.05).  The mean level of caspase-8 was significantly higher in the group of MS patients (p < 0.05).
+There was a positive correlation between caspase-8 levels and hepatic and pancreatic steatosis, obesity, aortic atherosclerosis, type 2 diabetes mellitus, and gastroesophageal reflux disease (p < 0.05).  CONCLUSION
+The study group of MS patients (among whom, there was a preponderance of those with NAFLD) had, firstly, higher arterial stiffness more frequently (as evidenced by photoplethysmography), secondly, longer systolic duration, which may be a risk factor for CVD; thirdly, more pronounced ED.  Fourthly, according to the data of a study of caspase-8 levels, its indicator may serve as a prognostic marker for the development of CVD and NAFLD.
+It was, fifthly, shown that the administration of statins might reduce the degree of apoptosis.

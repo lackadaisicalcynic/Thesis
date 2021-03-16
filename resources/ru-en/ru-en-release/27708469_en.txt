@@ -1,0 +1,16 @@
+Inpatient management of children with severe acute malnutrition: a review of WHO guidelines.
+OBJECTIVE  To understand how the World Health Organization's (WHO's) guidelines on the inpatient care of children with complicated severe acute malnutrition may be strengthened to improve outcomes.
+METHODS
+In December 2015, we searched Google scholar and WHO's website for WHO recommendations on severe acute malnutrition management and evaluated the history and cited evidence behind these recommendations.
+We systematically searched WHO International Clinical Trials Registry Platform, clinicaltrials.gov and the Controlled Trials metaRegister until 10 August 2015 for recently completed, ongoing, or pending trials.
+FINDINGS
+WHO's guidelines provide 33 recommendations on the topic.
+However, 16 (48.5%) of these recommendations were based solely on expert opinion - unsupported by published evidence.
+Another 11 (33.3%) of the recommendations were supported by the results of directly relevant research - i.e. either randomized trials (8) or observational studies (3).
+The other six recommendations (18.2%) were based on studies that were not conducted among children with complicated severe malnutrition or studies of treatment that were not identical to the recommended intervention.
+Trials registries included 20 studies related to the topic, including nine trials of alternative feeding regimens.
+Acute medical management and follow-up care studies were minimally represented.
+CONCLUSION
+WHO's guidelines on the topic have a weak evidence base and have undergone limited substantive adjustments over the past decades.
+More trials are needed to make that evidence base more robust.
+If the mortality associated with severe malnutrition is to be reduced, inpatient and post-discharge management trials, supported by studies on the causes of mortality, are needed.

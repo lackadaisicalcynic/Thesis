@@ -1,0 +1,12 @@
+Hypertensive disorders in pregnancy and stillbirth rates: a facility-based study in China.
+Objective
+To assess the association between hypertensive disorders in pregnancy and the stillbirth rate.  Methods
+We obtained all data from China's National Maternal Near Miss Surveillance System for 2012 to 2016.  Associations between hypertensive disorders in pregnancy and stillbirths, stratified by fetus number and gestational age, were assessed using Poisson regression analysis with a robust variance estimator.
+Findings
+For the period, 6 970 032 births, including 66 494 stillbirths, were reported to the surveillance system.
+The weighted stillbirth rate in women with a hypertensive disorder in pregnancy was 21.9 per 1000 births.  The risk was higher in those who had received few antenatal care visits or who were poorly educated.
+For singleton pregnancies, the adjusted risk ratio (aRR) for a stillbirth among women with hypertensive disorders in pregnancy compared with normotensive women was 3.1 (95% confidence interval, CI: 2.85-3.37).
+The aRR for hypertensive disorder subtypes was: 6.66 (95% CI: 5.57-7.96) for superimposed preeclampsia; 4.15 (95% CI: 3.81-4.52) for preeclampsia or eclampsia; 2.32 (95% CI: 1.87-2.88) for chronic hypertension; and 1.21 (95% CI: 1.08-1.36) for gestational hypertension.  For multiple pregnancies, the association between stillbirths and hypertensive disorders in pregnancy was not significant, except for superimposed preeclampsia (aRR: 1.95; 95% CI: 1.28-2.97).
+Conclusion
+To minimize the incidence of stillbirths, more attention should be paid to chronic hypertension and superimposed preeclampsia in singleton pregnancies and to superimposed preeclampsia in multiple pregnancies.
+Better quality antenatal care and improved guidelines are needed in China.

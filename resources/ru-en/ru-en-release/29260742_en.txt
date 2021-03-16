@@ -1,0 +1,8 @@
+[Overexpression of DNA-methyltransferases in persistency of cccDNA pool in chronic hepatitis B].
+AIM  To define the role of DNA-methyltransferases of type 1 and type 3A in hepatitis B viral cycle.
+MATERIAL AND METHODS
+Human hepatoma cells HepG2 with stable expression of 1.1-mer HBV genome were transfected with vectors encoding DNA-methyltransferase 1 (DNMT1), DNA-methyltransferase 3A (DNMT3A) or were co-transfected with these vectors.  Total HBV DNA copy number, relative expression of pregenomic RNA (pgRNA), S-protein-encoding RNA (S-RNA) and cccDNA were analyzed by quantitative and semi-quantitative real-time PCR-analysis with TaqMan probes for assessment of DNMTs-mediated effects on HBV.
+RESULTS
+DNMT1 and DNMT3A suppress HBV transcription and replication, though to different magnitude. cccDNA pool is enlarged statistically significantly ≈2-fold (P<0.005) after transfection of DNMT3A, but is unaltered under DNMT1 treatment.
+CONCLUSION
+DNMT3A regulates the size of cccDNA pool and is important for persistency of HBV infection.

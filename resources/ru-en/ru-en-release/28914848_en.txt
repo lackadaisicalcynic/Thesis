@@ -1,0 +1,13 @@
+[Effect of a fixed-dose combination of perindopril arginine/amlodipine on the level and variability of blood pressure according to its office visit-to-visit measurements and self-measurements at home: A subanalysis of the PREVOSHODSTVO (SUPERIORITY) program].
+AIM  To study the effect of a fixed-dose combination of perindopril arginine/amlodipine (prestans) on the goal levels and variability of blood pressure (BP) according to its office visit-to-visit measurements and self-measurement (OVVM and SM) in a subgroup of 483 people from the population of the Russian observational SUPERIORITY program, most cases of whom are given the combination replacing the previously ineffective mono- and combination antihypertensive therapy (AHT).
+SUBJECTS AND METHODS
+The subanalysis included data on 483 patients (34% men) aged 57.9±10.8 years with uncontrolled hypertension, who were both untreated and treated with antihypertensive mono- or combination therapy using a free or fixed-dose combination of 2-3 antihypertensive drugs and in whom the physicians decided to use prestans to correct AHT.
+The follow-up period was 24 weeks.
+RESULTS
+At the end of the investigation, the patients received prestans in the following doses: 5/5 mg (34% of the patients), 10/5 mg (39.5%), 5/10 mg (3.9%), and 10/10 mg (22%).
+In the analyzed patient group, the baseline BP was 160.8±8.8/92.6±7.4 mm Hg and dropped to 125.9±7.9/77.8±5.0 mm Hg at 24 weeks (p<0.001).
+According to SM, the morning BP significantly decreased from 147.0±13.3/85.6±7.2 to 127.5±8.3/78,9±5.6 mm Hg at 24 weeks (p<0.001).
+The evening BP readings showed the similar trends.
+Target BP was achieved in 93 and 78% of the patients, as shown by OVVM and SM, respectively.
+According to SCM, the day-to-day variability of BP significantly decreased from 5.1±3.2/3.4±2.3 Hg mm at Visit 2 to 2.7±2/0/2,3±1/5 mm Hg at Visit 5 (p<0.001).
+CONCLUSION  The use of the fixed-dose combination of perindopril arginine/amlodipine in hypertensive patients just at the beginning of treatment, by switching from insufficiently effective mono- or combination AHT to the fixed-dose combination of perindopril arginine/amlodipine, is an effective way to optimize AHT in clinical practice, which lowers the BP level and variability, as evidenced by both OVVM and SM.

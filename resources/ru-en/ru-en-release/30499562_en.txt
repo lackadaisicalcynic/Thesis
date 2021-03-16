@@ -1,0 +1,7 @@
+[Brain-computer interface-based motor imagery training for patients with neurological movement disorders].
+AIM
+To study the electric brain activity during motor imagery task in the brain-computer interface (BCI) in motor-disabled patients to determine the optimal ways for using BCI-based ideomotor training in medical rehabilitation.  MATERIAL AND METHODS
+The study included 26 patients with arm motor dysfunction caused by a stroke or a spinal cord injury.  They were involved in motor imagery training in the BCI.
+The power and localization of electroencephalographic (EEG) event-related desynchronization during imagery of different arm movements were measured.  The accuracy in the two-command BCI was assessed.
+The pattern of imagery-related EEG desynchronization showed the typical localization for such tasks.  Despite the fact that the power of EEG reactions during motor imagery in motor-disabled patients was on average lower than in healthy subjects during a similar task, all the patients were able to achieve high accuracy in the two-command BCI system after several (at least three) training sessions.
+Our results demonstrate the great potential for using BCI-based motor imagery training for neurorehabilitation of patients with motor dysfunctions.

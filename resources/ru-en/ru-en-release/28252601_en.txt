@@ -1,0 +1,8 @@
+[Specificity of spatial organization of evoked EEG rhythms in patients with paranoid schizophrenia].
+AIM
+The study aimed at analyzing the spatial patterns of evoked event-related oscillations in patients with paranoid schizophrenia and their relationship with clinical symptoms of disease.  MATERIAL AND METHODS
+Evoked delta, theta, alpha, beta, and gamma rhythms in response to target auditory stimulus in an oddball paradigm were studied in 21 schizophrenic patients and 22 healthy subjects.  The independent spatial patterns were revealed within each of the frequency range using the principal component analysis.
+Each spatial pattern was characterized by the specificity of intra- and inter-hemispheric relations.
+RESULTS AND CONCLUSION  The schizophrenic patients were characterized by a decrease in the evoked activity in the theta range with the most pronounced changes in the frontal-central areas of the right hemisphere and parietal-occipital areas bilaterally.
+Associations of the evoked rhythms with PANSS positive and negative symptoms were identified.
+The study demonstrated the high functional significance of evoked EEG rhythms changes for neurophysiological characteristics of patients with paranoid schizophrenia.

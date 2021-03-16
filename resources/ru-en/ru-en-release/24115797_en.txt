@@ -1,0 +1,13 @@
+Economic evaluation of neonatal care packages in a cluster-randomized controlled trial in Sylhet, Bangladesh.
+OBJECTIVE
+To evaluate and compare the cost-effectiveness of two strategies for neonatal care in Sylhet division, Bangladesh.
+METHODS  In a cluster-randomized controlled trial, two strategies for neonatal care--known as home care and community care--were compared with existing services.
+For each study arm, economic costs were estimated from a societal perspective, inclusive of programme costs, provider costs and household out-of-pocket payments on care-seeking.  Neonatal mortality in each study arm was determined through household surveys.
+The incremental cost-effectiveness of each strategy--compared with that of the pre-existing levels of maternal and neonatal care--was then estimated.  The levels of uncertainty in our estimates were quantified through probabilistic sensitivity analysis.
+FINDINGS
+The incremental programme costs of implementing the home-care package were 2939 (95% confidence interval, CI: 1833-7616) United States dollars (US$) per neonatal death averted and US$ 103.49 (95% CI: 64.72-265.93) per disability-adjusted life year (DALY) averted.
+The corresponding total societal costs were US$ 2971 (95% CI: 1844-7628) and US$ 104.62 (95% CI: 65.15-266.60), respectively.
+The home-care package was cost-effective--with 95% certainty--if healthy life years were valued above US$ 214 per DALY averted.
+In contrast, implementation of the community-care strategy led to no reduction in neonatal mortality and did not appear to be cost-effective.
+CONCLUSION
+The home-care package represents a highly cost-effective intervention strategy that should be considered for replication and scale-up in Bangladesh and similar settings elsewhere.

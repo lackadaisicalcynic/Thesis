@@ -1,0 +1,15 @@
+[Cardiorenal prognosis in kidney dysfunction patients undergoing cardiac surgery].  AIM
+To evaluate the impact of cardiac surgical procedures on cardiac and renal functions within 12 months after surgery in patients with a history of chronic kidney disease (CKD).
+SUBJECTS AND METHODS
+A total of 875 patients (464 men and 411 women) aged 32 to 68 years (62.3±5.2 years), including 396 patients who had undergone heart valve replacement under extracorporeal circulation, 422 who had aortocoronary and/or mammary coronary artery bypass, and 57 who had a combination of these operations, were examined.
+According to the baseline glomerular filtration rate (GFR), the patients were divided into 2 groups: 1) 508 patients with preserved kidney function (GFR, higher than 90 ml/min/1.73 m2); 2) 367 with CKD (GFR, 89 to 60 ml/min/1.73 m2).
+Results.
+In Group 2, early postoperative cardiovascular events were noted significantly more frequently and mortality proved to be higher than in Group 1.
+By the end of the first year of a follow-up, CKD was diagnosed in 5.4% of the patients in Group 1.
+In Group 2, CKD regressed in 54.1 % of the patients and, on the contrary, progressed in 9.5%.
+In Group 2, programmed hemodialysis was performed in 15 (4.4%) patients.
+Overall mortality was significantly higher in patients with a postoperative glomerular filtration fall in both Groups 1 and 2 (7.5 and 8.4%, respectively).
+Long-term cardiovascular events were significantly more common in patients with progressive CKD and postoperative kidney dysfunction.
+CONCLUSION
+A slight decrease in glomerular filtration makes the immediate prognosis of cardiac surgery poorer.
+The late cardiorenal prognosis mainly depends on changes in kidney function; regression of CKD is noted in 50% of the cases.

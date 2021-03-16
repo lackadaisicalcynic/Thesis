@@ -1,0 +1,14 @@
+[Elemental composition of aqueous humour and blood serum at various levels of intraocular pressure].
+AIM
+To conduct a comparative study of element concentrations in the aqueous humour of human eye and blood serum at various levels of intraocular pressure (IOP).  MATERIAL AND METHODS
+The chemical composition of biological fluids was studied in two equal groups (33 patients/33 eyes each): group 1 - primary open-angle glaucoma (POAG) with decompensated IOP and group 2 - normal IOP (the controls).  Sampling of the aqueous humour and blood was done during surgical procedures, namely, penetrating glaucoma surgery (group 1) and cataract phacoemulsification (group 2).
+Blood was taken from the cubital vein and centrifuged to obtain the supernatant for further analysis.
+The samples were studied with Zeiss EVO LS10 scanning electron microscope (SEM) equipped with Oxford X-Max50 energy dispersive spectrometer.
+RESULTS
+In both groups, regardless of the IOP level, Na and K concentrations were found to be constantly higher in the aqueous humour than the blood serum.
+The ratio of Na concentrations in the aqueous humour and serum (measured in mmol/l) was 1.51/1.30 at normal IOP and 1.49/1.31 at decompensated IOP.
+The ratio of K concentrations was 0.11/0.03 and 0.12/0.03, respectively.
+Concentrations of N and S in the aqueous humour were higher in the group with decompensated IOP.
+CONCLUSION
+Regardless of the IOP level, Na and K concentrations were found to be constantly higher in the aqueous humour than the blood serum.
+IOP elevation was accompanied by an increase in N and S concentrations in the aqueous humour.

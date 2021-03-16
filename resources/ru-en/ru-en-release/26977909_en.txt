@@ -1,0 +1,7 @@
+[The relaxation time anisotropy as a method of assessment of physico-chemical activity of the cerebrospinal fluid in acute stroke].  OBJECTIVE
+To study the anisotropy relaxation time of the cerebrospinal fluid (CSF) in acute disorders of cerebral circulation compared by analyzing the kinetics of anisotropy relaxation of the dye «rhodamine 6G».  MATERIAL AND METHODS
+The study of the samples was performed using a laser confocal fluorescence microscope MicroTime 200 («PicoQuant GmbH»).  Authors used a laser operating at a wavelength of 470 nm with a time resolution of 8 PS with a pulse frequency of 10 MHz.
+RESULTS
+Authors assessed this parameter in CSF of patients with different types of stroke.
+CONCLUSION
+Confocal laser spectrometry can be considered as an objective method of studying CSF changes in patients with lesions of the central nervous system and control of patient status in a clinical setting.

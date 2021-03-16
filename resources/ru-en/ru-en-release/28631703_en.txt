@@ -1,0 +1,11 @@
+[Association of ITGB3, P2RY12, and CYP2C19 gene polymorphisms with platelet functional activity in patients with coronary heart disease during dual antiplatelet therapy].  AIM
+To assess the association of CYP2C19 G681A, P2RY12 H1/H2, and ITGB3 T1565C polymorphisms with the extent of platelet aggregation in patients with coronary heart disease (CHD) during antiplatelet therapy.
+SUBJECTS AND METHODS
+166 male patients with CHD, living in the Western Siberian Region, were examined.
+All the patients underwent a test for platelet aggregation induced by ADP (2.5 and 5.0 µm) and epinephrine (0.2 µm).
+Genotyping was performed using an allele-specific polymerase chain reaction technique.
+RESULTS
+The polymorphic variants of the P2RY12 and ITGB3 genes were ascertained to have no impact on the extent of platelet aggregation in patients receiving clopidogrel and acetylsalicylic acid.
+An association was found between CYP2C19 681A allele carriage and the increased extent of platelet aggregation induced by ADP.
+CONCLUSION
+The carriage of the cytochrome P450 CYP2C19 681A allele rather than platelet receptor gene polymorphisms determines a risk for clopidogrel resistance in patients with CHD.

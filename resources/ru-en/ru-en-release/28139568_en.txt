@@ -1,0 +1,17 @@
+[Outcomes of application of modern first-line chemotherapy regimens in complex treatment of glioblastoma patients].
+OBJECTIVE
+To describe a procedure and outcomes of comprehensive first-line treatment in glioblastoma patients.  MATERIAL AND METHODS
+We analyzed 107 glioblastoma patients operated on in 2010-2011.  Seventy five patients underwent combined chemoradiotherapy (CRT) with simultaneous administration of 75 mg/m2 temozolomide (TMZ), followed by chemotherapy with 200 mg/m2 TMZ for 5 days, every 28 days.
+Separately, we examined 32 patients with large tumors who received alternative treatments.
+RESULTS
+The median time to progression was 11.7 months in the study group and 7.2 and 8.1 months in groups of alternative therapy.
+The one-year progression-free survival rate was 37%.
+Overall survival was 29.2 months.
+CONCLUSION
+The chemoradiotherapy regimen involving TMZ followed by one-year TMZ monotherapy is the appropriate treatment for patients with resected glioblastoma.
+With this approach, no tumor progression occurs in one third of patients during the first year.
+A careful study of the clinical and radiological findings in the course of treatment makes it possible to achieve the maximum efficacy, avoid unreasonably early switch to second-line therapy, and timely detect tumor recurrence signs.
+The Response Assessment in Neuro-Oncology (RANO) criteria should be used for assessment of MRI detected changes in the tumor size.
+The rates of overall and recurrence-free survival were significantly lower in patients with inoperable or partially resected tumors.
+The applied approaches provide only a slight advantage in control of tumor growth, which necessitates searching for more efficient treatment options for these patients.
+One of the approaches may be addition of bevacizumab to the first-line therapy regimen.

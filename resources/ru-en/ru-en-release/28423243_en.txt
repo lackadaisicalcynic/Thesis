@@ -1,0 +1,3 @@
+[Role of circadian rhythms and cellular clock in aging cancer development].  Almost all the body's functions exhibit circadian rhythm maintained in a cell by a system of Clock genes and proteins.
+Failure to synchronize or loss of these rhythms are found in aged organism and are associated with risk of cancer development.
+The article describes data on mechanisms of circadian rhythms regulation in whole organism and cell, rhythm change during aging and relationship between rhythm disturbances and tumorigenesis of different localisations in humans and animals.

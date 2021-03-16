@@ -1,0 +1,12 @@
+Estimating health plan costs with the OneHealth tool, Cambodia.
+Objective  To do resource and cost projections for the entire Cambodian health sector using the OneHealth tool, during the development of the third national health strategic plan 2016-2020.
+Methods
+Through a consultative process, the health ministry estimated the needed and available resources to implement the strategic plan.
+The health ministry used the OneHealth Tool to estimate costs of expanding public sector service provision and compared these to estimates of projected available financing.
+Cost estimates covered implementation of health programmes including commodities and programme management costs, and six cross-cutting health system strengthening components.
+The tool is populated with local demographic, epidemiological, programmatic and unit cost data.  We present costs in constant 2015 United States dollars (US$).
+Findings
+We estimated the five-year cost of the strategic plan to be US$ 2973.8 million.  Costs are split between health systems strengthening components (US$ 1516.3 million) and investments in individual disease or public health programmes (US$ 1457.5 million).
+Health programmes for maternal and neonatal health (US$ 367 million), child health and immunization (US$ 197 million) and noncommunicable disease (US$ 157 million) have the highest costs.  Although projected resource needs increase over time, a financial space analysis with ambitious projected increases in government funding indicates that government and donor funding jointly could be sufficient to cover the cost of the strategic plan from 2018 to 2020.
+Conclusion
+The results both informed development of the strategic plan, and contributed to the evidence base for improved budgeting, resource mobilization strategies and stronger overall public sector financial planning.

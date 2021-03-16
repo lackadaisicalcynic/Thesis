@@ -1,0 +1,9 @@
+Observations of infection prevention and control practices in primary health care, Kenya.
+OBJECTIVE
+To assess compliance with infection prevention and control practices in primary health care in Kenya.  METHODS
+We used an observational, patient-tracking tool to assess compliance with infection prevention and control practices by 1680 health-care workers during outpatient interactions with 14 328 patients at 935 health-care facilities in 2015.  Compliance was assessed in five domains: hand hygiene; protective glove use; injections and blood sampling; disinfection of reusable equipment; and waste segregation.
+We calculated compliance by dividing the number of correct actions performed by the number of indications and evaluated associations between compliance and the health-care worker's and facility's characteristics.  FINDINGS
+Across 106 464 observed indications for an infection prevention and control practice, the mean compliance was 0.318 (95% confidence interval, CI: 0.315 to 0.321).
+The compliance ranged from 0.023 (95% CI: 0.021 to 0.024) for hand hygiene to 0.871 (95% CI: 0.866 to 0.876) for injection and blood sampling safety.  Compliance was weakly associated with the facility's characteristics (e.g. public or private, or level of specialization) and the health-care worker's knowledge of, and training in, infection prevention and control practices.
+CONCLUSION  The observational tool was effective for assessing compliance with infection prevention and control practices across multiple domains in primary health care in a low-income country.
+Compliance varied widely across infection prevention and control domains.  The weak associations observed between compliance and the characteristics of health-care workers and facilities, such as knowledge and the availability of supplies, suggest that a broader focus on behavioural change is required.

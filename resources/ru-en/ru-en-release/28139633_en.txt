@@ -1,0 +1,7 @@
+[Molecular mechanisms of pidolate magnesium action and its neurotropic affects].
+AIM  A complex study of pharmacological properties of magnesium pyroglutamate using the modern methods of chemoinformatics and bioinformatics.
+MATERIAL AND METHODS  Pharmacological properties of magnesium pyroglutamate were studied using chemoinformatic and bioinformatic analyses.
+RESULTS
+Neurotropic effects of magnesium pyroglutamate are due to an influence on the synthesis of neuropeptides containing pyroglutamate (orexin, thyroliberin, neurotensin etc) and due to the similarity between pyroglutamate-anion with some neuroactive components (L-theanine, 2-pirrolydinone, piracetam).
+CONCLUSION
+The results of the study suggest neuroprotective, sedative and antidepressive properties of magnesium pyroglutamate which are realized by pyroglutamate-anion in the synergism with magnesium cation.

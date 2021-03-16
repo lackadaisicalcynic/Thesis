@@ -1,0 +1,11 @@
+[A change in adrenal responsiveness in sotalol-treated patients with paroxysmal atrial fibrillation depending on autonomic nervous system tone].  AIM
+To evaluate the efficacy of sotalol depending on the magnitude of changes in adrenal responsiveness and autonomic nervous system tone in patients with paroxysmal atrial fibrillation (AF).  SUBJECTS AND METHODS
+Twenty-six patients with paroxysmal AF in the presence of coronary heart disease (CHD) and hypertension were examined.  Sinus rhythm variability and sympathicotonic and vagotonic disorders were studied in patients with paroxysmal AF before and during sotalol treatment.
+A commercial Beta-ARM-Agat kit was used to estimate the adrenal responsiveness of erythrocyte membranes (β-APM), which can judge the body's individual sensitivity to β-adrenoblockers.
+RESULTS
+Sotalol used in the average therapeutic doses of 160-240 mg did not reduce ejection fraction or increase atrioventricular conduction up to abnormal values.
+In patients with borderline and mild hypertension, the drug lowered blood pressure statistically significantly (p=0.01) and was well tolerated.
+The drug increased the sensitivity of β-adrenoblockers in patients with adrenergic AF.
+CONCLUSION
+The effect of sotalol on the autonomic nervous system manifested in the higher power of a high-frequency spectral component of heart rate variability than in that of a low-frequency one.
+Long-term sotalol administration significantly reduced β-APM, increasing the sensitivity of adrenoceptors.

@@ -1,0 +1,9 @@
+[Evaluation of the pharmacoeconomic efficacy of prestance in the treatment of hypertensive patients on the basis of the results of the POTENTIAL program].
+AIM
+To pharmacoeconomically estimate the use of a fixed-dose combination of perindopril and amlodipine in the treatment of hypertensive patients.  MATERIAL AND METHODS
+A pharmacoeconomic study was conducted on the basis of the Russian postmarketing observational open program POTENTIAL, which included the estimation of direct and indirect costs associated with the addition of a fixed-dose combination of perindopril and amlodipine to conventional therapy for hypertension in patients who had not achieved adequate blood pressure (BP) control.  Cost-difference, cost-effectiveness, and budget-impact analyses were carried out.
+RESULTS
+The addition of prestance to conventional therapy for hypertension can reduce total costs by 5.-5.8 times, direct costs required to achieve 1% of patients with adequate BP control by 20.5-42.1 times, and direct costs to improve a patient's status by one visual analogue scale score by 1.03-2.11 times.
+Within a 5-year horizon, the administration of prestance can decrease the cost of therapy for high BP and related strokes by 1.39-1.46 times.
+CONCLUSION
+Due its high efficacy, prestance (amlodipine + perindopril) is a pharmacoeconomically preferred alternative only to the conventional therapy for hypertension even if the least costly generics are used, in both the short and medium term.

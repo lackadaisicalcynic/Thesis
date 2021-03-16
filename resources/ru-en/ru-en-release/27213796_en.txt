@@ -1,0 +1,15 @@
+[Comparative evaluation of different corneal cross-linking techniques with respect to biomechanical stability of the cornea].  AIM  To perform a comparative analysis of the following cross-linking techniques: standard cross-linking (SCXL), local transepithelial femto cross-linking (LTF) and transepithelial intrastromal femto cross-linking with MyoRing implantation (TIF+MyoRing) in experimental animals and patients with progressive stage II--III keratoconus (KC), paying particular attention to the changes in biomechanical stability of the cornea.
+MATERIAL AND METHODS
+The experimental series was performed on 20 eyes of 10 rabbits.
+The animals were divided into 4 groups of 5.
+Group 1 served as the control, group 2 consisted of animals that underwent SCXL, group 3 -- of those after LTF, and group 4 -- of those after TIF+MyoRing.
+Femto step was performed using the IntraLase FS 60 kHz femtosecond laser, cross-linking - with the Evolution machine.
+The follow-up period was 1 month.
+Clinical study enrolled 48 patients (45 eyes) with stage II-III KC.
+Depending on the surgical technique all the patients were divided into 3 groups.  In group I (14 eyes, 9 patients), TIF+MyoRing was performed, in group II (16 eyes, 20 patients) --SCXL, in group III (15 eyes, 19 patients) -- LTF.
+The follow-up period was 6 months.
+RESULTS
+The experiment showed a significant increase in rupture resistance of the cornea in all three groups.
+Six months after surgery, patients from group I demonstrated a 1.0±0.22 mmHg higher corneal resistance factor (CRF) and a 1.0±0.12 mmHg higher corneal hysteresis (CH).  In group II, the said parameters increased by 0.8±0.10 mmHg and 0.6±0.16 mmHg, respectively; in group III -- by 0.8±0.25 mmHg and 0.6±0.26 mmHg, respectively.
+In neither group the density of endothelial cells has reduced significantly over the follow-up period.  C-ONCLUSION: All three methods (LTF, TIF and SCXL) equally increase the biomechanical strength of the cornea and are safe.
+In patients with progressive stage II-III KC, TIF+MyoRing surgery has yielded an even higher improvement of biomechanical parameters in a 6-month follow-up period, which is due to the combination of mechanical and chemical mechanisms of corneal reinforcement.

@@ -1,0 +1,14 @@
+[The prognosis for post-stroke aphasia].
+AIM  To determine risk factors and factors of favorable prognosis for regression of post-stroke aphasia in the early recovery period of ischemic stroke (IS).
+MATERIAL AND METHODS
+A cohort study was undertaken with 40 patients with different clinical forms of aphasia.
+The duration of study was 3-4 months of the disease.  The regression of speech and non-speech cognitive impairment was assessed by the Method of a 10-point evaluation of higher mental functions.
+The method involves a comprehensive assessment of all mental functions with more than 90 subtests at the beginning and at the end of rehabilitation course and the calculation of the difference in the scoring of each mental function as a measure of treatment efficacy.
+Using logistic regression and odds ratio estimation, significance of the influence and the prognostic relationship of symptoms related to IS, and a number of biological and social factors (sex, age, and education) were studied.
+RESULTS
+An independent prognostic value for the aphasia regression on the third month of disease has the severity of neurologic symptomatology (NIHSS score) for the first day of stroke (OR 3,27 95% CI 1,02-9,77) and the third month of the disease (p=0,005, OR 4,6, 95% CI [1,39-15,11]) and the decrease in daily activity assessed by the total score of the Barthel index (p=0,004, OR 3,92, 95% CI [1,01-15,21]).
+A number of MRI signs (localization of post-stroke changes in the left angular gyrus, frontal-temporal region and focal volume) had a significant effect on the dynamics of non-verbal cognitive impairment.  Neuropsychological examination revealed a significant improvement of speech in patients with initially severe forms of aphasias, in particular, sensory and sensorimotor.
+A direct relationship between age and certain clinical forms of aphasia as well as a significant positive effect of duration (β=1,91, p≤0,01) and level of education (β=1,68, p≤0,007) on aphasia regression were determined.
+CONCLUSION
+The severity of neurologic symptoms, in particular motor and sensory deficits, both in the acute and in the recovery period of the disease is one of the pathogenetic factors worsening the processes of functional reorganization of neuronal speech networks.
+The positive dynamics of the recovery of speech function is associated with the initial severity and clinical form of aphasia.  The level and duration of education are related to factors positively affecting post-stroke neuroplasticity.

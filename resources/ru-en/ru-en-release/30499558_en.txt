@@ -1,0 +1,10 @@
+[Long-term outcome prediction in patients with stroke].
+AIM  To create a model to predict long-term stroke outcome using polysomnographic parameters.
+MATERIAL AND METHODS
+Authors prospectively enrolled 56 acute stroke patients.
+All subjects underwent clinical evaluation and polysomnographic study.
+A modified Rankin Scale was used to measure the degree of disability after stroke.
+Long-term stroke outcome was assessed 1 year post-stroke.
+RESULTS AND CONCLUSION
+REM-latency and apnea-hypopnea index are factors influencing long-term outcome of stroke.
+Including these parameters into the logistic regression model allows to predict stroke outcome at high levels of sensitivity and specificity.

@@ -1,0 +1,10 @@
+[Endothelins and dopamine levels in tears for assessment of neurovascular disorders in glaucoma].  PURPOSE
+To estimate the possibility of detection of neurovascular ocular disorders in glaucoma by assessing the content of catecholamines and endothelins in lacrimal fluid.  MATERIAL AND METHODS
+The study included 47 patients with primary open-angle glaucoma (POAG).  Tear eluate was analyzed by high performance liquid chromatography (HPLC) for catecholamines concentrations, and enzyme-linked immunoassay (ELISA) was used for evaluation of endothelins content.
+RESULTS
+Endothelin-1 (ET-1) and big endothelin (bET) content in tears of patients with POAG was higher than in healthy controls.
+Concentration of dopamine (DA) in tears was lower and concentrations of L-dioxyphenylalanine and dihydroxyphenylacetic acid had a tendency for decrease.
+Noradrenaline content was equal in patients with POAG and controls.  Adrenaline was not detected in any tear samples.
+CONCLUSION  Multidirectional changes of endothelins and DA levels in tears of patients with POAG was found.
+The increased concentration of ET-1 and its precursor bET promote vasoconstriction and decrease of aqueous humor outflow.
+The decrease of DA concentration is typical for neurodegenerative processes.  Estimation of DA and endothelins concentrations in tears can enable early detection of neurovascular disorders in glaucoma patients and help evaluate their severity.

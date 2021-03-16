@@ -1,0 +1,10 @@
+Active trachoma and community use of sanitation, Ethiopia.
+OBJECTIVE  To investigate, in Amhara, Ethiopia, the association between prevalence of active trachoma among children aged 1-9 years and community sanitation usage.
+METHODS
+Between 2011 and 2014, prevalence of trachoma and household pit latrine usage were measured in five population-based cross-sectional surveys.  Data on observed indicators of latrine use were aggregated into a measure of community sanitation usage calculated as the proportion of households with a latrine in use.
+All household members were examined for clinical signs, i.e. trachomatous inflammation, follicular and/or intense, indicative of active trachoma.  Multilevel logistic regression was used to estimate prevalence odds ratios (OR) and 95% confidence intervals (CI), adjusting for community, household and individual factors, and to evaluate modification by household latrine use and water access.
+FINDINGS
+In surveyed areas, prevalence of active trachoma among children was estimated to be 29% (95% CI: 28-30) and mean community sanitation usage was 47% (95% CI: 45-48).  Despite significant modification (p < 0.0001), no pattern in stratified ORs was detected.
+Summarizing across strata, community sanitation usage values of 60 to < 80% and ≥ 80% were associated with lower prevalence odds of active trachoma, compared with community sanitation usage of < 20% (OR: 0.76; 95% CI: 0.57-1.03 and OR: 0.67; 95% CI: 0.48-0.95, respectively).
+CONCLUSION
+In Amhara, Ethiopia, a negative correlation was observed between community sanitation usage and prevalence of active trachoma among children, highlighting the need for continued efforts to encourage higher levels of sanitation usage and to support sustained use throughout the community, not simply at the household level.

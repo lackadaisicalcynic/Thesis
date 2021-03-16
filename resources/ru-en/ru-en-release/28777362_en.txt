@@ -1,0 +1,15 @@
+[The role of subjective methods for the evaluation of sleep quality].
+AIM  To assess the accuracy of questions evaluating the quality and duration of sleep.
+MATERIAL AND METHODS
+Target population included residents of St. Petersburg, who participated in the epidemiological study ESSE-RF.  Out of 1417 participants, 136 individuals agreed to undergo additional sleep evaluation, and 49 subjects underwent polysomnography study for objective sleep evaluation.
+All participants were interviewed for subjective sleep assessment (standard questionnaires and Pittsburgh sleep quality index questionnaire).
+RESULTS
+One third of the participants evaluated sleep quality in the lab worse than at home.
+Their sleep duration was 1,5h shorter than in those who reported sleep quality to be as good as at home.
+However, the majority of participants slept in the sleep lab more than at home for the previous month.
+Moreover, 59% subjects reported sleep disturbances.
+Sleep duration during night in the lab was 6.6 [3; 9] - vs. 7 [3; 10] hours as assessed by PSG and by subjective report, respectively (p=0,06).  At the same time, usual average sleep duration was 8 [5; 10] hours (p=0.005), and average sleep duration during last month - 7 [5; 9] hours.
+CONCLUSION
+One third of subjects report worse sleep in the laboratory compared to the usual nights and it is associated with their subjective shorter sleep duration.
+Subjective assessment of sleep duration and sleep onset time is appropriate for sleep evaluation during the last night, unlike subjective assessment of awakenings after sleep onset.
+Average self-reported sleep duration depends on the question formulation.

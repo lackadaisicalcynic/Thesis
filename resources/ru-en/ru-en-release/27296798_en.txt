@@ -1,0 +1,11 @@
+[Platelet hemostasis in patients with ischemic stroke after systemic thrombolytic therapy].
+AIM  To study the platelet aggregation (PA) in patients with ischemic stroke (IS) after systemic thrombolytic therapy (TLT).
+MATERIAL AND METHODS
+Twenty-four patients, including 13 with atherothrombotic IS and 11 with cardioembolic IS, have been examined after systemic TLT.
+Spontaneous and adrenaline-induced PA, international normalized ratio, activated partial thromboplastin time, fibrinogen, neurological deficit severity on the NIHSS (2nd, 6-7th, 12-14th and 21st days after TLT), computed tomography (CT) of the brain (at baseline and 2nd day after TLT) were assessed.
+RESULTS
+The correlation between TLT outcomes and characteristics of spontaneous and adrenaline-induced PA was shown.
+Patients with initially elevated PA (group 1, n=7) had the lowest NIHSS score in the 21st day.
+A group of patients with initially reduced PA (group 2, n=17) included a subgroup with no spontaneous aggregation (n=9) and a subgroup with hemostasis system dysregulation manifested with increased spontaneous PA and fibrinogen (n=8), in which the recovery of neurological functions was lower compared to group 1.
+CONCLUSION
+The results of the study can be used for individualization of preventive antiaggregative and anticoagulative therapy after TLT.

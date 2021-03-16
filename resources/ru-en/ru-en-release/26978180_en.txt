@@ -1,0 +1,11 @@
+[Association of adiponectin gene G276T polymorphism with the development of metabolic syndrome in ethnic Kyrgyz patients].  AIM
+To study the association of adiponectin gene G276Т (ADIPOQ) polymorphism with the development of metabolic syndrome (MS) in ethnic Kyrgyz patients.
+MATERIAL AND METHODS
+A total of 171 patients with MS (a study group) and 117 patients without MS (a comparison group) were examined.
+MS was defined on the basis of the modified ATP III criteria.  The genotypes of the G276T polymorphism in the adiponectin gene were determined by polymerase chain reaction-restriction fragment length polymorphism analysis.
+RESULTS
+Dividing the MS and control groups by gender revealed statistically significant differences in the distribution of alleles and genotypes only among the women.
+There was a higher frequency of GT+TT genotypes (53% vs 34%; χ2=5.942; р=0.014) and T allele (30% vs 19%; χ2=4.489; р=0.0341) in the women with MS than in those without MS.
+Iin the ethnic Kyrgyz women, the T allele at the G276Т polymorphic locus in the ADIPOQ gene was associated with the development of MS (odds ratio (OR)=1.82; 95% confidence interval (CI) 1.04-3.19) and type 2 diabetes mellitus (T2DM) (OR=2.63; 95% CI, 1.05-6.56 ) with the high levels of leptin (p<0.05), glucose (p<0.05), triglycerides (OR=3.06; 95% CI, 1.05-8.93), low-density lipoprotein cholesterol (OR=2.80; 95% CI, 1,07-7.31) and with the lower level of high-density lipoprotein cholesterol (OR=2.9; 95% CI, 1.15-7.24).
+CONCLUSION
+The risk for MS, T2DM, hyperglycemia, and dyslipidemia is related to the carriage of the T allele of the G276Т polymorphism in the ADIPOQ gene in ethnic Kyrgyz women.

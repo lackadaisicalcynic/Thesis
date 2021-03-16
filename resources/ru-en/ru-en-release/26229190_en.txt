@@ -1,0 +1,12 @@
+Inequities in postnatal care in low- and middle-income countries: a systematic review and meta-analysis.
+OBJECTIVE  To assess the socioeconomic, geographical and demographic inequities in the use of postnatal health-care services in low- and middle-income countries.
+METHODS
+We searched Medline, Embase and Cochrane Central databases and grey literature for experimental, quasi-experimental and observational studies that had been conducted in low- and middle-income countries.
+We summarized the relevant studies qualitatively and performed meta-analyses of the use of postnatal care services according to selected indicators of socioeconomic status and residence in an urban or rural setting.
+FINDINGS
+A total of 36 studies were included in the narrative synthesis and 10 of them were used for the meta-analyses.
+Compared with women in the lowest quintile of socioeconomic status, the pooled odds ratios for use of postnatal care by women in the second, third, fourth and fifth quintiles were: 1.14 (95% confidence interval, CI : 0.96-1.34), 1.32 (95% CI: 1.12-1.55), 1.60 (95% CI: 1.30-1.98) and 2.27 (95% CI: 1.75-2.93) respectively.
+Compared to women living in rural settings, the pooled odds ratio for the use of postnatal care by women living in urban settings was 1.36 (95% CI: 1.01-1.81).
+A qualitative assessment of the relevant published data also indicated that use of postnatal care services increased with increasing level of education.
+CONCLUSION
+In low- and middle-income countries, use of postnatal care services remains highly inequitable and varies markedly with socioeconomic status and between urban and rural residents.

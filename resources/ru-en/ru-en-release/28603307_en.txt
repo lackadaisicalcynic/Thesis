@@ -1,0 +1,11 @@
+Variation in quality of primary-care services in Kenya, Malawi, Namibia, Rwanda, Senegal, Uganda and the United Republic of Tanzania.
+OBJECTIVE
+To analyse factors affecting variations in the observed quality of antenatal and sick-child care in primary-care facilities in seven African countries.  METHODS
+We pooled nationally representative data from service provision assessment surveys of health facilities in Kenya, Malawi, Namibia, Rwanda, Senegal, Uganda and the United Republic of Tanzania (survey year range: 2006-2014).  Based on World Health Organization protocols, we created indices of process quality for antenatal care (first visits) and for sick-child visits.
+We assessed national, facility, provider and patient factors that might explain variations in quality of care, using separate multilevel regression models of quality for each service.
+FINDINGS
+Data were available for 2594 and 11  402 observations of clinical consultations for antenatal care and sick children, respectively.  Overall, health-care providers performed a mean of 62.2% (interquartile range, IQR: 50.0 to 75.0) of eight recommended antenatal care actions and 54.5% (IQR: 33.3 to 66.7) of nine sick-child care actions at observed visits.
+Quality of antenatal care was higher in better-staffed and -equipped facilities and lower for physicians and clinical officers than nurses.
+Experienced providers and those in better-managed facilities provided higher quality sick-child care, with no differences between physicians and nurses or between better- and less-equipped clinics.  Private facilities outperformed public facilities.
+Country differences were more influential in explaining variance in quality than all other factors combined.  CONCLUSION
+The quality of two essential primary-care services for women and children was weak and varied across and within the countries.  Analysis of reasons for variations in quality could identify strategies for improving care.

@@ -1,0 +1,11 @@
+[Risk factors of regional lymph node metastases in pT1 colorectal cancer].  AIM
+To identify risk factors of lymph node metastases in patients with pT1 rectal cancer.
+MATERIAL AND METHODS
+There were 43 patients aged 62.3±11.3 years with pT1 rectal cancer who underwent mesorectal excision in 2012 - 2018.
+There were 34 (64%) females and 19 (36%) males.
+RESULTS
+Histological examination revealed SM1-2 in 22/43 (51%) cases, SM3 - in 21/43 (49%) cases.
+Lymph node metastases were identified in specimens with submucosal invasion: SM3 - in 8/21 (38.1%) cases and SM1-2 - in 3/22 (13.6%) cases (p=0.08).
+Logistic regression confirmed lymphovascular invasion (p=0.005) and mucosal and/or poorly differentiated carcinoma (p=0.014) as independent predictors of lymph node metastases.
+CONCLUSION
+Lymphovascular invasion and poorly differentiated carcinoma are indications for transabdominal mesorectal excision.

@@ -1,0 +1,12 @@
+[Fatty acid synthase in the diagnosis of prostate neoplasms].  The differential diagnosis of benign and malignant changes in the prostate presents still definite difficulties; the antibody panel existing for these purposes is imperfect.
+Fatty acid synthase (FASN) is an androgen-regulated enzyme required for de novo lipogenesis.
+A number of studies have noted increased expression of the gene encoding this protein in tumors and precancerous lesions of different locations.  AIM
+Тo estimate the diagnostic value of analyzing the expression of FASN in prostate neoplasias.
+MATERIAL AND METHODS
+Surgical specimens were selected for study from 71 patients with prostate cancer during radical prostatectomy.
+An immunohistochemical method was used to analyze FASN expression.
+RESULTS
+The expression of FASN was observed to be moderate or intensive in adenocarcinoma and high-grade prostatic intraepithelial neoplasia (hPIN) in all the study samples while 2 cases showed none and weak expression of AMACR.
+In benign lesions, the expression of this protein was identified only in 3 cases and it was characterized by a low-intensity staining.
+CONCLUSION
+The study has shown that the high frequency of FASN expression in hPIN and cancer and no expression in most structures of benign hyperplasia make it possible to use this protein as an additional marker in the differential diagnosis of prostatic neoplasms.

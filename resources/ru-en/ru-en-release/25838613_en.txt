@@ -1,0 +1,14 @@
+The burden of child maltreatment in China: a systematic review.
+OBJECTIVE  To estimate the health and economic burdens of child maltreatment in China.
+METHODS
+We did a systematic review for studies on child maltreatment in China using PubMed, Embase, PsycInfo, CINAHL-EBSCO, ERIC and the Chinese National Knowledge Infrastructure databases.
+We did meta-analyses of studies that met inclusion criteria to estimate the prevalence of child neglect and child physical, emotional and sexual abuse.
+We used data from the 2010 global burden of disease estimates to calculate disability-adjusted life-years (DALYs) lost as a result of child maltreatment.
+FINDINGS
+From 68 studies we estimated that 26.6% of children under 18 years of age have suffered physical abuse, 19.6% emotional abuse, 8.7% sexual abuse and 26.0% neglect.
+We estimate that emotional abuse in childhood accounts for 26.3% of the DALYs lost because of mental disorders and 18.0% of those lost because of self-harm.
+Physical abuse in childhood accounts for 12.2% of DALYs lost because of depression, 17.0% of those lost to anxiety, 20.7% of those lost to problem drinking, 18.8% of those lost to illicit drug use and 18.3% of those lost to self-harm.
+The consequences of physical abuse of children costs China an estimated 0.84% of its gross domestic product - i.e. 50 billion United States dollars - in 2010.
+The corresponding losses attributable to emotional and sexual abuse in childhood were 0.47% and 0.39% of the gross domestic product, respectively.
+CONCLUSION
+In China, child maltreatment is common and associated with large economic losses because many maltreated children suffer substantial psychological distress and might adopt behaviours that increase their risk of chronic disease.

@@ -1,0 +1,12 @@
+Prevalence of diabetes and prediabetes and their risk factors among Bangladeshi adults: a nationwide survey.
+OBJECTIVE
+To estimate the prevalence of diabetes and prediabetes in Bangladesh using national survey data and to identify risk factors.
+METHODS
+Sociodemographic and anthropometric data and data on blood pressure and blood glucose levels were obtained for 7541 adults aged 35 years or more from the biomarker sample of the 2011 Bangladesh Demographic and Health Survey (DHS), which was a nationally representative survey with a stratified, multistage, cluster sampling design.
+Risk factors for diabetes and prediabetes were identified using multilevel logistic regression models, with adjustment for clustering within households and communities.
+FINDINGS  The overall age-adjusted prevalence of diabetes and prediabetes was 9.7% and 22.4%, respectively.
+Among urban residents, the age-adjusted prevalence of diabetes was 15.2% compared with 8.3% among rural residents.
+In total, 56.0% of diabetics were not aware they had the condition and only 39.5% were receiving treatment regularly.  The likelihood of diabetes in individuals aged 55 to 59 years was almost double that in those aged 35 to 39 years.
+Study participants from the richest households were more likely to have diabetes than those from the poorest.
+In addition, the likelihood of diabetes was also significantly associated with educational level, body weight and the presence of hypertension.  The prevalence of diabetes varied significantly with region of residence.
+Almost one in ten adults in Bangladesh was found to have diabetes, which has recently become a major public health issue.  Urgent action is needed to counter the rise in diabetes through better detection, awareness, prevention and treatment.

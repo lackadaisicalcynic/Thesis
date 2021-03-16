@@ -1,0 +1,15 @@
+[Endothelial immune activation and functional state in patients with hypertensive disease].  AIM
+To investigate the nitric oxide (NO) system, the activity of endothelial NO synthase (e-NOS) and inducible NO synthase (i-NOS) in relation to the levels of tumor necrosis factor-α (TNF- α) and its soluble receptor type I (sTNFRI) depending on the grade of hypertensive disease (HD).
+SUBJECTS AND METHODS
+A total of 317 patients, including 284 patients aged 30 to 65 years (mean age 54.7±0.58 years) with Grades 1-3 HD who had not previously received regular antihypertensive therapy and 33 apparently healthy individuals, were examined at Kharkov City Clinical Hospital Eleven.
+Immune activation was judged by the serum levels of the proinflammatory cytokine TNF-α in all the examinees and y those of sTNFRI, which were measured by enzyme immunoassay.
+To study the endothelial functional state, the level of stable end metabolites of nitric oxide, that of S-nitrosothiol and the activity of NO synthases were biochemically determined in 100 patients from this group.
+A control group consisted of 16 apparently healthy individuals.
+RESULTS
+There were increases in the circulating levels of proinflammatory cytokines (TNF-α, sTNFRI), the content of S-nitrosothiol and the activity of i-NOS.
+At the same time, there were decreases in the activity of e-NOS and the level of end nitric oxide metabolites, such as nitrites and nitrates.
+CONCLUSION
+In patients with HD, the end metabolites of nitric oxide decrease, which indirectly shows a reduction in its vasoactive part, and the stable NO metabolite S-nitrosothiol increases.
+This is associated with enhanced NO oxidation under conditions of oxidative stress and endothelial dysfunction.
+The higher amount of S-nitrosothiol in the examinees may be associated with increased i-NOS.
+The immunoinflammatory activation mediated by the proinflammatory cytokines, particularly by the enhanced activity of TNF-α and sTNFRI, has been proven to play a role.

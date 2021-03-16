@@ -1,0 +1,15 @@
+[Expression of microRNA let-7a, miR-155, and miR-205 in tumor and tumor-adjacent histologically normal tissue in patients with non-small cell lung cancer].  UNLABELLED
+Non-small cell lung cancer (NSCLC) is a main group of lung malignancies.  Epigenetic changes are as important as genome structural changes in carcinogenesis.
+MicroRNA (miRNA) is a class of non-coding single-stranded RNAs that play an important role in the regulation of matrix RNA (mRNA) translation and degradation.
+MicroRNA expression changes occur in many cancers.
+According to the field cancerization theory, tumor-adjacent histologically normal tissue takes part in tumor progression by triggering cell transformation.  The important clinical implication is that the fields may serve as the basis for a recurrence after surgery.
+Thus, the aim of our study was to determine the expression levels of miRNAs let-7a, miR-155, and miR-205 in tumor and tumor-adjacent apparently normal tissues to evaluate these changes as potential prognostic markers in NSCLC patients.
+METHODS
+The expression of miRNAs let-7a, miR-155, and miR-205 in tumor and tumor-adjacent apparently normal tissues at 2 and 5 cm was determined by real-time PCR with subsequent quantification using a 2-ΔΔСt method.
+The findings were then analyzed to reveal possible associations with clinical and morphological parameters, such as age, cancer stage, and tumor grade.
+RESULTS
+The expression of miRNA let-7a was found to be significantly lower in tumor than that in tumor-adjacent apparently normal tissue at 2 and 5 cm.
+In groups of patients older than 63 years with Stage III-IV NSCLC, the expressions of microRNA let-7a and miR-155 in tumor tissue were substantially lower than that in the adjacent normal tissue.
+Beyond that point, patients with high-grade tumors had also a significantly lower expression of miRNA let-7a in relatively adjacent apparently normal tissue.
+CONCLUSION
+The findings suggest that miRNA let-7a and miR-155 may be used as poor prognostic markers for patients with NSCLC.

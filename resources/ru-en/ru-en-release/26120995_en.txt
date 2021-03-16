@@ -1,0 +1,9 @@
+[Prevention of venous thromboembolism in the acute stroke].
+OBJECTIVE  To assess the effectiveness of preventive measures to reduce VTE rates among patients with severe stroke in intensive care unit (ICU).
+MATERIAL AND METHODS
+The efficacy and safety of previously developed protocol for VTE prevention was assessed in 378 stroke patients in the ICU who received different levels of preventive measures.  Subjects were distributed into three groups.
+We assessed neurological status of all patients on admission and in the course of stroke, and performed ultrasound scanning of lower limb veins for groups II and III.
+RESULTS  The rate of VTE events remained high regardless of the level of preventive measures.
+However, we observed a changing nature of PE from massive to nonmassive without increasing the rate of hemorrhagic complications while the strict protocol of VTE prevention with mandatory use of low molecular weight heparins was applied, including patients with hemorrhagic stroke.
+CONCLUSION
+The use of the proposed protocol of VTE prevention in routine care for patients with stroke in ICU is safe and may significantly reduce the incidence of fatal pulmonary embolism.

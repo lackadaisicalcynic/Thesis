@@ -1,0 +1,15 @@
+Systematic review of dietary trans-fat reduction interventions.
+Objective  To systematically review published studies of interventions to reduce people's intake of dietary trans-fatty acids (TFAs).
+Methods
+We searched online databases (CINAHL, the CRD Wider Public Health database, Cochrane Database of Systematic Reviews, Ovid®, MEDLINE®, Science Citation Index and Scopus) for studies evaluating TFA interventions between 1986 and 2017.
+Absolute decrease in TFA consumption (g/day) was the main outcome measure.
+We excluded studies reporting only on the TFA content in food products without a link to intake.
+We included trials, observational studies, meta-analyses and modelling studies.
+We conducted a narrative synthesis to interpret the data, grouping studies on a continuum ranging from interventions targeting individuals to population-wide, structural changes.
+Results
+After screening 1084 candidate papers, we included 23 papers: 12 empirical and 11 modelling studies.
+Multiple interventions in Denmark achieved a reduction in TFA consumption from 4.5 g/day in 1976 to 1.5 g/day in 1995 and then virtual elimination after legislation banning TFAs in manufactured food in 2004.  Elsewhere, regulations mandating reformulation of food reduced TFA content by about 2.4 g/day.
+Worksite interventions achieved reductions averaging 1.2 g/day.  Food labelling and individual dietary counselling both showed reductions of around 0.8 g/day.
+Conclusion  Multicomponent interventions including legislation to eliminate TFAs from food products were the most effective strategy.
+Reformulation of food products and other multicomponent interventions also achieved useful reductions in TFA intake.  By contrast, interventions targeted at individuals consistently achieved smaller reductions.
+Future prevention strategies should consider this effectiveness hierarchy to achieve the largest reductions in TFA consumption.

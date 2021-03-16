@@ -1,0 +1,7 @@
+[Developmental changes of neurotransmitter properties in sympathetic neurons].  Neurochemical composition of metasympathetic nervous system is characterized by a large variation.
+The main part of the intramural ganglionic neurons is cholinergic.
+Along with cholinergic neurons, there are ganglionic neurons containing serotonin, histamine, GABA, and several peptides: cholecystokinin, dynorphin, enkephalin, galanin, gastrin-releasing peptide (bombesin in mammals), neuropeptide Y, neurotensin, somatostatin, tachykinins, neurokinin A, vasoactive intestinal polypeptide and calcitonin gene related peptide.  Gases as NO, CO, H2S, also act as neurotransmitters.
+Separate groups of neurons differ in the content of neuronal calcium-binding proteins, such as calbindin, calretinin and parvalbumin and neurofilaments: low molecular weight, a medium molecular weight and high molecular weight.  Neurons of the enteric ganglia are the most different by their neurochemistry.
+There is a species difference in the ganglia of large animals and humans there are more combinations of chemical transmitters.  Synthesis of neurotransmitters takes place even in the embryonic period and by the time of birth the most of neurons contain acetylcholine.
+In postnatal ontogenesis, the proportion of neurons expressing the NO-synthase decreases in the enteric and cardiac intramural ganglionic neurons.
+The functional significance of these changes is unclear.

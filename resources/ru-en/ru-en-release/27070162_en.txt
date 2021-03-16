@@ -1,0 +1,12 @@
+[The serum level of the morphogenetic protein fibroblast growth factor 23 (FGF-23) as a marker for the efficiency of hyperphosphatemia therapy with phosphate-binding agents in chronic kidney disease].  AIM
+To study whether the excessive production of serum fibroblast growth factor 23 (FGF-23) may be reduced with phosphate-binding agents to treat hyperphosphatemia in patients with Stage VD chronic kidney disease (CKD).
+MATERIALS AND METHODS
+The investigation enrolled 25 patients with Stage VD CKD on regular hemodialysis (HD) (12 patients with chronic glomerulonephritis, 8 with tubulointerstitial nephritis, and 5 with hypertensive nephrosclerosis); among them there were 15 men and 10 women at the age of 21 to 65 years; their mean age at inclusion in the study was 43±4.5 years.
+The clinical, laboratory, and instrumental examination similar to that in patients with the early stages of CKD was done.
+Serum FGF-23 levels (Human FGF-23 ELISA kit using monoclonal antibodies to the full FGF-23 molecule) were investigated in all the 25 patients.
+A whole blood sample was taken 2 days after the last session of HD before initiation of its regular procedure.
+RESULTS
+The elevated serum FGF-23 concentrations in the patients on regular HD correlated with their HD duration (r=0.508; p<0.001).
+Along with this, a strong direct correlation (r=0.522; p<0.001) was found between the concentration of FGF-23 in the serum and inorganic phosphorus; at the same time hyperphosphatemia was less significantly associated with higher serum intact parathyroid hormone (PTH) levels (r=0.398; p<0.05).
+Lower FGF-23 and PHT levels were noted in a group of patients who could achieve and maintain the target serum inorganic phosphorus level (0.9-1.45 mmol/l) compared to that of patients with uncorrected hyperphosphatemia (>1.45 mmol/l) (p<0.01). A decrease in FGF-23 and PHT levels was achieved chiefly in the patients who had used phosphate-binders that contained no calcium (sevelamer hydrochloride).
+CONCLUSION  Lower FGF-23 levels were observed in the patients with CHD on regular HD who can achieve and maintain the target serum inorganic phosphorus level when using phosphate-binders that do not contain calcium than in those with uncorrected hyperphosphatemia (p<0.01).

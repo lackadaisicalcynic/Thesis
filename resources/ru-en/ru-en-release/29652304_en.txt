@@ -1,0 +1,8 @@
+[Approach for identifying of treatment option for pediatric patients in Guillain-Barre syndrome considering results of pharmacoeconomic analysis].  AIM
+A pharmacoeconomic analysis of direct costs on treatment with high dose intravenous immunoglobulins (IVIG) and plasmapheresis (PP) in children.  MATERIAL AND METHODS
+Literature data on the pathogenesis of Guillain-Barre syndrome (GBS) were analyzed.  The results of pharmacoeconomic analysis of direct costs on treatment of GBS using IVIG and PP are presented.
+Risks for complications during treatment with IVIG and PP are calculated.
+RESULTS AND CONCLUSION
+The pharmacoeconomic analysis demonstrates comparable costs of treatment with IVIG or PP in the Russian Federation.
+Nevertheless, a less number of complications, convenience in use and the good safety and tolerability profile make it more preferable to this group of patients.
+In a clinical case of a 7-year child described in the article, treatment with 10% IVIG - privigen in dose 2 g/kg during 5 days started in the 3rd week of disease showed a marked positive effect.

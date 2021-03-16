@@ -1,0 +1,4 @@
+[Role of measurement of fractional flow reserve in coronary artery atherosclerosis].  The paper considers coronary flow in health and coronary flow autoregulation in health and disease.
+It gives basic methods used to estimate coronary flow reserve in patients with coronary atherosclerosis.
+The physiological bases for determining fractional flow reserve are presented.
+Clinical trials investigating the use of fractional flow reserve in patients with coronary heart disease are analyzed.

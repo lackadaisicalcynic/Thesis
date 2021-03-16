@@ -1,0 +1,5 @@
+[On the possibility to determine genetic identity of the tissues with malignant tumours imbedded in paraffin blocks].  The results of analysis of the literature data were used to develop the forensic medical criteria for the assessment of the suitability of paraffin blocks containing the imbedded malignant tumours for the genetic identification of the tissues.
+The forensic medical criteria and the algorithm for the preliminary characteristic of the material of interest were proposed to avoid the potential errors.
+It is not recommended to use gastrointestinal carcinomas, breast tumours, and poorly differentiated ovarian tumours.
+Also unsuitable is the material formerly exposed to radio- and chemotherapeutic agents or paraffin blocks stored during more than 5-7 years.
+In the doubtful cases, immunohistochemical studies must be carried out to confirm microsatellite instability.  Moreover, the tumour genotype and DNA composition from the patients' blood should be confirmed.

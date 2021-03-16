@@ -1,0 +1,14 @@
+[Serrated adenomas of the colon: Clinical, morphological, and molecular genetic characteristics].  AIM
+to investigate the clinical, morphological, and molecular genetic characteristics of serrated adenomas of the colon.  MATERIAL AND METHODS
+The study included 82 colon adenomas from 63 patients aged 29 to 81 years, who underwent colonoscopy with biopsy or polypectomy.
+The mean age of men was 63.3 years; that of women was 56.8 years.
+Comprehensive clinical, morphological, immunohistochemical, and molecular genetic examinations were made.
+RESULTS
+The histological examination showed that sessile serrated adenomas (SSA) of the colon were most common (46.4%), while hyperplastic polyp (HP) and traditional serrated adenoma (TSA) were found less often and with the same frequency (26.8%).
+The most typical location of SSA was the right colon; that of TSA was the left one.
+HP was detected equally on both sides of the colon.
+The immunohistochemical examination of the subtypes revealed no significant differences in the expression of markers.
+An analytical panel of antibodies against Desmin, Podoplanin (D2-40), CK20, CD34, Ki-67, Muc2, CEA, and CDX2 was used when identifying dysplasia areas, suspecting malignancy with invasion into the muscular layer of the mucous membrane and when determining the possible presence of emboli in blood and lymph vessels.
+BRAF gene mutation was identified in half of SSA cases; genetic BRAF mutation was observed in 41.7% of HP cases; genetic KRAS mutation was seen in 16.6%.
+The patients with TSA showed KRAS and BRAF mutations in 58.4 and 8.3% of cases, respectively.  Mutations of these genes were absent.
+CONCLUSION  The study revealed that the subtypes of serrated adenomas substantially differ by sex, age, localization, and molecular genetic characteristics.

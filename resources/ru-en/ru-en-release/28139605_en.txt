@@ -1,0 +1,12 @@
+[Association analysis of cytokine receptors' genes polymorphisms with clinical features of multiple sclerosis].  AIM
+To study the association of polymorphisms in the IL2RA and TNFRSF1A genes with severity and early clinical manifestations of remitted multiple sclerosis (MS).
+MATERIAL AND METHODS
+Five hundred and eight patients of Russian ethnicity with bout-onset MS were genotyped for IL7RA (rs6897932), IL2RA (rs2104286) and TNFRSF1A (rs1800693) polymorphisms.  Association analysis of the gene variants with disease severity, variants of MS manifestation, and first remission duration was performed.
+RESULTS AND CONCLUSION
+Dividing the MS patients by disease severity, estimated with the MSSS, we found a significant increase in the TNFRSF1A*T/T genotype carriage in patients with milder MS course (MSSS≤3), and, respectively, in the TNFRSF1A*C allele carriage in patients with moderate to severe MS (MSSS> 3).
+Dividing the MS patients into two groups according to their MS manifestation variants, we revealed a significant increase in the TNFRSF1A*T allele carriage in patients with favorable variants of MS manifestation (optic neuritis or sensory disturbances), and of the TNFRSF1A*C/C genotype in patients with unfavorable variants (motor disorders, brain stem disorders, impaired coordination, pelvic disorders, mental disorders or polysymptomatic onset).
+No associations with first remission duration were observed.
+Multi-locus analysis to search for allelic combinations associated with the studied clinical features of MS was applied.  In this analysis, a polymorphic variant of CTLA4 gene (rs231775), for which we have previously reported the association of the CTLA4*G allele with short first remission (less than 1 year), was also included.
+The carriage of biallelic combination (CTLA4*G + TNFRSF1A*C) was associated with short first remission more significantly than the carriage of CTLA4*G by itself.
+One more biallelic combination associated with short first remission (CTLA4*G/G + IL7RA*T), was identified.
+No other biallelic combinations significantly associated with the clinical features studied were observed.

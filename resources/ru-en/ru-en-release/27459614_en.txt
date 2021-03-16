@@ -1,0 +1,18 @@
+[Late myelotoxicity of high-dose chemotherapy according to the modified NHL-BFM-90 program in adult patients with diffuse large B-cell lymphoma].  AIM
+to evaluate late myelotoxicity (MT) relate to high-dose chemotherapy (CT) according to the modified NHL-BFM-90 (mNHL-BFM-90) program in adult patients with diffuse large B-cell lymphoma (DLBCL).
+SUBJECTS AND METHODS
+The results of a complex clinical, laboratory, and instrumental examination, including cytologic, histologic, and routine cytogenetic studies of the bone marrow (BM), were analyzed in 40 DLBCL patients treated according to the mNHL-BFM-90 program in the National Research Center for Hematology (NRCH), Ministry of Health of the Russian Federation (MHRF), in 2002 to 2009; among them, there were 20 men and 20 women (median age, 57 years).
+A comparison group consisted of 19 patients who had received high-dose СНОР/R-СНОР-21 CT in HRC, MHRF, in the same period of time; out of them, there were 8 men and 11 women (median age, 70 years).
+The median posttherapy follow-up period was 6 years.
+The results of BM studies were analyzed before and 5-10 years after treatment in complete remission.
+The cytological and histological studies of BM determined its cellularity, the sizes of erythroid, granulocytic, and megakaryocytic lineages, their ratios, the signs of dysplasia, and stromal dysplastic changes.
+Routine BM cytogenetic study was conducted to identify karyological problems.
+Only myelopoietic changes that had been revealed for the first time 5-10 years after completion of CT were kept in mind as late MT.
+Cases of baseline and post-CT changes and those of baseline and no post-CT changes were not taken into account.
+RESULTS
+Cytopenic syndromes (having no signs of myelopoietic lineage dysplasia or needing no blood component replacement transfusions) were revealed in 52% of the patients in the high-dose CT; thrombocytopenia amounted to 46%.
+In the late follow-up period, the patient group after high-dose mNHL-BFM-90 CT were found to have BM hypocellularity in 15 (38%) cases, a narrowing of erythroid and megakaryocytic lineages in 13 (33%) and 19 (48%) cases, respectively, and obvious secondary stromal changes in 17 (43%).
+The first 6 patients underwent routine BM cytogenetic study; all the patients were ascertained to have a normal karyotype; in this connection further BM study was stopped.
+CONCLUSION
+The late MT of high-dose mNHL-BFM 90 CT is statistically significantly higher than that of the standard CHOP/R-CHOP-21 therapy.
+However, signs of myelodysplastic syndromes and those of cytopenia requiring blood component transfusions were observed in none patient.

@@ -1,0 +1,16 @@
+Increased paediatric hospitalizations for empyema in Australia after introduction of the 7-valent pneumococcal conjugate vaccine.  OBJECTIVE
+To examine rates of paediatric hospitalization for empyema and pneumonia in Australia before and after the introduction of the seven-valent pneumococcal conjugate vaccine (PCV7).
+METHODS
+Rates of paediatric hospitalization for empyema and pneumonia (bacterial, viral and all types) were calculated following the codes of the International Classification of Diseases, tenth revision (ICD-10) as a principal diagnosis.
+The expected number of hospitalizations after the PCV7 was introduced was estimated on the basis of the observed number of hospitalizations before the introduction of the PCV7.
+Incidence rate differences (IRDs) and incidence rate ratios (IRRs) were calculated.
+Hospitalization incidence in each study period was expressed as the number of hospitalizations per million (10(6)) person-years.
+The population of children aged 0-19 years in Australia from 1998 to 2004 and from 2005 to 2010, as reported by the Australian Bureau of Statistics, was used to calculate the number of person-years in each period.
+FINDINGS
+In the 5 years following the introduction of the PCV7, hospitalizations for pneumonia were fewer than expected
+(15 304 fewer; 95% confidence interval, CI: 14 646-15 960; IRD: -552 per 10(6) person-years; 95% CI: -576 to -529 per 10(6) person-years; IRR: 0.78; 95% CI: 0.77-0.78).
+Hospitalizations for empyema, on the other hand, were more than expected (83 more; 95% CI: 37-128; IRD: 3 per 10(6) person-years; 95% CI: 1-5 per 10(6) person-years; IRR: 1.35; 95% CI: 1.14-1.59).
+Reductions in hospitalizations were observed for all ICD-10 pneumonia codes across all age groups.
+The increase in empyema hospitalizations was only significant among children aged 1 to 4 years.
+CONCLUSION
+The introduction of the PCV7 in Australia was associated with a substantial decrease in hospitalizations for childhood pneumonia and a small increase in hospitalizations for empyema.

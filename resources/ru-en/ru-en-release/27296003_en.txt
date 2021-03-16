@@ -1,0 +1,10 @@
+[Expression of matrix metalloproteinases and their inhibitors in the internal carotid artery wall in pathological tortuosity].  UNLABELLED
+The principal morphological sign of fibromuscular dysplasia in pathological tortuosity (PT) of the internal carotid artery (ICA) is the fragmentation of elastic fibers that are degraded by matrix metalloproteinases 2 and 9 (MMP-2, MMP-9).  Nevertheless, the role of MMPs and their inhibitors in the pathogenesis of ICA PT remains completely unexplored.
+AIM
+to investigate the expression of elastin-degrading MMPs and their inhibitors in the wall of the ICA in PT by immunohistochemistry and confocal laser scanning microscopy.  METHODS
+Immunohistochemical examination was made using antibodies to MMP-2, MMP-9 and their tissue inhibitors TIMP-1 and TIMP-2.  MMP-9 and TIMP-1 levels were determined by confocal laser scanning microscopy.
+RESULTS
+Immunohistochemical examination revealed a statistically significant predominance of high concentrations of MMP-2 and MMP-9 and a low level of their inhibitor TIMP-1 in ICA PT, while simultaneous obvious accumulation of both markers was most often identified in the control group (p<0.05).
+Analysis of MMP-2/TIMP-2 and MMP-9/TIMP-2 ratios showed the prevalence of the simultaneously high expression of both proteins in ICA PT and in the control group too.  The similar data were also obtained by confocal microscopy: the control group showed elevated MMP-9 and TIMP-1 expressions and the ICA PT control displayed a high proteinase and low inhibitor levels (p<0.05).
+CONCLUSION
+Elastic fiber fragmentation in ICA PT is due to imbalance between MMPs and their inhibitors; namely, the prevalence of MMP-2 and MMP-9 over their inhibitor TIMP-1, which leads to the degradation of extracellular matrix components, primarily elastin.

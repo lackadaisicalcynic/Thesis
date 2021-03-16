@@ -1,0 +1,19 @@
+[Membranous nephropathy in a Russian population].
+AIM  To analyze the clinical and morphological manifestations of membranous nephropathy (MN) and to evaluate the efficiency of its therapy.
+MATERIAL AND METHODS
+MN cases in 2009 to 2016 were retrospectively detected with a subsequent analysis of patients with primary MN (PMN).
+The titer of IgG-autoantibodies to phospholipase A2 receptor (anti-PLA2R Ab) was determined by an indirect immunofluorescence assay.
+Treatment outcomes, such as the time course of changes in proteinuria, nephrotic syndrome (NS), and the development of complete and partial remissions (CR and PR), were assessed.
+RESULTS
+MN was detected in 201 cases; the secondary etiology of the disease was established in 24.9%.
+The prevalence of MN among morphologically confirmed glomerulopathies was 14%; that of PMN was 10.4%.
+The median period to diagnosis PMN was 8 (5; 19) months. 150 patients with PMN (66.7% were men; age was 50±15 years) were distributed according to the following morphological stages: Stages I (23.9%), II (48.5%), III (26.1%), and IV (1.5%).
+Elevated anti-PLA2R Ab levels were found in 51.6% of cases; NS in the presence of proteinuria was detected in 85.6% of patients.
+An estimated glomerular filtration rate (eGFR) of <60 ml/min/1.73 m2 was seen in 25% of cases.
+Treatment outcomes were evaluated in 80 cases; the median follow-up period was 19 (8; 40) months.
+68% of cases had CR (32%) or PR (36%) with a median follow-up of 26 (13; 44) months.
+Spontaneous CRs or PRs were observed in 7.5% of the patients.
+Multivariate analysis showed that the probability of CR or PR increased 3.2-fold in the use of cyclophosphamide and/or cyclosporine and decreased as eGFR dropped.
+CONCLUSION
+In Russia, PMN is a common type of glomerulopathy, the specific features of which should include the low rates of spontaneous remissions and detection of anti-PLA2R Abs.
+For renal protection, the majority of patients with PMN require timely diagnosis and treatment; individualization of the choice of treatment and its enhanced efficiency call for further investigations.

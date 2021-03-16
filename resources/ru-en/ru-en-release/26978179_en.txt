@@ -1,0 +1,14 @@
+[Adipokines and a risk for metabolic disturbances in different types of female obesity].
+AIM  To investigate the effects of adiponectin and leptin on the development of metabolic disturbances in women with android and gynoid fat distribution.
+MATERIAL AND METHODS
+A total of 101 women aged 40 to 65 years were examined.
+Anthropometric measurements were made; overweight and obese women with a waist/hip (W/H) ratio of less than 0.83 were referred to as a gynoid fat distribution (GFD) group; and those with a W/H ratio of 0.83 or more were to an android fat distribution (AFD) group.
+The serum concentrations of triglycerides, high-density lipoprotein cholesterol, and glucose were measured; the levels of insulin, leptin, and adiponectin were determined by enzyme immunoassay.
+Insulin resistance (IR), HOMA IR, and visceral obesity index (VOI) were calculated.
+RESULTS
+With the same excess adipose tissue accumulation, the women with GFD had a less magnitude of hormonal and metabolic disturbances than those with AFD, whose HOMA-IR also pointed to the presence of IR.
+VOI was insignificantly higher in the women with GFD and 2.4-fold greater than that in normal weight (NW) women.
+In the women with GFD and AFD, the concentration of leptin was higher than that in the NW women, which was characteristic of obesity, but the concentration of adiponectin proved to be significantly lower in the patients with AFD and to be unchanged in those with GFD as compared with that in the NW women.
+CONCLUSION
+The women with AFD are typified by a high VOI, hypoadiponectinemia, IR, and metabolic disturbances, which determine a high risk for cardiovascular events and type 2 diabetes mellitus.
+In the women with GFD, obesity is associated with normal adiponectinemia and a low VOI and, in terms of hormonal and metabolic characteristics, may be characterized as metabolically healthy obesity.

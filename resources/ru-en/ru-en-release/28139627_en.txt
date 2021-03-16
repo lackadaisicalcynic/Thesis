@@ -1,0 +1,5 @@
+[Device-aided therapies in advanced Parkinson's disease].
+Advanced stages of Parkinson's disease (PD) is a consequence of the severe neurodegenerative process and are characterized by the development of motor fluctuations and dyskinesia, aggravation of non-motor symptoms.  Treatment with peroral and transdermal drugs canot provide an adequate control of PD symptoms and quality-of-life of the patients at this stage of disease.
+Currently, three device-aided therapies: deep brain stimulation (DBS), intrajejunal infusion of duodopa, subcutaneous infusion of apomorphine can be used in treatment of patients with advanced stages of PD.
+Timely administration of device-aided therapies and right choice of the method determine, to a large extent, the efficacy and safety of their use.
+Despite the high efficacy of all three methods with respect to the fluctuation of separate symptoms, each method has its own peculiarities.  The authors reviewed the data on the expediency of using each method according to the severity of motor and non-motor symptoms, patient's age, PD duration, concomitant pathology and social support of the patients.

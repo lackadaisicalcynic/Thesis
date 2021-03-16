@@ -1,0 +1,11 @@
+AIM  to investigate correlations between changes in ocular hemodynamics revealed by color Doppler flow mapping (CDFM) and pulsed-wave (PW) Doppler imaging, one the one hand, and electrical activity of the retina, on the other, in patients with early, moderate, and severe retinitis pigmentosa (RP).
+MATERIAL AND METHODS
+A total of 20 patients (40 eyes) aged from 16 to 40 years (28.4 ± 8.2 years on average) with retinitis pigmentosa were enrolled.
+The control group consisted of 20 healthy volunteers of the same age range.
+All participants underwent full-field electroretinography (ERG), flicker ERG, and macular ERG as well as blood flow assessment in the ophthalmic artery (OA), central retinal artery (CRA), and short posterior ciliary arteries (SPCA) by means of CDFM and PW-Doppler.
+RESULTS
+Ocular blood flow in CRA and SPCA appeared disturbed in patients with early RP.
+In cases of moderate and severe RP, the peak systolic velocity of CRA and SPCA blood flow was significantly decreased.
+Systolic and end diastolic blood flow velocities in CRA and SPCA has been shown to be directly related to full-field ERG a-wave and b-wave amplitudes, correspondingly, but negatively correlated with their implicit times.  CONCLUSION
+The revealed decrease in CRA and SPCA blood flow indices proves retinal and choroidal circulation deficit in patients with advanced RP.
+As shown, moderate blood flow changes are already present in early RP and progress as retinal photoreceptors and bipolar cells become suppressed, which may be useful for RP diagnosis and monitoring.

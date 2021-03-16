@@ -1,0 +1,10 @@
+Adolescent suicidal behaviours in 32 low- and middle-income countries.
+OBJECTIVE  To estimate prevalence of suicidal ideation and suicidal ideation with a plan in each surveyed country and to examine cross-national differences in associated risk factors.
+METHODS
+We analysed data of students aged 13-17 years who participated in the 2003-2012 Global School-based Health Surveys in 32 countries, of which 29 are low- and middle-income.  We used random effects meta-analysis to generate regional and overall pooled estimates.
+Multivariable logistic regression was used to estimate risk ratios for the associated risk factors.  Population attributable fractions were estimated based on adjusted risk ratios and the prevalence of the determinants within each exposure level.
+FINDINGS
+Across all countries, the pooled 12-month prevalence of suicide ideation were 16.2% (95% confidence interval, CI: 15.6 to 16.7) among females and 12.2% (95% CI: 11.7 to 12.7) among males and ideation with a plan were 8.3% (95% CI: 7.9 to 8.7) among females and 5.8% (95% CI: 5.5 to 6.1) among males.
+Suicide ideation in the WHO Region of the Americas was higher in females than males, with an estimated prevalence ratio of 1.70 (95% CI: 1.60 to 1.81), while this ratio was 1.04 (95% CI: 0.98 to 1.10) in the WHO African Region.  Factors associated with suicidal ideation in most countries included experiences of bullying and physical violence, loneliness, limited parental support and alcohol and tobacco use.
+CONCLUSION
+The prevalence of adolescent suicidal behaviours varies across countries, yet a consistent set of risk factors of suicidal behaviours emerged across all regions and most countries.

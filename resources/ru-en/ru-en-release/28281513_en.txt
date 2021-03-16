@@ -1,0 +1,17 @@
+[Elastography in the diagnosis of portal hypertension in patients with liver cirrhosis].
+AIM  To establish the diagnostic accuracy of liver and spleen density (LD and SD) measurements in patients with compensated alcoholic liver cirrhosis (LC) in the diagnosis of portal hypertension.
+SUBJECTS AND METHODS
+The investigation enrolled 83 patients with compensated alcoholic and viral (hepatitis C virus) LC.
+All the patients underwent LD and SD determinations, abdominal ultrasonography, and endoscopy to detect esophageal varices (EV), as well as examination of blood indices.
+RESULTS
+In viral LC, there were substantial LD differences in patients with and without EV.
+The patients with EV were ascertained to have higher LD [27.9 (21-45) kPa] than those without EV [19.5 (16-26.2) kPa].
+SD was also significantly higher than that in the EV group than in the non-EV group (p<0.001).
+There were no statistically significant differences in SD and LD or in spleen size in patients with alcoholic LC in relation to the presence of EV.
+Comparison of patients with EV of different etiology revealed differences in platelet count and spleen size.
+Thrombocytopenia was more pronounced in HCV-related LC patients (p=0.04).
+The spleen size in patients with viral LC was higher than that in those with alcoholic LC.
+CONCLUSION
+Elastography of the spleen and liver may be used to identify portal hypertension in patients with viral (HCV) LC (83% sensitivity, 75% specificity) with the following threshold values: LD=26 kPa and SD=50 kPa.
+The threshold LD and SD values obtained for viral LC do not make possible to diagnose clinically significant portal hypertension (EV) in patients with alcoholic LC.
+There is a need for further investigations to determine the optimal threshold values of LD and SD for the diagnosis of EV.

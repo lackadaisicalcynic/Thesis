@@ -1,0 +1,11 @@
+Identifying implementation bottlenecks for maternal and newborn health interventions in rural districts of the United Republic of Tanzania.
+OBJECTIVE
+To estimate effective coverage of maternal and newborn health interventions and to identify bottlenecks in their implementation in rural districts of the United Republic of Tanzania.
+METHODS
+Cross-sectional data from households and health facilities in Tandahimba and Newala districts were used in the analysis.  We adapted Tanahashi's model to estimate intervention coverage in conditional stages and to identify implementation bottlenecks in access, health facility readiness and clinical practice.
+The interventions studied were syphilis and pre-eclampsia screening, partograph use, active management of the third stage of labour and postpartum care.
+FINDINGS  Effective coverage was low in both districts, ranging from only 3% for postpartum care in Tandahimba to 49% for active management of the third stage of labour in Newala.
+In Tandahimba, health facility readiness was the largest bottleneck for most interventions, whereas in Newala, it was access.  Clinical practice was another large bottleneck for syphilis screening in both districts.
+CONCLUSION  The poor effective coverage of maternal and newborn health interventions in rural districts of the United Republic of Tanzania reinforces the need to prioritize health service quality.
+Access to high-quality local data by decision-makers would assist planning and prioritization.
+The approach of estimating effective coverage and identifying bottlenecks described here could facilitate progress towards universal health coverage for any area of care and in any context.

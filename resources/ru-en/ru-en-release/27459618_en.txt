@@ -1,0 +1,21 @@
+[Perianal infection in patients with hemoblastosis: Risk factors and possibilities of prevention].
+AIM  to identify poor prognostic factors for perianal infection (PI) in patients with hemoblastosis and to define an effective tactic for preventive and therapeutic measures.
+SUBJECTS AND METHODS
+The prospective study enrolled 72 patients (37 men and 35 women; mean age, 47 years) with hemoblastosis that was complicated by the development of one of the following forms of PI: abscess, infiltrate, multiple ulcers.
+Different clinical and laboratory characteristics of the patients were examined to identify risk factors for PI.
+The species-specific concordance of microorganisms isolated from the anus and blood in the development of PI was assessed to record the latter as a source of sepsis.
+Treatment policy was defined according to the clinical form of PI.
+RESULTS
+Acute myeloid leukemias and lymphomas were the most common background diseases in 30 (41.7%) and 22 (30.6%) patients, respectively.
+During induction chemotherapy cycles, perianal tissue infection occurred twice more frequently (66%) than totally at the onset of hemoblastosis (13%) and after achievement of remission (during consolidation and maintenance therapy) (21%; Fisher's exact test; p=0.01). PI in agranulocytosis was more than twice as common as in its absence: 69.4% vs 30.6% (p=0.01) and was responsible for sepsis in 9 (18%) of 50 patients.
+The main source of perianal tissue infection in patients with granulocytopenia was anal fissures and fistulas and ulcers of the anal canal: 44 (88%) cases of the 50 cases.
+In PI as an abscess, the average white blood cell count was 5 times higher (p=0.01) than that in PI as an infiltrate (or multiple ulcers): 6.6·109/l and 1.2·109 g/l.
+Abscess formation was observed in 16 (22.2%) patients and an indication for surgical drain.
+The inflammatory infiltrate was found to develop in 48 (66.7%) patients; multiple ulcers were seen in 8 (11.1%); in this group, parenteral antimicrobial therapy proved to be effective in 36 (78%) patients.
+29 patients were operated on for anal fissures and fistulas at intercycle intervals.
+After continuing CT, PI recurrences were observed in 4 (9.1%) patients.
+In the operated versus medically treated patients, the risk of complications associated with abnormalities in the perianal area during continued CT was 5 times statistically significantly lower (odds ratio=0.2; 95% confidence interval 0.1 to 0.5; p=0.04; Cochran-Mantel test).
+CONCLUSION
+Induction CT cycles, the status of granulocytopenia, and the presence of infection sources in the anal canal as an anal fissure, skin ulcerations, or a fistula should be considered as independent statistically significant prognostic risk factors for PI.
+The number of granulocytes determines the form of inflammation, the course of infection, and the chance of developing sepsis.
+The effective prevention encompassing surgical treatment for anal canal diseases reduces the risk of septic complications and the number of paraproctitis recurrences, contributing to the implementation of a planned CT program in patients with hemoblastosis.

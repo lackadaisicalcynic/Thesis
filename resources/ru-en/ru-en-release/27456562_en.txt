@@ -1,0 +1,10 @@
+[Hypothalamic regulation of retinal function].  UNLABELLED
+Studying compensatory capacity of the brain is a pressing issue.  To resolve it, diversified experiments should be conducted providing an idea of the underlying mechanisms and possibilities of functional restoration.
+AIM
+To determine the effect of unilateral electrocoagulation of supraoptic (SO) and suprachiasmatic (SCH) hypothalamic nuclei on the appearance of the electroretinogram (ERG).
+MATERIAL AND METHODS
+We conducted chronic experiments on awake rabbits with a total duration of 30 days.  RESULTS
+The study revealed considerable changes in the total ERG amplitude (reduction) as well as the amplitudes of a- and b-waves.
+Thus, for the first 15-30 minutes after coagulation the b-wave showed an increase, while the a-wave appeared completely suppressed.  Longer postcoagulation periods were associated with gradual, though incomplete, amplitude regain of the latter.
+CONCLUSION
+The obtained data suggest that the process of ERG recovery involves compensatory mechanisms of the SO and SCH nuclei that enable partial recovery of the neurotransmitter activity of the retina.

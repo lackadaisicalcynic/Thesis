@@ -1,0 +1,13 @@
+[The role of immune factors in the progression of chronic kidney diseases in HIV infection].
+AIM  To determine the significance of immune factors in the pathogenesis of kidney injuries in HIV infection, by investigating the cellular and cytokine components of an immune response.
+MATERIALS AND METHODS
+Thirty HIV-infected patients (mean age 31.7±6.2 years) with chronic kidney disease (CKD) were examined.
+A comparison group consisted of 10 HIV-infected patients without signs of kidney injury.
+A control group included 24 healthy individuals to analyze immune status and 15 people to estimate the normal values of the cytokine composition.
+The cellular composition of lymphocytes on a typical immunogram was determined on a flow cytofluorometer; the serum concentrations of cytokines were measured on a multichannel photometer.
+RESULTS
+The HIV-infected patients with kidney injury displayed significant reductions in the absolute (0.2·109/l and 0.4·109/l, respectively; р=0.015) and relative (14.75 and 22%, respectively; р=0.005) counts of CD3+/CD4+ cells and in the immunoregulatory index (0.2 and 0.4, respectively; р=0.014) as compared to those in HIV-infected patients without kidney disease (р≤0.05) with a rise in the number of cytotoxic T cells (CD3+/CD8+).
+The HIV-infected patients showed a preponderance of immunosuppressive cytokine compositions, as indicated by the high levels of transforming growth factor-β (a more than 50-fold increase) and by a statistically significant rise in the level of tumor necrosis factor-α (TNF-α) (with CD4+ lymphocyte counts more or less than 200 cells/µl - 19.0 and 24.2 pg/ml, respectively; p=0.017; with HIV RNA levels more and less than 100,000 copies/ml - 24.4 and 19.7 pg/ml, respectively; p=0.012).
+CONCLUSION
+The HIV-infected patients with CKD developed kidney injury in the presence of a more pronounced decrease in blood T helper lymphocyte subpopulation levels with a predominance of proinflammatory and immunosuppressive responses.
+TNF-α in combination with immunosuppression and high viral loads was established to play a leading role in the development of kidney injury in HIV infection.

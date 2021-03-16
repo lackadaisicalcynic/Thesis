@@ -1,0 +1,9 @@
+[Comparative, placebo-controlled clinical study of efficacy and safety of glatiramer acetate 20 mg in patients with relapsing-remitting multiple sclerosis: results of the first year of the study].
+The article presents the results of international multicenter randomized double-blind, active and placebo-controlled, comparative phase 3 trial.  The goal of the study was to demonstrate non-inferiority of BCD-063 (glatiramer acetate, manufactured by JSC «BIOCAD», Russia) to copaxone-Teva (Teva Pharmaceutical Enterprise Co., Ltd., Israel) in patients with relapsing-remitting multiple sclerosis.
+METHODS
+158 patients with relapsing-remitting multiple sclerosis were randomly assigned into 3 groups: BCD-063, copaxone-Teva and placebo, at a ratio of 2:2:1, respectively.
+RESULTS AND CONCLUSION
+Efficacy analysis after 48 weeks of therapy demonstrated no differences between BCD-063 group and copaxone-Teva group in both MRI parameters and frequency of relapses.
+The mean (SD) of number of MRI-confirmed relapses per patient per year (the primary endpoint) in BCD-063 group was 0.098361 (0.351422), in copaxone-Teva group - 0.098361 (0, 351 422) and in placebo group - 0.178571 (0.390021).
+There were also no differences between the groups for all other efficacy parameters (EDSS and MSFC).  Both investigational BCD-063 and copaxone-Teva demonstrated a favorable safety profile.
+The data obtained from the present study confirm the therapeutic equivalence of BCD-063 (CJSC BIOCAD, Russia) and copaxone-Teva, that is important for further implementation of glatiramer acetate generic in the clinical practice of multiple sclerosis therapy.

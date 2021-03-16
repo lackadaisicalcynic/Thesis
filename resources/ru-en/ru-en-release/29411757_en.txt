@@ -1,0 +1,11 @@
+[Nocturnal pulse oximetry indicators in the evaluation of obstructive sleep apnea syndrome in outpatients with concomitant diseases of the upper respiratory tract and overweight].
+AIM
+By using mathematical modeling, to evaluate the impact of upper respiratory tract diseases, retro- and micrognathia, and body mass index (BMI) on nocturnal pulse oximetry indicators (oxygen saturation level and oxygen desaturation index) in outpatients examined for suspected obstructive sleep apnea syndrome (OSAS).  SUBJECTS AND METHODS
+The study enrolled 260 subjects with a mean age of 47.8±12.0 years.  All the examinees underwent outpatient pulse oximetry screening during nocturnal sleep because of suspected OSAS.
+Multislice spiral computed tomography was carried out to assess the paranasal sinuses and nasal septum.
+BMI was calculated.  Variance factor analysis using an original programming application intended to create binary and ternary dispersion complexes was employed as a main mathematical tool.
+RESULTS
+There were statistically significantly sets of risk factors for OSAS: nasal septum deviation + increased BMI + male gender = 68.66%; chronic allergic rhinitis + increased BMI + male gender = 63.09%; retromicrognathia + increased BMI + male ganger = 59.48%; and chronic tonsillitis + increased BMI + male gander = 60.88%.
+Higher BMI and male gender are a most statistically significant set of risk factors.
+CONCLUSION
+Pulse oximetry screening during nocturnal sleep in snoring patients with suspected OSAS in combination with an assessment of age, sex, BMI, ENT comorbidity, retro- and micrognathia can predict the severity of the disease and serve as a basis for elaborating an OSAS screening program.

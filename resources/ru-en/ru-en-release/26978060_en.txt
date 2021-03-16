@@ -1,0 +1,4 @@
+[Frontotemporal degeneration: a clinical case and experience of using of diffusion tensor magnetic-resonance imaging tractography].
+Frontotemporal degeneration is a frequent cause of presenile dementia that makes up from 5 to 17% of autopsy-confirmed cases developed at the age of 70 years.
+Authors report a case of this disease, discuss the possible causes of its development and present the results of diffusion tensor magnetic resonance tractography.  Clinical features of this case are practically isolated speech disturbance with the most likely domination of a semantic variant of primary progressive aphasia.
+Magnetic-resonance imaging has an important practical significance for this pathology due to the possibility of assessing atrophic zones.  The use of DTI-tractography allows to extend diagnostic possibilities.

@@ -1,0 +1,13 @@
+[Experimental realization of minimally invasive techniques of scleral collagen cross-linking].  AIM  To realize two minimally invasive techniques of scleral collagen cross-linking (SXL) at the equator and posterior pole of the eye: 1) targeted irradiation of the region with ultraviolet A (UVA) and 2) sub-Tenon injection of Sklerateks.
+MATERIAL AND METHODS
+To perform UVA-SXL, a tool was developed that includes a UV-LED light source (370 nm, 3 mW/cm2) and a polymer-coated silica multimode optical fiber located in one of the two channels of a detachable metal tip.  The other channel is used to deliver riboflavin to the scleral surface.
+The study included 8 Chinchillas' eyes.  Intact fellow eyes served as the controls.
+Scleral echodensity was measured in vivo with Voluson 730 Pro (Kretz) prior to the procedure and then 2 days and 1 month after.  After enucleation, the elastic modulus and the degree of scleral cross-linking were established at the same time-points.
+A placebo-controlled study on the safety and effectiveness of sub-Tenon Sklerateks injections (solution of amino acid salts in the form of succinates) was conducted on 47 Chinchilla rabbits (94 eyes).  Sklerateks or placebo (0.1 ml) was injected below the Tenon's capsule of either eye once a week for 1 month (4 injections; 1st series) or 3 months (12 injections; 2nd series).
+After the end of the course, 22 eyes were studied morphologically.  In 72 eyes, scleral samples were obtained in order to evaluate the elastic modulus (Autograph AGS-H tester, SHIMADZU, Japan) and the rate of cross-linking (judging from the denaturation temperature) by differential scanning calorimetry (Phoenix DSC 204 calorimeter, Netzsch, Germany).
+RESULTS
+After UVA irradiation, the scleral echodensity increased from 86.7±5.1 to 98±4.9 dB.
+The elastic modulus appeared 1.5 times higher than that of the control samples.  The denaturation temperature also increased indicating the rate of scleral cross-linking as high as 15-18%.
+Weekly Sklerateks for 1-3 months has been shown to induce neither clinical, nor morphological signs of local irritative, damaging, or toxic effect.  The findings also include: a 1.8 times higher rate of scleral cross-linking, activation of cellular elements, neoformation of connective tissue on the scleral surface, and vascular growth, which together indicate a pronounced metabolic and strengthening effect of Sklerateks on the sclera.
+CONCLUSION
+Experimental results on minimally invasive techniques of SXL allow to recommend them for further clinical investigation as a promising treatment of progressive myopia.

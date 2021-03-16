@@ -1,0 +1,9 @@
+Pneumococcal conjugate vaccines and hospitalization of children for pneumonia: a time-series analysis, South Africa, 2006-2014.
+OBJECTIVE
+To assess the impact of immunization with pneumococcal conjugate vaccines on all-cause pneumonia hospitalizations among children in Soweto, South Africa.  METHODS
+We used data collected at the Chris Hani Baragwanath Hospital in Soweto between 2006 and 2014 - i.e. before and after April 2009, when a pneumococcal conjugate vaccine was first included in South Africa's routine immunization programme.
+Using a Bayesian generalized seasonal autoregressive moving-average model and the data collected in 2006-2008, we estimated the numbers of children that would have been hospitalized for pneumonia between 2010 and 2014 if no pneumococcal conjugate vaccines had been used.  These estimates were then compared with the corresponding numbers of hospitalizations observed.
+Between 2006 and 2014, 26 778 children younger than five years - including 3388 known to be infected with human immunodeficiency virus (HIV) - were admitted to the study hospital for pneumonia.  We estimated that, for the children known to be infected with HIV and for the other children, pneumococcal conjugate vaccines reduced the numbers of hospitalizations for pneumonia in 2014 by 33% (50% credible interval, CrI: 6 to 52) and 39% (50% CrI: 24 to 50), respectively.
+In the study hospital in 2012-2014, as a result of immunizations with these vaccines, there were an estimated 3100 fewer pneumonia hospitalizations of children younger than five years.
+CONCLUSION
+In our study hospital, following the introduction of pneumococcal conjugate vaccines into the national immunization programme, there were significant reductions in pneumonia hospitalizations among children.

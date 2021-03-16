@@ -1,0 +1,8 @@
+[Clinical, neurophysiological and neuroimaging study of tremor in multiple sclerosis].
+OBJECTIVE
+To identify clinical types of tremor in multiple sclerosis (MS) and clarify their pathophysiological mechanisms.
+MATERIAL AND METHODS
+We examined 124 patients with MS, including 58 patients with tremor, using clinical (digital spiralography), neurophysiological (tremor electromyography, visual and sensory evoked potentials, transcranial magnetic stimulation with tremor resetting, long latency reflexes, electroencephalography) and neuroimaging (MRI, morphometry) methods.  RESULTS AND CONCLUSION
+Five main variants of tremor were identified: distal postural and postural-intention (variant 1), distal intention (variant 2), proximal and distal intention and postural-intention (variant 3), Holmes (variant 4), axial (variant 5).
+Postural tremor (variants 1, 3) and rest tremor (variant 4) are caused by the central oscillators.  Intention tremor (variants 2, 3), postural-intention tremor (variant 4), axial (variant 5) are caused by the pathology of cerebellar feedback loops.
+Clarification of mechanisms for the development of tremor in MS allowed to develop a scheme of differential treatment.

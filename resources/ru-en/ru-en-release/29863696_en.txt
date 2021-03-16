@@ -1,0 +1,9 @@
+[New allelic variants of non-syndromic mental retardation of type 20 caused by mutations in the MEF2C gene].
+AIM  To determine clinical and genetic characteristics of patients with non-syndromic mental retardation (NMR), type 20 with autosomal dominant type of inheritance (OMIM: 613443).
+MATERIAL AND METHODS
+Fourteen patients were studied including four patients with mutations in the MEF2C gene revealed by exome sequencing.
+Three of the four mutations in the gene were found for the first time.
+RESULTS
+Based on a comparative analysis of the clinical manifestations of 4 observed patients and 9 patients with type 20 NMR described in the literature, the authors determined common clinical characteristics of this syndrome.
+In most cases with delayed psycho-speech development and convulsive syndrome, the patients were expected to have various variants of early epileptic encephalopathies, in which presence of convulsive paroxysms leads to intellectual deficit, while in the case of NMR, the delay in development can be noted long before the onset of seizures.
+CONCLUSION  Exome sequencing is the most effective method of NMR diagnosis.

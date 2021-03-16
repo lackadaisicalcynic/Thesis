@@ -1,0 +1,13 @@
+[Increased serum concentrations of inflammatory cytokines in type 2 diabetic patients with chronic kidney disease].
+AIM  To study the relationship between serum inflammatory cytokine levels in chronic kidney disease patients with type 2 diabetes.
+SUBJECTS AND METHODS
+Sixty-four patients aged 43 to 70 years with a glomerular filtration rate (GFR) of > 30 ml/min/1.73 m2 were examined.
+A control group consisted of 15 healthy individuals.
+The serum concentration of macrophage colony-stimulating factor (M-CSF), macrophage inflammatory protein 1α (MIP-1α), macrophage migration inhibitory factor (MIF), interleukin 6 (IL-6), as well as the urinary excretion of albumin and type IV collagen was determined by enzyme immunoassay.
+RESULTS
+In patients with a GFR of > 60 ml/min/1.73 m2, M-CSF and MIF concentrations proved to be significantly higher than those in the control group (p = 0.0003 and p = 0.001, respectively).
+In those with a GFR of 30-59 ml/min/1.73 m2, there was an increase in the levels of M-CSF (p < 0.0001), MIP-1α (p = 0.002), MIF (p = 0.02), and IL-6 (p = 0.02).
+The decline in GFR was associated with the higher levels of M-CSF (p = 0.02) and MIP-1α (p = 0.02) and with the higher urinary excretion of type IV collagen (p = 0.01).
+M-CSF, MIP-1α, and IL-6 correlated positively with the urinary excretion of albumin (r = 0.34, r = 0.28, and r = 0.28, respectively; all p < 0.05) and type IV collagen (r = 0.31, r = 0.4, and r = 0.43, respectively; all p < 0.05).
+CONCLUSION
+The findings confirm the concept that chronic inflammation is involved in the development of diabetic kidney disease.

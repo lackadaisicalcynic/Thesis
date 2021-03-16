@@ -1,0 +1,12 @@
+AIM  to determine tomography findings in optic nerve head (ONH) and retinal nerve fiber layer (RFNL) that may be valuable for differential diagnosis between normal-tension glaucoma (NTG) and ischemic optic neuropathy (ION) outcome.
+MATERIAL AND METHODS
+Group 1 consisted of 17 patients (32 eyes) with NTG, group 2--17 patients (24 eyes) with ION outcome.
+The control group included 22 patients (22 eyes) with no sighs of optic neuropathy.
+Optic nerve head and retina assessment included scanning laser ophthalmoscopy (HRT 111) and optical coherence tomography (Stratus OCT 3000).  Statistical analyses were performed using Statistica 10 software suite.
+RESULTS
+Statistically significant changes in HRT parameters, namely, the mean RNFL thickness, retinal height variation along the contour line, and RB discriminant function, were observed in both study groups as compared to the controls.
+NTG patients also showed lower rim indices, larger cups, smaller values of the FSM discriminant function, and lower GPS (glaucoma probability score) than both ION patients and the controls.
+OCT findings included a statistically significant decrease in RNFL thickness in both study groups as compared to the controls.  As for the difference between the groups, it was unreliable.
+Quadrant comparisons of RNFL thicknesses revealed that lower quadrant RNFL thinning was more significant in NTG patients, while temporal quadrant RNFL thinning--in ION patients.
+CONCLUSION
+Both conditions are associated with a similar degree of RNFL thinning, as confirmed by OCT, however, HRT changes are much more pronounced in NTG than in ION patients.

@@ -1,0 +1,11 @@
+OBJECTIVE  to study the content of biomarkers of diagnostic and prognostic value in the assessment of traumatic brain injury (TBI) severity in children.
+MATERIAL AND METHODS
+Authors determined the levels of glial protein S100B, neuronspecific enolase (NSE), autoantibodies (aAb) to glutamate receptors and natural autoantibodies (nAb) to S100B and brain-derived neurotrophic factor (BDNF) in serum/plasma of children with different outcomes of TBI.
+All parameters were analyzed in the 1-3rd, 7-8th, 14-15th and 20-23rd days after TBI, and, in some cases of severe brain injury and long stay patients in hospital, in 11-12 months after TBI.
+The severity and outcome of TBI were assessed according the Glasgow coma scale (GCS) and the Glasgow outcome scale (GOS), respectively.
+RESULTS AND CONCLUSION
+The content of NSE and S100B increased immediately after TBI regardless of TBI severity, but in cases with favorable outcome it dropped to a normal level in the first 3 days.
+The maximum levels of S100B protein and NSE were observed in children with fatal TBI, and higher values were observed throughout the post-traumatic period.
+The low levels of aAb to NR2-subtype of glutamate receptors that were similar to controls and the high level of nAb to S100B in the first days after severe TBI indicate the failure of compensatory-adaptive immunological mechanisms and the high permeability of the brain-blood barrier, which were poor prognostic signs for children with severe TBI.
+Mild and severe TBI with full recovery were accompanied by higher values of ВDNF in the 1st day followed by a decline to the 3rd day.
+The level of BDNF in the 1st day of TBI was the lowest and subsequently continued to decline in patients with severe TBI with fatal outcome.

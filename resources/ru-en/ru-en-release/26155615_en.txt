@@ -1,0 +1,20 @@
+[Left and right ventricular diastolic dysfunction in patients with early rheumatoid arthritis before prescribing disease-modifying antirheumatic therapy].
+AIM  To estimate the rate of diastolic dysfunction (DD) of the left and right ventricles (LV and RV) in patients with early rheumatoid arthritis (RA) before using disease-modifying antirheumatic drugs (DMARDs) therapy and to investigate its association with traditional risk factors (TRFs) for cardiovascular diseases (CVD) and inflammatory markers.
+SUBJECTS AND METHODS
+The investigation enrolled 74 patients with a valid diagnosis of RA, including 56 (74%) women (median age, 54 years; disease duration, 7 months); the patients who were seropositive for rheumatoid factor (RF) (87%) and/or anti-cyclic citrullinated peptide (anti-CCP) antibodies (100%) who had not been on DMARDs or glucocorticosteroids.
+TRFs for CVD and carotid artery atherosclerosis were assessed from duplex scanning data and echocardiography was performed in all the patients with early RA before starting the therapy.
+The ratio of the maximum blood flow velocity during early diastolic filling (E) to that during atrial systole (A) was used as a criterion for LVDD and RVDD.
+There were 3 types of impaired ventricular filling: 1) E/A <1; 2) E/A = 1-2; 3) E/A > 2.
+RESULTS
+LVDD and RVDD were detected in 35 (48%) and 17 (23%) patients, respectively.
+RVDD was recorded only in conjunction with LVDD.
+Among LVDD and RVDD, the former was prevalent.
+All the patients with early RA were divided into 3 groups: 1) patients with LVDD and RVDD; 2) those with LVDD; 3) those without ventricular DD.
+All the three groups were matched for the level of DAS28, anti-CCP antibodies, and RF.
+The incidence of arterial hypertension, dyslipidemia, and abdominal obesity was higher in the patients of Groups 1 and 2 than in those of Group 3.
+There was a progressive decrease in high-density lipoprotein (HDL) cholesterol concentrations and increases in triglyceride (TG) levels and atherogenic index from Group 3 to Group 1, with the concentrations of total cholesterol and low-density lipoprotein cholesterol being similar in the 3 groups.
+Coronary heart disease was recorded more frequently in Group 2 than in Group 3.
+Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) proved to be also significantly higher in the patients with DD than in those without DD.
+Correlations were found between LV E/A and ESR, CRP, HDL cholesterol, TG, RV E/A and ESR, DAS28, TG.
+CONCLUSION
+The patients with early-stage RA were found to have high incidence rates of LVDD and RVDD, which is related to the high prevalence of CVD, the high spread of TRF for CVD, and the high activity of an inflammatory process.

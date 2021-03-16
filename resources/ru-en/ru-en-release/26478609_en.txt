@@ -1,0 +1,12 @@
+New indicators for delay in initiation of antiretroviral treatment: estimates for Cameroon.
+OBJECTIVE
+To propose two new indicators for monitoring access to antiretroviral treatment (ART) for human immunodeficiency virus (HIV); (i) the time from HIV seroconversion to ART initiation, and (ii) the time from ART eligibility to initiation, referred to as delay in ART initiation.  To estimate values of these indicators in Cameroon.
+METHODS  We used linear regression to model the natural decline in CD4+ T-lymphocyte (CD4+ cell) numbers in HIV-infected individuals over time.
+The model was fitted using data from a cohort of 351 people in Côte d'Ivoire.  We used the model to estimate the time from seroconversion to ART initiation and the delay in ART initiation in a representative sample of 4154 HIV-infected people who started ART in Cameroon between 2007 and 2010.
+FINDINGS
+In Cameroon, the median CD4+ cell counts at ART initiation increased from 140 cells/μl (interquartile range, IQR: 66 to 210) in 2007-2009 to 163 cells/μl (IQR: 73 to 260) in 2010.
+The estimated average time from seroconversion to ART initiation decreased from 10.4 years (95% confidence interval, CI: 10.3 to 10.5) to 9.8 years (95% CI: 9.6 to 10.0).
+Delay in ART initiation increased from 3.4 years (95% CI: 3.1 to 3.7) to 5.8 years (95% CI: 5.6 to 6.2).
+CONCLUSION
+The estimated time to initiate ART and the delay in ART initiation indicate that progress in Cameroon is insufficient.
+These indicators should help monitor whether public health interventions to accelerate ART initiation are successful.

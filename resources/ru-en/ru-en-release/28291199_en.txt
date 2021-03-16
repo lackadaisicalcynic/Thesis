@@ -1,0 +1,14 @@
+[Effects of urokinase plasminogen activator on cultured human retinal epithelial cells].  AIM
+to study the effects of urokinase plasminogen activator (UPA) on the human retinal pigment epithelium (hRPE) cell culture.  MATERIAL AND METHODS
+The toxicity of 50 U/ml UPA was studied with the trypan blue exclusion test.
+Cell migration was assessed by the wound healing and modified Boyden chamber assays.
+Additionally, cell morphology, trypsin resistance, and Ki67 expression were investigated.
+RESULTS
+Trypan exclusion test did not reveal any cytotoxicity of 50 U/ml UPA against hRPE cells.
+The agent appeared able to induce cellular cluster formation and increase the number of spindle-shaped cells (6.4±2.4 cells/field and 67.3±3.2 cells/field in the controls and in the presence of 50 U/ml UPA, respectively, p<0.001).  Cell migration in the Boyden chamber also showed a statistically significant increase (1.75-fold, p=0.012).
+Monolayer wounds were found to heal at an accelerated rate (p<0.05).  This effect was dose-dependent, just like the increase in Ki67-positive cells (from 2.5 to 50 U/ml).
+Moreover, there was a reduction in trypsin resistance of the hRPE cells (the number of resistant cells in the control and 50 U/ml UPA cultures was 5.2±1.7 cells/field and 0.46±0.32 cells/field, respectively, p<0.001).
+CONCLUSION
+UPA, at concentrations of 50 U/ml or less, demonstrates no cytotoxicity against the hRPE cells.
+The effects of UPA on hRPE include stimulation of epithelial-mesenchymal transition, migration, proliferation, and intercellular interaction.
+At that, changes in migratory and proliferative activity are dose-dependent.

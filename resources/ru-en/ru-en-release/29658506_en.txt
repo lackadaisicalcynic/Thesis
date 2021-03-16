@@ -1,0 +1,11 @@
+[The relationship between indicators of drug users detection and the population referral to drug treatment services].
+AIM  To examine the relationship between the results of drug users' identification through medical examination for drug intoxication and the rates of primary population' referral for drug treatment.
+MATERIAL AND METHODS
+The data of the state federal statistical observation for period of 2009-2013 were used.
+Methods of descriptive statistics and regression analysis were applied.
+RESULTS AND CONCLUSION
+It has been established that the identification of drug users during medical examination of citizens for the state of drug intoxication has a statistically significant effect on the population' drug treatment referral rates.
+According to linear regression equations, out of each 100 cases identified through medical examination, only 15 patients referred to drug treatment services.
+From practical point of view, the influence of the first indicator on the second one is not high: an increase in the number of identified drug users for each 100 cases leads to an increase in referral rate of patients with drug dependence syndrome for 2 cases, while the referral rate of drug users with established diagnosis of the harmful use of drugs increases for 10 patients.
+The results of the study highlight the urgent need for developing secondary prevention programs for those diagnosed with the harmful use of drugs.
+There is also a question of further improvement of legislation in the field of law-governed motivation of exposed drug users to seek drug treatment.

@@ -1,0 +1,7 @@
+[A comparative chemoreactome analysis of mexidol].
+AIM  To compare mexidol with control molecules (choline alfoscerate, piracetam, glycine, semax) using chemoreactome analysis.
+MATERIAL AND METHODS
+The chemical structure of mexidol was compared to molecule metabolites extracted from the Human Metabolome Database (HMDB) and a drug database.  More than 40 000 of metabolites from HMDB were used as a model of human metabolome.
+RESULTS AND CONCLUSION  The chemoreactome analysis showed that mexidol may be (1) an agonist of acetylcholine and GABA-A receptors; (2) an anti-inflammatory agent, the effects of which are carried out by inhibiting the synthesis of pro-inflammatory prostaglandins; (3) a neurotrophic agent with neuroprotective properties; (4) a coagulation inhibitor; (5) a diabetes medication and (6) a hypolipidemic agent.
+Compared to 'control' molecules, mexidol has a more pronounced safety profile (a lower impact on serotonin, dopamine and adrenergic receptors, a lesser degree of interaction with the potassium channels of the heart, MAO and P450 cytochromes).
+The results of modeling allow to specify the mechanisms of action of mexidol at the molecular level.

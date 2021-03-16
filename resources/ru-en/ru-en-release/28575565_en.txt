@@ -1,0 +1,8 @@
+EEG-neurofeedback training and quality of life of institutionalized elderly women (a pilot study).
+This pilot study attempted to study the applicability of neurofeedback for elderly persons living in nursing homes.
+We hypothesized an improve of cognitive functioning and the independence in daily life (IDL) of elderly people by using low beta (12-15HZ) EEG neurofeedback training (E-NFT).
+The participants (active E-NFT group, n=10; control group, n=6) were community living elderly women without dementia.
+Neurofeedback training was adjusted ten times within 9 weeks, with a training duration of 21 minutes by use of a single electrode, which was centrally placed on the skull surface.
+Executive functioning (measured with the Rey and fluency tasks), memory capacity (measured with the 15 words test), and IDL (measured with the Groningen Activity Restriction Scale) were measured before and after ten E-NFT sessions in nine weeks.  No effects were found for IDL nor executive functioning.
+Interestingly, performance on the memory test improved in the experimental group, indicating a possible positive effect of E-NFT on memory in elderly women.  This study demonstrates that E-NFT is applicable to older institutionalized women.
+The outcome of this pilot-study justifies the investigation of possible memory effects in future studies.

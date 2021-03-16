@@ -1,0 +1,12 @@
+An assessment of GLOBOCAN methods for deriving national estimates of cancer incidence.
+OBJECTIVE  To assess the validity of the GLOBOCAN methods for deriving national estimates of cancer incidence.
+METHODS
+We obtained incidence and mortality data from Norway by region, year of diagnosis, cancer site, sex and 5-year age group for the period 1983-2012 from the NORDCAN database.  Estimates for the year 2010 were derived using nine different methods from GLOBOCAN.
+These included the projection of national historical rates, the use of regional proxies and the combination of national mortality data with mortality to incidence ratios or relative survival proportions.
+We then compared the national estimates with recorded cancer incidence data.
+FINDINGS
+Differences between the estimates derived using different methods varied by cancer site and sex.  Methods based on projections performed better where major changes in recent trends were absent.
+Methods based on mortality data performed less well for cancers associated with small numbers of deaths and for cancers detectable by screening.
+In countries with longstanding cancer registries of high quality, regional-based, or trends-based incidence estimates perform reasonably well in comparison with recorded incidence.
+CONCLUSION
+Although the performance of the GLOBOCAN methods varies by cancer site and sex in this study, the results emphasize a need for more high-quality population-based cancer registries - either regional or, where practical and feasible, national registries - to describe cancer patterns and trends for planning cancer control priorities.

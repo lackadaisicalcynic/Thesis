@@ -1,0 +1,10 @@
+[Objective assessment of donor material for penetrating corneal transplantation].  Reliable suitability evaluation of donor material is the crucial issue of penetrating corneal transplantation.
+The main parameter to be considered is endothelial cell density (ECD).
+However, when it comes to practice, one has to admit significant variation in ECD readings of cadaver corneas obtained by different methods.
+AIM
+to investigate discrepancies in ECD measurements and to define objective criteria for the evaluation of a donor cornea before full-thickness grafting.
+MATERIAL AND METHODS
+In a hundred cadaver eyes, discrepancies in ECD measurements by different methods (specular microscopy, confocal microscopy, and keratoanalyzer) were studied and objective evaluation criteria developed along with an optimal algorithm of pretransplantation assessment.  Digital fluorescence microscopy was chosen as the reference method.
+RESULTS
+It has been established that a triple measurement average obtained with any of the tested methods is informative enough as to the state of the donor cornea.  CONCLUSION
+The highest ECD values were obtained with specular microscopy, the lowest - with confocal microscopy.  For reliable evaluation of donor corneas, we recommend that the average of a triple ECD measurement be taken using one of the mentioned methods.

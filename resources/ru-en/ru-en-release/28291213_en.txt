@@ -1,0 +1,18 @@
+AIM  To analyze the efficacy and safety of 5-aminolevulinic acid for intraoperative fluorescence diagnosis (FD) during repeated surgery for recurrent neuroepithelial tumors (NETs) in children.
+MATERIAL AND METHODS
+We performed a retrospective analysis of the results of recurrent NET resection in 13 children aged from 3 to 17 years in the period between December 2013 and May 2015.
+The source of 5-ALA was a drug "Alasens" that was administered at a dose of 20 mg/kg of body weight 4 h before the beginning of tumor resection.
+A visual scale was used to evaluate the fluorescence intensity.
+The drug was used with the informed consent of the child's parents and approval of the Polenov Neurosurgical Institute ethics committee.
+All patients underwent complex clinical and introscopic examination in the pre- and postoperative periods and a repeated histological tumor examination.
+RESULTS
+There was no fluorescence in 4 cases (Gr I in 2 cases; Gr II in 2 cases).
+Grade 1 fluorescence (Gr II) was observed in one case, and grade 2-3 fluorescence was observed in the remaining 8 patients.
+Total and subtotal tumor resection was achieved in 11 (84.6%) of 13 patients.
+There were no clinically significant adverse effects.
+A transient increase in transaminases was observed in 2 patients.
+Two girls had an elevated photosensitivity to light for two days.
+CONCLUSION
+FD is a safe technique in childhood and can improve intraoperative detection of NET during its repeated growth as well as differentiate the tumor from pathological tissues of non-tumorous nature, which increases completeness of blastomatous tissue removal.
+However, the character and intensity of fluorescence may change in recurrent NETs.
+Further research is required to investigate the FD effectiveness in various age patients with tumors of a different histological structure and malignancy in the case of both primary and recurrent lesions.

@@ -1,0 +1,12 @@
+[An immune response and an alveolar macrophage phenotype in asthma, gastroesophageal reflux disease and their concurrence].
+AIM  To test the hypothesis that an impaired pulmonary immune response in asthma, gastroesophageal reflux disease (GERD) and their concurrence of these diseases is largely determined by disordered alveolar macrophage (AM) reprogramming and to assess the pulmonary immune response and an AM phenotype in patients with asthma, GERD and their concurrence.
+SUBJECTS AND METHODS
+The levels of proinflammatory M1 cytokines, such as IL-1β, IL-8, IL-12p70, IFN-γ, TNF-α, and TNF-β, anti-inflammatory M2 cytokines, such as IL-4, IL-5, and IL-10, and bivalent M1/M2 cytokines, such as IL-2 and IL-6, were determined in bronchoalveolar lavage fluid (BALF) and AM culture medium.
+RESULTS
+Serious deformations in the pulmonary immune response were first detected in patients with mixed pathology towards to an anti-inflammatory M2 phenotype.
+The change in the pulmonary immune response phenotype in GERD towards Ml and in comorbidity towards M2 was coincident with that of the AM phenotype.
+In asthma, the change in the pulmonary immune response phenotype occurred towards to M2 and that in the intrinsic AM phenotype did towards M1.
+This phenotype is likely to form a proinflammatory component and to cause an asthma exacerbation.
+CONCLUSION
+Analysis of the spectrum of cytokines in BALF and produced by macrophages in asthma, GERD and their concurrence validated the hypothesis that impaired pulmonary immune responses in these diseases are associated with disordered AM reprogramming.
+The findings also suggest that therapy for the inflammatory component in these diseases should be performed by taking into account the specificity of the cytokine structure of an immune response and the phenotypic heterogeneity of immune cells.

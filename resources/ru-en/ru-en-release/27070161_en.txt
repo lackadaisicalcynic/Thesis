@@ -1,0 +1,17 @@
+[Renal function estimation formulas in predicting long-term cardiovascular outcomes in patients with myocardial infarction concurrent with diabetes mellitus].
+AIM  To comparatively assess formulas for estimating glomerular filtration rate (GFR) in the prediction of poor outcomes in patients with type 2 diabetes mellitus (DM) within one year after myocardial infarction (MI).
+MATERIALS AND METHODS
+The investigators examined 89 patients with ST-segment elevation myocardial infarction (STEMI) within 24 hours after the onset of clinical symptoms of the disease.
+All the patients underwent standard laboratory and instrumental tests.
+GFR was calculated using the Modified of Diet in Renal Diseases (MDRD) formulas in terms of serum creatinine levels, the Hoek equation: GFR [ml/min/1.73 m2] = (80.35/cystatin C [mg/l]) - 4.3 (CKD-EPI), as well as from cystatin C levels, and the creatinine clearance rate was determined using the Cockcroft and Gault formula (ml/min).
+During a year after STEMI, the investigators recorded cardiovascular events (CVEs), such as death, recurrent MI, progressive angina pectoris, emergency coronary revascularization, and decompensated chronic heart failure (CHF).
+The examinees were divided into two groups: 1) 70 (78.6%) patients with MI and no DM; 2) 19 (21.3%) patients with MI and DM.
+RESULTS
+Comparative analysis revealed a tendency towards a difference in the detection rate of GFR <60 ml/min/1.73 m2 calculated using the Hoek formula from cystatin C levels: 42.1% in Group 2 and 21.4% in Group 1 (р=0.067).
+There were no great differences in the GFR estimated using other formulas.
+Logistic regression analysis was carried out to determine the most sensitive formula for estimating GFR to assess the risk of CVEs in the patients within a year after MI concurrent with and without type 2 DM.
+A univariate analysis showed that GFR calculations using the CKD-EPI (odds ratio (OR), 13.5; p=0.046) and MDRD (OR, 6.5; р=0.040) formulas and creatinine clearance estimation (OR, 2.4; p=0.025) were most sensitive in selecting MI patients without DM and with poor outcomes.
+This analysis revealed that GFR estimates using the Hoek formula from cystatin C levels (OR, 6.15; p=0.018) were most sensitive for patients with MI concurrent with type 2 DM.
+In both models, multivariate analysis included none of the analyzed indicators.
+CONCLUSION
+To estimate cardiovascular risk in the long-term post-infarction period, the CKD-EPI formula in the patients without type 2 DM and the Hoek formula from cystatin C levels were noted to be of the greatest prognostic value in patients with DM.

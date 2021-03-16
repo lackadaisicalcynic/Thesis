@@ -1,0 +1,18 @@
+[Cognitive dysfunction and content of inflammatory markers in patients after coronary artery bypass graft].
+AIM  To study the relationship between the content of inflammatory biomarkers and cognitive function in patients after coronary artery bypass graft (CABG) performed in condition of artificial blood circulation (ABC) or open-heart surgery (OHS).
+MATERIAL AND METHODS
+Twenty-nine patients with ischemic heart disease who survived CABG, mean age 62.4±6.2 years, were studied.
+The ABC group (n=18) and OHS group (n=11) were matched for age and sex.
+Patients underwent standard clinical examination as well as neurological examination and neuropsychological testing.
+Concentrations of pro- and anti-inflammatory cytokines (IL-1β, IL-2, IL-4, IL-6, IL-10, IL-12, IL-17, IL-1RA, IFN-γ, IP-10; MCP-1, MIP-1α, MIP-1β, RANTES, TNF) were determined in blood plasma obtained 24 h before and 2h after surgery using multiplex immunofluorescence assay.
+RESULTS
+In both groups, an increase in concentrations of IL-6, IL-8, IL-10, IL-12, IP-10, MCP-1, MIP-1β and RANTES was observed at point T1.
+Concentration of IL-1RA was significantly higher only in the ABC group but not in the OHS group.
+After CABG, an increase in concentrations of IL-8, IP-10, MIP-1β, IL-1RA was significantly higher in the ABC group.
+The Montreal scale was the most sensitive test for assessment of cognitive functions in post CABG patients.
+A significant decrease in scores (>3) was noted in 8 out of 18 patients in the ABC group and in one patient of the OHS group.
+The correlations between the decrease in cognitive functioning in the 7th day after surgery and plasma cytokine concentration 2 h after surgery were identified for IL-6 (r=0.472; p=0.01); IL-8 (r=0.403; p=0.03); IP-10 (r=0.372; p=0.047); MCP-1 (r=0.470; p=0.01).
+CONCLUSION
+CABG is accompanied by the systemic inflammatory reaction, with the more marked inflammatory effect in patients operated under condition of extracorporeal circulation.
+CABG with ABC causes an impairment of cognitive functions during the first week in many patients.
+Impaired cognitive status was associated with the increase in concentrations of proinflammatory cytokines in blood plasma.

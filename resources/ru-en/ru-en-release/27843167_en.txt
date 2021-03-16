@@ -1,0 +1,8 @@
+Use of transgenic Aedes aegypti in Brazil: risk perception and assessment.  The OX513A strain of Aedes aegypti, which was developed by the British company Oxitec, expresses a self-limiting transgene that prevents larvae from developing to adulthood.
+In April 2014, the Brazilian National Technical Commission on Biosafety completed a risk assessment of OX513A and concluded that the strain did not present new biological risks to humans or the environment and could be released in Brazil.
+At that point, Brazil became the first country to approve the unconstrained release of a genetically modified mosquito.
+During the assessment, the commission produced a comprehensive list of - and systematically analysed - the perceived hazards.
+Such hazards included the potential survival to adulthood of immature stages carrying the transgene - should the transgene fail to be expressed or be turned off by exposure to sufficient environmental tetracycline.
+Other perceived hazards included the potential allergenicity and/or toxicity of the proteins expressed by the gene, the potential for gene flow or increased transmission of human pathogens and the occupation of vacant breeding sites by other vector species.
+The Zika epidemic both elevated the perceived importance of Ae. aegypti as a vector - among policy-makers and regulators as well as the general public - and increased concerns over the release of males of the OX513A strain.  We have therefore reassessed the potential hazards.
+We found that release of the transgenic mosquitoes would still be both safe and of great potential value in the control of diseases spread by Ae. aegypti, such as chikungunya, dengue and Zika.

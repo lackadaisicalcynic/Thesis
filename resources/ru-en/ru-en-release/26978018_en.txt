@@ -1,0 +1,8 @@
+[Matrix metalloproteinases 2 and 9, their endogenous regulators, and angiotensin-converting enzyme in cervical squamous cell carcinoma].
+OBJECTIVE  to investigate the specific features of the expression of matrix metalloproteinases 2 and 9 (MMP-2, MMP-9), tissue inhibitor of metalloptoteinase 2 (TIMP-2), urokinase-type plasminogen activator (uPA), and angiotensin-converting enzyme (ACE) in cervical squamous cell carcinoma (CSCC).
+MATERIAL AND METHODS
+The samples of tumor tissue and morphologically normal tissue adjacent to the tumor were investigated.  Enzymatic assays applying specific substrates, as well as zymographic and immunohistochemical studies were used.
+The invasive potential of CSCC has been established to be substantially influenced by the increased expression of MMP-9 and uPA and by the decreased expression of TIMP-2, as well as to a lesser extent by a change in MMP-2 expression.  MMP-9 may serve as a marker for invasive growth.
+Enhanced ACE activity in cancer confirms the involvement of this enzyme in tumor progression.  The morphologically normal tissue adjacent to the tumor shows the substantial expression of MMP-2 and MMP-9 and in some cases the enhanced activity of uPA and ACE, which makes an additional contribution to the increased invasive potential of tumor.
+CONCLUSION
+The findings are important in understanding the mechanisms of cancer progression and may affect therapeutic strategies for the patient.

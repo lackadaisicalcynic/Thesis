@@ -1,0 +1,4 @@
+[The role of evidence-based medicine in the neurorehabilitation: the innovative technologies (a review)].  The present review is focused on the randomized controlled trials and meta-analyses in the field of technological means for neurorehabilitation.
+The available literature data and the results of original observations provide a basis for distinguishing between the following levels of evidence: instrumental verticalization--2a, robot-assisted mechanotherapy--1a, biological feedback--1a, virtual reality--1a, transcranial magnetic stimulation--1a for central hemiparesis and 1b for speech disturbance and unilateral spatial agnosia, transcranial electrical stimulation--2b, electromyostimulation--1a, telerehabilitation--3.
+It is concluded that the use of the innovative technologies for the purpose of neurorehabiltation is objectively substantiated.
+Further investigations are needed to allow their application on an individual basis.

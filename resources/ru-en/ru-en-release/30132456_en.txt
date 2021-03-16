@@ -1,0 +1,10 @@
+[Application of brain electrical activity burst analysis method for detection of EEG characteristics in the early stage of Parkinson's disease].  AIM
+To develop a mathematical method of analysis and visualization of EEG based on the ROC analysis of burst electrical activity in the cerebral cortex.
+MATERIAL AND METHODS
+Using a new method of analysis of EEG burst activity, the frequency parameters of brain electrical activity have been investigated in patients in the first stage of Parkinson's disease (PD) defined by the Hoehn and Yahr scale.  Patients were right-handed, with disease onset in either the right or the left side.
+The burst term is used in neurophysiology for the description of wave activity in EEG signals.
+Bursts are reflected in the local peaks of wavelet spectrograms, some of the parameters of which have been analyzed.  Electrical activity of the left and right central cortex areas was investigated.
+The results were compared with those obtained from healthy volunteers.  RESULTS
+In PD patients, burst activity was changed in alpha- and beta bands.  Compared to healthy volunteers, it was higher in alpha band 8-9 Hz and lower in upper alpha band 11-13 Hz and beta band 18-24 Hz.
+With regard to asymmetry of the brain in PD patients, there was the change in burst activity in both brain hemispheres.  Diagrams of burst activity showed the difference between the patients with tremor onset in the left hand and tremor onset in the right hand.
+This suggests differences in brain electrical activity changes in patients with left-sided and right-sided disease onset.  The initial results of the study demonstrate that the method of analysis and visualization based on the evaluation of certain parameters of EEG bursts is promising for the analysis of EEG features in PD patients.

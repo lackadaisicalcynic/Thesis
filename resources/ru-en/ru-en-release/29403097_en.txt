@@ -1,0 +1,11 @@
+Trends in catastrophic health expenditure in India: 1993 to 2014.
+Objective  To investigate trends in out-of-pocket health-care payments and catastrophic health expenditure in India by household age composition.
+Methods
+We obtained data from four national consumer expenditure surveys and three health-care utilization surveys conducted between 1993 and 2014.  Households were divided into five groups by age composition.
+We defined catastrophic health expenditure as out-of-pocket payments equalling or exceeding 10% of household expenditure.  Factors associated with catastrophic expenditure were identified by multivariable analysis.
+Findings
+Overall, the proportion of catastrophic health expenditure increased 1.47-fold between the 1993-1994 expenditure survey (12.4%) and the 2011-2012 expenditure survey (18.2%) and 2.24-fold between the 1995-1996 utilization survey (11.1%) and the 2014 utilization survey (24.9%).  The proportion increased more in the poorest than the richest quintile: 3.00-fold versus 1.74-fold, respectively, across the utilization surveys.
+Catastrophic expenditure was commonest among households comprising only people aged 60 years or older: the adjusted odds ratio (aOR) was 3.26 (95% confidence interval, CI: 2.76-3.84) compared with households with no older people or children younger than 5 years.
+The risk was also increased among households with both older people and children (aOR: 2.58; 95% CI: 2.31-2.89), with a female head (aOR: 1.32; 95% CI: 1.19-1.47) and with a rural location (aOR: 1.27; 95% CI: 1.20-1.35).  Conclusion
+The proportion of households experiencing catastrophic health expenditure in India increased over the past two decades.
+Such expenditure was highest among households with older people.  Financial protection mechanisms are needed for population groups at risk for catastrophic health expenditure.

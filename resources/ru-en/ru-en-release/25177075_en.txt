@@ -1,0 +1,13 @@
+A prospective study of maternal, fetal and neonatal deaths in low- and middle-income countries.
+OBJECTIVE
+To quantify maternal, fetal and neonatal mortality in low- and middle-income countries, to identify when deaths occur and to identify relationships between maternal deaths and stillbirths and neonatal deaths.
+METHODS  A prospective study of pregnancy outcomes was performed in 106 communities at seven sites in Argentina, Guatemala, India, Kenya, Pakistan and Zambia.
+Pregnant women were enrolled and followed until six weeks postpartum.  FINDINGS
+Between 2010 and 2012, 214,070 of 220,235 enrolled women (97.2%) completed follow-up.  The maternal mortality ratio was 168 per 100,000 live births, ranging from 69 per 100,000 in Argentina to 316 per 100,000 in Pakistan.
+Overall, 29% (98/336) of maternal deaths occurred around the time of delivery: most were attributed to haemorrhage (86/336), pre-eclampsia or eclampsia (55/336) or sepsis (39/336).
+Around 70% (4349/6213) of stillbirths were probably intrapartum; 34% (1804/5230) of neonates died on the day of delivery and 14% (755/5230) died the day after.
+Stillbirths were more common in women who died than in those alive six weeks postpartum (risk ratio, RR: 9.48; 95% confidence interval, CI: 7.97-11.27), as were perinatal deaths (RR: 4.30; 95% CI: 3.26-5.67) and 7-day (RR: 3.94; 95% CI: 2.74-5.65) and 28-day neonatal deaths (RR: 7.36; 95% CI: 5.54-9.77).
+CONCLUSION
+Most maternal, fetal and neonatal deaths occurred at or around delivery and were attributed to preventable causes.
+Maternal death increased the risk of perinatal and neonatal death.
+Improving obstetric and neonatal care around the time of birth offers the greatest chance of reducing mortality.

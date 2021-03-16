@@ -1,0 +1,10 @@
+[Hypothesis of immune privilege of the cornea and pathophysiology of graft rejection].
+Transplantation of donated cornea is a radical and pathogenetically oriented measure of rehabilitation for patients with corneal blindness.
+Unlike other transplantation surgeries, keratoplasty is usually done without tissue typing and systemic immunosuppression.
+Even so, in the absence of risk factors, grafts can remain clear in as many as 90% of cases.
+The phenomenon is explained by immune privilege of the cornea.
+The hypothesis of immune privilege comprises several interrelated mechanisms that ensure long-lasting transparency of the graft.  These include transfer limits of immunogenic stimuli to peripheral lymphoid tissues, deviation of the immune response, and neutralization of immune effector elements within the host-graft interface by immunosuppressive ocular environment.
+A change in any of the said components leads to loss of the immune-privilege status of the cornea, thus, significantly increasing the risk of graft rejection.
+We know several stages of the response activation cascade in graft rejection that can be influenced therapeutically, namely, antigen absorption, processing, and presentation as well as T-cell expansion and cellular inflow to the eye.
+The first two stages take place in the eye itself and are susceptible to instillation drugs and gene therapy.
+New highly selective medications aimed at specific signals from the immune cells and their pathways may be able to help restore the immune privilege of the cornea and improve the results of optical and reconstructive surgeries in high-risk patients.

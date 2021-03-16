@@ -1,0 +1,5 @@
+[Cellular and molecular mechanisms of radiation-induced brain injury: can peripheral markers be detected?].  Investigation of the mechanisms of radiation-induced brain injury is a relevant fundamental objective of radiobiology and neuroradiology.
+Damage to the healthy brain tissue is the key factor limiting the application of radiation therapy in patients with nervous systems neoplasms.  Furthermore, postradiation brain injury can be clinically indiscernible from continued tumor growth and requires differential diagnosis.
+Thus, there exists high demand for biomarkers of radiation effects on the brain in neurosurgery and radiobiology.
+These markers could be used for better understanding and quantifying the effects of ionizing radiation on brain tissues, as well as for elaborating personalized therapy.
+Despite the high demand, biomarkers of radiation-induced brain injury have not been identified thus far.  The cellular and molecular mechanisms of the effect of ionizing radiation on the brain were analyzed in this review in order to identify potential biomarkers of radiation-induced injury to nervous tissue.

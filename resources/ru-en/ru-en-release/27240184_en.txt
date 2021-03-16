@@ -1,0 +1,6 @@
+[The association of the DRD3 gene with Parkinson's disease].  OBJECTIVE  To investigate the association between dopamine receptor DRD3 gene tag single nucleotide polymorphisms (SNPs) and the risk of Parkinson's disease (PD).
+MATERIAL AND METHODS
+One hundred and forty-three patients with PD and 96 healthy individuals from the Russian population were examined.
+Ten tag SNPs (rs963468, rs2134655, rs9817063, rs324035, rs11721264, rs1800828, rs3773678, rs167770, rs167771, rs7633291) within DRD3 have been genotyped.
+RESULTS AND CONCLUSION
+Associations between 4 polymorphisms (rs11721264, rs3773678, rs167771, rs324035) and PD have been found.  Our study confirms the involvement of polymorphic features of dopamine receptors genes in the pathophysiology in PD.

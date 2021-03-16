@@ -1,0 +1,10 @@
+[The influence of continuous low-intensity laser radiation at the red (635 nm) and green (525 nm) wavelengths on the human mesenchymal stem cells in vitro: a review of the literature and original investigations].  UNLABELLED  Low-intensity laser radiation can be used as one of the methods for the non-specific regulation of the human mesenchymal stem cell (MSC) activity at the preliminary stage of their in vitro cultivation.
+The objective of the present study was to estimate the influence of the limiting regimes of continuous low-intensity laser radiation (CLIR) of red (635 nm) and green (525 nm) spectra.
+MATERIAL AND METHODS
+The adhesive culture of human mesenchymal stem cells obtained from a donor's umbilical cord tissue was used in the experiments (following 4 passages).
+They were irradiated using a Lazmik-VLOK laser therapeutic device equipped with the KLO-635-40 (635 nm, 4,9 mW/cm(2)) and KLO-525-50 (525 nm, 5,4 mW/cm(2)) laser diode emitting heads operating in a continuous mode.
+A special nozzle (jar) for laser and vacuum massage (KB-5, 35 cm in diameter) was employed to fix the heads.
+The exposure time in all the irradiation regimes was 5 minutes.
+CONCLUSION
+The study has demonstrated that neither the morphological features nor the viability of mesenchymal stem cells was altered under the influence of laser irradiation at the aforementioned energy and time parameters.
+The data obtained indicate that laser irradiation with the limiting levels of the chosen energy parameters produces no positive effect on the cell proliferative activity; more than that, it may cause its inhibition.

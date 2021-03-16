@@ -1,0 +1,11 @@
+OBJECTIVE  To compare clinical characteristics in children with enterovirus infections (EVI) and meningitis with detailed characteristics of the changes in the content of cerebrospinal fluid (CSF) confirmed in the laboratory.
+MATERIAL AND METHODS
+The results of examinations of 97 children, aged from 2.5 to 15 years, 3 adolescents and 1 adult female patient with EVI were analyzed.
+Enterovirus RNA isolation and detection in feces and CSF was performed using PCR.
+RESULTS AND CONCLUSION
+Enterovirus RNA in CSF was detected in 44 children, including 3 patients with cytosis (5-7-19 cells in 3 mm3).
+The frequency and severity of symptoms in 42 patients with EVI and meningitis, 14 children with EVI without meningitis and 8 patients with ICD-10 «Meningitis unspecified» are presented.
+The initial CSF pleocytosis in 1-3 day (4-5 day for two-wave course) in EVI and meningitis was <100 in 4, from 100 to 1000 in 33, >1000 (max 3036) cells in 3 mm3 in 5 patients, including 15 with the predominance of neutrophils (from 77 to 97% in cytosis 114-2300 cells in 3 mm(3)).
+In the peripheral blood, leukocytosis 10.9-13.8×10(9)/л was noted in 12 children and leukocytosis 14.4-18.7×10(9)/л with the «left shift» in 7.
+Most of the children (n=37) with EVI and meningitis were discharged from the hospital within 10-17 days.
+The authors suggest the importance of including the variety of clinical presentations of EVI in the additional item «B10 Enterovirus infections» in upcoming ICD-11.

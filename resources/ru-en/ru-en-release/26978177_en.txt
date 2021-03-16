@@ -1,0 +1,11 @@
+[Association of CTLA4 and TNF gene polymorphisms with endocrine ophthalmopathy in ethnic Russian patients with Graves' disease].  AIM
+To analyze the associations of the rs3087243 CTLA4 polymorphism and the rs1800629 TNF polymorphism with endocrine ophthalmopathy (EOP) in ethnic Russian patients with Graves' disease (GD).
+MATERIAL AND METHODS
+The case-control study enrolled 205 patients with GD.
+The distribution of alleles and genotypes of the rs3087243 CTLA4 and rs1800629 TNF polymorphisms was studied in 141 patients with GD and EOP (a GD+EOP group) and 64 patients with GD without EOP (a GD-EOP group).
+The polymorphic alleles were identified by polymerase chain reaction-restriction fragment length analysis.
+RESULTS
+The patients with GD in their history and EOP had significantly higher frequencies of A allele and AA genotype and a lower proportion of G allele and GG genotype of the rs3087243 CTLA4 polymorphism.
+Comparative analysis revealed no significant differences in the frequency of the alleles and genotypes of the rs1800629 TNF polymorphism.
+CONCLUSION
+The rs3087243 CTLA4 polymorphism is associated with the risk of EOP in ethnic Russian patients with GD.

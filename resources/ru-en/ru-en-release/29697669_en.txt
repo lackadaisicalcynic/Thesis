@@ -1,0 +1,16 @@
+[Trends in stroke mortality rates in Russia and the USA over a 15-year period].  AIM  to comparatively analyze standardized mortality ratios (SMR) from stroke in the populations aged over 30 years in the Russian Federation and in the USA over a 15-year period.
+MATERIAL AND METHODS
+The analysis included nontraumatic subarachnoid hemorrhage (NTSH) (a group of ICD-10 codes I60), nontraumatic intracerebral hemorrhage (NTIH) (I61), cerebral infarction (CI) (I63), and stroke, not specified as hemorrhage or infarction (SNSHI) (I64). The new European standard (European Standard Population.2013) was used for standardization.
+The data of the Federal State Statistics Service of the Russian Federation, those of the World Health Organization Mortality Database (WHO MD) and Human Mortality Database (HMD) for the USA were applied.
+RESULTS
+During the considered period, 30-49-year-old Russian men showed a reduction in SMRs from NTSH (I61) by 9.0% (from 18.9 to 17.2 per 100,000 population), from SNSHI (I64) by 10 times (from 12.5 to 1.3); SMRs from CI (I63) increased by 4.3% (from 6.9 to 7.2).
+In men aged 50 years and older, SMRs from NTIH and SNSHI decreased by 32.3% (from 143.2 to 97.0) and by 10 times (from 580.8 to 60.6), respectively; those from CI increased by 13.8% (from 229.8 to 261.4).
+In the USA, 30-49-year-old men displayed 26.1% and 2-fold decreases in SMRs from NTIH (from 2.5 per 100,000 population in 1999 to 1.7 in 2013) and CI (from 1.8 to 0.9), respectively; those from SNSHI remained unchanged (1.3).
+In men aged 50 years and older, SMRs from NTIH, CI, and SNSHI reduced by 39.7% (from 29.0 to 17.5), by 2 times (from 1.8 to 0.9), and by 2 times (143.0 to 72.5), respectively.
+30-49-year-old Russian women exhibited a 22.2% reduction in SMRs from NTIH (from 9.0 to 7.0), a 4.3% increase in those from CI (from 2.7 to 2.8), and an 11-fold decrease in those from SNSHI (from 5.5 to 0.5).
+Women aged 50 years and older showed changes in SMRs from the codes in the same sequence from 105.6 to 60.5, from 172.8 to 189.6, and from 466.5 to 43.7, respectively.
+In the USA, 30-49-year-old women displayed reductions in SMRs from NTIH by 10.0% (from 1.5 to 0.9), from CI by 33.3% (from 0.3 to 0.2), and from SNSHI by 10% (from 1.0 to 0.9).
+Women aged 50 years and older exhibited changes in SMRs from the codes in the same sequence from 24.0 to 14.8), n those from CI (from 20.6 to 6.7) and from SNSHI (from 6.5 to 10.3).
+CONCLUSION
+In Russia, the reduction in mortality rates from the above causes  (which is most significant from that in NTSH may be associated with both medical and socioeconomic factors, including with the improved prevention and organization of medical care.
+The differences in SMRs between the two countries may be related to the principles in the organization and control of coding of the causes of death.

@@ -1,0 +1,10 @@
+[Normative values for peripheral electrical gastroenterocolonography].
+AIM  To elaborate the normative values of peripheral electrical gastroenterocolonography (EGECG).
+SUBJECTS AND METHODS
+Fifty apparently healthy young people (14 women and 36 men; mean age 20.2 ± 4.7 years) were examined.
+Peripheral EGECG was used to study the motor-evacuating function of the gastrointestinal tract (GIT).
+RESULTS
+The values of the main indicators and coefficients of GIT electrical activity were defined; the concepts of normal physiological values for GIT electrical activity were identified and their values were determined.
+CONCLUSION
+Peripheral EGECG makes it possible to significantly estimate the bioelectrical activity of the gut.
+The informative markers of peripheral EGECG are relative electrical activity, ratio coefficient, rhythmicity coefficient, as well as the average amplitude and frequency of bioelectrical activity.

@@ -1,0 +1,9 @@
+[Renal morphological changes in experimental oxalate nephrolithiasis].  AIM
+Тo evaluate renal morphological changes in the early stages of lithogenic processes and during urinary correction of urine with oxalate-chelating compounds (sodium citrate).  MATERIAL AND METHODS
+An experimental model of oxalate nephrolithiasis was performed on 80 male Wistar rats weighing 180 to 250 g.
+Rat kidneys were morphologically and ultrastructurally studied.  Immunohistochemical techniques were applied to study the features of development of endoplasmic reticulum stress.
+RESULTS
+There were histotopographic changes in the renal tissue elements in the early stages of development of lithogenic processes accompanied by characteristic ultrastructural changes in the epithelium of the renal tubules and collecting ducts: by expansion of elements in the granular endoplasmic network, by mitochondrial damage with formation of large, ampullary extended cristae, and by emergence of autolysosomes.
+Signs of development of endoplasmic reticulum stress with activation of protein GADD153 were found, which deteriorated the cell lining of the nephron tubules and collecting ducts.
+CONCLUSION
+In the early stages of development of lithogenic processes, there are stereotypic ultrastructural and histotopographic changes in the epithelium of the nephron tubules and collecting ducts, which contribute to the progression of stone formation processes and to the disruption of cellular homeostasis with activation of endoplasmic reticulum stress, synthesis impairment, or post-translational modifications in modulator proteins of lithogenesis.

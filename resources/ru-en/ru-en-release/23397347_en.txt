@@ -1,0 +1,10 @@
+Effect of vitamin A supplementation on cause-specific mortality in women of reproductive age in Ghana: a secondary analysis from the ObaapaVitA trial.
+OBJECTIVE
+To determine the effect of weekly low-dose vitamin A supplementation on cause-specific mortality in women of reproductive age in Ghana.  METHODS
+A cluster-randomized, triple-blind, placebo-controlled trial was conducted in seven districts of the Brong Ahafo region of Ghana.
+Women aged 15-45 years who were capable of giving informed consent and intended to live in the trial area for at least 3 months were enrolled and randomly assigned, according to their cluster of residence, to receive oral vitamin A (7500 μg) or placebo once a week.
+Randomization was blocked, with two clusters in each fieldwork area allocated to vitamin A and two to placebo.  Every 4 weeks, fieldworkers distributed capsules and collected data during home visits.
+Verbal autopsies were conducted by field supervisors and reviewed by physicians, who assigned a cause of death.  Cause-specific mortality rates in both arms were compared by means of random-effects Poisson regression models to allow for the cluster randomization.
+Analysis was by intention-to-treat, based on cluster of residence, with women eligible for inclusion once they had consistently received the supplement or placebo capsules for 6 months.  FINDINGS
+The analysis was based on 581 870 woman-years and 2624 deaths.  Cause-specific mortality rates were found to be similar in the two study arms.
+CONCLUSION  Low-dose vitamin A supplements administered weekly are of no benefit in programmes to reduce mortality in women of childbearing age.

@@ -1,0 +1,13 @@
+[Anti-VEGF therapy for diabetic macular edema.  From theory to clinical practice].  PURPOSE  To evaluate clinical effectiveness of aflibercept therapy for patients with diabetic macular edema (DME) - both naïve to the drug and unresponsive to previous anti-VEGF treatment.
+MATERIAL AND METHODS
+The study included 127 patients (127 eyes) divided into two groups.  The first group consisted of 100 primary DME patients (100 eyes) with mean age of 68.48±2.56 years and average disease duration of 12.50±7.85 years.
+The second group comprised 27 patients (27 eyes) with resistant macular edema who had received three or more 0.5 mg ranibizumab loading injections.
+Their average age was 66±4.12 and the mean number of previous anti-VEGF injections before changing therapy was 4.56±1.21.
+The evaluation parameters included Best Corrected Visual Acuity (BCVA) and Central Retinal Thickness (CRT) that were assessed initially and after each 2 mg aflibercept injection (at 1-month intervals during the 6 months of DME therapy).
+RESULTS
+The average number of aflibercept injections in the first group was 4.34±1.22. BCVA improved in 100% of patients of that group after the 3rd injection with resulting mean value of 0.32±0.15. Maximum BCVA improvement was seen after the 6th injection amounting to 0.46±0.2. CRT decreased in 100% of patients of that group after the 1st injection.
+One month after the therapy start, CRT decreased in average by 17.96% - to 370.89±50.55 µm; at 3 months, CRT was 344.65±48.56 µm; after 6 month - 283.40±49.76 µm.
+All patients of the second group had retinal morphology restored, visual function improved in 55% of patients.
+Mean CRT decrease was 180±44 µm, BCVA improvement - 0.13±0.08, mean number of aflibercept injections - 4.86±0.9.
+CONCLUSION
+Aflibercept can be used as first-choice drug for treatment of DME patients (both therapy-naïve and unresponsive to previous ranibizumab therapy) to improve anatomical parameters and visual function.

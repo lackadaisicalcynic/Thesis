@@ -1,0 +1,11 @@
+[Effect of cytokine genes and season of birth on personality].
+AIM
+To evaluate the interaction effects of season of birth and immune system genes on the personality traits 'Novelty seeking' (NS) and 'Self-directedness' (SD).  Based on results on an influence of the immune system on the brain processes, the authors hypothesized that the interaction of immune system genes and season of birth, which is relevant for immune phenotype, can contribute to the development of personality traits.
+MATERIAL AND METHODS
+NS and SD were measured in 336 healthy volunteers, aged from 16 to 67 years, using the Temperament and Character Inventory (TCI-125).  IL1B C3954T, IL4 C-589T, IL13 C1112T and TNFA G-308A polymorphisms were genotyped.
+RESULTS
+An interaction effect of IL4 C-589T and season of birth on the personality traits was found (F2,322=6.03, pcorr=0.011, η2=0.04).
+Carriers of the minor allele T, who were born in winter, had lower NS and higher SD.
+There was a nominal main effect of genotype on SD (F=5.44, p=0.020) as well, with higher SD scores in carriers of the allele T compared to the CC genotype.
+CONCLUSION
+The results suggest that the etiology of personality and immune characteristics can share common genetic elements including IL-4.

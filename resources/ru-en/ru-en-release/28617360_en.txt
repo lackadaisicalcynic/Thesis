@@ -1,0 +1,10 @@
+[The influence of solar and geomagnetic activity on the risk of multiple sclerosis (results of correlation and regression analysis)].  AIM
+Multiple sclerosis (MS) develops as a result of an interaction between genetic and environmental factors, among them solar (SA) and geomagnetic activity (GMA) attract the particular attention.  An impact of SA and GMA on intrauterine and postnatal period in MS was studied.
+MATERIAL AND METHODS
+The study included 358 patients with MS.
+Correlation (CA) and regression analysis (RA) were used to study the effects of SA and GMA during intrauterine period, the 1st year of life, a year of disease onset, a year before the onset.
+RESULTS AND CONCLUSIONS
+CA revealed the association between the MS onset and mean values of kp-index in the onset year and the year before the onset year, number of days with kp≥4 and kp≥5 in the onset year and the year before the onset year, mean SFU in the onset year.
+RA revealed the association between the MS onset and mean kp in the year before the onset year and in the onset year, number of days with kp≥7 in the onset year and the year before the onset year, mean kp during pregnancy, number of days with kp≥7 in the 1st year of life and during pregnancy.
+The influence of high GMA during pregnancy and in the 1st year of life increases the MS risk in the future and the high GMA predisposes to the MS onset in adults.
+The practical value of the study is that predicting the GMA changes we can try to prevent the onset and relapses in the risk groups.

@@ -1,0 +1,19 @@
+[Stereotactic radiotherapy for spinal meningiomas and neurinomas].
+INTRODUCTION
+Over the past decades, stereotactic conformal radiotherapy of intracranial meningiomas and schwannomas has been recognized as an effective and safe procedure.  Due to the wide use of the CyberKnife system and the procedure of extracranial stereotactic radiotherapy and radiosurgery, the positive experience can be used to treat spinal tumors.
+This study assessed the effectiveness of stereotactic radiaotherapy of spinal meningiomas and neurinomas using the CyberKnife system.  MATERIAL AND METHODS
+46 patients (34 females and 12 males) received treatment between November 2009 and December 2013 (65 tumor nodules).
+The median age of patients receiving radiotherapy was 49 years (range: 20 to 82 years).
+Twenty neoplasms were subjected to surgical treatment.  In 11 patients, formation of the recurrent tumor foci following treatment was observed along with the systemic disease, neurofibromatosis.
+Six patients had multiple meningiomas.
+The median total dose of radiation therapy of neurinomas was 13.6 Gy (12.1-14.1 Gy) per fraction; up to 18.2 Gy (16.0-21.1 Gy) per three fractions; and up to 25.6 Gy (24.8-27.6 Gy) per five fractions.
+Higher doses were used for meningiomas: 15.9 Gy (14.1-16.2 Gy) per fraction; 20.9 Gy (19.5-21.1 Gy) per three fractions; and 27.5 Gy (25.0-29.9 Gy) per five fractions.
+The load to 0.15 cm3 of the spinal cord was no higher than the maximum permissible load of 12 Gy per fraction.
+The mean catamnestic follow-up was 18.1 (4-52) months: 21,1 (4-52) months for neurinomas and 18 (4-31) months for meningiomas.
+We have not observed complete tumor elimination (i.e., complete response to radiation therapy) in our series.
+Partial response was observed in 9 (13.8%) cases; stabilization was achieved in 54 (83.1%) cases; and tumor continued to grow in 2 (3.1%) cases.
+The patients' status was evaluated using the Frankel, the Karnofsky, and the VAS scales.
+CONCLUSIONS
+Our findings clearly demonstrate the short-term benefits of using CyberKnife radiotherapy for benign spinal cord tumors.
+The catamnestic follow-up needs to be extended to elaborate recommendations for radiation.
+The progress in this therapy type will considerably improve the quality of medical care provided to this cohort of patients.

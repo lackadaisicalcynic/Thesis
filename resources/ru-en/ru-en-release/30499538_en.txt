@@ -1,0 +1,12 @@
+[Reparative mechanisms in retina and hypothalamus contributing to rhodopsin recovery in rabbit eyes with retinal dystrophy].
+PURPOSE
+To study the molecular reparatory mechanisms of the retina and hypothalamus in the context of experimental dystrophy of receptor apparatus in rabbit retina.  MATERIAL AND METHODS
+Retinal dystrophy was induced in rabbit eyes by injecting monoiodacetic acid (MIA) intravenously.  Indirect ELISA test was used to evaluate the levels of rhodopsin, heat shock protein 70 kDa (HSP70) in the retina, and serotonin-modulating anticonsolidation protein (SMAP) - that directly correlates with serotonin level - in the hypothalamus.
+RESULTS
+The 1st series of studies showed that 12 days after the administration of MIA, rhodopsin in the retina was down-regulated by 27% (p<0.001), and heat shock protein 70 kDa (HSP70) was up-regulated by 47% (p<0.001), whereas in the hypothalamus up-regulation of SMAP by 22% (p<0.01) was observed.
+In the 2nd series, on the 22nd day after MIA administration, significant down-regulation (by 9.5 times) of HSP70 (p<0.001) was noticed in control rabbits, though intravitreal administration of SMAP on the 15th day after MIA administration led to sharp (23 times) up-regulation of HSP70 (p<0.001) in the retina 7 days later.
+In the 3rd series, 7 days after intravitreal administration of inactivated SMAP, the animals getting injections of MIA had noticeable down-regulation of rhodopsin (p<0.01) in the retina.
+In the 4th series, 7 days after intravitreal administration of polyclonal antibodies to SMAP in the rabbits that has had MIA injections, up-regulation of rhodopsin (p<0.01) and HSP70 (p<0.01) in the retina compared with levels in the control animals (MIA and non-immune γ-globulins) was observed.
+CONCLUSION
+The results indicate the influence of the hypothalamic serotonergic system on HSP70 level in the receptor cells of the retina.
+The results of the 4th series of studies also give evidence for possible feedback from the retinal cells onto hypothalamus.

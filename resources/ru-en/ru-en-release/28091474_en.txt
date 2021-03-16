@@ -1,0 +1,10 @@
+[The analysis of acoustic activity unsynchronized with the stimulus with the use of TEOAE].  The presence of ambient noise or the troubled child's behavior during the registration of transiently induced optoacoustic emission (TEOAE) can lead to false positive results at the first stage of hearing screening.
+The aim of this study is to evaluate the effectiveness of the noise reduction method based on weighted averaging of the data in the frequency and time slot, to check TEOAE, and to improve the effectiveness of universal hearing screening.
+Particular attention is paid to the analysis of the origin of noise recorded during the UAE.  PATIENTS AND METHODS
+We have developed a method of noise reduction, based on weighted averaging of the data in the frequency and time cells.
+In this study, 20 people were examined (9 adults and 11 children).  TEOAE was performed using the probe of the ILO 288 instrument manufactured by Otodinamics Ltd. that was connected to the E-MU 0204 sound card.
+The probe microphone was connected through the preamplifier to one input channel of the sound card, and the second channel was used to receive a signal from the ECG and the respiration recorder.
+Thereafter, the data thus obtained were processed by several methods, including the method of averaging in the frequency and time slot designed to average a set of implementations that contain a noisy signal.
+The comparison of the results of the use of noise suppression method based on weighted averaging of the data in the frequency and time cells showed that it increases the accuracy of TEOAE.  MAIN RESULTS
+Our work suggests that the use of the noise suppression method based on weighted averaging of the data in the frequency and time cells, increases the accuracy of TEOAE.
+Similar results were obtained by the weighted averaging method.

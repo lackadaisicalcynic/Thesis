@@ -1,0 +1,14 @@
+The role of prognostic models in metastatic colorectal liver cancer surgery.  INTRODUCTION
+Patients with metastatic colorectal liver cancer differ from each other by some characteristics which affect on the prognosis of disease.  Long-term results and, consequently, the prognosis depend on not one but group of factors which may be incorporated into mathematical models allowing to classify patients according to their risk of recurrence or prognosis of survival.
+AIM  To calculate survival in patients with metastatic colorectal liver cancer and to evaluate the most popular models of 3- and 5-year survival rate prognosis after liver resection.
+MATERIAL AND METHODS
+We analyzed the results of treatment of 342 patients with metastatic colorectal cancer who underwent different resections since 1991 to 2014.
+The effectiveness of prognostic models was estimated according to the most popular scales that were developed based on groups of more than 200 patients.
+RESULTS
+Long-term results were followed in 312 (91.2%) patients.
+Median life in the total group of patients was 24 months in 3-, 5- and 10-year survival of 56.3%, 36.1% and 18.1% respectively.
+The most accurate stratification of patients into groups was obtained using preoperative Rees scale for 5-year and 3-year survival (C-statistics - 0.73 and 0.69, respectively).
+Analysis of Iwatsuki and Fong scales for 5-year survival prediction (C-statistics - 0.68 and 0.62) and postoperative Rees scale for 3-year survival (C-statistics - 0.63) also showed relatively good results.
+None of models showed C-statistics level over 0.8.
+CONCLUSION
+Stratification of patients according to prognostic scales should not affect on monitoring of patients with high risk of recurrence and poor prognosis of survival.

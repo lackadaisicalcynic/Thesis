@@ -1,0 +1,11 @@
+Hospital admissions as a function of temperature, other weather phenomena and pollution levels in an urban setting in China.
+OBJECTIVE
+To explore the relationship between weather phenomena and pollution levels and daily hospital admissions (as an approximation to morbidity patterns) in Hong Kong Special Administrative Region (SAR), China, in 1998-2009.
+METHODS
+Generalized additive models and lag models were constructed with data from official sources on hospital admissions and on mean daily temperature, mean daily wind speed, mean relative humidity, daily total global solar radiation, total daily rainfall and daily pollution levels.  FINDINGS
+During the hot season, admissions increased by 4.5% for every increase of 1 °C above 29 °C; during the cold season, admissions increased by 1.4% for every decrease of 1 °C within the 8.2-26.9 °C range.  In subgroup analyses, admissions for respiratory and infectious diseases increased during extreme heat and cold, but cardiovascular disease admissions increased only during cold temperatures.
+For every increase of 1 °C above 29 °C, admissions for unintentional injuries increased by 1.9%.
+During the cold season, for every decrease of 1 °C within the 8.2-26.9 °C range, admissions for cardiovascular diseases and intentional injuries rose by 2.1% and 2.4%, respectively.
+Admission patterns were not sensitive to sex.  Admissions for respiratory diseases rose during hot and cold temperatures among children but only during cold temperatures among the elderly.
+In people aged 75 years or older, admissions for infectious diseases rose during both temperature extremes.  CONCLUSION
+In Hong Kong SAR, hospitalizations rise during extreme temperatures.  Public health interventions should be developed to protect children, the elderly and other vulnerable groups from excessive heat and cold.

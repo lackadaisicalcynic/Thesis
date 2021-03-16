@@ -1,0 +1,8 @@
+[Effects of blood flow properties on ocular hemodynamics].  AIM
+to study the effects of blood rheology on ocular blood flow (OBF) parameters and estimated individual normal range of intraocular pressure (IOP).
+MATERIAL AND METHODS
+A total of 15 patients (15 eyes) taking warfarin were enrolled.  Volumetric parameters and linear velocity of OBF under warfarin treatment and after its cessation were obtained by means of flowmetry (Paradigm's Blood Flow Analyzer) and color Doppler flow mapping (Voluson 730), respectively.
+On the basis of flowmetry results an individual normal range of IOP was calculated in all patients.  RESULTS
+Pulsatile OBF does not appear to correlate with warfarin-induced changes in blood rheology (p = 0.09), however, depends on IOP fluctuations (p = 0.02).  Resistance index of retinal vessels is found to rise significantly with increasing blood viscosity (p < 0.05).
+CONCLUSION
+The use of warfarin, an indirect thrombin inhibitor, has no effect on estimated individual normal range of IOP, which is crucial for glaucoma diagnosis and monitoring.

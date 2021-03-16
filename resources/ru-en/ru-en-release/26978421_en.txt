@@ -1,0 +1,17 @@
+[Fundamental bases for the use of silk fibroin-based bioresorbable microvehicles as an example of skin regeneration in therapeutic practice].
+AIM
+To assess whether silk fibroin-based microvehicles (MVs) may be used to grow fibroblasts (FBs) and keratinocytes (KCs), key cellular components in skin regeneration after injury.
+SUBJECTS AND METHODS  Cryogrinding was applied to derive MVs from fibroin-based and fibroin- and 30% gelatin-containing composite matrices.
+To examine the structure of the matrices and MVs, confocal microscopy was used to conjugate the polymer with the dye tetramethylrhodamine isothiocyanate.
+Microparticle size distribution was estimated by granulometric analysis.  3T3 mouse FBs and cultured primary mouse KCs expressing green fluorescent protein (GFP) were used to study whether fibroin-based MVs might be suitable for growing the cells involved in skin regeneration.
+KC growth was analyzed by confocal laser scanning microscopy from cellular GFP expression.
+The proliferation rate of FBs and KCs was estimated by a MTT assay.
+RESULTS
+There were two derived MV types: fibroin-based and fibroin and 30% gelatin-containing composite ones.
+On day 1, 3T3 mouse FBs on the fibroin-based gelatin-free MVs actively proliferated and the presence of gelatin in MVs diminished the proliferation of these cells.
+Fibroin-based MVs were shown to be suitable for the effective in vitro growth of KCs expressing cytokeratins 5 and 14, the major markers of KCs in the basal layer.
+Gelatin did not give rise to accelerated KC growth.
+The investigation has demonstrated that is possible to regulate FB proliferation on MVs, which is of great importance in delivering the cells into the site of injury since intensive proliferation of FBs may lead to the development of fibrosis and the formation of scar tissue.
+Balanced FB growth is essential to the creation of optimal conditions for KC growth in composite tissue-engineering constructions.
+CONCLUSION
+The use of fibroin-based MVs is promising for the design of novel therapeutic materials and injectable cell therapy for different diseases.

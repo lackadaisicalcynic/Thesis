@@ -1,0 +1,13 @@
+[Kidney injury molecules (KIM-1, MCP-1) and type IV collagen in the assessment of activity of antineutrophil cytoplasmic antibody-associated glomerulonephritis].  AIM
+To assess the significance of determining the serum and urinary concentrations of monocyte chemotactic protein-1 (MCP-1), kidney injury molecule-1 (KIM-1), and type IV collagen in patients with antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) to estimate the activity of renal involvement in AAV.
+SUBJECTS AND METHODS
+78 patients (32 men and 46 women) (median age 55 (45; 61) years) with AAV were examined.
+The patients were divided into 3 groups according to the AAV activity estimated using the Birmingham vasculitis activity Score (BVAS): 1) 25 patients with active ANCA-associated glomerulonephritis (GN); 2) 26 patients with active AAV without renal involvement; 3) 27 patients in sustained AAV remission.
+The serum and urinary concentrations of the markers were measured by enzyme immunoassay.
+RESULTS
+The urinary concentration of all 3 biomarkers was higher in patients with renal involvement (Group 1); the differences in the levels of MCP-1 and type IV collagen were statistically significant as compared to Groups 2 and 3 (p<0.01), while that in KIM-1 level was only in Group 2.
+There were statistically significant correlations between the urinary concentration of these biomarkers and the traditional GN activity indices  (erythrocyturia, daily proteinuria (DPU), total BVAS scores that reflect renal involvement, as well as serum creatinine levels and estimated glomerular filtration rate (p<0.05).
+ROC curve analysis showed that the urinary MCP-1 excretion of ≥159 pg/ml had the highest (92%) sensitivity and urinary type IV collagen excretion of ≥3.09 µg/l had the highest (86%) specificity in assessing the activity of ANCA-associated GN.
+At the same time, their diagnostic value increased in terms of a combination of DPU and ESR (96% sensitivity, 84.9% specificity).
+CONCLUSION
+The urinary excretion of MCP-1, KIM-1, and type IV collagen reflects the severity of local renal inflammation in AAV patients and a study of these indicators is a promising diagnostic tool for assessing the activity of ANCA-associated GN.

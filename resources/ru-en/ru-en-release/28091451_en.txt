@@ -1,0 +1,10 @@
+[Radiofrequency ablation in combined treatment of metastatic colorectal liver cancer].
+AIM  To study surgical and oncological outcomes in patients with metastatic colorectal liver cancer who underwent radiofrequency ablation in the structure of combined approach.
+MATERIAL AND METHODS
+It is a prospective analysis of treatment of 76 patients with metastatic colorectal liver cancer who underwent RFA for the period 2004-2013.
+Overall survival was analyzed using univariate and multivariate analysis.
+RESULTS
+According to univariate analysis overall 5-year survival is negatively determined by following factors: primary localization of the tumor in rectum (36.2% and 7.2%; p=0.021); bilobed metastatic liver disease (35.9% and 15.4%; p=0.068); metastases dimensions over 5 cm (27.4% and 0%, p=0.091); augmentation of CAE levels over 4 norms (26.7% and 11.4%, p=0.09); RFA as a component of two-stage liver surgery (23.3% and 26.0%, p=0.09).
+CONCLUSION
+RFA is an effective method of local antineoplastic effect for metastatic colorectal cancer.
+Dimensions of coagulated metastases, volume of metastatic lesion, carcinoembryonic antigen level, ablation as a component of two-stage surgery affect long-term survival after RFA.

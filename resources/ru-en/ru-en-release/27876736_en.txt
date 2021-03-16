@@ -1,0 +1,10 @@
+[The speech audiometry using the matrix sentence test].  The matrix sentence test in which the five-word semantically unpredictable sentences presented under the background noise conditions are used as the speech material was designed and validated for many languages.
+The objective of the present study was to evaluate the Russian version of the matrix sentence test (RuMatrix test) in the listeners of different ages with normal hearing.
+At the first stage of the study, 35 listeners at the age from 18 to 33 year were examined.
+The results of the estimation of the training effect dictated the necessity of conducting two training tracks before carrying out the RuMatrix test proper.
+The signal-to-noise ratio at which 50% speech recognition (SRT50) was obtained was found to be -8.8±0.8 dB SNR.
+A significant effect of exposure to the background noise was demonstrated: the noise level of 80 and 75 Db SPL led to a considerably lower intelligibility than the noise levels in the range from 45 to 70 dB SPL; in the subsequent studies, the noise level of 65 dB SPL was used.
+The high test-retest reliability of the RuMatrix test was proved.
+At the second stage of the study, 20 young (20-40 year old) listeners and 20 aged (62-74 year old) ones were examined.
+The mean SRT50 in the aged patients was found to be -6.9±1.1 dB SNR which was much worse than the mean STR50 in the young subjects (-8.7±0.9 dB SNR).
+It is concluded that, bearing in mind the excellent comparability of the results of the RUMat rix test across different languages, it can be used as a universal tool in international research projects.

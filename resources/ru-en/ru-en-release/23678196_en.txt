@@ -1,0 +1,13 @@
+Trends in smoking and lung cancer mortality in Japan, by birth cohort, 1949-2010.
+OBJECTIVE
+To determine smoking trends in Japan in comparison with lung cancer mortality.  METHODS
+Age-specific smoking prevalence among cohorts born between 1897 and 1985 were determined for the period 1949-2010.
+The percentages of the cohorts born between 1893 and 1979 who initiated smoking early (e.g. before the age of 20 years) were determined.  The results were compared against lung cancer mortality rates in people aged 40-84 years belonging to cohorts born between 1868 and 1968.
+FINDINGS
+In males, smoking prevalence was generally high, particularly among those born before the late 1950s, and early initiation was fairly uncommon.  Early initiation was most common among recent birth cohorts of males, who showed relatively low prevalences of smoking.
+In females, the prevalence of smoking was generally low and early initiation was very uncommon, particularly among those born in the late 1930s and before the late 1940s, respectively.
+Recent cohorts of females showed relatively high prevalences of smoking and relatively high percentages of early initiation.  In both sexes, lung cancer mortality was generally low but increased over the study period.
+CONCLUSION
+Lung cancer mortality in Japanese males was relatively low given the high prevalence of smoking, perhaps because early initiation was fairly uncommon.
+Over the last four decades, however, early initiation of smoking has become more common in both sexes.
+The adverse effect this is likely to have on lung cancer mortality rates has probably not been observed because of the long time lag between smoking initiation and death from lung cancer.

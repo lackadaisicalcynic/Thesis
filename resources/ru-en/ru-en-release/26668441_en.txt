@@ -1,0 +1,16 @@
+A telemedicine network for remote paediatric cardiology services in north-east Brazil.
+PROBLEM
+Providing health care for children with congenital heart diseases remains a major challenge in low- and middle-income countries.  APPROACH
+In October 2011, the Government of Paraíba, Brazil, established a paediatric cardiology network in partnership with the nongovernmental organization Círculo do Coração.
+A cardiology team supervised all network activities, using the Internet to keep in contact with remote health facilities.
+The network developed protocols for screening heart defects.
+Echocardiograms were performed by physicians under direct online supervision of a cardiologist; alternatively, a video recording of the examination was subsequently reviewed by a cardiologist.
+Cardiovascular surgeons came to a paediatric hospital in the state capital once a week to perform heart surgeries.
+LOCAL SETTING
+Until 2011, the State of Paraíba had no structured programme to care for children with heart disease.  This often resulted in missed or late diagnosis, with adverse health consequences for the children.
+RELEVANT CHANGES  From 2012 to 2014, 73,751 babies were screened for heart defects and 857 abnormalities were identified.
+Detection of congenital heart diseases increased from 4.09 to 11.62 per 1000 live births (P < 0.001).
+Over 6000 consultations and echocardiograms were supervised via the Internet.  Time to diagnosis, transfers and hospital stays were greatly reduced.
+A total of 330 operations were carried out with 6.7% (22/330) mortality.
+LESSONS LEARNT
+Access to an echocardiography machine with remote supervision by a cardiologist improves the detection of congenital heart disease by neonatologists; virtual outpatient clinics facilitate clinical management; the use of Internet technology with simple screening techniques allows resources to be allocated more efficiently.

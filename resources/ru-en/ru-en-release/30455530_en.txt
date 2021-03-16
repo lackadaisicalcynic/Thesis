@@ -1,0 +1,10 @@
+Hepatitis B and C virus seroprevalence, Burkina Faso: a cross-sectional study.
+Objective
+To estimate population-wide hepatitis B and C seroprevalence using dried blood spot samples acquired for human immunodeficiency virus (HIV) surveillance as part of the 2010-2011 Demographic and Health Survey in Burkina Faso.
+Methods  We used the database acquired during the multistage, clustered, population-based survey, in which 15 377 participants completed questionnaires and provided dried blood spot samples for HIV testing.
+We extracted sociodemographic and geographic data including age, sex, ethnicity, education, wealth, marital status and region for each participant.  We performed hepatitis B and C assays on 14 886 HIV-negative samples between March to October 2015, and calculated weighted percentages of hepatitis seroprevalence for each variable.
+Findings
+We estimated seroprevalence as 9.1% (95% confidence interval, CI: 8.5-9.7) for the hepatitis B surface antigen and 3.6% (95% CI: 3.3-3.8) for hepatitis C virus antibodies, classifying Burkina Faso as highly endemic for hepatitis B and low-intermediate for hepatitis C.
+The seroprevalence of hepatitis was higher in men than in women, and varied significantly for both with age, education, ethnicity and region.  Extremely high HCV-Ab seroprevalence (13.2%; 95% CI: 10.6-15.7) was identified in the Sud-Ouest region, in particular within the youngest age group (15-20 years), indicating an ongoing epidemic.
+Conclusion
+Our population-representative hepatitis seroprevalence estimates in Burkina Faso advocate for the inclusion of hepatitis serological tests and risk factor questionnaire items in future surveys, the results of which are crucial for the development of appropriate health policies and infection control programmes.

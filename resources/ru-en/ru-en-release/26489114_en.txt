@@ -1,0 +1,12 @@
+AIM  to develop a new approach to morphometric analysis of corneal nerve fibers (CNF) and to evaluate their age-related changes in type 1 and type 2 diabetes mellitus patients.
+MATERIAL AND METHODS
+The study enrolled 150 participants (300 eyes) aged from 13 to 83 years, of them 37 type 1 diabetes patients (74 eyes), 51 type 2 diabetes patients (102 eyes), and 62 healthy volunteers (124 eyes).
+All participants were examined with HRT III Rostock Corneal Module (Heidelberg Engineering GmbH).  Digital images thus obtained were analyzed with specially developed original software that automatically computes coefficients of CNF orientation symmetry and anisotropy.
+RESULTS  A strong inverse correlation has been found between the coefficient of CNF orientation anisotropy and glycated hemoglobin levels (r = -0.83, p < 0.001 and r = -0.79, p < 0.005 in patients with type 1 and type 2 diabetes respectively) as well as the duration of the disease (r = -0,7, p < 0.005 and r = -0.72, p < 0.001, type 1 and type 2 diabetes respectively).
+On the contrary, the coefficient of CNF orientation symmetry has been shown to be directly correlated with both glycated hemoglobin levels (r = 0.64, p < 0.005 and r = 0.78, p < 0.05, type 1 and type 2 diabetes respectively) and the duration of the disease (r = 0.62, p < 0.05 and r = 0.73, p < 0.05, type 1 and type 2 diabetes respectively).
+Interocular asymmetry in both coefficients was found in diabetic patients but not in the controls.
+On the basis of the proposed coefficients, age-related changes in corneal nerve fibers orientation have been determined.
+Normally, the degree of CNF tortuosity increases with age.  The rate of this increase is the highest before the age of 35-40.
+As shown, type 1 diabetes is associated with low coefficients of CNF orientation anisotropy and high coefficients of CNF orientation symmetry as compared to type 2 diabetes in the same age group.
+CONCLUSION
+As suggested by the results, the two proposed coefficients that describe the state of corneal nerve fibers can possibly be used for diagnosis and monitoring of diabetic peripheral neuropathy (DPN).  However, to produce enough evidence, further studies should be conducted.

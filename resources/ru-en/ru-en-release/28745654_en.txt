@@ -1,0 +1,12 @@
+AIM  to analyze corneal hysteresis (CH) and corneal resistance factor (RF) readings obtained with the Reichert Ocular Response Analyzer (ORA) before and after hyperopic femtolaser-assisted laser in situ keratomileusis (FS-LASIK) in children with anisometropia as well as to establish factors that may cause changes in these parameters.
+MATERIAL AND METHODS
+CH and RF were evaluated before and 1.5 years after FS-LASIK performed on amblyopic eyes of 28 patients aged 6-14 years.
+Preoperatively, there was a correlation between CH and RF (r=0.41, p=0.03).
+No correlation was found between CH and age (r=-0.02, p=0.82) or between CH (r=0.00, p=0.98), RF (r=0.04, p=0.83), and cornea thickness.
+RESULTS
+The mean preoperative CH was 12.56±1.21 mmHg, RF 12.31±1.57 mmHg.  Postoperatively, a statistically significant change occurred to both CH (by 0.97±1.51 mmHg, p=0.002) and RF (by 1.42±1.55 mmHg, p=0.000).
+No correlation was found between CH before and after surgery (r=0.11, p=0.57) as well as between the ablation depth and changes in CH (r=0,04, p=0.83) and RF (r=0.21, p=0.28).
+Regression analysis showed that the extent of CH (r2=0.52, p=0.00) and RF (r2=0,48, p=0.00) changes was closely related to their preoperative values.
+CONCLUSION
+The statistically significant relative change in CH and RF after hyperopic FS-LASIK was 8% and 12%, respectively.
+CH and RF changes correlated with their preoperative values, but not with the ablation depth or cornea thickness.

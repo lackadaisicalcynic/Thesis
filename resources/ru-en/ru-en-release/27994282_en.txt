@@ -1,0 +1,10 @@
+Pulse oximetry for children with pneumonia treated as outpatients in rural Malawi.
+OBJECTIVE
+To investigate implementation of outpatient pulse oximetry among children with pneumonia, in Malawi.  METHODS
+In 2011, 72 health-care providers at 18 rural health centres and 38 community health workers received training in the use of pulse oximetry to measure haemoglobin oxygen saturations.  Data collected, between 1 January 2012 and 30 June 2014 by the trained individuals, on children aged 2-59 months with clinically diagnosed pneumonia were analysed.
+FINDINGS
+Of the 14 092 children included in the analysis, 13 266 (94.1%) were successfully checked by oximetry.
+Among the children with chest indrawing and/or danger signs, those with a measured oxygen saturation below  90% were more than twice as likely to have been referred as those with higher saturations (84.3% [385/457] vs 41.5% [871/2099]; P < 0.001).
+The availability of oximetry appeared to have increased the referral rate for severely hypoxaemic children without chest indrawing or danger signs from 0% to 27.2% (P < 0.001).
+In the absence of oximetry, if the relevant World Health Organization (WHO) guidelines published in 2014 had been applied, 390/568 (68.7%) severely hypoxaemic children at study health centres and 52/84 (61.9%) severely hypoxaemic children seen by community health workers would have been considered ineligible for referral.  CONCLUSION
+Implementation of pulse oximetry by our trainees substantially increased the referrals of Malawian children with severe hypoxaemic pneumonia.  When data from oximetry were excluded, retrospective application of the guidelines published by WHO in 2014 failed to identify a considerable proportion of severely hypoxaemic children eligible only via oximetry.

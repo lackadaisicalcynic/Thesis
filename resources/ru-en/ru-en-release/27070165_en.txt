@@ -1,0 +1,15 @@
+[Differential diagnosis of anemia in true and functional iron deficiency in patients with chronic diseases (malignant tumors)].
+AIM  To make a differential diagnosis of true and functional iron deficiency (ID) in anemia of chronic diseases (ACD).
+MATERIALS AND METHODS
+A total of 540 patients (785 investigations) and 311 healthy individuals (a control group) were examined.
+Among them, there were 118 cancer patients admitted for surgical treatment and 226 for chemotherapy (CT), 56 blood cancer patients, 86 with breast diseases without anemia, and 54 workers of the institute with the signs of ID.
+An enzyme immunoassay was used to determine the plasma levels of ferritin (FR), soluble transferrin receptor (sTFR), and endogenous erythropoietin (EPO).
+RESULTS
+183 cancer patients did not receive specific treatment, 161 had different cycles of CT.
+In true ID, anemia was microcytic (average red blood cell size, <80.0 fl) and hypochromic (mean corpuscular hemoglobin concentration, <27.0 pg) with low FR levels (less than 20 ng/ml) and high sTFR concentrations (more than 4.0 µg/ml).
+The EPO level corresponded to the degree of anemia and was 4-5-fold the normal values.
+In ACDs, 292 (55%) patients had normocytic normochromic anemia with high FR levels (more than 100 ng/ml), the level of sTFR was low and that of EPO did not correspond to the degree of anemia in 74% of the patients.
+Functional ID was detected in 108 (37%) cancer patients in the presence of ACD.
+Despite high FR levels and low sTFR, anemia in Hodgkin's and non-Hodgkin's lymphomas was hypochromic microcytic, which may be considered as severe functional ID in ACD.
+CONCLUSION
+In addition to a clinical blood test, the pharmacokinetic parameters (FR, sRFR, and EPO) should be determined for the differential diagnosis of true and functional ID.

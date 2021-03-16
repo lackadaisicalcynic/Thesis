@@ -1,0 +1,3 @@
+[The ototoxic action of cisplatin on the middle ear].  The objective of the present study was to elucidate the mechanisms underlying the ototoxic action of cisplatin after its single administration using an experimental model (white mice).
+Short latency acoustically evoked potentials (SAEP) and distortion-product otoacoustic emissions (DPOAE) were recorded for the purpose.  The results of the study confirm the possibility of using the proposed model for the estimation of the cisplatin-induced loss of hearing.
+It was shown that a single cisplatin dose causes hearing impairment in the mice within 7 days after its administration; with the maximum effect becoming apparent on day 30.

@@ -1,0 +1,10 @@
+[The expression of connexin 36 and some neuroglial antigens in human brain astrocytic tumors of different grades].
+OBJECTIVE
+To reveal the expression of neuronal connexin 36 (Cx36) in gliomas and then to analyze the ratio of expression of Cx36 to that of neuroglial antigens (synaptophysin, neurofilaments, and glial fibrillary acidic protein).
+MATERIAL AND METHODS
+Varying grade human glioma samples and tumor-adjacent tissue fragments were used for immunohistochemical examination.  RESULTS
+A procedure for immunohistochemical detection of Cx36 in brain tissue was tried out.  It was shown that the decreased level of the examined neuronal proteins was accompanied by the impaired coexpression of synaptophysin/neurofilaments and Cx36 in the series of astrocytomas--anaplastic astrocytomas--glioblastomas.
+The immunohistochemical heterogeneity of glioblastomas was found.
+CONCLUSION
+The findings suggest that it is promising to include anti-Cx36 antibodies in immunohistochemical panels when examining brain tumors.
+Data on the lower levels of the examined neuronal proteins, on the specific features of their distribution and impaired coexpression expand their idea on the pathogenesis of a brain tumor process and determine an area for further investigations.

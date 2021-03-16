@@ -1,0 +1,16 @@
+[Modern approach to early diagnosis and pathogenetic treatment of diabetic retinopathy].
+AIM
+To improve the approach to pathogenetic treatment of diabetic retinopathy (DR) through early diagnosis and a new method for predicting disease progression.  MATERIAL AND METHODS
+The study enrolled 330 type 2 diabetes patients with DR (660 eyes), of whom women constituted 64.6%, men - 35.4%.  The mean patient age was 62.3±2.3 years.
+Three groups were formed: the controls - 30 healthy volunteers (60 eyes) and 30 type 2 diabetes patients without ocular involvement (DR 0, 60 eyes); group 1 - 30 type 2 diabetes patients with DR I but no diabetic macular edema (DR I without DME, 60 eyes) that were treated with calcium dobesilate; group 2 - 240 type 2 diabetes patients, who had diabetic retinopathy of different stages (DR I, II, or III with DME, 480 eyes) and received laser retinal photocoagulation (LRP).  The groups were all alike in terms of sex and age distribution.
+All patients underwent ophthalmic examination, including best corrected visual acuity (BCVA) and critical flicker fusion frequency (CFFF) testing, tonometry, biomicroscopy, MAIA fundus microperimetry, optical coherence tomography (OCT), and fluorescein angiography (FAG) of the retina.  Traditionally we also determined blood sugar and glycated hemoglobin levels as well as vascular endothelial growth factor (VEGF-A) and monocyte chemoattractant protein (MCP-1) in tear fluid by ELISA.
+RESULTS
+In group 1, which was under conservative therapy with calcium dobesilate, there was an increase in BCVA by the average of 0.95±0.02 and CFFF by 42.5±0.2 Hz (p<0,05).
+The mean central retinal thickness decreased reliably down to 265.1±12.1 µm (p<0.05).
+Light sensitivity of the macula improved and scored 24.13±12.3 dB (p<0.05).
+In group 2, the mean central retinal thickness appeared to be 383.1±221 µm, which was reliably higher than that in healthy individuals (p<0.05) and in type 2 diabetes patients without diabetic retinopathy (DR 0) (p<0.05). Tear assessment 12 months after the treatment revealed a significant decrease in VEGF-A and MCP-1 concentrations - down to 655.1±86.1 pg/ml and 1133 pg/ml, respectively (p<0.05).
+CONCLUSION
+Conservative treatment with calcium dobesilate has proved effective in patients with DR I without DME as it ensures improvement and stabilization of the state of the retina (clinical and morphological) in one month already (judging from FAG and OCT findings).  Laser treatment is rational in DR I, DR II, and DR III patients, whose condition is complicated with DME.
+Improvement and stabilization take, however, longer to be achieved - up to 1 year (according to FAG and OCT).
+Tear fluid assessment for particular participants in disease pathogenesis, such as VEGF-A and MCP-1, is a unique method for disease control and patient follow-up with account to different treatments.
+A new method for predicting the progression of diabetic retinopathy and diabetic macular edema has been suggested (RF patent for invention №2520826).

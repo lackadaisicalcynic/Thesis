@@ -1,0 +1,7 @@
+[Polymorphic variants of the immune response genes as risk factors for primary progressive multiple sclerosis].
+AIM
+To analyze the involvement of immune response genes in the pathogenesis of primary progressive multiple sclerosis (PPMS).  MATERIAL AND METHODS
+This multicenter study included 111 patients with PPMS from the Russian ethnic group.  The association of PPMS with genes of immune system was analyzed by the study of polymorphic variants of genes of cytokines and genes of antigen-presenting cells.
+RESULTS AND CONCLUSION
+The genotypes of IL-4 (rs2243250)*C/C and CLEC16A (rs6498169)*G/G were associated with PPMS in Russians.
+The association between the HLA-DRB1*15 and PPMS found out in other populations was confirmed in Russians.

@@ -1,0 +1,6 @@
+[The peculiarities of determination of 2-chloro-1,4-dihydrooxybenzene in the biological material].
+The objective of the present study was to elucidate the peculiarities of the determination of 2-chloro-1,4-dihydrooxybenzene in the tissues of different organs and blood.  The analytical methods used in the study included TLC, GC-MS, and UF-spectrophotometry.
+The study has demonstrated the usefulness of using acetone as an insulating solvent for the extraction of 2-chloro-1,4-dihydrooxybenzene from the biological materials.
+It was shown that the compound being analyzed can be separated from the endogenous substances contained in the biological matrices on the "Silasorb C-18" columns, 30 mcm.
+The method for the identification of 2-chloro-1,4-dihydrooxybenzene in the blood and organ tissues (such as normal and putrefied renal tissues) was developed.
+The method permits to determine 0.26 mg and 0.30 mg of the substance of interest in 100 g of the normal and putrefied renal tissues respectively; in addition, it measures 0.22 mg of 2-chloro-1,4-dihydrooxybenzene in the blood.

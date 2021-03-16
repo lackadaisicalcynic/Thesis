@@ -1,0 +1,10 @@
+Adding interventions to mass measles vaccinations in India.
+OBJECTIVE
+To quantify the impact on mortality of offering a hypothetical set of technically feasible, high-impact interventions for maternal and child survival during India's 2010-2013 measles supplementary immunization activity.
+METHODS
+We developed Lives Saved Tool models for 12 Indian states participating in the supplementary immunization, based on state- and sex-specific data on mortality from India's Million Deaths Study and on health services coverage from Indian household surveys.
+Potential add-on interventions were identified through a literature review and expert consultations.  We quantified the number of lives saved for a campaign offering measles vaccine alone versus a campaign offering measles vaccine with six add-on interventions (nutritional screening and complementary feeding for children, vitamin A and zinc supplementation for children, multiple micronutrient and calcium supplementation in pregnancy, and free distribution of insecticide-treated bednets).
+The measles vaccination campaign saved an estimated 19 016 lives of children younger than 5 years.  A hypothetical campaign including measles vaccine with add-on interventions was projected to save around 73 900 lives (range: 70 200-79 300), preventing 73 700 child deaths (range: 70 000-79 000) and 300 maternal deaths (range: 200-400).
+The most effective interventions in the whole package were insecticide-treated bednets, measles vaccine and preventive zinc supplementation.  Girls accounted for 66% of expected lives saved (12 712/19 346) for the measles vaccine campaign, and 62% of lives saved (45 721/74 367) for the hypothetical campaign including add-on interventions.
+CONCLUSION
+In India, a measles vaccination campaign including feasible, high-impact interventions could substantially increase the number of lives saved and mitigate gender-related inequities in child mortality.

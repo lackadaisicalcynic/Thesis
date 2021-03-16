@@ -1,0 +1,11 @@
+[Evaluation of the antitumor potential of cerebrolysin].
+AIM  To investigate the effect of cerebrolysin on the growth and metastasis of malignant tumors in mice (a model of lung carcinoma Lewis).
+MATERIAL AND METHODS
+The study was performed on 60 male mice, hybrids F1 (the age of 2-2.5 months, body weight 19-22g.).
+Transplantable epidermoid Lewis lung carcinoma (LLC) was used as a standard experimental model to evaluate the properties of the potential antitumor agents.
+Experimental animals were administered a single intraperitoneal injection of cerebrolysin in doses of 524 mg/kg (n=20) and 1800 mg/kg (n=20) daily from 2 to 16 days after tumor transplantation.
+RESULTS AND CONCLUSION
+Compared with the control group (n=20), cerebrolysin induced growth inhibition of LLC during the treatment (7 to 16 days).
+An impact of the drug was accompanied by the inhibition of the tumor growth rate by 10-15% (p<0.05).
+Cerebrolysin demonstrated a dose-dependent effect of reducing the large number of metastases: a number of large metastases significantly decreased by 30-50% with the increase of cerebrolysin dose (p=0.01).
+Cerebrolysin can significantly suppress the growth rate of Lewis lung carcinoma.

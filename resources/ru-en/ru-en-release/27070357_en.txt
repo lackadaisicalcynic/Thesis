@@ -1,0 +1,11 @@
+[A DTI study of the spinal cord lesion in patients with multiple sclerosis during the follow-up after relapse].  UNLABELLED
+Spinal cord involvement is frequent in multiple sclerosis (MS) but the correlation between spinal cord damage on conventional MRI and clinical symptoms is not always obvious.  Diffusion tensor imaging (DTI) is a sensitive technique for revealing tissue damage.
+OBJECTIVE  to investigate spinal cord DTI changes in MS patients during the relapse and in the follow-up.
+MATERIAL AND METHODS
+Data were acquired from 25 patients with relapsing-remitting MS during the relapse characterized by unilateral light hand palsy, in three and twelve months after it.
+All patients underwent full neurological examination and MRI including conventional head and neck MRI and DTI of the brain and upper spinal cord in the sagittal plane.
+Twelve healthy subjects entered the control group.
+RESULTS AND CONCLUSION
+Spinal cord sagittal DTI provides a reliable information about significant changes in MS patients compared tothe control group both inside demyelinating lesions and in the normal appearing spinal cord.
+These differences are preserved both in 3 and 12 months after the relapse and together with clinical recovery create evidence of functional compensatory mechanisms development.
+A tendency towards DTI parameters normalization together with faster fine motor skills recovery in patients without the asymmetrical decrease in vibration sense shows an important role that afferentation plays in recovery after the relapse.

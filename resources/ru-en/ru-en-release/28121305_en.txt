@@ -1,0 +1,10 @@
+[Electrophysiological parameters of the retina in idiopathic macular hole].  AIM
+To investigate the nature and range of electrophysiological disturbances in idiopathic macular hole (IMH) and establish their relationship with structural parameters of the retina.
+MATERIAL AND METHODS  The study included 249 patients (280 eyes) with IMH.
+All of them underwent ganzfeld and multifocal electroretinography (ERG), optical coherence tomography, and evaluation of retinal electrical sensitivity and analyzer lability.  The results were then compared to those of non-IMH patients (196 paired eyes) and controls (25 people, 49 eyes).
+RESULTS
+Multifocal ERG findings prove that IMH is always associated with significant changes in bioelectrical potential of the central retina.
+In 62% of cases its decreased density and extended latency were registered in not only the fovea, but also the para- and perifovea.  In 8% of cases the changes involved everything within a 30-degree area of the central retina.
+In 30% of cases the maximum bioelectric potential was found to have shifted from the centre to para- and perifovea, its amplitude and density being supernormal for these regions (shift phenomenon).  A weak correlation between electrophysiological parameters and retinal thickness around the hole has been also established.
+Of all methods used to assess retinal function in IMH, multifocal ERG is the most informative.  In 100% of cases foveal biopotential is sharply reduced in density and disfigured.
+In 70% of cases these changes spread outside the fovea.

@@ -1,0 +1,13 @@
+Adaptation and implementation of local maternity dashboards in a Zimbabwean hospital to drive clinical improvement.
+PROBLEM
+The Commission on Information and Accountability for Women's and Children's Health of the World Health Organization (WHO) reported that national health outcome data were often of questionable quality and "not timely enough for practical use by health planners and administrators".  Delayed reporting of poor-quality data limits the ability of front-line staff to identify problems rapidly and make improvements.
+APPROACH  Clinical "dashboards" based on locally available data offer a way of providing accurate and timely information.
+A dashboard is a simple computerized tool that presents a health facility's clinical data graphically using a traffic-light coding system to alert front-line staff about changes in the frequency of clinical outcomes.
+It provides rapid feedback on local outcomes in an accessible form and enables problems to be detected early.  Until now, dashboards have been used only in high-resource settings.
+LOCAL SETTING
+An overview maternity dashboard and a maternal mortality dashboard were designed for, and introduced at, a public hospital in Zimbabwe.  A midwife at the hospital was trained to collect and input data monthly.
+RELEVANT CHANGES  Implementation of the maternity dashboards was feasible and 28 months of clinical outcome data were summarized using common computer software.
+Presentation of these data to staff led to the rapid identification of adverse trends in outcomes and to suggestions for actions to improve health-care quality.
+LESSONS LEARNT
+Implementation of maternity dashboards was feasible in a low-resource setting and resulted in actions that improved health-care quality locally.
+Active participation of hospital management and midwifery staff was crucial to their success.

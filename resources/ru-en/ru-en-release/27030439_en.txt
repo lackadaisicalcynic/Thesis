@@ -1,0 +1,12 @@
+[Long-term outcomes of anti-angiogenic therapy for macular neovascular disorders].  AIM
+to study long-term (≥2-year) RESULTS of ranibizumab treatment in patients with macular neovascular disorders.  MATERIAL AND METHODS
+The study group included 27 patients (mean age±SD of 66.7±13.8 years) treated with ranibizumab for approved indications.
+Follow-up period ranged from 24 to 58 months (34.5±9.1 months on average).
+RESULTS
+Optical coherence tomography showed statistically significant improvements of functional and anatomical parameters, namely, an increase in visual acuity (from 0.34±0.20 to 0.57±0.24, p≤0.01) and a decrease in both central retinal thickness (from 372.26±96.21 μm to 272.48±69.70 μm, p≤0.01) and macular volume (from 8.01±1.46 mm3 to 7.10±1.08 mm3, p≤0.01).
+There was also a decreasing tendency of the average annual number of intravitreal ranibizumab injections per patient: 4.56 injections were done during the 1st year, 1.93 - during the 2nd year, and only 1.6 - during the 3rd year of follow-up.  A total of 29.6% of patients showed no need in resuming the treatment at year 2 and 40.0% - at year 3.
+Exudation from the neovascular membrane relapsed in 24 patients (88.9%) at some time during the follow-up; at that, in 74.1% of patients the injection-free intervals lasted from 6 to 36 months.
+None of the 231 injections was associated with any complications concerning ocular functions and morphology and requiring additional treatment.
+No correlation was found between the anti-angiogenic therapy and the progression of cardiovascular disease.
+CONCLUSION
+Intravitreal ranibizumab has been proved effective and safe for the treatment of neovascular macular disorders.  Moreover, flexible dosing schemes for ranibizumab contribute to rapid (during the 1st year already) and stable clinical benefits.

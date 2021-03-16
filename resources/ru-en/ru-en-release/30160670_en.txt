@@ -1,0 +1,10 @@
+[The intestinal microbiota composition in patients with multiple sclerosis receiving different disease-modifying therapies DMT].
+AIM  To describe characteristics of the intestinal microbiota in patients with multiple sclerosis (MS) treated with glatiramer acetate (GA) or fingolimode (FG) for understanding causal relationships between gut microbiota and autoimmune processes in MS patients.
+MATERIAL AND METHODS
+The study included 34 patients treated with GA (n=17) or FG (n=17).
+GA was used in a dose of 20 mg/kg subcutaneously once a day, FG in a dose of 0.5 mg daily.
+All patients were examined during remission.
+To assess the composition of gut microbiota, bacteriological and real-time PCR techniques were used.  DNA was extracted from feces using DNA-EXPRESS kit.
+RESULTS AND CONCLUSION
+There was a decrease in numbers of Escherichia coli with normal enzymatic activity, which was replaced by atypical forms of E. coli, Enterobacter spp. and fungi of the genus Candida, and, during treatment with GA, by atypical forms of E. coli, Proteus spp., Parvimonas micra.
+These differences indicate the effect of the therapy on the intestinal microbiota composition.

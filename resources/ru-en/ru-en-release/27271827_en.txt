@@ -1,0 +1,14 @@
+[The results of rehabilitation of the patients presenting with arterial hypertension: the types of adaptation, the vegetative status, and intracardial hemodynamics].
+AIM
+The objective the present work was to study the changes of the types of adaptation in the patients presenting with arterial hypertension under the influence of the spa and health resort-based rehabilitative treatment.
+MATERIAL AND METHODS  The study included 50 patients with essential hypertension at the age from 54.0 to 62.0 (mean 58.0) years given a course of the spa and health resort-based rehabilitative treatment.
+All the patients underwent electrocardiographic and echocardiographic examination for the assessment of the systolic and diastolic left ventricular functions.
+Cardiointervalography with the use of the ORTO Expert diagnostic system was performed in the patients at rest and during the active orthostatic test (AOT); the types of the adaptation were evaluated.
+The patients were divided into 2 groups depending on the results of repeated AOT obtained after rehabilitation.
+Group 1 was comprised of the patients showing the improvement of adaptation (n=24), group 2 consisted of the patients in whom the level of adaptation remained unaltered (n=26).
+RESULTS  The structural characteristics of echocardiography estimated in both groups were not significantly different.
+The number of patients in group 1 showing the satisfactory level of adaptation intensity in the absence of its failures increased significantly.  In group 2, a significant decrease of the following AOT parameters was documented: the tension index of the regulatory system (p=0.02), the standard deviation of NN-intervals (SDNN) (p=0.03), and root mean square of successive differences (RMSSD) (p=0.02). The multiple logistic regression analysis showed that the factors associated with the positive effect of rehabilitation were the normal and low degree of regulatory system tension (p=0.01) and the initially adequate or reduced response in the orthostatic test (p=0.04).
+CONCLUSION
+The improvement of rehabilitation of the adaptive capacity was documented in as many as 48% of the patients who had undergone the spa and health resort-based rehabilitative treatment.
+The absence of positive dynamics or deterioration of adaptation were associated with the increase of the sympathetic activity at rest and in response to the AOT.
+The beneficial effect of rehabilitation was observed in the patients with the initially normal or low tension of regulatory systems and with the adequate or reduced baseline response in AOT.

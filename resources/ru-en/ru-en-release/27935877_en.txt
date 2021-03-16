@@ -1,0 +1,4 @@
+[Assessing the influence of predictors of the development of chronic obliterating diseases of lower-limb arteries].  The authors assessed the probability and terms of the development of chronic obliterating diseases of lower-limb arteries under the influence of the predictors studied.
+Using the Statistica 6.0 programme we carried out the analysis of the function of survival on a sample of 7,959 people.
+Based on the Kaplan-Mayer method and Cox regression model we determined the most significant predictors influencing the development of subclinical lesions of lower-extremity arteries.
+Also determined was the duration of the influence of each predictor prior to clinical manifestation and contribution of each predictor to the development of the examined outcomes.

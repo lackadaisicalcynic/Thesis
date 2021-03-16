@@ -1,0 +1,6 @@
+[Angiogenesis mechanisms in the formation of structural changes of brain tissue in patients with progressive cerebrovascular disease].
+AIM  To study the correlation between expressiveness of focal changes of brain tissue and VEGF and MCP-1 levels in plasma and blood serum of patients with chronic cerebral ischemia (CCI).
+MATERIAL AND METHODS
+Markers of inflammation (MCP-1, CRP) and angiogenesis (VEGF) in serum and blood plasma of 35 patients with CCI depending on expressiveness of structural changes of brain substance according to MRI were investigated.
+RESULTS
+The increase in MCP-1 and CRP content in blood serum and simultaneous decrease in VEGF level in serum and blood plasma were correlated with the increase in the number of focal changes of substance of the brain in patients with CCI.

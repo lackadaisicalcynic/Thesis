@@ -1,0 +1,11 @@
+Modelling the impact of raising tobacco taxes on public health and finance.
+OBJECTIVE
+To investigate the potential for tobacco tax to contribute to the 2030 agenda for sustainable development by reducing tobacco use, saving lives and generating tax revenues.  METHODS
+A model of the global cigarette market in 2014--developed using data for 181 countries--was used to quantify the impact of raising cigarette excise in each country by one international dollar (I$) per 20-cigarette pack.
+All currencies were converted into I$ using purchasing power parity exchange rates.  The results were summarized by income group and region.
+FINDINGS
+According to our model, the tax increase would lead the mean retail price of cigarettes to increase by 42%--from 3.20 to 4.55 I$ per 20-cigarette pack.
+The prevalence of daily smoking would fall by 9%--from 14.1% to 12.9% of adults--resulting in 66 million fewer smokers and 15 million fewer smoking-attributable deaths among the adults who were alive in 2014.
+Cigarette excise revenue would increase by 47%--from 402 billion to 593 billion I$--giving an extra 190 billion I$s in revenue.  This, in turn, could help create the fiscal space required to finance development priorities.
+For example, if the extra revenue was allocated to health budgets, public expenditure on health could increase by 4% globally.  CONCLUSION
+Tobacco taxation can prevent millions of smoking-attributable deaths throughout the world and contribute to achieving the sustainable development goals.  There is also potential for tobacco taxation to create the fiscal space needed to finance development, particularly in low- and middle-income countries.

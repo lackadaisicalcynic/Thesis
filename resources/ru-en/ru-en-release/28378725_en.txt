@@ -1,0 +1,11 @@
+[Plasma low-molecular-weight DNA in patients with chronic obstructive pulmonary disease].
+AIM  To determine plasma extracellular low-molecular-weight DNA (elmwDNA) as an indicator of apoptosis in patients with chronic obstructive pulmonary disease (COPD) in remission versus healthy donors, patients with chronic non-obstructive bronchitis (CNOB), and their first-degree relatives (FDRs).
+SUBJECTS AND METHODS
+The investigation recruited 110 participants, including 17 healthy donors, 31 patients with COPD, and 20 patients with CNOB in remission, 19 healthy FDRs of patients with COPD, and 23 healthy FDRs of those with SNOB.  The plasma levels of elmwDNA were determined in the study participants.
+Nucleic acids were isolated by phenol/chloroform extraction, precipitated with ethanol, and treated with RNase; elmwDNA was analyzed by electrophoresis.
+RESULTS  In patients with COPD, the mean level of elmwDNA was 7.8±2.0 ng/ml, which was 3.9 and 3.0 times statistically significantly lower than that in healthy donors and patients with SNOB, respectively; while the level of elmwDNA in the latter did not differ statistically significantly from that in healthy donors.
+In both the blood relatives of patients with COPD and FDRs of those with SNOB, the mean level of elmwDNA was not significantly different from that in healthy donors.  The content of elmwDNA tended to increase in COPD patients aged 60-80 years as compared to those aged 45-59 years; that in both age groups was, however, significantly lower than in healthy donors of the same age.
+CONCLUSION
+The level of elmwDNA in plasma and, accordingly, apoptosis in the lung are reduced in patients with COPD in remission, whereas that is unchanged in those with SNOB.
+In patients with COPD, blood elmwDNA release is unrelated to heredity and varies little with age.
+The determination of elmwDNA is recommended for use in patients with COPD to assess apoptosis.

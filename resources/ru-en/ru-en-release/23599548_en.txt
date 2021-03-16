@@ -1,0 +1,14 @@
+Maternal health care utilization in Viet Nam: increasing ethnic inequity.  OBJECTIVE
+To investigate changes that took place between 2006 and 2010 in the inequity gap for antenatal care attendance and delivery at health facilities among women in Viet Nam.
+METHODS
+Demographic, socioeconomic and obstetric data for women aged 15-49 years were extracted from Viet Nam's Multiple Indicator Cluster Survey for 2006 (MICS3) and 2010-2011 (MICS4).
+Multivariate logistic regression was performed to determine if antenatal care attendance and place of delivery were significantly associated with maternal education, maternal ethnicity (Kinh/Hoa versus other), household wealth and place of residence (urban versus rural).
+These independent variables correspond to the analytical framework of the Commission on Social Determinants of Health.
+FINDINGS
+Large discrepancies between urban and rural populations were found in both MICS3 and MICS4.
+Although antenatal care attendance and health facility delivery rates improved substantially between surveys (from 86.3 to 92.1% and from 76.2 to 89.7%, respectively), inequities increased, especially along ethnic lines.
+The risk of not giving birth in a health facility increased significantly among ethnic minority women living in rural areas.
+In 2006 this risk was nearly five times higher than among women of Kinh/Hoa (majority) ethnicity (odds ratio, OR: 4.67; 95% confidence interval, CI: 2.94-7.43); in 2010-2011 it had become nearly 20 times higher (OR: 18.8; 95% CI: 8.96-39.2).
+CONCLUSION
+Inequity in maternal health care utilization has increased progressively in Viet Nam, primarily along ethnic lines, and vulnerable groups in the country are at risk of being left behind.
+Health-care decision-makers should target these groups through affirmative action and culturally sensitive interventions.

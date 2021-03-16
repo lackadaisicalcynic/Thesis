@@ -1,0 +1,15 @@
+PURPOSE  To evaluate the effectiveness of neuroprotective therapy in patients with primary open-angle glaucoma based on specific biochemical markers of neurotrophy and neurodegeneration.
+MATERIAL AND METHODS
+In the course of the study, lacrimal fluid (LF) of 23 patients (46 eyes) with stage I-II primary open angle glaucoma (POAG) aged 66.3±10.8 was examined.
+The control group consisted of healthy individuals (12 control LF samples).
+Local antihypertensive therapy was complimented with 10 intramuscular injections of retinalamin (GEROPHARM LLC, St. Petersburg) - a complex of peptides isolated from cattle retinas, administered 5 mg once a day.
+Enzyme immunoassay (ELISA) method was used to test LF for concentrations of brain-derived neurotrophic factor (BDNF) and neuron specific enolase (NSE) before and after the treatment.
+RESULTS
+In healthy subjects, the content of BDNF was 0.83±0.06 ng/mL, NSE - 0.51±0.06 ng/mL.
+In patients with POAG, the indices were higher: BDNF was 1.39±0.85 ng/mL (p>0.05), NSE - 4.31±2.02 ng/mL (p<0.05).
+The patients with stage II-III POAG had a significant increase of BDNF concentration (1.37±0.41 ng/mL and 1.52±0.40 ng/mL respectively in stages II and III) indicating compensatory capabilities at these stages of the disease.
+The NSE marker was also high in these stages (4.16±2.44 ng/mL and 5.78±2.80 ng/mL, p<0.05), which indicates the degeneration of retinal ganglion cells.
+After Retinalamin® therapy, patients with stage II POAG had control group levels of marker proteins, while in stage III patients NSE content remained high.  CONCLUSION
+There is a compensatory increase of BDNF level and a pathological increase of NSE content in LF of POAG patients.  The change in the content of neurotrophins in the LF was determined to depend on the stage of POAG.
+Thus, in stages II and III POAG there is a marked increase of NSE and a compensatory increase of BDNF.  After the complex therapy including retinalamin in patients with stage II POAG, a decrease in initially high concentrations of BDNF and NSE in LF down to the control group values was noted.
+In stage III patients, signs of neurodegeneration persist in the form of high NSE values.  Taking into account the positive dynamics of the neuronal marker content in LF in the complex therapy of POAG with Retinalamin®, timely neuroretinoprotection is recommended.

@@ -1,0 +1,12 @@
+[New visual field testing possibilities (a preliminary report)].  There are currently no portable mobile perimeters that allow visual field testing outside ophthalmologist's examination rooms.
+PURPOSE  To develop a mobile perimetry technique based on use of a virtual reality headset (VR).
+MATERIAL AND METHODS
+The study involved 26 patients (30 eyes) with II-III stage primary open-angle glaucoma (POAG) with compensated IOP.
+Perimetry was performed for each patient twice - on Humphrey analyzer (test 30-2, 76 points) and employing similar strategy on a perimeter integrated into VR headset (Total Vision, Russia).
+Visual field testing was performed with an interval from 1 hour to 3 days.
+The results were comparatively analyzed.
+RESULTS AND CONCLUSION
+Patients tolerated the examination well.
+Comparative analysis of preliminary perimetry results obtained with both methods showed high degree of identity, so the results were concluded to be comparable.
+By visually isolating the wearer, VR headset achieves elimination of distractions and stable light conditions for visual field testing.
+The headset-perimeter is compact, mobile, easily transportable, can be used in the work of visiting medical teams and for examination at home.
